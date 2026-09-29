@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85810,
+      "api_total": 85812,
       "items": [
+        {
+          "title": "&quot;아시다시피 괴물 같은 선수&quot; 삼전닉스 왜 손사래 쳤나…'200층' 코앞, 하...",
+          "url": "https://www.mydaily.co.kr/page/view/2026092911460189581",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004110141",
+          "pub_date": "Tue, 29 Sep 2026 14:01:00 +0900"
+        },
+        {
+          "title": "&quot;41년전 기억이 생생하네&quot; 첫 우승의 기쁨 → 한국시리즈 MVP까지…명감...",
+          "url": "https://www.sportschosun.com/baseball/2026-09-29/202609050100194860012872",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004450847",
+          "pub_date": "Tue, 29 Sep 2026 14:00:00 +0900"
+        },
         {
           "title": "'쓴소리 머신' 추신수가 택힌 MLB행 원픽은? &quot; 타자는 김도영, 투수는 이...",
           "url": "https://www.sportschosun.com/baseball/2026-09-29/202609290100193820012801",
@@ -521,18 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-09-28/202609290100190360012557",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004450646",
           "pub_date": "Mon, 28 Sep 2026 23:59:00 +0900"
-        },
-        {
-          "title": "[송재우의 <b>야구</b> 직관]회전수가 높다고 무조건 좋은 공일까?",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260928/134747587/2",
-          "naver_url": "https://n.news.naver.com/mnews/article/020/0003751138?sid=110",
-          "pub_date": "Mon, 28 Sep 2026 23:01:00 +0900"
-        },
-        {
-          "title": "'오타니답지 않았던 최악의 시즌', PS 앞두고 긍정적인 지표들...WS 3연패...",
-          "url": "https://www.sportschosun.com/baseball/2026-09-28/202609280100184490012184",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004450513",
-          "pub_date": "Mon, 28 Sep 2026 20:01:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790657617,
+  "updated_at": 1790658351,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790657617,
-  "shopping_updated_at": 1790657619,
-  "reference_updated_at": 1790657625
+  "trend_updated_at": 1790658351,
+  "shopping_updated_at": 1790658352,
+  "reference_updated_at": 1790658357
 }
