@@ -1,0 +1,12 @@
+{
+  "version": "15.2-github-pages",
+  "google_sheet_url": "https://docs.google.com/spreadsheets/d/1xpvAqkwiXlvmdJG_6OzCqdfmvfcNx5_fMV5KNHK45HI/edit?gid=463830734#gid=463830734",
+  "data_endpoint": "",
+  "refresh_seconds": 300,
+  "target_sample_per_product": 400,
+  "secret": "STATIC_BUILD_ONLY",
+  "demo_mode": false,
+  "naver_api_client_id": "",
+  "naver_api_client_secret": "",
+  "market_refresh_minutes": 60
+}

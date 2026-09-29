@@ -1,0 +1,740 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>WADIPASS · 메이커 리포트</title>
+<link rel="stylesheet" href="./assets/common.css">
+</head>
+<body>
+
+<div class="top">
+  <div class="topin">
+    <div>
+      <div class="brand"><b>WADIPASS</b> · 메이커 리포트</div>
+      <div class="sub">누가 관심을 보였고 · 왜 멈췄고 · 무엇을 보완할지 한눈에</div>
+    </div>
+    <div class="actions">
+      <span class="pill"><i id="syncDot" class="statusdot"></i><span id="syncText">데이터 확인 중</span></span>
+      <span class="pill">페이지 확인 <b id="countdown">60초</b></span>
+      <button id="refreshBtn" class="btn primary">새로고침</button>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div id="content"></div>
+  <div class="footer">
+    고객군 비교는 집단별 표본 수와 함께 읽어야 하며, 표본이 적은 집단은 참고값으로 표시합니다.<br>
+    외부 시장 데이터는 소비자 설문과 분리된 참고자료입니다. Search Trend·Shopping Insight는 상대지수 분석에 사용하고, 뉴스·블로그 검색결과는 원문 확인용으로만 제공합니다.
+  </div>
+</main>
+
+<script src="./assets/common.js"></script>
+<script>
+// GitHub Pages static SCARNON edition: no server-side token is required.
+const token = new URLSearchParams(location.search).get('token') || '';
+const DATA_BASE = './data/';
+let currentProjectKey='';
+let marketLoaded=false;
+let marketSnapshot=null; // 10초 설문 동기화로 DOM이 다시 그려져도 시장자료를 유지
+
+const SECTIONS = [
+  {id:'sec-audience', tag:'AUDIENCE', nav:'고객 구성', title:'누가 설문에 참여했나?', desc:'먼저 연령대와 성별 구성을 확인하고, 그 안에서 관심고객과 비관심고객이 어떻게 갈렸는지 봅니다.'},
+  {id:'sec-interest', tag:'INTERESTED', nav:'관심고객 강화', title:'관심을 보인 고객, 구매에 더 가까워지게 하려면?', desc:'관심고객이 누구인지 확인한 뒤, 무엇에 끌렸고 무엇 때문에 망설였는지 연결해서 봅니다.'},
+  {id:'sec-convert', tag:'CONVERT', nav:'비관심 전환', title:'관심이 낮은 고객의 마음을 돌리려면?', desc:'비관심고객 중 제품 필요가 있는 사람과 필요 자체가 낮은 사람을 구분해, 설득할 고객과 집중하지 않을 고객을 나눕니다.'},
+  {id:'sec-action', tag:'ACTION', nav:'출시 전 액션', title:'그래서 출시 전에 무엇을 준비해야 하나?', desc:'핵심 액션을 먼저 정리하고, 자유의견에서 반복된 실제 고객 신호를 근거로 함께 확인합니다.'},
+  {id:'sec-comments', tag:'VOICE OF CUSTOMER', nav:'모든 자유의견', title:'고객이 직접 남긴 모든 의견', desc:'요약에 사용된 의견뿐 아니라 작성된 자유의견 원문 전체를 관심도·연령·성별로 확인합니다.'},
+  {id:'sec-market', tag:'MARKET', nav:'시장 참고자료', title:'외부 시장에서는 무엇이 움직이고 있나?', desc:'NAVER DataLab 수치 분석과 뉴스·블로그 원문 레퍼런스를 명확히 분리해 마지막에 확인합니다.'}
+];
+
+const sectionHead = s => `<div class="sectionhead maker-section-head"><div><span class="sectiontag">${esc(s.tag)}</span><h2>${esc(s.title)}</h2><p>${esc(s.desc)}</p></div></div>`;
+const FRIENDLY_LABELS = {
+  '*': {
+    '가격 부담':'현재 가격이 부담됨',
+    '성능·품질 확신 부족':'성능·품질에 대한 확신 부족',
+    '차별성·신뢰 부족':'다른 제품과의 차이·신뢰 근거 부족',
+    '구매 필요성 낮음':'현재 구매 필요성이 낮음',
+    '사용감':'무게·밸런스·그립감 등 실제 사용감',
+    '소재·내구성':'소재와 내구성',
+    '타격 성능·기능':'타격 성능과 기능',
+    '성능·내구성·비교':'성능·내구성 테스트와 기존 제품 비교',
+    '타격·스윙 영상':'실제 타격·스윙 영상',
+    '사용자·선수 후기':'실제 사용자·선수 후기',
+    '상세 규격·선택 가이드':'길이·무게·밸런스 등 상세 규격과 선택 가이드',
+    '메이커·개발·AS':'메이커 전문성·개발 과정·교환/AS 정보',
+    '과거 사용 경험':'과거에 해당 제품군을 사용해본 경험 있음',
+    '주변 사용자 있음':'직접 사용하지는 않지만 주변에 사용자가 있음',
+    '선물·단체 구매 가능':'선물·팀·단체용으로 구매할 가능성이 있음',
+    '구매 필요 없음':'현재는 새 제품을 구매할 필요가 없음',
+    '현재 제품 만족':'현재 사용 중인 제품에 만족함',
+    '추가·신규 구매 필요':'새 제품이나 추가 제품이 필요함',
+    '교체 고려':'현재 제품 교체를 고려 중임',
+    '인체공학 그립':'손의 곡선을 고려한 편안한 그립감',
+    '저소음 클릭':'조용한 환경에서도 부담이 적은 저소음 클릭',
+    '정확한 트래킹':'포인터 움직임과 센서 정확도',
+    '2.4GHz 무선':'안정적인 2.4GHz 무선 연결',
+    '배터리·휴대성':'배터리 사용시간과 휴대성',
+    '크기·무게·그립':'실제 크기·무게와 손 크기별 그립 적합성',
+    '클릭 소음 비교':'일반 마우스와 비교한 실제 클릭 소음',
+    '센서·트래킹 테스트':'다양한 표면에서의 센서·트래킹 테스트',
+    '배터리·호환성':'배터리 사용시간과 기기 호환 정보',
+    '실사용 후기':'장시간 사용 환경의 실제 사용자 후기',
+    '손목·그립 불편':'장시간 사용 시 손목이나 손이 불편함',
+    '클릭 소음':'클릭 소음이 신경 쓰임',
+    '트래킹 불편':'포인터 움직임·정확도가 아쉬움',
+    '연결·휴대 불편':'무선 연결이나 휴대가 불편함',
+    '현재 만족':'현재 사용 방식에 큰 불만이 없음',
+    '순환 급수':'자동 순환 급수 기능',
+    '구강 케어 캡슐':'물을 마실 때 함께 관리하는 구강 케어 캡슐',
+    '3중 필터':'털·먼지를 걸러주는 3중 필터',
+    '저소음':'반려동물이 부담 없이 사용할 수 있는 저소음 작동',
+    '분리세척·디자인':'분리 세척이 쉬운 구조와 깔끔한 디자인',
+    '캡슐 안전·성분':'구강 케어 캡슐의 성분·안전성·사용 기준',
+    '필터 교체·비용':'필터·캡슐 교체 주기와 추가 구매 비용',
+    '실제 소음·음수':'실제 작동 소음과 반려동물 음수 모습',
+    '세척·위생':'분해·세척 방법과 위생 관리 정보',
+    '적합 반려동물':'반려동물 크기별 사용 적합성과 용량 안내',
+    '급수 불편':'물그릇 교체·급수 관리가 번거로움',
+    '구강 관리 고민':'치석·입냄새 등 구강 관리가 고민됨',
+    '둘 다 개선 필요':'급수와 구강 관리 모두 개선이 필요함',
+    '현재 관리 만족':'현재 급수·구강 관리 방식에 만족함',
+    '관련 필요 낮음':'현재는 해당 제품의 필요성이 낮음'
+  }
+};
+function friendlyLabelValue(label){
+  const raw=String(label||'').trim();
+  if(!raw)return '-';
+  return FRIENDLY_LABELS['*'][raw] || raw;
+}
+const itemLabel = x => x && x.label ? esc(friendlyLabelValue(x.label)) : '-';
+const itemShare = x => x && x.share!==undefined ? pct(x.share) : '-';
+const itemMetric = x => x && x.share!==undefined ? `${pct(x.share)}${x.count!==undefined?` · ${fmt(x.count)}명`:''}` : '-';
+function sampleFlagText(flag,count){
+  if(flag==='충분' || count>=30) return '해석 가능';
+  if(flag==='참고' || count>=10) return '참고용';
+  return '응답 적음';
+}
+
+const TARGET_MIN_BASE = 30;
+function reliableTargets(items){
+  return (items||[]).filter(x=>(x.base_count||x.count||0)>=TARGET_MIN_BASE);
+}
+function primaryTarget(items){
+  return reliableTargets(items)[0]||null;
+}
+function rawRateLeader(items){
+  return [...(items||[])].filter(x=>(x.base_count||x.count||0)>0).sort((a,b)=>Number(b.segment_rate||0)-Number(a.segment_rate||0) || Number(b.base_count||b.count||0)-Number(a.base_count||a.count||0))[0]||null;
+}
+function sampleGuardNote(items,dimension='연령대',rateLabel='관심률'){
+  const raw=rawRateLeader(items);
+  if(!raw || (raw.base_count||raw.count||0)>=TARGET_MIN_BASE) return '';
+  const base=raw.base_count||raw.count||0;
+  return `<div class="sample-guard-note"><b>${esc(raw.label)}</b>는 ${esc(rateLabel)}이 <b>${pct(raw.segment_rate)}</b>로 가장 높지만, 해당 집단의 유효응답이 <b>${fmt(base)}명</b>으로 적어 일반화하기 어렵습니다. 주요 ${esc(dimension)} 타깃 순위에서는 제외하고 참고값으로만 봅니다.</div>`;
+}
+
+function statTiles(d){
+  const p=d.product_check, pg=d.page_check;
+  const barrier=pg.top_barriers && pg.top_barriers[0];
+  const evidence=pg.needed_evidence && pg.needed_evidence[0];
+  const high=d.interest_segments?.high;
+  const conv=d.interest_segments?.convertible;
+  const tiles=[
+    {q:'펀딩 참여 의향 있음',v:p.high_intent_rate==null?'연결 확인':pct(p.high_intent_rate),meter:p.high_intent_rate,color:'var(--series-1)',why:p.intent_valid_n?`참여의향에 응답한 ${fmt(p.intent_valid_n)}명 중 ‘참여하겠다’고 답한 비율`:'참여의향 응답 연결을 확인 중입니다.'},
+    {q:'관심고객의 1순위 매력',sm:true,v:itemLabel(high?.top_attraction),meter:high?.top_attraction?.share,color:'var(--series-2)',why:high?.count?`관심군 ${fmt(high.count)}명 안에서 확인`:'관심군 응답이 쌓이면 표시됩니다.'},
+    {q:'가장 큰 구매 고민',sm:true,v:barrier?esc(barrier.label):'응답 대기',meter:barrier?.share,color:'var(--bad)',why:barrier?`전체 응답자의 ${pct(barrier.share)}가 선택`:'응답이 쌓이면 표시됩니다.'},
+    {q:'전환 가능군이 더 원하는 정보',sm:true,v:itemLabel(conv?.top_evidence),meter:conv?.top_evidence?.share,color:'var(--series-3)',why:conv?.count?`관심은 낮지만 구매 필요가 있는 ${fmt(conv.count)}명 기준`:'전환 가능군이 확인되면 표시됩니다.'}
+  ];
+  return `<div class="statgrid">${tiles.map(t=>`<div class="stat"><div class="q">${esc(t.q)}</div><div class="v${t.sm?' sm':''}">${t.v}</div>${t.meter==null?'':`<div class="meter"><i style="width:${clamp(t.meter)}%;background:${t.color}"></i></div>`}<div class="why">${t.why}</div></div>`).join('')}</div>`;
+}
+
+function demographicsOverview(d){
+  const cs=d.customer_segments||{};
+  const age=(cs.age||[])[0], gender=(cs.gender||[])[0];
+  return `<div class="grid c2">
+      <div class="card"><h2 class="questiontitle">연령대 구성</h2><p class="explain">이번 조사에서 어떤 연령대가 많이 참여했는지 보여줍니다.</p>${bars(cs.age||[],8)}</div>
+      <div class="card"><h2 class="questiontitle">성별 구성</h2><p class="explain">이번 조사 참여자의 성별 구성을 보여줍니다.</p>${bars(cs.gender||[],6)}</div>
+    </div>
+    <div class="demographic-note">현재 가장 많은 응답층은 <b>${age?esc(age.label):'-'}</b>${age?` (${pct(age.share)})`:''}, 성별은 <b>${gender?esc(gender.label):'-'}</b>${gender?` (${pct(gender.share)})`:''}입니다. 아래부터는 이 표본 안에서 관심고객과 비관심고객을 나눠 봅니다.</div>`;
+}
+
+function actionCards(d){
+  const list=(d.actions||[]).slice(0,3);
+  if(!list.length)return emptyBox('최종 표본에서 우선 조치로 분류할 핵심 신호가 확인되지 않았습니다.');
+  return `<div class="grid c3">${list.map((a,i)=>`<div class="card actioncard"><div class="cardhead"><span class="rank">우선순위 ${i+1}</span><span class="badge ${signalClass(a.signal)}">${esc(a.signal)}</span></div><h3>${esc(a.title)}</h3><div class="actionrow"><span class="k">왜 보나</span>${esc(a.why)}</div><div class="actionrow"><span class="k">추천 보완 방향</span>${esc(a.recommendation)}</div></div>`).join('')}</div>`;
+}
+
+function insightCards(items){
+  if(!items||!items.length)return emptyBox('최종 표본에서 집단별 자동 인사이트로 일반화할 충분한 응답이 확인되지 않았습니다.');
+  return `<div class="insightgrid">${items.map(x=>`<div class="insightcard"><span class="badge flat">${esc(x.level||'인사이트')}</span><h3>${esc(x.title)}</h3><p>${esc(x.text)}</p></div>`).join('')}</div>`;
+}
+
+function linkedReactionTable(items){
+  if(!items||!items.length)return emptyBox('표시할 집단 데이터가 없습니다.');
+  return dataTable([
+    {label:'고객 그룹'},{label:'응답자 수',n:true},{label:'펀딩 참여 의향',n:true},{label:'제품과의 관계'},{label:'현재 필요·불편'},{label:'제품에서 끌린 점'},{label:'구매 전 더 필요한 정보'},{label:'구매를 망설이는 이유'}
+  ], items.map(x=>[
+    `<b>${esc(x.label)}</b><br><span class="muted small">${esc(sampleFlagText(x.sample_flag,x.count))}</span>`,fmt(x.count)+'명',x.high_intent_rate==null?'-':pct(x.high_intent_rate),
+    itemLabel(x.top_context),itemLabel(x.top_need),itemLabel(x.top_attraction),itemLabel(x.top_evidence),itemLabel(x.top_barrier)
+  ]));
+}
+
+function segmentSummary(seg){
+  const items=[
+    {k:'high',name:'관심고객',sub:'펀딩에 참여하겠다',tone:'good'},
+    {k:'low',name:'비관심 고객',sub:'펀딩에 참여하지 않겠다',tone:'warn'},
+    {k:'convertible',name:'전환 가능군',sub:'관심 낮음 + 구매 필요 있음',tone:'focus'}
+  ];
+  return `<div class="segment-summary">${items.map(it=>{const x=seg?.[it.k]||{};return `<div class="segment-tile ${it.tone}"><div class="segment-name">${it.name}</div><div class="segment-value">${fmt(x.count||0)}명</div><div class="segment-share">${pct(x.share||0)} · ${esc(it.sub)}</div></div>`}).join('')}</div>`;
+}
+
+function segmentProfileCard(title,x,mode='interest'){
+  if(!x||!x.count)return `<div class="card"><h2 class="questiontitle">${esc(title)}</h2>${emptyBox('해당 고객군이 아직 충분히 확인되지 않았습니다.')}</div>`;
+  const lead = mode==='convert'
+    ? `펀딩 참여 의향은 낮지만, 현재 구매 필요나 제품 관련 불편이 확인된 ${fmt(x.count)}명입니다.`
+    : mode==='low'
+      ? `‘펀딩에 참여하지 않겠다’고 답한 ${fmt(x.count)}명을 별도로 분석했습니다.`
+      : `‘펀딩에 참여하겠다’고 답한 ${fmt(x.count)}명을 별도로 분석했습니다.`;
+  return `<div class="card segment-profile"><h2 class="questiontitle">${esc(title)}</h2><p class="explain">${lead}</p>
+    <div class="mini-facts">
+      <div><span>주요 연령</span><b>${itemLabel(x.top_age)}</b></div><div><span>주요 성별</span><b>${itemLabel(x.top_gender)}</b></div>
+      <div><span>제품과의 관계</span><b>${itemLabel(x.top_context)}</b></div><div><span>현재 필요·불편</span><b>${itemLabel(x.top_need)}</b></div>
+    </div>
+    <div class="segment-columns">
+      <div><h3>제품에서 끌린 점</h3>${bars(x.attractions||[],5)}</div>
+      <div><h3>구매 전에 더 필요한 정보</h3>${bars(x.evidence||[],5)}</div>
+      <div><h3>구매를 망설이는 이유</h3>${bars(x.barriers||[],5)}</div>
+    </div>
+  </div>`;
+}
+
+function targetFeedbackTable(items,groupType='연령대'){
+  if(!items||!items.length)return emptyBox('관심고객의 타깃별 응답이 아직 없습니다.');
+  return `<div class="target-reaction-list">${items.map(x=>{
+    const context=itemLabel(x.top_context), need=itemLabel(x.top_need), attraction=itemLabel(x.top_attraction), evidence=itemLabel(x.top_evidence), barrier=itemLabel(x.top_barrier);
+    const flag=sampleFlagText(x.sample_flag,x.count);
+    const insight=`${x.label} 관심고객은 ${context}인 경우가 많고, ${attraction}에 가장 끌렸습니다. 구매 전에 ${evidence}를 더 원했으며, 가장 큰 망설임은 ${barrier}입니다.`;
+    return `<div class="target-reaction-card">
+      <div class="target-reaction-head">
+        <div><span class="target-eyebrow">${esc(groupType)}별 관심고객</span><h3>${esc(x.label)}</h3></div>
+        <div class="target-count"><b>${fmt(x.count)}명</b><span>관심고객의 ${pct(x.share)}</span></div>
+      </div>
+      <div class="target-sample ${flag==='응답 적음'?'low':''}">${esc(flag)} · 이 그룹 응답 ${fmt(x.count)}명${flag==='응답 적음'?'이라 해석은 참고만 해주세요.':''}</div>
+      <div class="target-reaction-flow">
+        <div><span>제품과의 관계</span><b>${context}</b></div>
+        <div><span>현재 필요·불편</span><b>${need}</b></div>
+        <div><span>제품에서 끌린 점</span><b>${attraction}</b><em>${itemMetric(x.top_attraction)}</em></div>
+        <div><span>구매 전 더 필요한 정보</span><b>${evidence}</b><em>${itemMetric(x.top_evidence)}</em></div>
+        <div><span>구매를 망설이는 이유</span><b>${barrier}</b><em>${itemMetric(x.top_barrier)}</em></div>
+      </div>
+      <div class="target-one-line"><b>한 줄 해석</b> ${insight}</div>
+    </div>`;
+  }).join('')}</div>`;
+}
+
+function interestJourney(d){
+  const p=d.product_check||{}, seg=d.interest_segments||{}, high=seg.high||{};
+  const age=(high.age_distribution||[])[0], gender=(high.gender_distribution||[])[0];
+  const valid=p.intent_valid_n||0, highN=high.count||0;
+  const summary=highN
+    ? `펀딩에 참여하겠다고 답한 고객은 ${fmt(highN)}명입니다. 이들 중 가장 많은 연령대는 ${itemLabel(age)}, 가장 많은 성별은 ${itemLabel(gender)}입니다. 제품에서는 ${itemLabel(high.top_attraction)}에 가장 끌렸고, 구매 전에 ${itemLabel(high.top_evidence)}를 더 원했으며, 가장 큰 망설임은 ${itemLabel(high.top_barrier)}였습니다.`
+    : '‘펀딩에 참여하겠다’는 응답이 쌓이면 관심고객의 연령·성별과 피드백 흐름이 자동으로 연결됩니다.';
+  return `<div class="journey-flow">
+    <div class="journey-step intent-step">
+      <div class="journey-label"><span>1</span> 관심 확인</div>
+      <h3>“참여하겠다”는 얼마나 있나?</h3>
+      <div class="journey-kpi">${p.high_intent_rate==null?'-':pct(p.high_intent_rate)}</div>
+      <p>참여의향에 응답한 ${fmt(valid)}명 중 관심고객 ${fmt(highN)}명</p>
+      ${p.intent_valid_n?bars(p.intent_distribution||[],2):emptyBox('펀딩 참여의향 응답을 확인 중입니다.')}
+    </div>
+    <div class="journey-arrow" aria-hidden="true">→</div>
+    <div class="journey-step profile-step">
+      <div class="journey-label"><span>2</span> 타깃 확인</div>
+      <h3>그들은 어떤 사람들인가?</h3>
+      <div class="journey-profile-grid">
+        <div><div class="journey-mini-title">연령대</div>${bars(high.age_distribution||[],5)}</div>
+        <div><div class="journey-mini-title">성별</div>${bars(high.gender_distribution||[],4)}</div>
+      </div>
+    </div>
+    <div class="journey-arrow" aria-hidden="true">→</div>
+    <div class="journey-step feedback-step">
+      <div class="journey-label"><span>3</span> 행동·피드백</div>
+      <h3>그들이 실제로 남긴 반응은?</h3>
+      <div class="journey-feedback">
+        <div><span>제품에서 끌린 점</span><b>${itemLabel(high.top_attraction)}</b><em>${itemShare(high.top_attraction)}</em></div>
+        <div><span>구매 전 더 필요한 정보</span><b>${itemLabel(high.top_evidence)}</b><em>${itemShare(high.top_evidence)}</em></div>
+        <div><span>구매를 망설이는 이유</span><b>${itemLabel(high.top_barrier)}</b><em>${itemShare(high.top_barrier)}</em></div>
+      </div>
+    </div>
+  </div><div class="journey-summary"><b>한 줄로 보면</b> ${summary}</div>`;
+}
+
+
+function interestSplitOverview(d){
+  const seg=d.interest_segments||{}, p=d.product_check||{};
+  const high=seg.high||{}, low=seg.low||{};
+  const ageRx=d.customer_segments?.age_reaction||[];
+  const genderRx=d.customer_segments?.gender_reaction||[];
+  const topAge=primaryTarget(high.age_feedback||[]);
+  const topGender=primaryTarget(high.gender_feedback||[]);
+  const lowAge=primaryTarget(low.age_feedback||[]);
+  const lowGender=primaryTarget(low.gender_feedback||[]);
+  const valid=p.intent_valid_n||seg.valid_n||0;
+  const summary=valid
+    ? `참여의향 응답 ${fmt(valid)}명 중 <b>${fmt(high.count||0)}명</b>이 관심고객, <b>${fmt(low.count||0)}명</b>이 비관심고객으로 분류됐습니다. 관심률은 ${topAge?esc(topAge.label)+' '+pct(topAge.segment_rate):'-'}${topGender?` · ${esc(topGender.label)} ${pct(topGender.segment_rate)}`:''}에서 상대적으로 높았습니다.`
+    : '펀딩 참여의향 응답이 쌓이면 관심고객과 비관심고객을 자동으로 구분합니다.';
+  return `<div class="interest-split-grid">
+    <div class="interest-split-card interested">
+      <span>관심고객</span><b>${fmt(high.count||0)}명</b><strong>${pct(high.share||0)}</strong><p>“펀딩에 참여하겠다”</p>
+      <div class="split-mini">관심률 높은 연령 <em>${topAge?esc(topAge.label)+' '+pct(topAge.segment_rate):'-'}</em> · 성별 <em>${topGender?esc(topGender.label)+' '+pct(topGender.segment_rate):'-'}</em></div>
+    </div>
+    <div class="interest-split-arrow">→</div>
+    <div class="interest-split-card uninterested">
+      <span>비관심고객</span><b>${fmt(low.count||0)}명</b><strong>${pct(low.share||0)}</strong><p>“펀딩에 참여하지 않겠다”</p>
+      <div class="split-mini">비관심률 높은 연령 <em>${lowAge?esc(lowAge.label)+' '+pct(lowAge.segment_rate):'-'}</em> · 성별 <em>${lowGender?esc(lowGender.label)+' '+pct(lowGender.segment_rate):'-'}</em></div>
+    </div>
+  </div>
+  <div class="simple-summary">${summary}</div>
+  <div class="grid c2 section compact-compare">
+    <div class="card"><h3 class="simple-card-title">연령대별 관심 비율</h3><p class="explain">유효응답 30명 이상인 연령대만 주요 비교에 사용합니다.</p>${reactionBars(ageRx,{minN:30,hideSmall:true})}${sampleGuardNote(high.age_feedback||[],'연령대','관심률')}</div>
+    <div class="card"><h3 class="simple-card-title">성별 관심 비율</h3><p class="explain">유효응답 30명 이상인 성별만 주요 비교에 사용합니다.</p>${reactionBars(genderRx,{minN:30,hideSmall:true})}${sampleGuardNote(high.gender_feedback||[],'성별','관심률')}</div>
+  </div>`;
+}
+
+function segmentSignalCard(title,item,description){
+  return `<div class="signal-card"><span>${esc(title)}</span><b>${itemLabel(item)}</b><em>${itemMetric(item)}</em><p>${esc(description||'')}</p></div>`;
+}
+
+function customerComments(items,title='실제 고객 코멘트',limit=5){
+  const list=(items||[]).filter(Boolean).slice(0,limit);
+  if(!list.length)return '';
+  return `<div class="customer-comments"><div class="subsection-title">${esc(title)}</div><div class="comment-grid">${list.map((x,i)=>`<div class="comment-card"><span>고객 의견 ${i+1}</span><p>“${esc(x)}”</p></div>`).join('')}</div></div>`;
+}
+
+function allCustomerComments(d){
+  const voc=d.voice_of_customer||{}, items=(voc.items||[]).filter(x=>x&&x.text);
+  if(!items.length) return `<div class="card voc-section">${emptyBox('아직 작성된 자유의견이 없습니다.')}</div>`;
+  const groupOrder=['관심고객','설득 가능 고객','비관심고객','비타깃 가능 고객','관심도 미분류'];
+  const counts=Object.fromEntries((voc.groups||[]).map(x=>[x.label,x.count]));
+  const filterButtons=[['all','전체',items.length],...groupOrder.filter(g=>counts[g]).map(g=>[g,g,counts[g]])];
+  const cards=items.map((x,i)=>{
+    const meta=[x.age_group, x.gender, x.context?friendlyLabelValue(x.context):''].filter(Boolean);
+    const groupClass=x.group==='관심고객'?'interest':x.group==='설득 가능 고객'?'convert':x.group==='비타깃 가능 고객'?'nontarget':'neutral';
+    return `<article class="voc-comment" data-voc-group="${esc(x.group||'관심도 미분류')}" data-voc-search="${esc([x.text,x.age_group,x.gender,x.context,x.need,x.group].filter(Boolean).join(' ').toLowerCase())}">
+      <div class="voc-comment-head"><span class="voc-index">#${i+1}</span><span class="voc-group ${groupClass}">${esc(x.group||'관심도 미분류')}</span>${meta.length?`<span class="voc-meta">${meta.map(esc).join(' · ')}</span>`:''}</div>
+      <p>“${esc(x.text)}”</p>
+    </article>`;
+  }).join('');
+  return `<div class="card voc-section">
+    <div class="voc-head"><div><div class="voc-total"><b>${fmt(items.length)}개</b>의 자유의견을 모두 보여주고 있습니다.</div><p class="explain">작성된 자유의견 원문을 빠짐없이 보여줍니다. 짧은 답변도 원자료 확인을 위해 그대로 보존하며, 관심도·연령·성별로 걸러볼 수 있습니다.</p></div></div>
+    <div class="voc-toolbar">
+      <div class="voc-filters">${filterButtons.map((x,i)=>`<button type="button" class="voc-filter${i===0?' active':''}" data-voc-filter="${esc(x[0])}">${esc(x[1])} <b>${fmt(x[2])}</b></button>`).join('')}</div>
+      <label class="voc-search"><span>의견 검색</span><input id="vocSearch" type="search" placeholder="예: 가격, 성능, 후기, 그립감"></label>
+    </div>
+    <div id="vocVisibleCount" class="voc-visible-count">현재 ${fmt(items.length)}개 의견 표시</div>
+    <div id="vocList" class="voc-list">${cards}</div>
+  </div>`;
+}
+
+function bindVoiceFilters(){
+  const list=q('vocList'); if(!list) return;
+  const buttons=[...document.querySelectorAll('[data-voc-filter]')];
+  const search=q('vocSearch');
+  let active='all';
+  const apply=()=>{
+    const term=String(search?.value||'').trim().toLowerCase();
+    let shown=0;
+    list.querySelectorAll('.voc-comment').forEach(card=>{
+      const group=card.dataset.vocGroup||'';
+      const hay=card.dataset.vocSearch||'';
+      const okGroup=active==='all'||group===active;
+      const okTerm=!term||hay.includes(term);
+      const show=okGroup&&okTerm;
+      card.hidden=!show;
+      if(show) shown++;
+    });
+    const counter=q('vocVisibleCount'); if(counter) counter.textContent=`현재 ${fmt(shown)}개 의견 표시`;
+  };
+  buttons.forEach(btn=>btn.addEventListener('click',()=>{active=btn.dataset.vocFilter||'all';buttons.forEach(b=>b.classList.toggle('active',b===btn));apply();}));
+  if(search) search.addEventListener('input',apply);
+  apply();
+}
+
+function targetHintCards(items, dimension){
+  const usable=reliableTargets(items).slice(0,3);
+  const note=sampleGuardNote(items,dimension,'관심률');
+  if(!usable.length) return `${emptyBox(`${dimension}별 유효응답이 30명 이상 쌓이면 주요 타깃 순위를 보여줍니다.`)}${note}`;
+  return `<div class="target-hints">${usable.map((x,idx)=>`<div class="target-hint">
+    <div class="target-rank">주요 타깃 ${idx+1}위</div>
+    <div class="target-hint-head"><b>${esc(x.label)} 관심고객</b><span>관심률 ${pct(x.segment_rate)} · ${fmt(x.count)}/${fmt(x.base_count||x.count)}명</span></div>
+    <p><strong>끌린 점</strong> ${itemLabel(x.top_attraction)} <em>${itemMetric(x.top_attraction)}</em></p>
+    <p><strong>더 필요한 정보</strong> ${itemLabel(x.top_evidence)} <em>${itemMetric(x.top_evidence)}</em></p>
+    <p><strong>가장 큰 망설임</strong> ${itemLabel(x.top_barrier)} <em>${itemMetric(x.top_barrier)}</em></p>
+    ${(x.comments||[]).length?`<div class="target-comment"><span>실제 코멘트</span><p>“${esc(x.comments[0])}”</p></div>`:''}
+  </div>`).join('')}</div>${note}`;
+}
+
+function actionTextForBarrier(item){
+  const raw=String(item?.label||'');
+  if(!raw) return '최종 표본에서 핵심 구매장벽으로 분류할 응답이 충분하지 않습니다.';
+  if(raw.includes('성능')||raw.includes('품질')||raw.includes('신뢰')) return '실제 테스트·비교자료·사용자 후기로 제품을 믿을 수 있는 근거를 보강하세요.';
+  if(raw.includes('가격')||raw.includes('비용')) return '가격을 바로 낮추기보다 소재·성능·구성 대비 왜 이 가격인지 설명하는 근거를 보강하세요.';
+  if(raw.includes('차별')) return '기존 제품과 무엇이 다른지 한눈에 보이는 비교 영역을 추가하세요.';
+  if(raw.includes('규격')||raw.includes('적합')) return '누가 어떤 옵션을 선택해야 하는지 선택 가이드와 사용 예시를 추가하세요.';
+  if(raw.includes('필요')) return '실제 사용 상황과 문제 해결 장면을 보여줘 제품 필요성을 더 분명하게 전달하세요.';
+  return `${friendlyLabelValue(raw)}을 줄일 수 있는 설명·증거를 상세페이지에 보강하세요.`;
+}
+
+function actionTextForEvidence(item){
+  const raw=String(item?.label||'');
+  if(!raw) return '';
+  if(raw.includes('영상')||raw.includes('소음')||raw.includes('음수')) return `${friendlyLabelValue(raw)}을 실제 사용 장면으로 보여주세요.`;
+  if(raw.includes('비교')||raw.includes('테스트')) return `${friendlyLabelValue(raw)}을 표·테스트 결과처럼 한눈에 확인할 수 있게 제시하세요.`;
+  if(raw.includes('후기')) return `${friendlyLabelValue(raw)}를 제품 설명 근처에 배치해 신뢰를 보강하세요.`;
+  if(raw.includes('규격')||raw.includes('크기')||raw.includes('적합')) return `${friendlyLabelValue(raw)}를 선택 가이드 형태로 정리하세요.`;
+  return `${friendlyLabelValue(raw)}를 상세페이지의 핵심 근거로 추가하세요.`;
+}
+
+function interestStrengthSection(d){
+  const high=d.interest_segments?.high||{};
+  const age=primaryTarget(high.age_feedback||[]), gender=primaryTarget(high.gender_feedback||[]);
+  if(!high.count) return `<div class="card">${emptyBox('관심고객 응답이 쌓이면 이 섹션이 자동으로 채워집니다.')}</div>`;
+  const advice=[actionTextForBarrier(high.top_barrier),actionTextForEvidence(high.top_evidence)].filter(Boolean).join(' ');
+  return `<div class="customer-profile-strip">
+    <div><span>관심고객</span><b>${fmt(high.count)}명</b><em>${pct(high.share)}</em></div>
+    <div><span>관심률 높은 연령대</span><b>${age?esc(age.label):'-'}</b><em>${age?`관심률 ${pct(age.segment_rate)} · ${fmt(age.count)}/${fmt(age.base_count||age.count)}명`:'-'}</em></div>
+    <div><span>관심률 높은 성별</span><b>${gender?esc(gender.label):'-'}</b><em>${gender?`관심률 ${pct(gender.segment_rate)} · ${fmt(gender.count)}/${fmt(gender.base_count||gender.count)}명`:'-'}</em></div>
+    <div><span>제품과의 관계</span><b>${itemLabel(high.top_context)}</b><em>${itemMetric(high.top_context)}</em></div>
+  </div>
+  <div class="three-question-flow section">
+    ${segmentSignalCard('왜 관심을 보였나?',high.top_attraction,'제품에서 가장 많이 선택된 매력 포인트')}
+    <div class="flow-arrow">→</div>
+    ${segmentSignalCard('그런데 무엇이 걸리나?',high.top_barrier,'관심고객이 구매를 망설이게 한 가장 큰 이유')}
+    <div class="flow-arrow">→</div>
+    ${segmentSignalCard('무엇을 더 보여줘야 하나?',high.top_evidence,'관심고객이 구매 전에 가장 더 원한 정보')}
+  </div>
+  <div class="maker-advice"><span>관심고객 강화 포인트</span><b>${advice}</b></div>
+  <div class="section"><div class="subsection-title">표본이 확보된 연령대의 관심 타깃 피드백</div><p class="subsection-help">각 연령대의 유효응답이 30명 이상인 경우에만 주요 타깃 순위에 포함하고, 그 안에서 관심률이 높은 순으로 보여줍니다.</p>${targetHintCards(high.age_feedback||[],'연령대')}</div>
+  <div class="section"><div class="subsection-title">표본이 확보된 성별의 관심 타깃 피드백</div><p class="subsection-help">각 성별 유효응답이 30명 이상인 경우에만 주요 타깃으로 비교합니다.</p>${targetHintCards(high.gender_feedback||[],'성별')}</div>
+  ${customerComments(high.comments,'관심고객이 직접 남긴 세부 코멘트',5)}`;
+}
+
+function segmentRateBars(items,rateKey,label,dimension='집단'){
+  const list=reliableTargets(items).slice(0,8);
+  const note=sampleGuardNote(items,dimension,label);
+  if(!list.length)return `${emptyBox(`유효응답이 30명 이상인 ${dimension}이 생기면 주요 ${label} 비교를 보여줍니다.`)}${note}`;
+  return list.map((x,i)=>{const v=Number(x[rateKey]??x.segment_rate??0);return `<div class="barrow${i===0?' top':''}"><div class="lb">${esc(x.label)} <span class="n">${fmt(x.count)}/${fmt(x.base_count)}명</span></div><div class="bar"><i class="${i===0?'rank0':'rankN'}" style="width:${Math.max(1.5,clamp(v))}%"></i></div><div class="num">${pct(v)}</div></div>`}).join('')+`<div class="chartnote">유효응답 30명 이상인 ${esc(dimension)}만 포함해 ${esc(label)}이 높은 순서로 정렬했습니다.</div>${note}`;
+}
+
+function nonInterestConvertSection(d){
+  const seg=d.interest_segments||{}, low=seg.low||{}, conv=seg.convertible||{}, non=seg.non_target||{};
+  if(!low.count) return `<div class="card">${emptyBox('비관심고객 응답이 쌓이면 전환 가능 고객과 비타깃 가능 고객을 구분합니다.')}</div>`;
+  const lowBase=low.count||1;
+  const convShare=100*(conv.count||0)/lowBase;
+  const nonShare=100*(non.count||0)/lowBase;
+  const advice=[actionTextForBarrier(conv.top_barrier),actionTextForEvidence(conv.top_evidence)].filter(Boolean).join(' ');
+  const lowAge=low.age_feedback||[], lowGender=low.gender_feedback||[];
+  const topLowAge=primaryTarget(lowAge), topLowGender=primaryTarget(lowGender);
+  return `<div class="noninterest-intro"><b>비관심고객 ${fmt(low.count)}명</b><span>은 어떤 사람들인지 먼저 확인합니다.</span></div>
+  <div class="noninterest-demo card">
+    <div class="cardhead"><div><h2 class="questiontitle">비관심고객은 어떤 연령·성별에 많았을까?</h2><p class="explain">“펀딩에 참여하지 않겠다”고 답한 고객만 따로 분류한 결과입니다.</p></div><span class="badge flat">${fmt(low.count)}명</span></div>
+    <div class="grid c2 noninterest-demo-grid">
+      <div><h3>비관심률 높은 연령대</h3>${segmentRateBars(lowAge,'segment_rate','비관심률','연령대')}</div>
+      <div><h3>비관심률 높은 성별</h3>${segmentRateBars(lowGender,'segment_rate','비관심률','성별')}</div>
+    </div>
+    <div class="noninterest-demo-note">표본이 충분한 집단 기준으로 비관심률이 높은 연령대는 <b>${topLowAge?esc(topLowAge.label):'아직 없음'}</b>${topLowAge?` (${pct(topLowAge.segment_rate)}, ${fmt(topLowAge.count)}/${fmt(topLowAge.base_count)}명)`:''}, 성별은 <b>${topLowGender?esc(topLowGender.label):'아직 없음'}</b>${topLowGender?` (${pct(topLowGender.segment_rate)}, ${fmt(topLowGender.count)}/${fmt(topLowGender.base_count)}명)`:''}입니다. 30명 미만 집단은 참고값으로만 두고 주요 타깃 판단에서는 제외합니다.</div>
+  </div>
+  <div class="noninterest-intro section"><b>그중 누구를 다시 설득할까?</b><span>제품 필요·불편 여부를 기준으로 두 그룹으로 나눕니다.</span></div>
+  <div class="convert-split">
+    <div class="convert-card convertible"><span>설득 가능 고객</span><b>${fmt(conv.count||0)}명</b><em>비관심고객의 ${pct(convShare)}</em><p>관심은 낮지만 현재 구매 필요·불편이 있는 사람</p></div>
+    <div class="convert-card nontarget"><span>비타깃 가능 고객</span><b>${fmt(non.count||0)}명</b><em>비관심고객의 ${pct(nonShare)}</em><p>관심도 낮고 제품 필요성도 낮은 사람</p></div>
+  </div>
+  ${conv.count?`<div class="card section convert-focus"><div class="cardhead"><div><h2 class="questiontitle">설득 가능 고객은 왜 아직 관심이 낮을까?</h2><p class="explain">필요가 있는데도 참여하지 않겠다고 답한 고객만 따로 봅니다.</p></div><span class="badge flat">${fmt(conv.count)}명</span></div>
+    <div class="grid c3 simple-signals">
+      <div><span>현재 필요·불편</span><b>${itemLabel(conv.top_need)}</b><em>${itemMetric(conv.top_need)}</em></div>
+      <div><span>가장 큰 망설임</span><b>${itemLabel(conv.top_barrier)}</b><em>${itemMetric(conv.top_barrier)}</em></div>
+      <div><span>더 필요한 정보</span><b>${itemLabel(conv.top_evidence)}</b><em>${itemMetric(conv.top_evidence)}</em></div>
+    </div>
+    <div class="maker-advice convert"><span>마음을 돌리기 위해 준비할 것</span><b>${advice||'전환 가능 고객의 응답이 더 쌓이면 구체적인 보완안을 제시합니다.'}</b></div>
+  </div>`:''}
+  ${customerComments(low.comments,'비관심고객의 구체적인 자유의견 5개',5)}
+  <div class="nontarget-note"><b>비타깃 가능 고객은 무리하게 설득하지 않아도 됩니다.</b><span>제품 필요 자체가 낮다면 이 집단을 모두 전환하려 하기보다 관심고객과 설득 가능 고객에 메시지와 마케팅 자원을 집중하는 편이 합리적입니다.</span></div>`;
+}
+
+function commentTopicAction(label){
+  const map={
+    '가격·비용':'가격을 바로 낮추기보다 가격 대비 가치, 구성, 추가 비용을 한눈에 설명하는 근거를 보강하세요.',
+    '성능·품질':'성능 테스트, 실제 사용 장면, 비교 자료처럼 제품 성능을 직접 확인할 수 있는 근거를 추가하세요.',
+    '사용감·적합성':'크기·무게·그립·규격 등 실제 사용자가 자신에게 맞는지 판단할 수 있는 선택 가이드와 사용 장면을 보여주세요.',
+    '비교·차별성':'기존 제품이나 대안과 무엇이 다른지 비교표와 핵심 차별점으로 짧고 명확하게 설명하세요.',
+    '후기·검증':'실제 사용자 후기, 테스트 결과, 사용 영상 등 제3자가 확인할 수 있는 검증 자료를 보강하세요.',
+    '신뢰·안전':'안전성·성분·인증·AS 등 구매 전 불안을 줄일 수 있는 신뢰 근거를 상세페이지에서 쉽게 찾게 하세요.',
+    '관리·유지':'세척·교체주기·유지비·호환성처럼 구매 후 관리에 필요한 정보를 구체적으로 안내하세요.',
+    '디자인·휴대':'실제 크기, 보관·휴대 장면, 색상·디자인 선택 정보를 실제 사용 맥락과 함께 보여주세요.'
+  };
+  return map[label]||'반복해서 언급된 고객 의견을 상세페이지와 제품 설명의 보완 근거로 활용하세요.';
+}
+
+function commentInsightCard(title,summary){
+  const s=summary||{}, topics=s.topics||[], n=s.comment_n||0;
+  if(!n) return `<div class="comment-insight-card"><span>${esc(title)}</span><b>구체적인 자유의견 없음</b><p>최종 표본에서 이유·불편·요구가 구체적으로 담긴 자유의견이 확인되지 않았습니다.</p></div>`;
+  if(!topics.length) return `<div class="comment-insight-card"><span>${esc(title)}</span><b>${fmt(n)}개의 구체적인 의견</b><p>아직 동일 주제가 반복적으로 나타나지 않았습니다. 원문 전체에서 개별 의견을 확인해 주세요.</p></div>`;
+  const top=topics[0];
+  return `<div class="comment-insight-card"><span>${esc(title)} · 구체적 의견 ${fmt(n)}개</span><b>${esc(top.label)} · ${pct(top.share)}</b><em>${fmt(top.count)}개의 의견에서 언급</em><p>${esc(commentTopicAction(top.label))}</p><div class="comment-topic-chips">${topics.slice(0,3).map(x=>`<span>${esc(x.label)} <b>${pct(x.share)}</b></span>`).join('')}</div></div>`;
+}
+
+function commentInsightSection(d){
+  const ci=d.comment_insights||{};
+  const total=ci.overall?.comment_n||0;
+  if(!total) return `<div class="card section">${emptyBox('최종 표본에서 구체적인 자유의견이 확인되지 않아 자유의견 기반 반복 주제를 산출하지 않았습니다.')}</div>`;
+  return `<div class="comment-insights section">
+    <div class="subsection-title">자유의견에서 반복된 실제 고객 신호</div>
+    <p class="subsection-help">'네', '없음' 같은 단답은 대표 인사이트에서 제외하고, 이유·불편·요구가 구체적으로 담긴 의견만 집계했습니다. 한 의견이 여러 주제를 언급할 수 있어 비율 합계는 100%가 아닐 수 있습니다.</p>
+    <div class="comment-insight-grid">
+      ${commentInsightCard('관심고객 자유의견',ci.interest)}
+      ${commentInsightCard('비관심고객 자유의견',ci.noninterest)}
+      ${commentInsightCard('설득 가능 고객 자유의견',ci.convertible)}
+    </div>
+  </div>`;
+}
+
+function finalActionSummary(d){
+  const seg=d.interest_segments||{}, high=seg.high||{}, conv=seg.convertible||{};
+  const topAge=primaryTarget(high.age_feedback||[]), topGender=primaryTarget(high.gender_feedback||[]);
+  const focusParts=[topAge?`${topAge.label} 관심률 ${pct(topAge.segment_rate)}`:'',topGender?`${topGender.label} 관심률 ${pct(topGender.segment_rate)}`:'',itemLabel(high.top_context)].filter(x=>x&&x!=='-');
+  const cards=[
+    {tag:'관심고객 강화',title:friendlyLabelValue(high.top_barrier?.label||'핵심 구매장벽 확인'),body:[actionTextForBarrier(high.top_barrier),actionTextForEvidence(high.top_evidence)].filter(Boolean).join(' ')},
+    {tag:'설득 가능 고객 전환',title:conv.count?friendlyLabelValue(conv.top_barrier?.label||'전환 장벽 확인'):'전환 가능 고객 확인 중',body:conv.count?[actionTextForBarrier(conv.top_barrier),actionTextForEvidence(conv.top_evidence)].filter(Boolean).join(' '):'비관심고객 중 실제 제품 필요가 있는 사람이 확인되면 별도 설득 포인트를 제시합니다.'},
+    {tag:'핵심 타깃 집중',title:focusParts.length?focusParts.join(' · '):'주요 타깃 판단 보류',body:focusParts.length?'최종 표본의 관심고객에서 상대적으로 많이 나타난 특성입니다. 표본이 충분한 집단만 우선 타깃 후보로 검토하세요.':'최종 표본에서 주요 타깃으로 일반화할 만큼 충분한 집단별 응답이 확인되지 않았습니다.'}
+  ];
+  return `<div class="final-action-grid">${cards.map((x,i)=>`<div class="final-action-card"><span>${i+1}</span><em>${esc(x.tag)}</em><h3>${esc(x.title)}</h3><p>${esc(x.body)}</p></div>`).join('')}</div>`;
+}
+
+function rawDetailSection(d){
+  const p=d.product_check||{}, pr=d.price_check||{}, pg=d.page_check||{}, seg=d.interest_segments||{};
+  return `<details class="details card section raw-details"><summary>세부 데이터가 필요하면 펼쳐보기</summary><div class="inside">
+    <div class="grid c2"><div><h3 style="margin-bottom:10px">전체 제품 매력 요소</h3>${bars(p.attractions||[])}</div><div><h3 style="margin-bottom:10px">전체 구매장벽</h3>${bars(pg.top_barriers||[])}</div></div>
+    <div class="grid c2 section"><div><h3 style="margin-bottom:10px">전체 추가 필요정보</h3>${bars(pg.needed_evidence||[])}</div><div><h3 style="margin-bottom:10px">가격 저항</h3><div class="donutrow">${donut(pr.cost_barrier_rate,'전체 비용 저항','전체 응답자 기준','var(--series-1)')}${donut(pr.high_intent_cost_barrier_rate,'관심고객 비용 저항','관심고객 기준','var(--series-2)')}</div></div></div>
+    <div class="section"><h3 style="margin-bottom:10px">연령대별 전체 반응</h3>${linkedReactionTable(d.customer_segments.age_reaction||[])}</div>
+    <div class="section"><h3 style="margin-bottom:10px">성별 전체 반응</h3>${linkedReactionTable(d.customer_segments.gender_reaction||[])}</div>
+    <div class="section"><h3 style="margin-bottom:10px">소비자 자유의견 주제</h3>${textTopics(pg.text_topics)}</div>
+  </div></details>`;
+}
+
+function roadmapView(d){
+  const items=d.roadmap||[], seg=d.interest_segments||{};
+  if(!items.length)return emptyBox('최종 표본에서 출시 로드맵으로 연결할 수 있는 핵심 신호가 확인되지 않았습니다.');
+  return `<div class="roadmap-card card">
+    <div class="roadmap-head"><div><h2 class="questiontitle">데이터 기반 출시 준비 로드맵</h2><p class="explain">현재 소비자 반응을 바탕으로, 누구를 타깃으로 하고 무엇을 보완할지 순서대로 정리했습니다. 실제로 조치한 항목은 직접 체크할 수 있습니다.</p></div><span class="badge good">최종 표본 분석</span></div>
+    <div class="roadmap-summary">
+      <span>관심고객 <b>${fmt(seg.high?.count||0)}명</b></span>
+      <span>설득 가능 고객 <b>${fmt(seg.convertible?.count||0)}명</b></span>
+      <span>비타깃 가능 고객 <b>${fmt(seg.non_target?.count||0)}명</b></span>
+      <span>분석 응답 <b>${fmt(d.n||0)}명</b></span>
+    </div>
+    <div class="roadmap-list">${items.map((x,i)=>`<label class="roadmap-item"><input type="checkbox" data-roadmap-key="${esc(x.key)}"><span class="roadmap-check"></span><span class="roadmap-body"><span class="roadmap-title"><i>${i+1}</i>${esc(x.title)} <em class="roadmap-status">${esc(x.status)}</em></span>${x.data?`<span class="roadmap-data">현재 데이터 · ${esc(x.data)}</span>`:''}<span class="roadmap-detail">${esc(x.detail)}</span></span></label>`).join('')}</div>
+  </div>`;
+}
+
+function bindRoadmapChecks(projectKey){
+  const storageKey=`wadipass_roadmap_${projectKey}`;
+  let state={};try{state=JSON.parse(localStorage.getItem(storageKey)||'{}')||{}}catch(e){}
+  document.querySelectorAll('[data-roadmap-key]').forEach(el=>{
+    el.checked=!!state[el.dataset.roadmapKey];
+    el.addEventListener('change',()=>{state[el.dataset.roadmapKey]=el.checked;try{localStorage.setItem(storageKey,JSON.stringify(state))}catch(e){}})
+  });
+}
+
+function trendSvg(series, mode="search"){
+  if(!series||!series.length)return emptyBox('검색 트렌드 데이터가 없습니다.');
+  const W=760,H=280,L=48,R=18,T=18,B=44;
+  const periods=[...new Set(series.flatMap(s=>(s.data||[]).map(x=>x.period)))].sort();
+  if(!periods.length)return emptyBox('검색 트렌드 데이터가 없습니다.');
+  const sx=i=>L+(W-L-R)*(periods.length<=1?0.5:i/(periods.length-1));
+  const sy=v=>T+(H-T-B)*(1-clamp(v)/100);
+  const colors=['var(--series-1)','var(--series-2)','var(--series-3)'];
+  let svg=`<svg class="chart market-chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="${mode==='shopping'?'최근 12개월 네이버 쇼핑 클릭 관심도':'최근 12개월 네이버 검색 관심도'}">`;
+  [0,25,50,75,100].forEach(v=>{const y=sy(v);svg+=`<line x1="${L}" y1="${y}" x2="${W-R}" y2="${y}" class="gridline"/><text x="${L-8}" y="${y+4}" text-anchor="end" class="axistext">${v}</text>`});
+  periods.forEach((p,i)=>{if(i===0||i===periods.length-1||i%3===0){const x=sx(i);svg+=`<text x="${x}" y="${H-15}" text-anchor="middle" class="axistext">${esc(p.slice(0,7))}</text>`}});
+  series.forEach((s,si)=>{
+    const map=new Map((s.data||[]).map(x=>[x.period,Number(x.ratio||0)]));
+    const pts=periods.map((p,i)=>[sx(i),sy(map.get(p)||0)]);
+    const d=pts.map((p,i)=>(i?'L':'M')+p[0].toFixed(1)+' '+p[1].toFixed(1)).join(' ');
+    svg+=`<path d="${d}" fill="none" stroke="${colors[si%3]}" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>`;
+  });
+  svg+='</svg>';
+  return svg+legend(series.map((s,i)=>({label:s.title,color:colors[i%3]})))+`<div class="chartnote">${mode==='shopping'?'각 기간의 상대 쇼핑 클릭지수입니다. 100은 같은 조회 조건 안의 최고 클릭 시점을 뜻하며 실제 클릭수·구매량·시장점유율이 아닙니다.':'각 기간의 상대 검색 관심도입니다. 100은 조회 범위 안의 최고 관심 시점을 뜻하며 절대 검색량이 아닙니다.'}</div>`;
+}
+
+function decodeNaverText(value){
+  const ta=document.createElement('textarea');
+  ta.innerHTML=String(value||'').replace(/<\/?b>/gi,'');
+  return ta.value;
+}
+function naverDate(raw){
+  const s=String(raw||'').trim();
+  if(/^\d{8}$/.test(s))return `${s.slice(0,4)}.${s.slice(4,6)}.${s.slice(6,8)}`;
+  const d=new Date(s);if(!Number.isNaN(d.getTime()))return d.toLocaleDateString('ko-KR',{year:'numeric',month:'2-digit',day:'2-digit'});
+  return s;
+}
+function naverResultList(items,emptyMsg){
+  if(!items||!items.length)return emptyBox(emptyMsg||'검색 결과가 없습니다.');
+  return `<div class="market-links naver-result-list">${items.map(x=>{const href=x.url||x.naver_url||'#';return `<a class="market-link naver-result" href="${esc(href)}" target="_blank" rel="noopener noreferrer" title="원문 열기"><div class="naver-result-meta"><span class="naver-source">NAVER 검색결과</span><span>${esc(naverDate(x.pub_date||''))}</span></div><b>${esc(decodeNaverText(x.title||''))}</b><em>원문 보기 ↗ <span class="print-only">· PDF에서 클릭 가능</span></em></a>`}).join('')}</div>`;
+}
+function searchGroupCards(groups,label){
+  if(!groups||!groups.length)return emptyBox(`${label} 검색 결과를 불러오지 못했습니다.`);
+  return groups.map((g,i)=>`<div class="card market-search-group${i?' section':''}"><div class="cardhead"><div><span class="sectiontag">${esc(label)}</span><h2 class="questiontitle">검색어 · ${esc(g.query||'')}</h2><p class="explain">검색 API가 반환한 순서를 유지하며 제목·날짜·원문 링크만 표시합니다. 이 목록은 WADIPASS의 자동분석·고객 인사이트 산출에 사용하지 않습니다.</p></div><span class="badge flat">원문 참고만</span></div>${naverResultList(g.items,'해당 검색어의 결과가 없습니다.')}</div>`).join('');
+}
+function marketUsageSplit(policy){
+  const p=policy||{};
+  return `<div class="market-usage-grid">
+    <div class="market-usage-card analysis"><span class="sectiontag">AUTO ANALYSIS</span><h3>자동분석에 사용하는 데이터</h3><b>NAVER DataLab Search Trend + Shopping Insight</b><p>${esc(p.automatic_analysis||'통합검색 상대지수와 쇼핑 클릭 상대지수만 수치 계산과 시각화에 사용합니다.')}</p></div>
+    <div class="market-usage-card reference"><span class="sectiontag">DIRECT REFERENCES</span><h3>원문 참고로만 보는 데이터</h3><b>NAVER 뉴스·블로그 검색결과</b><p>${esc(p.direct_reference||'제목·날짜·원문 링크만 표시하며 자동분석에는 사용하지 않습니다.')}</p></div>
+  </div>`;
+}
+
+function relativeBars(block){
+  const rows=(block&&block.rows)||[];
+  if(!rows.length)return emptyBox('쇼핑 클릭 세부 데이터를 불러오지 못했습니다.');
+  const max=Math.max(...rows.map(x=>Number(x.index||0)),1);
+  return `<div class="market-relative-bars">${rows.map((x,i)=>`<div class="market-relative-row"><div class="market-relative-label"><b>${esc(x.label||x.group||'')}</b>${i===0?'<span class="badge flat">상대지수 상위</span>':''}</div><div class="market-relative-track"><i style="width:${Math.max(2,Number(x.index||0)/max*100)}%"></i></div><strong>${Number(x.index||0).toFixed(1)}</strong></div>`).join('')}</div><div class="chartnote">${esc(block.note||'상대 클릭지수이며 실제 고객 비중이 아닙니다.')}</div>`;
+}
+
+function shoppingSummaryCards(summary,category){
+  if(!summary||!Object.keys(summary).length)return emptyBox('쇼핑인사이트 요약을 만들 수 있는 데이터가 아직 없습니다.');
+  const delta=summary.delta_pct;
+  const deltaText=delta==null?'비교 데이터 부족':`${delta>0?'+':''}${Number(delta).toFixed(1)}%`;
+  const age=summary.top_age&&summary.top_age.label?`${summary.top_age.label} · ${Number(summary.top_age.index||0).toFixed(1)}`:'확인 중';
+  const gender=summary.top_gender&&summary.top_gender.label?`${summary.top_gender.label} · ${Number(summary.top_gender.index||0).toFixed(1)}`:'확인 중';
+  return `<div class="market-summary-grid"><div class="market-summary-card"><span>최근 쇼핑 클릭 흐름</span><b>${esc(summary.state||'확인 중')}</b><em>${esc(deltaText)} · 대표 키워드 ${esc(summary.primary_keyword||'')}</em></div><div class="market-summary-card"><span>상대 클릭지수 상위 연령</span><b>${esc(age)}</b><em>최근 약 3개월 · 비중 아님</em></div><div class="market-summary-card"><span>상대 클릭지수 상위 성별</span><b>${esc(gender)}</b><em>${esc((category&&category.name)||'NAVER 쇼핑')} 범주 기준</em></div></div>`;
+}
+
+function shoppingAudienceView(age,gender){
+  return `<div class="market-audience-grid"><div class="market-audience-card"><div class="market-minihead"><span>연령별 쇼핑 클릭 신호</span><b>${esc((age&&age.keyword)||'')}</b></div>${relativeBars(age||{})}</div><div class="market-audience-card"><div class="market-minihead"><span>성별 쇼핑 클릭 신호</span><b>${esc((gender&&gender.keyword)||'')}</b></div>${relativeBars(gender||{})}</div></div>`;
+}
+function marketSummaryCards(summary){
+  if(!summary||!Object.keys(summary).length)return emptyBox('검색 관심도 요약을 만들 수 있는 데이터가 아직 없습니다.');
+  const delta=summary.delta_pct;
+  const deltaText=delta==null?'비교 데이터 부족':`${delta>0?'+':''}${Number(delta).toFixed(1)}%`;
+  const deltaSub=summary.recent_3m_avg==null?'최근 데이터 확인 중':`최근 3개월 상대지수 평균 ${Number(summary.recent_3m_avg).toFixed(1)}`;
+  const latest=summary.latest_keyword?`${summary.latest_keyword} · ${Number(summary.latest_ratio||0).toFixed(1)}`:'데이터 확인 중';
+  const peak=summary.peak_period?`${summary.peak_period.slice(0,7)} · ${Number(summary.peak_ratio||0).toFixed(1)}`:'데이터 확인 중';
+  return `<div class="market-summary-grid"><div class="market-summary-card"><span>최근 검색 관심 흐름</span><b>${esc(summary.state||'확인 중')}</b><em>${esc(deltaText)} · ${esc(deltaSub)}</em></div><div class="market-summary-card"><span>최근 시점 관심 키워드</span><b>${esc(latest)}</b><em>${esc((summary.latest_period||'').slice(0,7))} 상대 관심지수</em></div><div class="market-summary-card"><span>${esc(summary.primary_keyword||'대표 검색어')} 최고 관심 시점</span><b>${esc(peak)}</b><em>최근 12개월 조회 범위 기준</em></div></div>`;
+}
+function marketErrorNotice(errors){
+  const arr=Object.entries(errors||{});if(!arr.length)return '';
+  return `<div class="callout warnbox market-partial-error"><b>일부 NAVER 데이터만 불러왔습니다.</b><br>${arr.map(([k])=>esc(k.replace('_',' '))).join(', ')} 연결을 확인해 주세요. 정상 조회된 데이터는 그대로 표시합니다.</div>`;
+}
+function renderMarket(m){
+  const el=q('marketData');if(!el)return;
+  const keywords=(m.keywords||[]).map(x=>`<span class="chip">${esc(x)}</span>`).join('');
+  if(!m.connected){
+    el.innerHTML=`<div class="card"><div class="cardhead"><div><h2 class="questiontitle">NAVER 시장 참고자료</h2><p class="explain">DataLab 수치 분석과 뉴스·블로그 원문 레퍼런스를 분리해 연결합니다.</p></div><span class="badge warn">연동 대기</span></div><div class="chiprow">${keywords}</div>${marketUsageSplit(m.usage_policy||{})}<div class="callout warnbox" style="margin-top:14px"><b>NAVER API HUB 연결 전입니다.</b><br>${esc(m.reason||'관리자가 API 연결을 완료하면 자동으로 시장 참고자료가 표시됩니다.')}</div><div class="market-source-note"><b>연결 방법</b> · 압축파일의 MARKET_API_SETUP_KO.txt를 확인하세요. Client Secret은 공개 GitHub에 올리지 않습니다.</div></div>`;
+    return;
+  }
+  const trendUpdated=m.trend_updated_at?new Date(m.trend_updated_at*1000).toLocaleString('ko-KR'):'';
+  const shoppingUpdated=m.shopping_updated_at?new Date(m.shopping_updated_at*1000).toLocaleString('ko-KR'):'';
+  const refUpdated=m.reference_updated_at?new Date(m.reference_updated_at*1000).toLocaleString('ko-KR'):'';
+  el.innerHTML=`<div class="card market-overview"><div class="cardhead"><div><h2 class="questiontitle">시장자료 사용 기준</h2><p class="explain">정량 시장 신호와 검색결과 원문을 같은 자료처럼 섞지 않고 역할을 나눠 제공합니다.</p></div><div class="market-actions"><span class="badge good">NAVER 연결</span><button id="marketRefreshBtn" class="btn market-refresh-btn" type="button">시장자료 새로고침</button></div></div>${marketUsageSplit(m.usage_policy||{})}<div class="chiprow market-keywords">${keywords}</div></div>
+  ${marketErrorNotice(m.errors)}
+  <div class="market-reference-head section"><span class="sectiontag">SEARCH DEMAND</span><h2>사람들이 얼마나 검색하고 있나?</h2><p>NAVER DataLab Search Trend의 상대 검색 관심지수로 제품 관련 검색어의 최근 흐름을 봅니다.</p></div>
+  <div class="card"><div class="cardhead"><div><h2 class="questiontitle">NAVER 검색시장 한눈에 보기</h2><p class="explain">제품 관련 검색어의 최근 12개월 상대 관심 흐름입니다.</p></div><span class="badge flat">Search Trend</span></div>${marketSummaryCards(m.trend_summary||{})}<div class="market-source-note"><b>해석 기준</b> · 상대 검색 관심지수는 절대 검색량이 아닙니다. 최근 3개월 평균과 직전 3개월 평균을 비교한 참고 신호이며, 판매량·펀딩 성과를 뜻하지 않습니다.${trendUpdated?` · 조회 ${esc(trendUpdated)}`:''}</div></div>
+  <div class="card section"><div class="cardhead"><div><h2 class="questiontitle">최근 12개월 NAVER 검색 관심도</h2><p class="explain">제품과 관련된 핵심 검색어를 한 번의 동일 조회 조건에서 비교합니다.</p></div><span class="badge flat">자동분석 가능</span></div>${trendSvg(m.trend||[],'search')}</div>
+
+  <div class="market-reference-head section"><span class="sectiontag">SHOPPING CLICK SIGNAL</span><h2>검색에서 실제 쇼핑 탐색으로 이어지는 관심은?</h2><p>NAVER Shopping Insight로 쇼핑 영역의 상대 클릭 추이와 연령·성별 신호를 따로 확인합니다. 설문 표본의 연령·성별 비율과 합쳐 계산하지 않습니다.</p></div>
+  <div class="card"><div class="cardhead"><div><h2 class="questiontitle">NAVER 쇼핑 관심 한눈에 보기</h2><p class="explain">${esc((m.shopping_category||{}).name||'관련 쇼핑 카테고리')} 안에서 제품 관련 키워드의 상대 클릭 흐름을 봅니다.</p></div><span class="badge flat">Shopping Insight</span></div>${shoppingSummaryCards(m.shopping_summary||{},m.shopping_category||{})}<div class="market-source-note"><b>해석 기준</b> · 쇼핑인사이트의 숫자 역시 상대지수입니다. 실제 클릭수, 구매자 비율, 시장점유율로 읽으면 안 됩니다.${shoppingUpdated?` · 조회 ${esc(shoppingUpdated)}`:''}</div></div>
+  <div class="card section"><div class="cardhead"><div><h2 class="questiontitle">최근 12개월 NAVER 쇼핑 클릭 관심도</h2><p class="explain">동일 카테고리·동일 기간 안에서 제품 관련 키워드의 상대 클릭 추이를 비교합니다.</p></div><span class="badge flat">쇼핑 클릭지수</span></div>${trendSvg(m.shopping_trend||[],'shopping')}</div>
+  <div class="card section"><div class="cardhead"><div><h2 class="questiontitle">어떤 연령·성별에서 쇼핑 클릭 신호가 상대적으로 강한가?</h2><p class="explain">최근 약 3개월의 상대 클릭지수입니다. '응답자 비율'이나 '구매고객 구성비'가 아니라 외부 시장 참고 신호입니다.</p></div><span class="badge flat">비중 아님</span></div>${shoppingAudienceView(m.shopping_age||{},m.shopping_gender||{})}</div>
+
+  <div class="market-reference-head section"><span class="sectiontag">DIRECT REFERENCES ONLY</span><h2>최신 기사 원문 레퍼런스</h2><p>시장 이슈를 직접 확인하기 위한 영역입니다. 제목·날짜·원문 링크만 보여주며 기사 내용을 요약·평가·분류하지 않습니다.${refUpdated?` · 최근 조회 ${esc(refUpdated)}`:''}</p><span class="print-link-note print-only">PDF의 기사·블로그 제목 또는 ‘원문 보기’를 클릭하면 원문으로 이동합니다. Chrome의 ‘PDF로 저장’을 권장합니다.</span></div>
+  ${searchGroupCards(m.news_groups||[],'NAVER 뉴스')}
+  <div class="market-reference-head section"><span class="sectiontag">DIRECT REFERENCES ONLY</span><h2>제품 사용 맥락 원문 레퍼런스</h2><p>추가 탐색이 필요할 때 직접 원문을 확인하기 위한 NAVER 블로그 검색결과입니다. 소비자 설문 결과와 결합해 새로운 지표를 만들지 않습니다.</p></div>
+  ${searchGroupCards(m.blog_groups||[],'NAVER 블로그')}
+  <div class="market-source-note policy-note"><b>WADIPASS 데이터 분리 원칙</b> · ${esc((m.usage_policy||{}).not_used||'뉴스·블로그 검색결과는 자동분석에 사용하지 않습니다.')} · ${esc((m.usage_policy||{}).search_cache||'검색 API 결과는 서버에 저장하지 않습니다.')}</div>`;
+  const marketBtn=q('marketRefreshBtn');if(marketBtn)marketBtn.onclick=()=>loadMarket(true);
+}
+
+async function loadMarket(force=false){
+  const el=q('marketData');
+  // GitHub Pages는 생성된 정적 데이터를 읽으며 NAVER 시장자료도 생성 시점 데이터를 사용합니다.
+  // 이미 받은 시장자료가 있으면 즉시 복원하고, 사용자가 새로고침을 눌렀을 때만 강제 재조회합니다.
+  if(marketSnapshot && !force){
+    renderMarket(marketSnapshot);
+    marketLoaded=true;
+    return;
+  }
+  if(el)el.innerHTML=emptyBox(force?'시장자료를 새로 불러오는 중입니다.':'외부 시장 데이터를 불러오는 중입니다.');
+  try{
+    const r=await fetch(DATA_BASE+'market.json?ts='+Date.now(), {cache:'no-store'});
+    if(!r.ok)throw new Error('시장 데이터 연결 실패');
+    const m=await r.json();
+    marketSnapshot=m;
+    marketLoaded=true;
+    renderMarket(m);
+  }catch(e){
+    if(marketSnapshot){renderMarket(marketSnapshot);return;}
+    if(el)el.innerHTML=`<div class="callout warnbox"><b>시장 데이터 연결을 확인해 주세요.</b><br>${esc(e.message)}</div>`;
+  }
+}
+
+async function printReport(){
+  /* Market references are part of the report, so wait for them once before printing. */
+  if(!marketLoaded){
+    try{await loadMarket(false)}catch(e){}
+  }
+  document.body.classList.add('printing-report');
+  const restore=()=>{document.body.classList.remove('printing-report');window.removeEventListener('afterprint',restore)};
+  window.addEventListener('afterprint',restore);
+  try{if(document.fonts&&document.fonts.ready)await document.fonts.ready}catch(e){}
+  setTimeout(()=>window.print(),180);
+}
+
+async function load(){
+  try{
+    const [rr,sr]=await Promise.all([fetch(DATA_BASE+'scarnon.json?ts='+Date.now(), {cache:'no-store'}),fetch(DATA_BASE+'status.json?ts='+Date.now(), {cache:'no-store'})]);
+    if(!rr.ok)throw new Error('아직 SCARNON 데이터가 생성되지 않았습니다. GitHub Actions에서 Update SCARNON data를 한 번 실행해 주세요.');
+    const d=await rr.json(),s=await sr.json();setSync(s);currentProjectKey=d.project_key;document.title=`${d.brand} · WADIPASS 메이커 리포트`;
+    const st=d.sample_stage;
+    const lockText='데이터 수집이 종료된 최종 응답을 기준으로 분석합니다. 표본이 적은 연령·성별 집단은 참고용으로 구분합니다.';
+
+    q('content').innerHTML=`
+    <div class="print-report-head"><b>WADIPASS Pre-Launch Report</b><span>${esc(d.brand)} · ${esc(d.short_name)}</span></div>
+    <div class="makerhero"><div class="hero-top"><div class="hero-title-row"><div class="hero-title-copy"><div class="chiprow"><span class="chip brandchip">${esc(d.brand)}</span>${d.category?`<span class="chip">${esc(d.category)}</span>`:''}<span class="chip live"><i></i> GitHub 데이터 자동 반영</span></div><h1>${esc(d.short_name)}</h1><p class="lede">${esc(d.headline)}</p></div><button id="heroPdfBtn" class="btn pdf-hero-btn" type="button"><span class="pdf-mark">PDF</span> 리포트 저장</button></div></div><div class="hero-bottom compact"><div class="hero-response-count"><span>최종 분석 응답</span><b>${fmt(d.n)}명</b><em>최종 표본</em></div><div><span class="badge good">데이터 수집 완료</span></div></div></div>
+    <div class="notice-lock section"><b>${esc(lockText)}</b></div>
+
+    <nav class="secnav"><div class="inner">${SECTIONS.map((s,i)=>`<button class="secbtn${i===0?' active':''}" data-target="${s.id}">${esc(s.nav)}</button>`).join('')}</div></nav>
+
+    <section id="sec-audience" class="section anchor">${sectionHead(SECTIONS[0])}${demographicsOverview(d)}<div class="section"><div class="sectionhead"><div><span class="sectiontag">INTEREST SPLIT</span><h2>그중 누가 제품에 관심을 보였나?</h2><p>연령·성별 표본을 확인한 다음, “참여하겠다 / 참여하지 않겠다”로 고객을 나눕니다.</p></div></div>${interestSplitOverview(d)}</div></section>
+
+    <section id="sec-interest" class="section anchor">${sectionHead(SECTIONS[1])}${interestStrengthSection(d)}</section>
+
+    <section id="sec-convert" class="section anchor">${sectionHead(SECTIONS[2])}${nonInterestConvertSection(d)}</section>
+
+    <section id="sec-action" class="section anchor">${sectionHead(SECTIONS[3])}${finalActionSummary(d)}${commentInsightSection(d)}<div class="section">${roadmapView(d)}</div>${rawDetailSection(d)}</section>
+
+    <section id="sec-comments" class="section anchor">${sectionHead(SECTIONS[4])}${allCustomerComments(d)}</section>
+
+    <section id="sec-market" class="section anchor">${sectionHead(SECTIONS[5])}<div id="marketData">${emptyBox('외부 시장 데이터를 불러오는 중입니다.')}</div></section>`;
+
+    bindSectionNav();bindVoiceFilters();bindRoadmapChecks(d.project_key);const heroPdf=q('heroPdfBtn');if(heroPdf)heroPdf.onclick=printReport;if(marketSnapshot){renderMarket(marketSnapshot)}else{loadMarket(false)};
+  }catch(e){q('content').innerHTML=`<div class="callout errorbox"><b>데이터를 불러오지 못했습니다.</b><br>${esc(e.message)}</div>`}
+}
+
+let navObserver=null;
+function bindSectionNav(){
+  const btns=[...document.querySelectorAll('.secbtn')];
+  btns.forEach(b=>b.onclick=()=>{const el=q(b.dataset.target);if(el)el.scrollIntoView({behavior:'smooth',block:'start'})});
+  if(navObserver)navObserver.disconnect();
+  navObserver=new IntersectionObserver(entries=>{entries.forEach(en=>{if(!en.isIntersecting)return;btns.forEach(b=>b.classList.toggle('active',b.dataset.target===en.target.id))})},{rootMargin:'-140px 0px -65% 0px'});
+  SECTIONS.forEach(s=>{const el=q(s.id);if(el)navObserver.observe(el)});
+}
+
+function openStates(){const map={};document.querySelectorAll('details').forEach((el,i)=>{map[i]=el.open});return map}
+function restoreStates(map){document.querySelectorAll('details').forEach((el,i)=>{if(map[i])el.open=true})}
+async function reload(){const st=openStates(),y=window.scrollY;await load();restoreStates(st);window.scrollTo({top:y})}
+
+q('refreshBtn').onclick=()=>forceRefresh(reload);
+(async()=>{await load();startCountdown(60,n=>{q('countdown').textContent=n+'초';if(n===60)reload()})})();
+</script>
+</body>
+</html>
