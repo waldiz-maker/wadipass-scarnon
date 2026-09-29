@@ -6,7 +6,7 @@
   "product_name": "불필요한 거품은 모두 뺀 항공우주등급 알로이 야구배트 :SCARNON",
   "short_name": "SCARNON 야구배트",
   "category": "스포츠 / 아웃도어",
-  "n": 367,
+  "n": 368,
   "target": 400,
   "final_ready": true,
   "sample_stage": {
@@ -16,54 +16,54 @@
     "progress": 100.0,
     "confidence": "최종"
   },
-  "headline": "현재 가장 먼저 확인할 구매저항은 '가격 부담'입니다. 참여의향 보조 집계율은 47.1%로, 원응답과의 차이는 0.0%p입니다.",
+  "headline": "현재 가장 먼저 확인할 구매저항은 '가격 부담'입니다. 참여의향 보조 집계율은 47.3%로, 원응답과의 차이는 0.0%p입니다.",
   "checks": [
     {
       "label": "펀딩 참여 의향 있음",
-      "value": "47.1%",
+      "value": "47.3%",
       "status": "보완",
-      "note": "참여의향 응답 367/367명"
+      "note": "참여의향 응답 368/368명"
     },
     {
       "label": "참여의향 보조 집계",
-      "value": "47.1%",
+      "value": "47.3%",
       "status": "관찰",
-      "note": "173명 집계"
+      "note": "174명 집계"
     },
     {
       "label": "가장 필요한 추가정보",
       "value": "성능·내구성·비교",
       "status": "보완",
-      "note": "43.9% 요청"
+      "note": "43.8% 요청"
     }
   ],
   "product_check": {
-    "avg_intent": 47.1,
-    "high_intent_rate": 47.1,
-    "low_intent_rate": 52.9,
-    "intent_valid_n": 367,
+    "avg_intent": 47.3,
+    "high_intent_rate": 47.3,
+    "low_intent_rate": 52.7,
+    "intent_valid_n": 368,
     "intent_distribution": [
       {
         "label": "참여하겠다",
-        "count": 173,
-        "share": 47.1
+        "count": 174,
+        "share": 47.3
       },
       {
         "label": "참여하지 않겠다",
         "count": 194,
-        "share": 52.9
+        "share": 52.7
       }
     ],
     "attractions": [
       {
         "label": "사용감",
-        "count": 160,
-        "share": 43.6
+        "count": 161,
+        "share": 43.8
       },
       {
         "label": "소재·내구성",
         "count": 142,
-        "share": 38.7
+        "share": 38.6
       },
       {
         "label": "타격 성능·기능",
@@ -73,7 +73,7 @@
       {
         "label": "디자인·가격·구성",
         "count": 91,
-        "share": 24.8
+        "share": 24.7
       },
       {
         "label": "차별성·스토리·전문성",
@@ -85,12 +85,12 @@
       {
         "label": "참여하지 않겠다",
         "count": 194,
-        "share": 52.9
+        "share": 52.7
       },
       {
         "label": "참여하겠다",
-        "count": 173,
-        "share": 47.1
+        "count": 174,
+        "share": 47.3
       }
     ],
     "q2_needs": [
@@ -101,8 +101,8 @@
       },
       {
         "label": "주변 사용자 있음",
-        "count": 94,
-        "share": 25.6
+        "count": 95,
+        "share": 25.8
       },
       {
         "label": "야구 비관심",
@@ -124,12 +124,12 @@
       {
         "label": "구매 필요 없음",
         "count": 167,
-        "share": 45.5
+        "share": 45.4
       },
       {
         "label": "선물·단체 구매 가능",
-        "count": 109,
-        "share": 29.7
+        "count": 110,
+        "share": 29.9
       },
       {
         "label": "추가·신규 구매 필요",
@@ -144,7 +144,7 @@
       {
         "label": "교체 고려",
         "count": 23,
-        "share": 6.3
+        "share": 6.2
       }
     ],
     "segment_map": [
@@ -164,10 +164,10 @@
       },
       {
         "label": "주변 사용자 있음",
-        "count": 94,
-        "share": 25.6,
-        "avg_intent": 69.1,
-        "high_intent_rate": 69.1
+        "count": 95,
+        "share": 25.8,
+        "avg_intent": 69.5,
+        "high_intent_rate": 69.5
       },
       {
         "label": "야구 관심·사용기회 적음",
@@ -188,16 +188,16 @@
   },
   "price_check": {
     "reference_price": 120000.0,
-    "cost_barrier_rate": 42.8,
-    "high_intent_cost_barrier_rate": 33.5,
+    "cost_barrier_rate": 42.9,
+    "high_intent_cost_barrier_rate": 33.9,
     "note": "현재 제시가격에서 가격·비용 저항을 추적합니다. 관심군은 Q1에서 펀딩 참여 의향이 있다고 답한 응답자입니다."
   },
   "conversion_check": {
     "funding_available": true,
-    "funding_count": 173,
-    "funding_rate": 47.1,
+    "funding_count": 174,
+    "funding_rate": 47.3,
     "interest_action_gap": 0.0,
-    "high_intent_n": 173,
+    "high_intent_n": 174,
     "high_intent_nonfunded_n": 0,
     "high_intent_nonfunded_barriers": []
   },
@@ -206,22 +206,22 @@
       {
         "label": "성능·내구성·비교",
         "count": 161,
-        "share": 43.9
+        "share": 43.8
       },
       {
         "label": "타격·스윙 영상",
-        "count": 147,
-        "share": 40.1
+        "count": 148,
+        "share": 40.2
       },
       {
         "label": "사용자·선수 후기",
-        "count": 112,
-        "share": 30.5
+        "count": 113,
+        "share": 30.7
       },
       {
         "label": "상세 규격·선택 가이드",
         "count": 109,
-        "share": 29.7
+        "share": 29.6
       },
       {
         "label": "메이커·개발·AS",
@@ -232,23 +232,23 @@
     "top_barriers": [
       {
         "label": "가격 부담",
-        "count": 157,
-        "share": 42.8
+        "count": 158,
+        "share": 42.9
       },
       {
         "label": "성능·품질 확신 부족",
         "count": 144,
-        "share": 39.2
+        "share": 39.1
       },
       {
         "label": "적합 규격 판단 어려움",
-        "count": 78,
-        "share": 21.3
+        "count": 79,
+        "share": 21.5
       },
       {
         "label": "구매 필요성 낮음",
         "count": 66,
-        "share": 18.0
+        "share": 17.9
       },
       {
         "label": "차별성·신뢰 부족",
@@ -1977,22 +1977,22 @@
       {
         "label": "30대",
         "count": 143,
-        "share": 39.0
+        "share": 38.9
       },
       {
         "label": "20대",
         "count": 89,
-        "share": 24.3
+        "share": 24.2
       },
       {
         "label": "40대",
-        "count": 76,
-        "share": 20.7
+        "count": 77,
+        "share": 20.9
       },
       {
         "label": "50대",
         "count": 41,
-        "share": 11.2
+        "share": 11.1
       },
       {
         "label": "60대 이상",
@@ -2009,12 +2009,12 @@
       {
         "label": "남성",
         "count": 195,
-        "share": 53.1
+        "share": 53.0
       },
       {
         "label": "여성",
-        "count": 168,
-        "share": 45.8
+        "count": 169,
+        "share": 45.9
       },
       {
         "label": "응답하고 싶지 않음",
@@ -2043,9 +2043,9 @@
       },
       {
         "label": "40대",
-        "count": 76,
+        "count": 77,
         "avg_intent": null,
-        "high_intent_rate": 51.3
+        "high_intent_rate": 51.9
       },
       {
         "label": "50대",
@@ -2242,186 +2242,186 @@
       },
       {
         "label": "40대",
-        "count": 76,
+        "count": 77,
         "avg_intent": null,
-        "high_intent_rate": 51.3,
-        "purchase_need_rate": 50.0,
-        "purchase_need_valid_n": 76,
+        "high_intent_rate": 51.9,
+        "purchase_need_rate": 50.6,
+        "purchase_need_valid_n": 77,
         "top_age": {
           "label": "40대",
-          "count": 76,
+          "count": 77,
           "share": 100.0
         },
         "top_gender": {
           "label": "남성",
           "count": 50,
-          "share": 65.8
+          "share": 64.9
         },
         "top_context": {
           "label": "과거 사용 경험",
           "count": 23,
-          "share": 30.3
+          "share": 29.9
         },
         "top_need": {
           "label": "구매 필요 없음",
           "count": 35,
-          "share": 46.1
+          "share": 45.5
         },
         "top_attraction": {
           "label": "소재·내구성",
           "count": 33,
-          "share": 43.4
+          "share": 42.9
         },
         "top_evidence": {
           "label": "성능·내구성·비교",
           "count": 40,
-          "share": 52.6
+          "share": 51.9
         },
         "top_barrier": {
           "label": "가격 부담",
-          "count": 36,
-          "share": 47.4
+          "count": 37,
+          "share": 48.1
         },
         "attractions": [
           {
             "label": "소재·내구성",
             "count": 33,
-            "share": 43.4
+            "share": 42.9
           },
           {
             "label": "사용감",
-            "count": 32,
-            "share": 42.1
+            "count": 33,
+            "share": 42.9
           },
           {
             "label": "디자인·가격·구성",
             "count": 20,
-            "share": 26.3
+            "share": 26.0
           },
           {
             "label": "타격 성능·기능",
             "count": 18,
-            "share": 23.7
+            "share": 23.4
           },
           {
             "label": "차별성·스토리·전문성",
             "count": 11,
-            "share": 14.5
+            "share": 14.3
           }
         ],
         "evidence": [
           {
             "label": "성능·내구성·비교",
             "count": 40,
-            "share": 52.6
+            "share": 51.9
           },
           {
             "label": "타격·스윙 영상",
-            "count": 31,
-            "share": 40.8
+            "count": 32,
+            "share": 41.6
           },
           {
             "label": "사용자·선수 후기",
-            "count": 24,
-            "share": 31.6
+            "count": 25,
+            "share": 32.5
           },
           {
             "label": "상세 규격·선택 가이드",
             "count": 20,
-            "share": 26.3
+            "share": 26.0
           },
           {
             "label": "메이커·개발·AS",
             "count": 9,
-            "share": 11.8
+            "share": 11.7
           }
         ],
         "barriers": [
           {
             "label": "가격 부담",
-            "count": 36,
-            "share": 47.4
+            "count": 37,
+            "share": 48.1
           },
           {
             "label": "성능·품질 확신 부족",
             "count": 35,
-            "share": 46.1
+            "share": 45.5
           },
           {
             "label": "차별성·신뢰 부족",
             "count": 15,
-            "share": 19.7
+            "share": 19.5
           },
           {
             "label": "구매 필요성 낮음",
             "count": 11,
-            "share": 14.5
+            "share": 14.3
           },
           {
             "label": "적합 규격 판단 어려움",
-            "count": 9,
-            "share": 11.8
+            "count": 10,
+            "share": 13.0
           }
         ],
         "q1": [
           {
             "label": "참여하겠다",
-            "count": 39,
-            "share": 51.3
+            "count": 40,
+            "share": 51.9
           },
           {
             "label": "참여하지 않겠다",
             "count": 37,
-            "share": 48.7
+            "share": 48.1
           }
         ],
         "q2": [
           {
             "label": "과거 사용 경험",
             "count": 23,
-            "share": 30.3
+            "share": 29.9
           },
           {
             "label": "야구 비관심",
             "count": 18,
-            "share": 23.7
+            "share": 23.4
           },
           {
             "label": "야구 관심·사용기회 적음",
             "count": 16,
-            "share": 21.1
+            "share": 20.8
           },
           {
             "label": "주변 사용자 있음",
-            "count": 13,
-            "share": 17.1
+            "count": 14,
+            "share": 18.2
           },
           {
             "label": "현재 직접 사용",
             "count": 6,
-            "share": 7.9
+            "share": 7.8
           }
         ],
         "q3": [
           {
             "label": "구매 필요 없음",
             "count": 35,
-            "share": 46.1
+            "share": 45.5
           },
           {
             "label": "선물·단체 구매 가능",
-            "count": 21,
-            "share": 27.6
+            "count": 22,
+            "share": 28.6
           },
           {
             "label": "추가·신규 구매 필요",
             "count": 13,
-            "share": 17.1
+            "share": 16.9
           },
           {
             "label": "교체 고려",
             "count": 4,
-            "share": 5.3
+            "share": 5.2
           },
           {
             "label": "현재 제품 만족",
@@ -3095,12 +3095,12 @@
             "share": 16.7
           },
           {
-            "label": "소재·내구성",
+            "label": "타격 성능·기능",
             "count": 1,
             "share": 16.7
           },
           {
-            "label": "타격 성능·기능",
+            "label": "소재·내구성",
             "count": 1,
             "share": 16.7
           }
@@ -3409,93 +3409,93 @@
       },
       {
         "label": "여성",
-        "count": 168,
+        "count": 169,
         "avg_intent": null,
-        "high_intent_rate": 26.8,
-        "purchase_need_rate": 32.1,
-        "purchase_need_valid_n": 168,
+        "high_intent_rate": 27.2,
+        "purchase_need_rate": 32.5,
+        "purchase_need_valid_n": 169,
         "top_age": {
           "label": "30대",
           "count": 63,
-          "share": 37.5
+          "share": 37.3
         },
         "top_gender": {
           "label": "여성",
-          "count": 168,
+          "count": 169,
           "share": 100.0
         },
         "top_context": {
           "label": "야구 비관심",
           "count": 67,
-          "share": 39.9
+          "share": 39.6
         },
         "top_need": {
           "label": "구매 필요 없음",
           "count": 102,
-          "share": 60.7
+          "share": 60.4
         },
         "top_attraction": {
           "label": "소재·내구성",
           "count": 78,
-          "share": 46.4
+          "share": 46.2
         },
         "top_evidence": {
           "label": "성능·내구성·비교",
           "count": 77,
-          "share": 45.8
+          "share": 45.6
         },
         "top_barrier": {
           "label": "가격 부담",
-          "count": 81,
-          "share": 48.2
+          "count": 82,
+          "share": 48.5
         },
         "attractions": [
           {
             "label": "소재·내구성",
             "count": 78,
-            "share": 46.4
+            "share": 46.2
           },
           {
             "label": "사용감",
-            "count": 53,
-            "share": 31.5
+            "count": 54,
+            "share": 32.0
           },
           {
             "label": "디자인·가격·구성",
             "count": 52,
-            "share": 31.0
+            "share": 30.8
           },
           {
             "label": "차별성·스토리·전문성",
             "count": 39,
-            "share": 23.2
+            "share": 23.1
           },
           {
             "label": "타격 성능·기능",
             "count": 39,
-            "share": 23.2
+            "share": 23.1
           }
         ],
         "evidence": [
           {
             "label": "성능·내구성·비교",
             "count": 77,
-            "share": 45.8
+            "share": 45.6
           },
           {
             "label": "타격·스윙 영상",
-            "count": 63,
-            "share": 37.5
+            "count": 64,
+            "share": 37.9
           },
           {
             "label": "사용자·선수 후기",
-            "count": 61,
-            "share": 36.3
+            "count": 62,
+            "share": 36.7
           },
           {
             "label": "상세 규격·선택 가이드",
             "count": 52,
-            "share": 31.0
+            "share": 30.8
           },
           {
             "label": "메이커·개발·AS",
@@ -3506,62 +3506,62 @@
         "barriers": [
           {
             "label": "가격 부담",
-            "count": 81,
-            "share": 48.2
+            "count": 82,
+            "share": 48.5
           },
           {
             "label": "성능·품질 확신 부족",
             "count": 50,
-            "share": 29.8
+            "share": 29.6
           },
           {
             "label": "구매 필요성 낮음",
             "count": 47,
-            "share": 28.0
+            "share": 27.8
           },
           {
             "label": "적합 규격 판단 어려움",
-            "count": 36,
-            "share": 21.4
+            "count": 37,
+            "share": 21.9
           },
           {
             "label": "차별성·신뢰 부족",
             "count": 26,
-            "share": 15.5
+            "share": 15.4
           }
         ],
         "q1": [
           {
             "label": "참여하지 않겠다",
             "count": 123,
-            "share": 73.2
+            "share": 72.8
           },
           {
             "label": "참여하겠다",
-            "count": 45,
-            "share": 26.8
+            "count": 46,
+            "share": 27.2
           }
         ],
         "q2": [
           {
             "label": "야구 비관심",
             "count": 67,
-            "share": 39.9
+            "share": 39.6
           },
           {
             "label": "주변 사용자 있음",
-            "count": 41,
-            "share": 24.4
+            "count": 42,
+            "share": 24.9
           },
           {
             "label": "야구 관심·사용기회 적음",
             "count": 38,
-            "share": 22.6
+            "share": 22.5
           },
           {
             "label": "과거 사용 경험",
             "count": 19,
-            "share": 11.3
+            "share": 11.2
           },
           {
             "label": "현재 직접 사용",
@@ -3573,12 +3573,12 @@
           {
             "label": "구매 필요 없음",
             "count": 102,
-            "share": 60.7
+            "share": 60.4
           },
           {
             "label": "선물·단체 구매 가능",
-            "count": 40,
-            "share": 23.8
+            "count": 41,
+            "share": 24.3
           },
           {
             "label": "현재 제품 만족",
@@ -3760,7 +3760,7 @@
     "age_insights": [
       {
         "title": "40대에서 펀딩 참여의향이 가장 높음",
-        "text": "참여하겠다 51.3% · n=76. 1순위 매력은 '소재·내구성'입니다.",
+        "text": "참여하겠다 51.9% · n=77. 1순위 매력은 '소재·내구성'입니다.",
         "level": "발견"
       },
       {
@@ -3770,7 +3770,7 @@
       },
       {
         "title": "40대가 가장 원하는 추가정보",
-        "text": "추가정보 1순위는 '성능·내구성·비교'이며 선택률은 52.6%입니다. 상세페이지 보강 우선순위 후보입니다.",
+        "text": "추가정보 1순위는 '성능·내구성·비교'이며 선택률은 51.9%입니다. 상세페이지 보강 우선순위 후보입니다.",
         "level": "확인"
       }
     ],
@@ -3781,82 +3781,82 @@
         "level": "발견"
       },
       {
-        "title": "남성의 핵심 장벽 · 성능·품질 확신 부족",
-        "text": "이 집단의 48.2%가 선택했습니다. 같은 전체 평균보다 집단별 차이를 함께 확인하세요.",
+        "title": "여성의 핵심 장벽 · 가격 부담",
+        "text": "이 집단의 48.5%가 선택했습니다. 같은 전체 평균보다 집단별 차이를 함께 확인하세요.",
         "level": "확인"
       },
       {
         "title": "여성가 가장 원하는 추가정보",
-        "text": "추가정보 1순위는 '성능·내구성·비교'이며 선택률은 45.8%입니다. 상세페이지 보강 우선순위 후보입니다.",
+        "text": "추가정보 1순위는 '성능·내구성·비교'이며 선택률은 45.6%입니다. 상세페이지 보강 우선순위 후보입니다.",
         "level": "확인"
       }
     ]
   },
   "interest_segments": {
-    "valid_n": 367,
+    "valid_n": 368,
     "unknown_n": 0,
     "high": {
       "label": "관심군 · Q1 펀딩 참여 의향 있음",
-      "count": 173,
+      "count": 174,
       "avg_intent": null,
       "high_intent_rate": 100.0,
-      "purchase_need_rate": 78.6,
-      "purchase_need_valid_n": 173,
+      "purchase_need_rate": 78.7,
+      "purchase_need_valid_n": 174,
       "top_age": {
         "label": "30대",
         "count": 62,
-        "share": 35.8
+        "share": 35.6
       },
       "top_gender": {
         "label": "남성",
         "count": 127,
-        "share": 73.4
+        "share": 73.0
       },
       "top_context": {
         "label": "과거 사용 경험",
         "count": 68,
-        "share": 39.3
+        "share": 39.1
       },
       "top_need": {
         "label": "선물·단체 구매 가능",
-        "count": 75,
-        "share": 43.4
+        "count": 76,
+        "share": 43.7
       },
       "top_attraction": {
         "label": "사용감",
-        "count": 91,
-        "share": 52.6
+        "count": 92,
+        "share": 52.9
       },
       "top_evidence": {
         "label": "타격·스윙 영상",
-        "count": 82,
-        "share": 47.4
+        "count": 83,
+        "share": 47.7
       },
       "top_barrier": {
         "label": "성능·품질 확신 부족",
         "count": 93,
-        "share": 53.8
+        "share": 53.4
       },
       "attractions": [
         {
           "label": "사용감",
-          "count": 91,
-          "share": 52.6
+          "count": 92,
+          "share": 52.9
         },
         {
           "label": "소재·내구성",
           "count": 59,
-          "share": 34.1
+          "share": 33.9
         },
         {
           "label": "타격 성능·기능",
           "count": 57,
-          "share": 32.9
+          "share": 32.8
         },
         {
           "label": "디자인·가격·구성",
           "count": 35,
-          "share": 20.2
+          "share": 20.1
         },
         {
           "label": "차별성·스토리·전문성",
@@ -3867,23 +3867,23 @@
       "evidence": [
         {
           "label": "타격·스윙 영상",
-          "count": 82,
-          "share": 47.4
+          "count": 83,
+          "share": 47.7
         },
         {
           "label": "성능·내구성·비교",
           "count": 67,
-          "share": 38.7
+          "share": 38.5
         },
         {
           "label": "상세 규격·선택 가이드",
           "count": 55,
-          "share": 31.8
+          "share": 31.6
         },
         {
           "label": "사용자·선수 후기",
-          "count": 40,
-          "share": 23.1
+          "count": 41,
+          "share": 23.6
         },
         {
           "label": "메이커·개발·AS",
@@ -3895,33 +3895,33 @@
         {
           "label": "성능·품질 확신 부족",
           "count": 93,
-          "share": 53.8
+          "share": 53.4
         },
         {
           "label": "가격 부담",
-          "count": 58,
-          "share": 33.5
+          "count": 59,
+          "share": 33.9
         },
         {
           "label": "적합 규격 판단 어려움",
-          "count": 44,
-          "share": 25.4
+          "count": 45,
+          "share": 25.9
         },
         {
           "label": "차별성·신뢰 부족",
           "count": 32,
-          "share": 18.5
+          "share": 18.4
         },
         {
           "label": "구매 필요성 낮음",
           "count": 10,
-          "share": 5.8
+          "share": 5.7
         }
       ],
       "q1": [
         {
           "label": "참여하겠다",
-          "count": 173,
+          "count": 174,
           "share": 100.0
         }
       ],
@@ -3929,12 +3929,12 @@
         {
           "label": "과거 사용 경험",
           "count": 68,
-          "share": 39.3
+          "share": 39.1
         },
         {
           "label": "주변 사용자 있음",
-          "count": 65,
-          "share": 37.6
+          "count": 66,
+          "share": 37.9
         },
         {
           "label": "현재 직접 사용",
@@ -3955,23 +3955,23 @@
       "q3": [
         {
           "label": "선물·단체 구매 가능",
-          "count": 75,
-          "share": 43.4
+          "count": 76,
+          "share": 43.7
         },
         {
           "label": "추가·신규 구매 필요",
           "count": 39,
-          "share": 22.5
+          "share": 22.4
         },
         {
           "label": "교체 고려",
           "count": 22,
-          "share": 12.7
+          "share": 12.6
         },
         {
           "label": "구매 필요 없음",
           "count": 20,
-          "share": 11.6
+          "share": 11.5
         },
         {
           "label": "현재 제품 만족",
@@ -3987,27 +3987,27 @@
         "디자인이 세련됐어오 . 정말 야구를 좋아하고 깊이 고민한 흔적이 있네요 .. 색감도 좋고 그립감도 좋아보이니 직접 사용해 보지 않고도 신뢰가 갑니다 .",
         "기존배트와의 비교실험을 통한 차별성을 공유하였으면 좋겠습니다."
       ],
-      "share": 47.1,
+      "share": 47.3,
       "age_distribution": [
         {
           "label": "30대",
           "count": 62,
-          "share": 35.8
+          "share": 35.6
         },
         {
           "label": "20대",
           "count": 44,
-          "share": 25.4
+          "share": 25.3
         },
         {
           "label": "40대",
-          "count": 39,
-          "share": 22.5
+          "count": 40,
+          "share": 23.0
         },
         {
           "label": "50대",
           "count": 20,
-          "share": 11.6
+          "share": 11.5
         },
         {
           "label": "60대 이상",
@@ -4024,12 +4024,12 @@
         {
           "label": "남성",
           "count": 127,
-          "share": 73.4
+          "share": 73.0
         },
         {
           "label": "여성",
-          "count": 45,
-          "share": 26.0
+          "count": 46,
+          "share": 26.4
         },
         {
           "label": "응답하고 싶지 않음",
@@ -4040,38 +4040,38 @@
       "age_feedback": [
         {
           "label": "40대",
-          "count": 39,
-          "base_count": 76,
-          "share": 22.5,
-          "segment_rate": 51.3,
-          "interest_rate": 51.3,
+          "count": 40,
+          "base_count": 77,
+          "share": 23.0,
+          "segment_rate": 51.9,
+          "interest_rate": 51.9,
           "noninterest_rate": null,
           "sample_flag": "충분",
           "ranking_eligible": true,
           "top_context": {
             "label": "과거 사용 경험",
             "count": 19,
-            "share": 48.7
+            "share": 47.5
           },
           "top_need": {
             "label": "선물·단체 구매 가능",
-            "count": 14,
-            "share": 35.9
+            "count": 15,
+            "share": 37.5
           },
           "top_attraction": {
             "label": "사용감",
-            "count": 21,
-            "share": 53.8
+            "count": 22,
+            "share": 55.0
           },
           "top_evidence": {
             "label": "성능·내구성·비교",
             "count": 20,
-            "share": 51.3
+            "share": 50.0
           },
           "top_barrier": {
             "label": "성능·품질 확신 부족",
             "count": 25,
-            "share": 64.1
+            "share": 62.5
           },
           "comments": [
             "결국 사람은 가격과 품질 즉 스팩을 보고 사게 됩니다. 신뢰를 줄 수 있는 사용 후기등을 추가로 넣는 갓이 좋아보임",
@@ -4083,7 +4083,7 @@
           "label": "20대",
           "count": 44,
           "base_count": 89,
-          "share": 25.4,
+          "share": 25.3,
           "segment_rate": 49.4,
           "interest_rate": 49.4,
           "noninterest_rate": null,
@@ -4124,7 +4124,7 @@
           "label": "50대",
           "count": 20,
           "base_count": 41,
-          "share": 11.6,
+          "share": 11.5,
           "segment_rate": 48.8,
           "interest_rate": 48.8,
           "noninterest_rate": null,
@@ -4146,7 +4146,7 @@
             "share": 45.0
           },
           "top_evidence": {
-            "label": "성능·내구성·비교",
+            "label": "타격·스윙 영상",
             "count": 8,
             "share": 40.0
           },
@@ -4165,7 +4165,7 @@
           "label": "30대",
           "count": 62,
           "base_count": 143,
-          "share": 35.8,
+          "share": 35.6,
           "segment_rate": 43.4,
           "interest_rate": 43.4,
           "noninterest_rate": null,
@@ -4264,12 +4264,12 @@
             "share": 100.0
           },
           "top_attraction": {
-            "label": "소재·내구성",
+            "label": "타격 성능·기능",
             "count": 1,
             "share": 100.0
           },
           "top_evidence": {
-            "label": "성능·내구성·비교",
+            "label": "타격·스윙 영상",
             "count": 1,
             "share": 100.0
           },
@@ -4286,7 +4286,7 @@
           "label": "남성",
           "count": 127,
           "base_count": 195,
-          "share": 73.4,
+          "share": 73.0,
           "segment_rate": 65.1,
           "interest_rate": 65.1,
           "noninterest_rate": null,
@@ -4325,38 +4325,38 @@
         },
         {
           "label": "여성",
-          "count": 45,
-          "base_count": 168,
-          "share": 26.0,
-          "segment_rate": 26.8,
-          "interest_rate": 26.8,
+          "count": 46,
+          "base_count": 169,
+          "share": 26.4,
+          "segment_rate": 27.2,
+          "interest_rate": 27.2,
           "noninterest_rate": null,
           "sample_flag": "충분",
           "ranking_eligible": true,
           "top_context": {
             "label": "주변 사용자 있음",
-            "count": 22,
-            "share": 48.9
+            "count": 23,
+            "share": 50.0
           },
           "top_need": {
             "label": "선물·단체 구매 가능",
-            "count": 18,
-            "share": 40.0
+            "count": 19,
+            "share": 41.3
           },
           "top_attraction": {
             "label": "소재·내구성",
             "count": 20,
-            "share": 44.4
+            "share": 43.5
           },
           "top_evidence": {
             "label": "성능·내구성·비교",
             "count": 19,
-            "share": 42.2
+            "share": 41.3
           },
           "top_barrier": {
             "label": "성능·품질 확신 부족",
             "count": 23,
-            "share": 51.1
+            "share": 50.0
           },
           "comments": [
             "좋아보이기는 하지만 확실하기 더 나은 제품인지 성능 검증은 되어있지만 진짜 그런지 모르기에 조금 망설여지는것은 사실이면 일반인 상대로 검증 하는 부분이 있으면 조금더 믿음이 가지싶기도 해요 제품은 문제 있어보이지 않아요! 좋아보여요!!",
@@ -4615,7 +4615,7 @@
         "실사용자의 만족도 높은 후기나 기존 배트 제품과의 차별점을 강조하면 관심도가 올라갈 것 같아요!",
         "가격이 쫌더 조정됐으면 좋겠습니다. 배트는 일종의 소모품이라서 솔직히 이가격이면 부담스럽습니다"
       ],
-      "share": 52.9,
+      "share": 52.7,
       "age_distribution": [
         {
           "label": "30대",
@@ -4792,11 +4792,11 @@
         {
           "label": "40대",
           "count": 37,
-          "base_count": 76,
+          "base_count": 77,
           "share": 19.1,
-          "segment_rate": 48.7,
+          "segment_rate": 48.1,
           "interest_rate": null,
-          "noninterest_rate": 48.7,
+          "noninterest_rate": 48.1,
           "sample_flag": "충분",
           "ranking_eligible": true,
           "top_context": {
@@ -4915,11 +4915,11 @@
         {
           "label": "여성",
           "count": 123,
-          "base_count": 168,
+          "base_count": 169,
           "share": 63.4,
-          "segment_rate": 73.2,
+          "segment_rate": 72.8,
           "interest_rate": null,
-          "noninterest_rate": 73.2,
+          "noninterest_rate": 72.8,
           "sample_flag": "충분",
           "ranking_eligible": true,
           "top_context": {
@@ -5116,12 +5116,12 @@
           "share": 38.5
         },
         {
-          "label": "상세 규격·선택 가이드",
+          "label": "사용자·선수 후기",
           "count": 14,
           "share": 35.9
         },
         {
-          "label": "사용자·선수 후기",
+          "label": "상세 규격·선택 가이드",
           "count": 14,
           "share": 35.9
         },
@@ -5425,7 +5425,7 @@
         "개발 스토리나 가격 부분은 매력적이고 공감이 갑니다. 하지만 구입을 결정하기 위한 제품에 대한 정보는 좀 더 필요합니다.",
         "제품의 특성에 대한 설명을 들으면 만일 내가 야구를 좋아하고 경기를 직접 즐긴다면 마음이 끌릴만한 내용이지만 가격이 시중제품과 비교할 때 적정한 지 여부를 판단하기 어렵다."
       ],
-      "share": 42.2
+      "share": 42.1
     }
   },
   "roadmap": [
@@ -5433,28 +5433,28 @@
       "key": "target",
       "title": "핵심 관심고객 타깃 확인",
       "status": "확인",
-      "data": "관심고객 173명 · 표본 확보 연령 중 관심률 1위 40대 51.3% · 표본 확보 성별 중 관심률 1위 남성 65.1% · 제품과의 관계 과거 사용 경험",
+      "data": "관심고객 174명 · 표본 확보 연령 중 관심률 1위 40대 51.9% · 표본 확보 성별 중 관심률 1위 남성 65.1% · 제품과의 관계 과거 사용 경험",
       "detail": "최종 표본에서 관심을 보인 고객의 연령·성별·제품 접점을 우선 타깃 후보로 검토하세요. 집단별 유효응답이 적으면 참고값으로만 해석합니다."
     },
     {
       "key": "strength",
       "title": "관심고객이 반응한 강점 유지",
       "status": "유지",
-      "data": "사용감 · 관심고객 내 52.6% 선택",
+      "data": "사용감 · 관심고객 내 52.9% 선택",
       "detail": "이미 반응이 확인된 강점은 상세페이지 수정 과정에서 뒤로 밀리지 않도록 핵심 메시지로 유지하세요."
     },
     {
       "key": "confidence",
       "title": "관심고객의 구매 확신 강화",
       "status": "보완 권장",
-      "data": "주요 망설임 성능·품질 확신 부족 53.8% · 추가로 원하는 정보 타격·스윙 영상 47.4%",
+      "data": "주요 망설임 성능·품질 확신 부족 53.4% · 추가로 원하는 정보 타격·스윙 영상 47.7%",
       "detail": "실제 테스트 수치, 사용 영상, 기존 제품과의 비교 근거를 핵심 기능 설명 바로 뒤에 배치하세요. 실제 타격·스윙 영상을 핵심 성능 설명과 연결"
     },
     {
       "key": "price",
       "title": "관심고객의 가격 설득 보강",
       "status": "보완 권장",
-      "data": "관심고객 중 가격·비용 관련 고민 33.5%",
+      "data": "관심고객 중 가격·비용 관련 고민 33.9%",
       "detail": "가격을 바로 낮추기보다 현재 가격이 납득되는 성능·구성·리워드 근거를 먼저 강화하세요."
     },
     {
@@ -5477,7 +5477,7 @@
       "signal": "높음",
       "status": "최종",
       "title": "구매저항 확인 · 가격 부담",
-      "why": "응답자의 42.8%가 이 항목을 구매 고민 요인으로 선택했습니다.",
+      "why": "응답자의 42.9%가 이 항목을 구매 고민 요인으로 선택했습니다.",
       "recommendation": "가격을 바로 낮추기보다 현재 가격이 납득되는 성능·구성·리워드 근거를 상세페이지에서 먼저 강화하세요.",
       "section": "제품/상세페이지"
     },
@@ -5485,7 +5485,7 @@
       "signal": "높음",
       "status": "최종",
       "title": "상세페이지 보강 · 성능·내구성·비교",
-      "why": "응답자의 43.9%가 구매 전에 이 정보를 더 원했습니다.",
+      "why": "응답자의 43.8%가 구매 전에 이 정보를 더 원했습니다.",
       "recommendation": "성능·내구성 테스트와 경쟁 제품 비교표를 추가",
       "section": "상세페이지"
     },
@@ -5493,7 +5493,7 @@
       "signal": "유지",
       "status": "최종",
       "title": "핵심 매력 유지 · 사용감",
-      "why": "응답자의 43.6%가 이 요소를 매력 포인트로 선택했습니다.",
+      "why": "응답자의 43.8%가 이 요소를 매력 포인트로 선택했습니다.",
       "recommendation": "최종 수정 과정에서도 이 강점이 뒤로 밀리지 않도록 핵심 메시지로 유지하세요.",
       "section": "제품/메시지"
     },
@@ -5501,16 +5501,16 @@
       "signal": "높음",
       "status": "최종",
       "title": "가격·비용 저항 점검",
-      "why": "전체 응답의 42.8%에서 가격 또는 유지비 관련 고민이 나타났습니다. 펀딩 참여 의향이 있는 고객에서도 33.5%입니다.",
+      "why": "전체 응답의 42.9%에서 가격 또는 유지비 관련 고민이 나타났습니다. 펀딩 참여 의향이 있는 고객에서도 33.9%입니다.",
       "recommendation": "가격 인하를 바로 결정하기보다 가격 대비 가치와 총비용 설명을 먼저 최종 점검하세요.",
       "section": "가격/리워드"
     }
   ],
   "data_quality": {
-    "raw_rows": 367,
-    "used_rows": 367,
+    "raw_rows": 368,
+    "used_rows": 368,
     "duplicate_n": 0,
-    "intent_valid_n": 367,
+    "intent_valid_n": 368,
     "intent_complete_rate": 100.0,
     "intent_source": "펀딩 참여 여부 문항"
   }
