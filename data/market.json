@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85817,
+      "api_total": 85818,
       "items": [
+        {
+          "title": "'불꽃<b>야구</b>2', 16번째 직관 경기 오늘(30일) 예매 오픈…상대는 마산용마...",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16228349",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16228349",
+          "pub_date": "Wed, 30 Sep 2026 07:00:00 +0900"
+        },
         {
           "title": "&quot;한국에서 데려왔는데…자랑스럽다&quot; PS 탈락 충격에도 'KBO 역수출' 성공...",
           "url": "http://www.osen.co.kr/article/G1112884558",
@@ -527,12 +533,6 @@
           "url": "https://www.news1.kr/sports/baseball/6305185",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009199080",
           "pub_date": "Tue, 29 Sep 2026 19:15:00 +0900"
-        },
-        {
-          "title": "푸이그, 범가너와 10년 '앙숙' AI 영상으로 풀었다…직접 올린 게시글 화...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1562760",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/445/0000469040",
-          "pub_date": "Tue, 29 Sep 2026 15:34:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790718704,
+  "updated_at": 1790719523,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790718704,
-  "shopping_updated_at": 1790718706,
-  "reference_updated_at": 1790718712
+  "trend_updated_at": 1790719523,
+  "shopping_updated_at": 1790719525,
+  "reference_updated_at": 1790719531
 }
