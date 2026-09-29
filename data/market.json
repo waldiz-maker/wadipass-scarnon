@@ -541,8 +541,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 1331,
+      "api_total": 1332,
       "items": [
+        {
+          "title": "[손병관의 뉴스프레소] 수장 없이 일단 띄우는 '검찰 대체기구'",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271443&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "naver_url": "https://n.news.naver.com/mnews/article/047/0002530693?sid=102",
+          "pub_date": "Wed, 30 Sep 2026 08:06:00 +0900"
+        },
         {
           "title": "포천도시공사, 포천<b>야구</b>장 시설개선 완료…안전·편의 강화",
           "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291355",
@@ -566,12 +572,6 @@
           "url": "https://isplus.com/article/view/isp202608260048",
           "naver_url": "https://n.news.naver.com/mnews/article/241/0003527273?sid=101",
           "pub_date": "Wed, 26 Aug 2026 11:03:00 +0900"
-        },
-        {
-          "title": "삽량<b>야구</b>장 이용 놓고 시민·유소년<b>야구</b>단 갈등",
-          "url": "http://www.yangsanilbo.com/news/articleView.html?idxno=126317",
-          "naver_url": "http://www.yangsanilbo.com/news/articleView.html?idxno=126317",
-          "pub_date": "Fri, 24 Jul 2026 09:22:00 +0900"
         }
       ]
     }
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790723086,
+  "updated_at": 1790724199,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790723086,
-  "shopping_updated_at": 1790723088,
-  "reference_updated_at": 1790723093
+  "trend_updated_at": 1790724199,
+  "shopping_updated_at": 1790724201,
+  "reference_updated_at": 1790724206
 }
