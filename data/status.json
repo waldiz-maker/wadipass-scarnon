@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "last_attempt": "2026-09-29T10:28:09.056507+00:00",
-  "last_success": "2026-09-29T10:28:22.239755+00:00",
+  "last_attempt": "2026-09-29T10:43:33.068946+00:00",
+  "last_success": "2026-09-29T10:43:50.765243+00:00",
   "source": "https://docs.google.com/spreadsheets/d/1xpvAqkwiXlvmdJG_6OzCqdfmvfcNx5_fMV5KNHK45HI/gviz/tq?tqx=out:csv&sheet=responses",
   "source_tab": "responses",
   "error": null,
@@ -83,5 +83,5 @@
   "funding_count": 541,
   "refresh_seconds": 900,
   "build_mode": "github-actions-static",
-  "generated_at": "2026-09-29T10:28:28.761144+00:00"
+  "generated_at": "2026-09-29T10:43:59.033297+00:00"
 }
