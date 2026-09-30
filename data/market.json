@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85835,
+      "api_total": 85836,
       "items": [
+        {
+          "title": "‘<b>야구</b>여왕2’ 김세현, 돌발 행동에 쓴소리",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610010085",
+          "naver_url": "https://www.bntnews.co.kr/article/view/bnt202610010085",
+          "pub_date": "Thu, 01 Oct 2026 08:32:00 +0900"
+        },
         {
           "title": "볼카운트 3B-0S, 이종욱 코치가 “쳐!” 하자 148km 직구 쾅!…개인 최다...",
           "url": "http://www.osen.co.kr/article/G1112885434",
@@ -527,12 +533,6 @@
           "url": "https://www.mydaily.co.kr/page/view/2026093023014274468",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004110800",
           "pub_date": "Wed, 30 Sep 2026 23:33:00 +0900"
-        },
-        {
-          "title": "&quot;내 타석까지 올 것 같았다&quot; 강승호, 두산 가을<b>야구</b> 확정 이끌어낸 '끝내...",
-          "url": "https://www.mydaily.co.kr/page/view/2026093022453155059",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004110795",
-          "pub_date": "Wed, 30 Sep 2026 22:47:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790810634,
+  "updated_at": 1790811435,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790810634,
-  "shopping_updated_at": 1790810637,
-  "reference_updated_at": 1790810648
+  "trend_updated_at": 1790811435,
+  "shopping_updated_at": 1790811437,
+  "reference_updated_at": 1790811443
 }
