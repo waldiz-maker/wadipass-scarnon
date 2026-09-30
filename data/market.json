@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85827,
+      "api_total": 85828,
       "items": [
+        {
+          "title": "[사진] 데이비슨, 홈런 <b>배트</b> 줘야지",
+          "url": "http://www.osen.co.kr/article/G1112885298",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005616041",
+          "pub_date": "Wed, 30 Sep 2026 20:19:00 +0900"
+        },
         {
           "title": "3루심 향해 으르렁거린 만장일치 MVP 예약자, 11타수 연속 무안타 침묵에...",
           "url": "https://www.sportschosun.com/baseball/2026-09-30/202609300100204790013689",
@@ -527,12 +533,6 @@
           "url": "https://www.idomin.com/news/articleView.html?idxno=2016000",
           "naver_url": "https://www.idomin.com/news/articleView.html?idxno=2016000",
           "pub_date": "Wed, 30 Sep 2026 16:10:00 +0900"
-        },
-        {
-          "title": "김하성, 가을<b>야구</b> 첫판부터 선발 출격했지만 '2타수 2삼진' 아쉬움…애...",
-          "url": "https://www.xportsnews.com/article/2202266",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/311/0002063642",
-          "pub_date": "Wed, 30 Sep 2026 11:17:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790766372,
+  "updated_at": 1790767506,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790766372,
-  "shopping_updated_at": 1790766374,
-  "reference_updated_at": 1790766378
+  "trend_updated_at": 1790767506,
+  "shopping_updated_at": 1790767507,
+  "reference_updated_at": 1790767512
 }
