@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85833,
+      "api_total": 85834,
       "items": [
+        {
+          "title": "[헐크 이만수의 힘] 캄보디아 아이들의 눈망울이 그려낸 꿈, 허구연 총재...",
+          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4025432",
+          "naver_url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4025432",
+          "pub_date": "Thu, 01 Oct 2026 06:00:00 +0900"
+        },
         {
           "title": "8회까지 0-3으로 LG에 끌려가던 SSG는 어떻게 9회말 4대3 기적을 썼을까...",
           "url": "https://www.sportschosun.com/baseball/2026-09-30/202610010100003850013869",
@@ -527,12 +533,6 @@
           "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=323485",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/450/0000154576",
           "pub_date": "Wed, 30 Sep 2026 22:18:00 +0900"
-        },
-        {
-          "title": "'9회말 0-3에서 뒤집었다' LG 충격적인 역전패...정준재가 끝냈다. SSG 끝...",
-          "url": "http://www.osen.co.kr/article/G1112885316",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005616085",
-          "pub_date": "Wed, 30 Sep 2026 21:14:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790801521,
+  "updated_at": 1790802336,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790801521,
-  "shopping_updated_at": 1790801523,
-  "reference_updated_at": 1790801529
+  "trend_updated_at": 1790802336,
+  "shopping_updated_at": 1790802337,
+  "reference_updated_at": 1790802343
 }
