@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 248,
+      "api_total": 17182,
       "items": [
         {
-          "title": "메이저 런쳐 블루 프리뷰 | 반발력 좋은 <b>사회인 야구</b> 미들 밸런스 배....",
-          "url": "https://blog.naver.com/ih_yeo0123/224420253941",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224420253941",
-          "pub_date": "20260922"
+          "title": "스사노 내야수글러브 프로엘리트 고쿠보웹 블랙골드(골드파이핑) SU....",
+          "url": "https://blog.naver.com/hyperclover/224427155180",
+          "naver_url": "https://blog.naver.com/hyperclover/224427155180",
+          "pub_date": "20260930"
         },
         {
-          "title": "러펠스 스피어 엣지 팀코리아 에디션 프리뷰 | 반발력 좋은 <b>사회인</b> ....",
-          "url": "https://blog.naver.com/ih_yeo0123/224415346876",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224415346876",
-          "pub_date": "20260917"
+          "title": "이천 <b>야구</b>장, <b>야구</b> 레슨, <b>사회인야구</b>선수 훈련 가능한 'ILB <b>야구</b>배팅....",
+          "url": "https://blog.naver.com/kokokokoko789/224427137826",
+          "naver_url": "https://blog.naver.com/kokokokoko789/224427137826",
+          "pub_date": "20260930"
         },
         {
-          "title": "웨이트레이드 듀란달 실사용 후기 | 손맛 좋은 규제 없이 사용 가능....",
-          "url": "https://blog.naver.com/ih_yeo0123/224401353986",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224401353986",
-          "pub_date": "20260904"
+          "title": "이천 <b>야구</b>레슨, 평일 야간 레슨으로 실력 업그레이드 &quot;ILB <b>야구</b>배팅....",
+          "url": "https://blog.naver.com/bo910da-/224427129169",
+          "naver_url": "https://blog.naver.com/bo910da-/224427129169",
+          "pub_date": "20260930"
         },
         {
-          "title": "스카이라인 NEW MB 다이나모 프리뷰 | 10만 원 중반대 KBN 인증 <b>사회인</b> ....",
-          "url": "https://blog.naver.com/ih_yeo0123/224397811594",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224397811594",
-          "pub_date": "20260901"
+          "title": "<b>야구</b> 다이어트, 저렴한 가격으로 즐거운 운동 &quot;ILB <b>야구</b>배팅센터&quot;",
+          "url": "https://blog.naver.com/xwj9jwqw/224427123023",
+          "naver_url": "https://blog.naver.com/xwj9jwqw/224427123023",
+          "pub_date": "20260930"
         },
         {
-          "title": "스위치 익스플로드, 컨피던스 프리뷰 | 10만 원 대 <b>사회인 야구</b> 순수 ....",
-          "url": "https://blog.naver.com/ih_yeo0123/224390101378",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224390101378",
-          "pub_date": "20260825"
+          "title": "[분당 <b>야구</b>레슨] 10분 교정, <b>배트</b>가 퍼지는 스윙 고치기 비포·애프터",
+          "url": "https://blog.naver.com/showmethtmon/224427105703",
+          "naver_url": "https://blog.naver.com/showmethtmon/224427105703",
+          "pub_date": "20260930"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790749902,
+  "updated_at": 1790751406,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790749902,
-  "shopping_updated_at": 1790749904,
-  "reference_updated_at": 1790749909
+  "trend_updated_at": 1790751406,
+  "shopping_updated_at": 1790751408,
+  "reference_updated_at": 1790751413
 }
