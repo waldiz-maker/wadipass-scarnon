@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85825,
+      "api_total": 85826,
       "items": [
+        {
+          "title": "[글로벌★피플] 차별과 편견을 방망이로 부순 재일동포 <b>야구</b> 영웅, '장훈...",
+          "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=246659",
+          "naver_url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=246659",
+          "pub_date": "Wed, 30 Sep 2026 17:00:00 +0900"
+        },
         {
           "title": "&quot;모든 날, 모든 순간이 좋았다&quot;...1시간 펑펑 울며 첫 시즌 마무리한 여...",
           "url": "https://www.womennews.co.kr/news/articleView.html?idxno=282784",
@@ -527,12 +533,6 @@
           "url": "https://game.donga.com/124493/",
           "naver_url": "https://game.donga.com/124493/",
           "pub_date": "Wed, 30 Sep 2026 10:46:00 +0900"
-        },
-        {
-          "title": "[기자수첩] 내 편의 '표현의 자유', 상대편의 '역사 왜곡'…성역이 된 선...",
-          "url": "https://www.youthdaily.co.kr/news/article.html?no=227756",
-          "naver_url": "https://www.youthdaily.co.kr/news/article.html?no=227756",
-          "pub_date": "Wed, 30 Sep 2026 10:34:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790754340,
+  "updated_at": 1790755668,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790754340,
-  "shopping_updated_at": 1790754342,
-  "reference_updated_at": 1790754347
+  "trend_updated_at": 1790755668,
+  "shopping_updated_at": 1790755669,
+  "reference_updated_at": 1790755674
 }
