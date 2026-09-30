@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17183,
+      "api_total": 17184,
       "items": [
+        {
+          "title": "<b>야구</b>장과 농구장을 누비던 스포츠 아나운서가 TV조선의 아침을 책임....",
+          "url": "https://blog.naver.com/odengm/224425878962",
+          "naver_url": "https://blog.naver.com/odengm/224425878962",
+          "pub_date": "20261001"
+        },
         {
           "title": "&quot;2년 전 올스타였는데 올해 1군 0경기라고?&quot; 롯데 방출생 김재열, 억....",
           "url": "https://blog.naver.com/sicher782/224427691835",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/rhskfo7484/224427512987",
           "naver_url": "https://blog.naver.com/rhskfo7484/224427512987",
           "pub_date": "20260930"
-        },
-        {
-          "title": "녹스 타이탄X 슈퍼차저 블핑 프리뷰 | 미인증 <b>사회인 야구</b> 미들 밸런....",
-          "url": "https://blog.naver.com/ih_yeo0123/224427488894",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224427488894",
-          "pub_date": "20260930"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790805981,
+  "updated_at": 1790807187,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790805981,
-  "shopping_updated_at": 1790805984,
-  "reference_updated_at": 1790805989
+  "trend_updated_at": 1790807187,
+  "shopping_updated_at": 1790807189,
+  "reference_updated_at": 1790807193
 }
