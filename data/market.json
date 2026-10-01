@@ -478,8 +478,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85846,
+      "api_total": 85847,
       "items": [
+        {
+          "title": "'<b>야구</b>여왕2' 추신수 감독, &quot;쟤 이상해서 이번엔 치겠다&quot; 김세현 이상 행...",
+          "url": "https://www.nc.press/news/articleView.html?idxno=627654",
+          "naver_url": "https://www.nc.press/news/articleView.html?idxno=627654",
+          "pub_date": "Thu, 01 Oct 2026 18:37:00 +0900"
+        },
         {
           "title": "[오피셜]통증 참고 뛴 서건창의 투혼, 100경기 앞두고 멈췄다…손가락 ...",
           "url": "https://mhnse.com/news/articleView.html?idxno=1567476",
@@ -503,12 +509,6 @@
           "url": "https://mhnse.com/news/articleView.html?idxno=1566591",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/445/0000469942",
           "pub_date": "Thu, 01 Oct 2026 12:22:00 +0900"
-        },
-        {
-          "title": "‘<b>야구</b>여왕2’ 이대형 코치 “이건 차마 하이파이브 못 해주겠다”…김...",
-          "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553076",
-          "naver_url": "https://m.entertain.naver.com/article/449/0000362627",
-          "pub_date": "Thu, 01 Oct 2026 11:21:00 +0900"
         }
       ]
     },
@@ -594,7 +594,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790846923,
+  "updated_at": 1790847913,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790846923,
-  "shopping_updated_at": 1790846925,
-  "reference_updated_at": 1790846929
+  "trend_updated_at": 1790847913,
+  "shopping_updated_at": 1790847915,
+  "reference_updated_at": 1790847927
 }
