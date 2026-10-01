@@ -487,7 +487,7 @@
           "pub_date": "Thu, 01 Oct 2026 13:07:00 +0900"
         },
         {
-          "title": "'전날까지 <b>배트</b> 휘둘렀는데…' 日 19세 포수 노가미 시키라, 향년 19세로...",
+          "title": "日 오릭스 19세 포수 노가미, 향년 19세로 별세…&quot;전날까지 <b>배트</b> 휘둘렀...",
           "url": "https://mhnse.com/news/articleView.html?idxno=1566591",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/445/0000469942",
           "pub_date": "Thu, 01 Oct 2026 12:22:00 +0900"
@@ -594,7 +594,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790828876,
+  "updated_at": 1790829880,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790828876,
-  "shopping_updated_at": 1790828878,
-  "reference_updated_at": 1790828884
+  "trend_updated_at": 1790829880,
+  "shopping_updated_at": 1790829881,
+  "reference_updated_at": 1790829886
 }
