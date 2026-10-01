@@ -481,10 +481,10 @@
       "api_total": 85839,
       "items": [
         {
-          "title": "학폭 이유가 '베트남 새엄마'…달군 캔으로 고문·<b>배트</b> 폭행까지",
-          "url": "https://www.mt.co.kr/society/2026/10/01/2026100109112331333",
-          "naver_url": "https://n.news.naver.com/mnews/article/008/0005420826?sid=102",
-          "pub_date": "Thu, 01 Oct 2026 10:09:00 +0900"
+          "title": "[오피셜]“당신이 만든 원 팀, 아직 남아 있습니다”…LG가 켈리에게 건...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1566338",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000469863",
+          "pub_date": "Thu, 01 Oct 2026 10:36:00 +0900"
         },
         {
           "title": "&quot;첫 가을<b>야구</b> 벌써부터 설렌다&quot; 안타 하나면 충분했다…가을<b>야구</b>행 확정...",
@@ -594,7 +594,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790818162,
+  "updated_at": 1790819027,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790818162,
-  "shopping_updated_at": 1790818165,
-  "reference_updated_at": 1790818176
+  "trend_updated_at": 1790819027,
+  "shopping_updated_at": 1790819028,
+  "reference_updated_at": 1790819033
 }
