@@ -558,8 +558,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17186,
+      "api_total": 17187,
       "items": [
+        {
+          "title": "[특집] 전국 52개 팀으로 성장한 여자<b>야구</b>… 여성들의 ‘<b>야구</b> 열풍’....",
+          "url": "https://blog.naver.com/tkpress82/224428293668",
+          "naver_url": "https://blog.naver.com/tkpress82/224428293668",
+          "pub_date": "20261001"
+        },
         {
           "title": "&quot;일본 <b>사회인 야구</b>에 0-5 완패해놓고 결과만 중요?&quot; 비난 여론에 기름....",
           "url": "https://blog.naver.com/afters_nu/224428208650",
@@ -583,18 +589,12 @@
           "url": "https://blog.naver.com/sicher782/224427691835",
           "naver_url": "https://blog.naver.com/sicher782/224427691835",
           "pub_date": "20261001"
-        },
-        {
-          "title": "아시안게임 <b>야구</b> 일본은 왜 회사원을 보낼까? 프로 한국이 0:5로 완....",
-          "url": "https://blog.naver.com/subnam/224426708976",
-          "naver_url": "https://blog.naver.com/subnam/224426708976",
-          "pub_date": "20261001"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790835163,
+  "updated_at": 1790836589,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790835163,
-  "shopping_updated_at": 1790835164,
-  "reference_updated_at": 1790835169
+  "trend_updated_at": 1790836589,
+  "shopping_updated_at": 1790836591,
+  "reference_updated_at": 1790836597
 }
