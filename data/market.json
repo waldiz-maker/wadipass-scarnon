@@ -478,8 +478,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85851,
+      "api_total": 85853,
       "items": [
+        {
+          "title": "‘파죽의 5연승’ 사자군단...구자욱 부상 이탈에도 한화 상대 주중 3연...",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261001021251851",
+          "naver_url": "https://www.yeongnam.com/web/view.php?key=20261001021251851",
+          "pub_date": "Thu, 01 Oct 2026 22:06:00 +0900"
+        },
+        {
+          "title": "‘5연속 금’ AG 극한체험 김지찬 ‘이젠 삼성의 역전 우승’",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8676075&ref=A",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/056/0012266632",
+          "pub_date": "Thu, 01 Oct 2026 21:55:00 +0900"
+        },
         {
           "title": "'<b>야구</b>여왕2' 블랙퀸즈vs부산팀 올인, 역리벤지 매치 결과",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3711093",
@@ -497,18 +509,6 @@
           "url": "http://www.osen.co.kr/article/G1112885834",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005616589",
           "pub_date": "Thu, 01 Oct 2026 19:20:00 +0900"
-        },
-        {
-          "title": "&quot;아빌라·김민준 풀 시즌이면 어떨까 궁금해&quot;…후반기 반등한 SSG, 이숭...",
-          "url": "https://www.xportsnews.com/article/2203071",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002064358",
-          "pub_date": "Thu, 01 Oct 2026 19:14:00 +0900"
-        },
-        {
-          "title": "'<b>야구</b>여왕2' 추신수 감독, &quot;쟤 이상해서 이번엔 치겠다&quot; 김세현 이상 행...",
-          "url": "https://www.nc.press/news/articleView.html?idxno=627654",
-          "naver_url": "https://www.nc.press/news/articleView.html?idxno=627654",
-          "pub_date": "Thu, 01 Oct 2026 18:37:00 +0900"
         }
       ]
     },
@@ -561,6 +561,12 @@
       "api_total": 17189,
       "items": [
         {
+          "title": "<b>사회인 야구</b> 레슨, 아직도 폼만 잡으시나요? 엘리트 출신 희귀 지도....",
+          "url": "https://blog.naver.com/hitting_coordinator/224428722741",
+          "naver_url": "https://blog.naver.com/hitting_coordinator/224428722741",
+          "pub_date": "20261001"
+        },
+        {
           "title": "파주<b>야구</b>레슨 어디서 받아야 할까? 그룹레슨부터 팀레슨·팀대관까....",
           "url": "https://blog.naver.com/rokmc7731/224428683794",
           "naver_url": "https://blog.naver.com/rokmc7731/224428683794",
@@ -583,18 +589,12 @@
           "url": "https://blog.naver.com/0117162264/224427549394",
           "naver_url": "https://blog.naver.com/0117162264/224427549394",
           "pub_date": "20261001"
-        },
-        {
-          "title": "[특집] 전국 52개 팀으로 성장한 여자<b>야구</b>… 여성들의 ‘<b>야구</b> 열풍’....",
-          "url": "https://blog.naver.com/tkpress82/224428293668",
-          "naver_url": "https://blog.naver.com/tkpress82/224428293668",
-          "pub_date": "20261001"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790859546,
+  "updated_at": 1790860647,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790859546,
-  "shopping_updated_at": 1790859548,
-  "reference_updated_at": 1790859554
+  "trend_updated_at": 1790860647,
+  "shopping_updated_at": 1790860648,
+  "reference_updated_at": 1790860653
 }
