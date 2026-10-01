@@ -478,8 +478,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85853,
+      "api_total": 85854,
       "items": [
+        {
+          "title": "‘이상한 타자’ 김세현 돌발행동에 추신수→이대형 긴장 (<b>야구</b>여왕2)",
+          "url": "http://enews.imbc.com/News/RetrieveNewsInfo/519818",
+          "naver_url": "https://m.entertain.naver.com/article/408/0000323002",
+          "pub_date": "Thu, 01 Oct 2026 22:17:00 +0900"
+        },
         {
           "title": "‘파죽의 5연승’ 사자군단...구자욱 부상 이탈에도 한화 상대 주중 3연...",
           "url": "https://www.yeongnam.com/web/view.php?key=20261001021251851",
@@ -503,12 +509,6 @@
           "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1552059",
           "naver_url": "https://www.knnews.co.kr/news/articleView.php?idxno=1552059",
           "pub_date": "Thu, 01 Oct 2026 19:42:00 +0900"
-        },
-        {
-          "title": "130m 대형 홈런 터졌다...김재환 통산 300홈런, KBO 역대 18번째 대기록",
-          "url": "http://www.osen.co.kr/article/G1112885834",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005616589",
-          "pub_date": "Thu, 01 Oct 2026 19:20:00 +0900"
         }
       ]
     },
@@ -594,7 +594,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790860647,
+  "updated_at": 1790862088,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790860647,
-  "shopping_updated_at": 1790860648,
-  "reference_updated_at": 1790860653
+  "trend_updated_at": 1790862088,
+  "shopping_updated_at": 1790862090,
+  "reference_updated_at": 1790862095
 }
