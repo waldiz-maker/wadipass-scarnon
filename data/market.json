@@ -558,8 +558,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17187,
+      "api_total": 17188,
       "items": [
+        {
+          "title": "549세이브 레전드 오승환이 금메달 후배들에게 던진 한마디, 우물 안....",
+          "url": "https://blog.naver.com/0117162264/224427549394",
+          "naver_url": "https://blog.naver.com/0117162264/224427549394",
+          "pub_date": "20261001"
+        },
         {
           "title": "[특집] 전국 52개 팀으로 성장한 여자<b>야구</b>… 여성들의 ‘<b>야구</b> 열풍’....",
           "url": "https://blog.naver.com/tkpress82/224428293668",
@@ -583,18 +589,12 @@
           "url": "https://blog.naver.com/odengm/224425878962",
           "naver_url": "https://blog.naver.com/odengm/224425878962",
           "pub_date": "20261001"
-        },
-        {
-          "title": "&quot;2년 전 올스타였는데 올해 1군 0경기라고?&quot; 롯데 방출생 김재열, 억....",
-          "url": "https://blog.naver.com/sicher782/224427691835",
-          "naver_url": "https://blog.naver.com/sicher782/224427691835",
-          "pub_date": "20261001"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790844448,
+  "updated_at": 1790845632,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790844448,
-  "shopping_updated_at": 1790844449,
-  "reference_updated_at": 1790844454
+  "trend_updated_at": 1790845632,
+  "shopping_updated_at": 1790845634,
+  "reference_updated_at": 1790845640
 }
