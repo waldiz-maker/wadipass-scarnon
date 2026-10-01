@@ -478,8 +478,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85837,
+      "api_total": 85838,
       "items": [
+        {
+          "title": "&quot;첫 가을<b>야구</b> 벌써부터 설렌다&quot; 안타 하나면 충분했다…가을<b>야구</b>행 확정...",
+          "url": "https://www.mydaily.co.kr/page/view/2026100109430303067",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004110915",
+          "pub_date": "Thu, 01 Oct 2026 09:45:00 +0900"
+        },
         {
           "title": "추신수, 김세현 이상행동에 “쟤 이상하니까 이번엔 치겠다”",
           "url": "https://sports.donga.com/ent/article/all/20261001/134765520/1",
@@ -503,12 +509,6 @@
           "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4025432",
           "naver_url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4025432",
           "pub_date": "Thu, 01 Oct 2026 06:00:00 +0900"
-        },
-        {
-          "title": "8회까지 0-3으로 LG에 끌려가던 SSG는 어떻게 9회말 4대3 기적을 썼을까...",
-          "url": "https://www.sportschosun.com/baseball/2026-09-30/202610010100003850013869",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004451579",
-          "pub_date": "Thu, 01 Oct 2026 00:32:00 +0900"
         }
       ]
     },
@@ -594,7 +594,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790814939,
+  "updated_at": 1790816316,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790814939,
-  "shopping_updated_at": 1790814940,
-  "reference_updated_at": 1790814946
+  "trend_updated_at": 1790816316,
+  "shopping_updated_at": 1790816318,
+  "reference_updated_at": 1790816330
 }
