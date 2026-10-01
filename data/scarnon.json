@@ -3111,12 +3111,12 @@
             "share": 16.7
           },
           {
-            "label": "소재·내구성",
+            "label": "타격 성능·기능",
             "count": 1,
             "share": 16.7
           },
           {
-            "label": "타격 성능·기능",
+            "label": "소재·내구성",
             "count": 1,
             "share": 16.7
           }
@@ -3160,12 +3160,12 @@
             "share": 16.7
           },
           {
-            "label": "차별성·신뢰 부족",
+            "label": "적합 규격 판단 어려움",
             "count": 1,
             "share": 16.7
           },
           {
-            "label": "적합 규격 판단 어려움",
+            "label": "차별성·신뢰 부족",
             "count": 1,
             "share": 16.7
           }
@@ -4162,7 +4162,7 @@
             "share": 45.0
           },
           "top_evidence": {
-            "label": "타격·스윙 영상",
+            "label": "성능·내구성·비교",
             "count": 8,
             "share": 40.0
           },
@@ -4280,17 +4280,17 @@
             "share": 100.0
           },
           "top_attraction": {
-            "label": "소재·내구성",
+            "label": "타격 성능·기능",
             "count": 1,
             "share": 100.0
           },
           "top_evidence": {
-            "label": "타격·스윙 영상",
+            "label": "성능·내구성·비교",
             "count": 1,
             "share": 100.0
           },
           "top_barrier": {
-            "label": "성능·품질 확신 부족",
+            "label": "가격 부담",
             "count": 1,
             "share": 100.0
           },
