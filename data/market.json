@@ -478,8 +478,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85807,
+      "api_total": 85810,
       "items": [
+        {
+          "title": "김우빈, <b>야구</b> 감독된다…강렬한 감독 포스 ‘기프트’ 스틸 공개",
+          "url": "https://sports.khan.co.kr/article/202610020832003?pt=nv",
+          "naver_url": "https://m.entertain.naver.com/article/144/0001141763",
+          "pub_date": "Fri, 02 Oct 2026 08:33:00 +0900"
+        },
+        {
+          "title": "김성근, &quot;기운이 없다&quot; 직설 경고…불꽃 파이터즈 연패 탈출 勝부수",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16233570",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16233570",
+          "pub_date": "Fri, 02 Oct 2026 08:30:00 +0900"
+        },
+        {
+          "title": "김우빈, 전국 꼴찌 고교 <b>야구</b>부 감독 됐다…‘기프트’ 스틸",
+          "url": "https://www.newsen.com/news_view.php?uid=202610020818072410",
+          "naver_url": "https://m.entertain.naver.com/article/609/0001174576",
+          "pub_date": "Fri, 02 Oct 2026 08:24:00 +0900"
+        },
         {
           "title": "'기프트' 김우빈, 강렬 포스 <b>야구</b> 감독 변신...新인생캐 기대",
           "url": "https://www.ize.co.kr/news/articleView.html?idxno=81284",
@@ -491,24 +509,6 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16233553",
           "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16233553",
           "pub_date": "Fri, 02 Oct 2026 08:14:00 +0900"
-        },
-        {
-          "title": "‘기프트’ 김우빈, <b>야구</b> 감독 변신",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202610020063",
-          "naver_url": "https://www.bntnews.co.kr/article/view/bnt202610020063",
-          "pub_date": "Fri, 02 Oct 2026 08:12:00 +0900"
-        },
-        {
-          "title": "김우빈, <b>야구</b> 감독 됐다..'기프트', 강렬한 감독 포스 공개",
-          "url": "https://www.starnewskorea.com/star/2026/10/02/2026100208035237158",
-          "naver_url": "https://m.entertain.naver.com/article/108/0003475416",
-          "pub_date": "Fri, 02 Oct 2026 08:09:00 +0900"
-        },
-        {
-          "title": "'기프트' 김우빈, 선글라스 쓰고 강렬 포스…첫 스틸 공개",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=770437",
-          "naver_url": "https://www.slist.kr/news/articleView.html?idxno=770437",
-          "pub_date": "Fri, 02 Oct 2026 08:06:00 +0900"
         }
       ]
     },
@@ -594,7 +594,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790896978,
+  "updated_at": 1790897854,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790896978,
-  "shopping_updated_at": 1790896979,
-  "reference_updated_at": 1790896984
+  "trend_updated_at": 1790897854,
+  "shopping_updated_at": 1790897856,
+  "reference_updated_at": 1790897861
 }
