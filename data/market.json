@@ -478,8 +478,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85843,
+      "api_total": 85844,
       "items": [
+        {
+          "title": "LG 충격 역전패에도... '<b>야구</b>의 기본' 지킨 문정빈은 빛났다",
+          "url": "https://www.starnewskorea.com/sports/2026/10/01/2026100112550280217",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003475151",
+          "pub_date": "Thu, 01 Oct 2026 13:07:00 +0900"
+        },
         {
           "title": "'전날까지 <b>배트</b> 휘둘렀는데…' 日 19세 포수 노가미 시키라, 향년 19세로...",
           "url": "https://mhnse.com/news/articleView.html?idxno=1566591",
@@ -503,12 +509,6 @@
           "url": "https://www.socialvalue.kr/news/view/1065577368897955",
           "naver_url": "https://www.socialvalue.kr/news/view/1065577368897955",
           "pub_date": "Thu, 01 Oct 2026 10:52:00 +0900"
-        },
-        {
-          "title": "[오피셜]“당신이 만든 원 팀, 아직 남아 있습니다”…LG가 켈리에게 건...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1566338",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000469863",
-          "pub_date": "Thu, 01 Oct 2026 10:36:00 +0900"
         }
       ]
     },
@@ -594,7 +594,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790827044,
+  "updated_at": 1790827815,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790827044,
-  "shopping_updated_at": 1790827046,
-  "reference_updated_at": 1790827058
+  "trend_updated_at": 1790827815,
+  "shopping_updated_at": 1790827816,
+  "reference_updated_at": 1790827821
 }
