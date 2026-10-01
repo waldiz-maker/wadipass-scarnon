@@ -4162,7 +4162,7 @@
             "share": 45.0
           },
           "top_evidence": {
-            "label": "성능·내구성·비교",
+            "label": "타격·스윙 영상",
             "count": 8,
             "share": 40.0
           },
@@ -4285,12 +4285,12 @@
             "share": 100.0
           },
           "top_evidence": {
-            "label": "성능·내구성·비교",
+            "label": "타격·스윙 영상",
             "count": 1,
             "share": 100.0
           },
           "top_barrier": {
-            "label": "성능·품질 확신 부족",
+            "label": "가격 부담",
             "count": 1,
             "share": 100.0
           },
@@ -4872,7 +4872,7 @@
             "share": 60.0
           },
           "top_evidence": {
-            "label": "상세 규격·선택 가이드",
+            "label": "성능·내구성·비교",
             "count": 3,
             "share": 60.0
           },
@@ -5132,12 +5132,12 @@
           "share": 38.5
         },
         {
-          "label": "상세 규격·선택 가이드",
+          "label": "사용자·선수 후기",
           "count": 14,
           "share": 35.9
         },
         {
-          "label": "사용자·선수 후기",
+          "label": "상세 규격·선택 가이드",
           "count": 14,
           "share": 35.9
         },
