@@ -478,8 +478,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85849,
+      "api_total": 85850,
       "items": [
+        {
+          "title": "NC, 가을을 놓치다",
+          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1552059",
+          "naver_url": "https://www.knnews.co.kr/news/articleView.php?idxno=1552059",
+          "pub_date": "Thu, 01 Oct 2026 19:42:00 +0900"
+        },
         {
           "title": "130m 대형 홈런 터졌다...김재환 통산 300홈런, KBO 역대 18번째 대기록",
           "url": "http://www.osen.co.kr/article/G1112885834",
@@ -503,12 +509,6 @@
           "url": "https://mhnse.com/news/articleView.html?idxno=1567476",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000470209",
           "pub_date": "Thu, 01 Oct 2026 17:31:00 +0900"
-        },
-        {
-          "title": "'미국의 김선빈' 메이저리그 역사를 바꿔버렸다...설마 이 기록 1등이 될...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-01/202610010100008310000273",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004451851",
-          "pub_date": "Thu, 01 Oct 2026 17:06:00 +0900"
         }
       ]
     },
@@ -558,8 +558,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17186,
+      "api_total": 17187,
       "items": [
+        {
+          "title": "2026_09_30 ニュースジャーナル",
+          "url": "https://blog.naver.com/study_life_24/224427717202",
+          "naver_url": "https://blog.naver.com/study_life_24/224427717202",
+          "pub_date": "20261001"
+        },
         {
           "title": "549세이브 레전드 오승환이 금메달 후배들에게 던진 한마디, 우물 안....",
           "url": "https://blog.naver.com/0117162264/224427549394",
@@ -583,18 +589,12 @@
           "url": "https://blog.naver.com/asloma123/224427899935",
           "naver_url": "https://blog.naver.com/asloma123/224427899935",
           "pub_date": "20261001"
-        },
-        {
-          "title": "<b>야구</b>장과 농구장을 누비던 스포츠 아나운서가 TV조선의 아침을 책임....",
-          "url": "https://blog.naver.com/odengm/224425878962",
-          "naver_url": "https://blog.naver.com/odengm/224425878962",
-          "pub_date": "20261001"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790850739,
+  "updated_at": 1790852067,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790850739,
-  "shopping_updated_at": 1790850741,
-  "reference_updated_at": 1790850746
+  "trend_updated_at": 1790852067,
+  "shopping_updated_at": 1790852068,
+  "reference_updated_at": 1790852073
 }
