@@ -478,8 +478,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85800,
+      "api_total": 85802,
       "items": [
+        {
+          "title": "'<b>야구</b>여왕2', 대만 이어 '세계 여자 <b>야구</b> 랭킹 1위' 일본전 예고",
+          "url": "https://swtvnews.com/news/newsview.php?ncode=1065565608186221",
+          "naver_url": "https://swtvnews.com/news/newsview.php?ncode=1065565608186221",
+          "pub_date": "Fri, 02 Oct 2026 07:40:00 +0900"
+        },
+        {
+          "title": "'<b>야구</b>여왕2' 블랙퀸즈, 자존심 건 한일전 예고 '세계 女<b>야구</b> 랭킹 1위 도...",
+          "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065564286999752",
+          "naver_url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065564286999752",
+          "pub_date": "Fri, 02 Oct 2026 07:40:00 +0900"
+        },
         {
           "title": "“자욱이가 다쳐 어수선할 수 있었는데…” 544일 만에 터진 김헌곤의 ...",
           "url": "http://www.osen.co.kr/article/G1112886059",
@@ -497,18 +509,6 @@
           "url": "http://enews.imbc.com/News/RetrieveNewsInfo/519818",
           "naver_url": "https://m.entertain.naver.com/article/408/0000323002",
           "pub_date": "Thu, 01 Oct 2026 22:17:00 +0900"
-        },
-        {
-          "title": "‘파죽의 5연승’ 사자군단...구자욱 부상 이탈에도 한화 상대 주중 3연...",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261001021251851",
-          "naver_url": "https://www.yeongnam.com/web/view.php?key=20261001021251851",
-          "pub_date": "Thu, 01 Oct 2026 22:06:00 +0900"
-        },
-        {
-          "title": "‘5연속 금’ AG 극한체험 김지찬 ‘이젠 삼성의 역전 우승’",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8676075&ref=A",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/056/0012266632",
-          "pub_date": "Thu, 01 Oct 2026 21:55:00 +0900"
         }
       ]
     },
@@ -558,8 +558,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17190,
+      "api_total": 17191,
       "items": [
+        {
+          "title": "하박국 3장 16절 그럼에도 불구하고",
+          "url": "https://blog.naver.com/h1004cg/224429011147",
+          "naver_url": "https://blog.naver.com/h1004cg/224429011147",
+          "pub_date": "20261002"
+        },
         {
           "title": "<b>야구</b>의 계절을 온전히 마주하는 광주<b>야구</b>연습장에서의 기록",
           "url": "https://blog.naver.com/rok1qsqnc/224428943836",
@@ -583,18 +589,12 @@
           "url": "https://blog.naver.com/hitting_coordinator/224428722741",
           "naver_url": "https://blog.naver.com/hitting_coordinator/224428722741",
           "pub_date": "20261001"
-        },
-        {
-          "title": "파주<b>야구</b>레슨 어디서 받아야 할까? 그룹레슨부터 팀레슨·팀대관까....",
-          "url": "https://blog.naver.com/rokmc7731/224428683794",
-          "naver_url": "https://blog.naver.com/rokmc7731/224428683794",
-          "pub_date": "20261001"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790894355,
+  "updated_at": 1790895145,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790894355,
-  "shopping_updated_at": 1790894356,
-  "reference_updated_at": 1790894362
+  "trend_updated_at": 1790895145,
+  "shopping_updated_at": 1790895147,
+  "reference_updated_at": 1790895152
 }
