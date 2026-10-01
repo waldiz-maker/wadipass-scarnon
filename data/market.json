@@ -478,8 +478,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85854,
+      "api_total": 85855,
       "items": [
+        {
+          "title": "&quot;우승만 하면 과정은 필요 없다!&quot; MLB판 노시환인가, 다저스 FA 실패작 '...",
+          "url": "http://www.osen.co.kr/article/G1112886050",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/109/0005616800",
+          "pub_date": "Fri, 02 Oct 2026 00:51:00 +0900"
+        },
         {
           "title": "‘이상한 타자’ 김세현 돌발행동에 추신수→이대형 긴장 (<b>야구</b>여왕2)",
           "url": "http://enews.imbc.com/News/RetrieveNewsInfo/519818",
@@ -503,12 +509,6 @@
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3711093",
           "naver_url": "https://www.gukjenews.com/news/articleView.html?idxno=3711093",
           "pub_date": "Thu, 01 Oct 2026 21:06:00 +0900"
-        },
-        {
-          "title": "NC, 가을을 놓치다",
-          "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1552059",
-          "naver_url": "https://www.knnews.co.kr/news/articleView.php?idxno=1552059",
-          "pub_date": "Thu, 01 Oct 2026 19:42:00 +0900"
         }
       ]
     },
@@ -594,7 +594,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790869520,
+  "updated_at": 1790870313,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790869520,
-  "shopping_updated_at": 1790869521,
-  "reference_updated_at": 1790869525
+  "trend_updated_at": 1790870313,
+  "shopping_updated_at": 1790870315,
+  "reference_updated_at": 1790870320
 }
