@@ -478,8 +478,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85850,
+      "api_total": 85851,
       "items": [
+        {
+          "title": "'<b>야구</b>여왕2' 블랙퀸즈vs부산팀 올인, 역리벤지 매치 결과",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3711093",
+          "naver_url": "https://www.gukjenews.com/news/articleView.html?idxno=3711093",
+          "pub_date": "Thu, 01 Oct 2026 21:06:00 +0900"
+        },
         {
           "title": "NC, 가을을 놓치다",
           "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1552059",
@@ -503,12 +509,6 @@
           "url": "https://www.nc.press/news/articleView.html?idxno=627654",
           "naver_url": "https://www.nc.press/news/articleView.html?idxno=627654",
           "pub_date": "Thu, 01 Oct 2026 18:37:00 +0900"
-        },
-        {
-          "title": "[오피셜]통증 참고 뛴 서건창의 투혼, 100경기 앞두고 멈췄다…손가락 ...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1567476",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000470209",
-          "pub_date": "Thu, 01 Oct 2026 17:31:00 +0900"
         }
       ]
     },
@@ -558,8 +558,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17187,
+      "api_total": 17188,
       "items": [
+        {
+          "title": "‘샤워장 부상 털고 AG 2연패’ 시련을 딛고 다시 사직으로 돌아온 ....",
+          "url": "https://blog.naver.com/pbjkrkr/224428657092",
+          "naver_url": "https://blog.naver.com/pbjkrkr/224428657092",
+          "pub_date": "20261001"
+        },
         {
           "title": "2026_09_30 ニュースジャーナル",
           "url": "https://blog.naver.com/study_life_24/224427717202",
@@ -583,18 +589,12 @@
           "url": "https://blog.naver.com/afters_nu/224428208650",
           "naver_url": "https://blog.naver.com/afters_nu/224428208650",
           "pub_date": "20261001"
-        },
-        {
-          "title": "러펠스 프라티스 버치 우드 오피셜 게임 <b>야구</b> 나무<b>배트</b> 후기｜가성....",
-          "url": "https://blog.naver.com/asloma123/224427899935",
-          "naver_url": "https://blog.naver.com/asloma123/224427899935",
-          "pub_date": "20261001"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790855761,
+  "updated_at": 1790856642,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790855761,
-  "shopping_updated_at": 1790855763,
-  "reference_updated_at": 1790855768
+  "trend_updated_at": 1790856642,
+  "shopping_updated_at": 1790856644,
+  "reference_updated_at": 1790856650
 }
