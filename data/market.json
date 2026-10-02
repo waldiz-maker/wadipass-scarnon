@@ -60,6 +60,10 @@
         {
           "period": "2026-09-01",
           "ratio": 67.47
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 2.05
         }
       ]
     },
@@ -116,6 +120,10 @@
         {
           "period": "2026-09-01",
           "ratio": 5.5
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 0.18
         }
       ]
     },
@@ -172,6 +180,10 @@
         {
           "period": "2026-09-01",
           "ratio": 3.58
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 0.15
         }
       ]
     }
@@ -179,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 64.1,
-    "previous_3m_avg": 89.5,
-    "delta_pct": -28.4,
-    "latest_period": "2026-09-01",
+    "recent_3m_avg": 42.4,
+    "previous_3m_avg": 84.3,
+    "delta_pct": -49.7,
+    "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 67.5,
+    "latest_ratio": 2.0,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -391,8 +403,8 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-01",
-    "period_end": "2026-10-01",
+    "period_start": "2026-07-02",
+    "period_end": "2026-10-02",
     "rows": [
       {
         "group": "40",
@@ -444,8 +456,8 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-01",
-    "period_end": "2026-10-01",
+    "period_start": "2026-07-02",
+    "period_end": "2026-10-02",
     "rows": [
       {
         "group": "m",
@@ -478,8 +490,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85811,
+      "api_total": 85812,
       "items": [
+        {
+          "title": "‘기프트’ 김우빈, <b>야구</b> 감독 됐다",
+          "url": "https://www.mk.co.kr/article/12166770",
+          "naver_url": "https://m.entertain.naver.com/article/009/0005743008",
+          "pub_date": "Fri, 02 Oct 2026 08:53:00 +0900"
+        },
         {
           "title": "김우빈, 이번엔 <b>야구</b> 감독님이세요…방망이도 들었다 (기프트)",
           "url": "https://sports.donga.com/ent/article/all/20261002/134773286/1",
@@ -503,12 +521,6 @@
           "url": "https://www.newsen.com/news_view.php?uid=202610020818072410",
           "naver_url": "https://m.entertain.naver.com/article/609/0001174576",
           "pub_date": "Fri, 02 Oct 2026 08:24:00 +0900"
-        },
-        {
-          "title": "'기프트' 김우빈, 강렬 포스 <b>야구</b> 감독 변신...新인생캐 기대",
-          "url": "https://www.ize.co.kr/news/articleView.html?idxno=81284",
-          "naver_url": "https://m.entertain.naver.com/article/465/0000020070",
-          "pub_date": "Fri, 02 Oct 2026 08:20:00 +0900"
         }
       ]
     },
@@ -594,7 +606,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790898710,
+  "updated_at": 1790899643,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +615,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790898710,
-  "shopping_updated_at": 1790898712,
-  "reference_updated_at": 1790898717
+  "trend_updated_at": 1790899643,
+  "shopping_updated_at": 1790899644,
+  "reference_updated_at": 1790899649
 }
