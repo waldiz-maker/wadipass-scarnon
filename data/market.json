@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17221,
+      "api_total": 17222,
       "items": [
+        {
+          "title": "알루미늄 vs 목재, <b>배트</b> 소재별 타격감 비교 해보니 결과가 달랐어요",
+          "url": "https://blog.naver.com/ssnavi/224422651976",
+          "naver_url": "https://blog.naver.com/ssnavi/224422651976",
+          "pub_date": "20261003"
+        },
         {
           "title": "제주 아이와 가볼만한 곳 스톰배팅센터 | 타격부터 투구까지 제대로....",
           "url": "https://blog.naver.com/miree007/224429874263",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/trendmoney_/224426915721",
           "naver_url": "https://blog.naver.com/trendmoney_/224426915721",
           "pub_date": "20261002"
-        },
-        {
-          "title": "부산타격레슨 | <b>배트</b> 끝에 자꾸 맞는다면? 공과의 거리부터 바꾸지 ....",
-          "url": "https://blog.naver.com/dltkdalsu/224429645627",
-          "naver_url": "https://blog.naver.com/dltkdalsu/224429645627",
-          "pub_date": "20261002"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790978703,
+  "updated_at": 1790979897,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790978703,
-  "shopping_updated_at": 1790978704,
-  "reference_updated_at": 1790978710
+  "trend_updated_at": 1790979897,
+  "shopping_updated_at": 1790979898,
+  "reference_updated_at": 1790979903
 }
