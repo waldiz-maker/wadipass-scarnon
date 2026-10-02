@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85820,
+      "api_total": 85821,
       "items": [
+        {
+          "title": "[오피셜]인기가 그저 좋았던 '사직의 철부지' 20년을 넘어 든든한 '사직...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1569684",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000470731",
+          "pub_date": "Fri, 02 Oct 2026 14:08:00 +0900"
+        },
         {
           "title": "‘신인 <b>야구</b> 감독’ 옷 입은 김우빈…tvN ‘기프트’, 첫 스틸 공개",
           "url": "https://www.viva100.com/article/20261002500447",
@@ -527,12 +533,6 @@
           "url": "https://news.tf.co.kr/read/entertain/2372320.htm",
           "naver_url": "https://m.entertain.naver.com/article/629/0000538890",
           "pub_date": "Fri, 02 Oct 2026 09:50:00 +0900"
-        },
-        {
-          "title": "김우빈, ♥신민아와 결혼 후 4년만 TV드라마 복귀..180도 달라진 눈빛(기...",
-          "url": "http://www.osen.co.kr/article/G1112886144",
-          "naver_url": "https://m.entertain.naver.com/article/109/0005616892",
-          "pub_date": "Fri, 02 Oct 2026 09:34:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17211,
+      "api_total": 17212,
       "items": [
+        {
+          "title": "야용사 구매 글러브 롱 텀 사용기! 1799GM, 다비드 김현수!!!",
+          "url": "https://blog.naver.com/dong_ta_ni/224429386637",
+          "naver_url": "https://blog.naver.com/dong_ta_ni/224429386637",
+          "pub_date": "20261002"
+        },
         {
           "title": "잠실 <b>야구</b>용품점 골드볼파크 <b>야구</b>글러브 <b>배트</b> 직접 볼 수 있는 <b>야구</b>....",
           "url": "https://blog.naver.com/pk96486/224429240869",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/c1c1b1b1/224428908162",
           "naver_url": "https://blog.naver.com/c1c1b1b1/224428908162",
           "pub_date": "20261002"
-        },
-        {
-          "title": "&quot;떨어지는 낙엽은 다음 봄을 위한 밑거름&quot;",
-          "url": "https://blog.naver.com/yosep010320/224428906442",
-          "naver_url": "https://blog.naver.com/yosep010320/224428906442",
-          "pub_date": "20261002"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790917567,
+  "updated_at": 1790918785,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790917567,
-  "shopping_updated_at": 1790917568,
-  "reference_updated_at": 1790917573
+  "trend_updated_at": 1790918785,
+  "shopping_updated_at": 1790918786,
+  "reference_updated_at": 1790918791
 }
