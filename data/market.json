@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17215,
+      "api_total": 17217,
       "items": [
+        {
+          "title": "“삼성 아시아쿼터로 데려오자” 프로 아닌데 한국 타선 꼼짝 못하....",
+          "url": "https://blog.naver.com/trendmoney_/224426915721",
+          "naver_url": "https://blog.naver.com/trendmoney_/224426915721",
+          "pub_date": "20261002"
+        },
+        {
+          "title": "부산타격레슨 | <b>배트</b> 끝에 자꾸 맞는다면? 공과의 거리부터 바꾸지 ....",
+          "url": "https://blog.naver.com/dltkdalsu/224429645627",
+          "naver_url": "https://blog.naver.com/dltkdalsu/224429645627",
+          "pub_date": "20261002"
+        },
         {
           "title": "이종범-이승엽 잇는 차세대 국민타자 김도영에게 찾아온 국대 시련",
           "url": "https://blog.naver.com/jjwking8258/224429419625",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/hyperclover/224429513966",
           "naver_url": "https://blog.naver.com/hyperclover/224429513966",
           "pub_date": "20261002"
-        },
-        {
-          "title": "야용사 구매 글러브 롱 텀 사용기! 1799GM, 다비드 김현수!!!",
-          "url": "https://blog.naver.com/dong_ta_ni/224429386637",
-          "naver_url": "https://blog.naver.com/dong_ta_ni/224429386637",
-          "pub_date": "20261002"
-        },
-        {
-          "title": "잠실 <b>야구</b>용품점 골드볼파크 <b>야구</b>글러브 <b>배트</b> 직접 볼 수 있는 <b>야구</b>....",
-          "url": "https://blog.naver.com/pk96486/224429240869",
-          "naver_url": "https://blog.naver.com/pk96486/224429240869",
-          "pub_date": "20261002"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790933288,
+  "updated_at": 1790934223,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790933288,
-  "shopping_updated_at": 1790933289,
-  "reference_updated_at": 1790933295
+  "trend_updated_at": 1790934223,
+  "shopping_updated_at": 1790934224,
+  "reference_updated_at": 1790934230
 }
