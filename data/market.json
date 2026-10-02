@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17219,
+      "api_total": 17220,
       "items": [
+        {
+          "title": "제주 아이와 가볼만한 곳 스톰배팅센터 | 타격부터 투구까지 제대로....",
+          "url": "https://blog.naver.com/miree007/224429874263",
+          "naver_url": "https://blog.naver.com/miree007/224429874263",
+          "pub_date": "20261002"
+        },
         {
           "title": "모리모토 아이언 호크 프리뷰 | 10만 원 대 미들 밸런스 <b>사회인 야구</b> ....",
           "url": "https://blog.naver.com/ih_yeo0123/224429787794",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/dltkdalsu/224429645627",
           "naver_url": "https://blog.naver.com/dltkdalsu/224429645627",
           "pub_date": "20261002"
-        },
-        {
-          "title": "이종범-이승엽 잇는 차세대 국민타자 김도영에게 찾아온 국대 시련",
-          "url": "https://blog.naver.com/jjwking8258/224429419625",
-          "naver_url": "https://blog.naver.com/jjwking8258/224429419625",
-          "pub_date": "20261002"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790952408,
+  "updated_at": 1790953649,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790952408,
-  "shopping_updated_at": 1790952410,
-  "reference_updated_at": 1790952415
+  "trend_updated_at": 1790953649,
+  "shopping_updated_at": 1790953650,
+  "reference_updated_at": 1790953655
 }
