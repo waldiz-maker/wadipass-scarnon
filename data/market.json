@@ -256,6 +256,10 @@
         {
           "period": "2026-09-01",
           "ratio": 71.4
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 1.23
         }
       ]
     },
@@ -312,6 +316,10 @@
         {
           "period": "2026-09-01",
           "ratio": 13.52
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 0.3
         }
       ]
     },
@@ -368,6 +376,10 @@
         {
           "period": "2026-09-01",
           "ratio": 7.46
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 0.13
         }
       ]
     }
@@ -375,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 59.6,
-    "previous_3m_avg": 83.3,
-    "delta_pct": -28.5,
-    "latest_period": "2026-09-01",
+    "recent_3m_avg": 42.1,
+    "previous_3m_avg": 75.2,
+    "delta_pct": -44.0,
+    "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 71.4,
+    "latest_ratio": 1.2,
     "peak_period": "2025-10-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -388,14 +400,14 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 84.7,
-      "period_count": 3
+      "index": 63.8,
+      "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 85.9,
-      "period_count": 3
+      "index": 65.0,
+      "period_count": 4
     }
   },
   "shopping_age": {
@@ -409,32 +421,32 @@
       {
         "group": "40",
         "label": "40대",
-        "index": 84.7,
-        "period_count": 3
+        "index": 63.8,
+        "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 28.8,
-        "period_count": 3
+        "index": 21.9,
+        "period_count": 4
       },
       {
         "group": "10",
         "label": "10대",
-        "index": 24.0,
-        "period_count": 3
+        "index": 18.2,
+        "period_count": 4
       },
       {
         "group": "30",
         "label": "30대",
-        "index": 17.7,
-        "period_count": 3
+        "index": 13.3,
+        "period_count": 4
       },
       {
         "group": "20",
         "label": "20대",
-        "index": 9.6,
-        "period_count": 3
+        "index": 7.4,
+        "period_count": 4
       },
       {
         "group": "60",
@@ -446,8 +458,8 @@
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 84.7,
-      "period_count": 3
+      "index": 63.8,
+      "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
   },
@@ -462,21 +474,21 @@
       {
         "group": "m",
         "label": "남성",
-        "index": 85.9,
-        "period_count": 3
+        "index": 65.0,
+        "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 30.7,
-        "period_count": 3
+        "index": 23.2,
+        "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 85.9,
-      "period_count": 3
+      "index": 65.0,
+      "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
   },
@@ -606,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790902607,
+  "updated_at": 1790903374,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -615,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790902607,
-  "shopping_updated_at": 1790902609,
-  "reference_updated_at": 1790902615
+  "trend_updated_at": 1790903374,
+  "shopping_updated_at": 1790903376,
+  "reference_updated_at": 1790903382
 }
