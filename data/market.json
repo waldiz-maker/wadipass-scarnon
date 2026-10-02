@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17217,
+      "api_total": 17218,
       "items": [
+        {
+          "title": "제트 프로모델 김주원 내야글러브 길들이기",
+          "url": "https://blog.naver.com/susanokorea/224429765534",
+          "naver_url": "https://blog.naver.com/susanokorea/224429765534",
+          "pub_date": "20261002"
+        },
         {
           "title": "“삼성 아시아쿼터로 데려오자” 프로 아닌데 한국 타선 꼼짝 못하....",
           "url": "https://blog.naver.com/trendmoney_/224426915721",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/hyperclover/224429527560",
           "naver_url": "https://blog.naver.com/hyperclover/224429527560",
           "pub_date": "20261002"
-        },
-        {
-          "title": "구보타슬러거 내야수글러브 고쿠보웹 DP오렌지 KSG-L7 (2026년 위팬기....",
-          "url": "https://blog.naver.com/hyperclover/224429513966",
-          "naver_url": "https://blog.naver.com/hyperclover/224429513966",
-          "pub_date": "20261002"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790942836,
+  "updated_at": 1790944333,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790942836,
-  "shopping_updated_at": 1790942837,
-  "reference_updated_at": 1790942842
+  "trend_updated_at": 1790944333,
+  "shopping_updated_at": 1790944334,
+  "reference_updated_at": 1790944339
 }
