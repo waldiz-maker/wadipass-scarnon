@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85823,
+      "api_total": 85824,
       "items": [
+        {
+          "title": "'전국 꼴찌 <b>야구</b>부 이끈다'... 김우빈, tvN '기프트'서 독보적 카리스마...",
+          "url": "https://www.insight.co.kr/news/576324",
+          "naver_url": "https://www.insight.co.kr/news/576324",
+          "pub_date": "Fri, 02 Oct 2026 16:00:00 +0900"
+        },
         {
           "title": "&quot;동료 선수와 다퉈?&quot; 10대 제자 폭행한 유소년<b>야구</b> 감독 집행유예",
           "url": "https://gg.newdaily.co.kr/site/data/html/2026/10/02/2026100200265.html",
@@ -527,12 +533,6 @@
           "url": "https://www.viva100.com/article/20261002500447",
           "naver_url": "https://www.viva100.com/article/20261002500447",
           "pub_date": "Fri, 02 Oct 2026 13:40:00 +0900"
-        },
-        {
-          "title": "김우빈, <b>야구</b> 감독으로 돌아온다…'기프트'서 냉철한 카리스마 예고",
-          "url": "http://enews.imbc.com/News/RetrieveNewsInfo/519892",
-          "naver_url": "https://m.entertain.naver.com/article/408/0000323076",
-          "pub_date": "Fri, 02 Oct 2026 13:12:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790924232,
+  "updated_at": 1790925038,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790924232,
-  "shopping_updated_at": 1790924235,
-  "reference_updated_at": 1790924246
+  "trend_updated_at": 1790925038,
+  "shopping_updated_at": 1790925040,
+  "reference_updated_at": 1790925044
 }
