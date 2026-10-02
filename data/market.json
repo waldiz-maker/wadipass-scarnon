@@ -490,8 +490,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85812,
+      "api_total": 85815,
       "items": [
+        {
+          "title": "‘기프트’ 김우빈, <b>야구</b> 잠바 입은 폼 미쳤네..냉철한 카리스마",
+          "url": "https://www.heraldmuse.com/article/10891333?ref=naver",
+          "naver_url": "https://m.entertain.naver.com/article/112/0003808875",
+          "pub_date": "Fri, 02 Oct 2026 09:27:00 +0900"
+        },
+        {
+          "title": "[오피셜]“오래 못 갈 줄 알았다”…그 포수가 가장 오래 남았다, 강민...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1569213",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000470633",
+          "pub_date": "Fri, 02 Oct 2026 09:26:00 +0900"
+        },
+        {
+          "title": "'웹툰 원작' 김우빈…투수코치→전국 꼴찌 고교 <b>야구</b>부 감독 부임 ('기프...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1569209",
+          "naver_url": "https://m.entertain.naver.com/article/445/0000470631",
+          "pub_date": "Fri, 02 Oct 2026 09:22:00 +0900"
+        },
         {
           "title": "‘기프트’ 김우빈, <b>야구</b> 감독 됐다",
           "url": "https://www.mk.co.kr/article/12166770",
@@ -503,24 +521,6 @@
           "url": "https://sports.donga.com/ent/article/all/20261002/134773286/1",
           "naver_url": "https://m.entertain.naver.com/article/382/0001296877",
           "pub_date": "Fri, 02 Oct 2026 08:41:00 +0900"
-        },
-        {
-          "title": "김우빈, <b>야구</b> 감독된다…강렬한 감독 포스 ‘기프트’ 스틸 공개",
-          "url": "https://sports.khan.co.kr/article/202610020832003?pt=nv",
-          "naver_url": "https://m.entertain.naver.com/article/144/0001141763",
-          "pub_date": "Fri, 02 Oct 2026 08:33:00 +0900"
-        },
-        {
-          "title": "김성근, &quot;기운이 없다&quot; 직설 경고…불꽃 파이터즈 연패 탈출 勝부수",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16233570",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16233570",
-          "pub_date": "Fri, 02 Oct 2026 08:30:00 +0900"
-        },
-        {
-          "title": "김우빈, 전국 꼴찌 고교 <b>야구</b>부 감독 됐다…‘기프트’ 스틸",
-          "url": "https://www.newsen.com/news_view.php?uid=202610020818072410",
-          "naver_url": "https://m.entertain.naver.com/article/609/0001174576",
-          "pub_date": "Fri, 02 Oct 2026 08:24:00 +0900"
         }
       ]
     },
@@ -606,7 +606,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1790899643,
+  "updated_at": 1790901224,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -615,7 +615,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790899643,
-  "shopping_updated_at": 1790899644,
-  "reference_updated_at": 1790899649
+  "trend_updated_at": 1790901224,
+  "shopping_updated_at": 1790901226,
+  "reference_updated_at": 1790901232
 }
