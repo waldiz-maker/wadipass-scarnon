@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85828,
+      "api_total": 85829,
       "items": [
+        {
+          "title": "'1위 포기하지 않는다' 결승타 된 3점포 디아스…삼성, 두산 4연승 막아...",
+          "url": "https://www.mydaily.co.kr/page/view/2026100320210181545",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004111911",
+          "pub_date": "Sat, 03 Oct 2026 20:22:00 +0900"
+        },
         {
           "title": "“파울이었던 것 같다” 9회 스퀴즈 번트→천금 결승점, 왜 LG 1루수는 덥...",
           "url": "http://www.osen.co.kr/article/G1112887005",
@@ -527,12 +533,6 @@
           "url": "https://www.wikitree.co.kr/articles/1163626",
           "naver_url": "https://www.wikitree.co.kr/articles/1163626",
           "pub_date": "Fri, 02 Oct 2026 17:48:00 +0900"
-        },
-        {
-          "title": "'전국 꼴찌 <b>야구</b>부 이끈다'... 김우빈, tvN '기프트'서 독보적 카리스마...",
-          "url": "https://www.insight.co.kr/news/576324",
-          "naver_url": "https://www.insight.co.kr/news/576324",
-          "pub_date": "Fri, 02 Oct 2026 16:00:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17224,
+      "api_total": 17225,
       "items": [
+        {
+          "title": "2026 <b>야구</b> 순위·일정 헷갈리시죠? 프로<b>야구</b>부터 아시안게임까지 한....",
+          "url": "https://blog.naver.com/ongoal/224430530725",
+          "naver_url": "https://blog.naver.com/ongoal/224430530725",
+          "pub_date": "20261003"
+        },
         {
           "title": "프로 선수가 회사원한테 0:5로 진 날, 팬들이 꺼낸 건 결국 '그 제도'....",
           "url": "https://blog.naver.com/happydino90/224429929671",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/miree007/224429874263",
           "naver_url": "https://blog.naver.com/miree007/224429874263",
           "pub_date": "20261002"
-        },
-        {
-          "title": "모리모토 아이언 호크 프리뷰 | 10만 원 대 미들 밸런스 <b>사회인 야구</b> ....",
-          "url": "https://blog.naver.com/ih_yeo0123/224429787794",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224429787794",
-          "pub_date": "20261002"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791024670,
+  "updated_at": 1791028780,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791024670,
-  "shopping_updated_at": 1791024672,
-  "reference_updated_at": 1791024677
+  "trend_updated_at": 1791028780,
+  "shopping_updated_at": 1791028781,
+  "reference_updated_at": 1791028787
 }
