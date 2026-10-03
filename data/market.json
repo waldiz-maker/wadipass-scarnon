@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.05
+          "ratio": 4.1
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 0.18
+          "ratio": 0.31
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 0.15
+          "ratio": 0.28
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 42.4,
+    "recent_3m_avg": 43.1,
     "previous_3m_avg": 84.3,
-    "delta_pct": -49.7,
+    "delta_pct": -48.9,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 2.0,
+    "latest_ratio": 4.1,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 1.23
+          "ratio": 2.58
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 0.3
+          "ratio": 1.02
         }
       ]
     },
@@ -379,7 +379,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 0.13
+          "ratio": 0.34
         }
       ]
     }
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 42.1,
+    "recent_3m_avg": 42.6,
     "previous_3m_avg": 75.2,
-    "delta_pct": -44.0,
+    "delta_pct": -43.4,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 1.2,
+    "latest_ratio": 2.6,
     "peak_period": "2025-10-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 63.8,
+      "index": 64.5,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 65.0,
+      "index": 65.3,
       "period_count": 4
     }
   },
@@ -421,19 +421,19 @@
       {
         "group": "40",
         "label": "40대",
-        "index": 63.8,
+        "index": 64.5,
         "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 21.9,
+        "index": 22.0,
         "period_count": 4
       },
       {
         "group": "10",
         "label": "10대",
-        "index": 18.2,
+        "index": 18.3,
         "period_count": 4
       },
       {
@@ -451,14 +451,14 @@
       {
         "group": "60",
         "label": "60대 이상",
-        "index": 5.9,
-        "period_count": 3
+        "index": 4.6,
+        "period_count": 4
       }
     ],
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 63.8,
+      "index": 64.5,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -474,20 +474,20 @@
       {
         "group": "m",
         "label": "남성",
-        "index": 65.0,
+        "index": 65.3,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 23.2,
+        "index": 23.5,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 65.0,
+      "index": 65.3,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17222,
+      "api_total": 17223,
       "items": [
+        {
+          "title": "<b>야구</b> 일정부터 프로<b>야구</b> 순위까지, 2026 가을<b>야구</b>가 보여주는 스포츠....",
+          "url": "https://blog.naver.com/mmh0114/224430112667",
+          "naver_url": "https://blog.naver.com/mmh0114/224430112667",
+          "pub_date": "20261003"
+        },
         {
           "title": "알루미늄 vs 목재, <b>배트</b> 소재별 타격감 비교 해보니 결과가 달랐어요",
           "url": "https://blog.naver.com/ssnavi/224422651976",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/susanokorea/224429765534",
           "naver_url": "https://blog.naver.com/susanokorea/224429765534",
           "pub_date": "20261002"
-        },
-        {
-          "title": "“삼성 아시아쿼터로 데려오자” 프로 아닌데 한국 타선 꼼짝 못하....",
-          "url": "https://blog.naver.com/trendmoney_/224426915721",
-          "naver_url": "https://blog.naver.com/trendmoney_/224426915721",
-          "pub_date": "20261002"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1790987512,
+  "updated_at": 1790988951,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1790987512,
-  "shopping_updated_at": 1790987514,
-  "reference_updated_at": 1790987526
+  "trend_updated_at": 1790988951,
+  "shopping_updated_at": 1790988953,
+  "reference_updated_at": 1790988959
 }
