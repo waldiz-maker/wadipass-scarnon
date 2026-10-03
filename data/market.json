@@ -585,6 +585,12 @@
       "api_total": 17225,
       "items": [
         {
+          "title": "&quot;가을<b>야구</b> 앞두고 부활했다&quot; 삼성 김영웅, 백정현의 조언 한마디에 ....",
+          "url": "https://blog.naver.com/dyts60/224430563637",
+          "naver_url": "https://blog.naver.com/dyts60/224430563637",
+          "pub_date": "20261003"
+        },
+        {
           "title": "2026 <b>야구</b> 순위·일정 헷갈리시죠? 프로<b>야구</b>부터 아시안게임까지 한....",
           "url": "https://blog.naver.com/ongoal/224430530725",
           "naver_url": "https://blog.naver.com/ongoal/224430530725",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/ssnavi/224422651976",
           "naver_url": "https://blog.naver.com/ssnavi/224422651976",
           "pub_date": "20261003"
-        },
-        {
-          "title": "제주 아이와 가볼만한 곳 스톰배팅센터 | 타격부터 투구까지 제대로....",
-          "url": "https://blog.naver.com/miree007/224429874263",
-          "naver_url": "https://blog.naver.com/miree007/224429874263",
-          "pub_date": "20261002"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791028780,
+  "updated_at": 1791039510,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791028780,
-  "shopping_updated_at": 1791028781,
-  "reference_updated_at": 1791028787
+  "trend_updated_at": 1791039510,
+  "shopping_updated_at": 1791039511,
+  "reference_updated_at": 1791039516
 }
