@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85836,
+      "api_total": 85840,
       "items": [
+        {
+          "title": "드디어 터진 40호, 이 선수가 더 환호했다. 켈리에 헛스윙, 시라카와에...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-04/202610040100027180001667",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004452846",
+          "pub_date": "Sun, 04 Oct 2026 14:46:00 +0900"
+        },
+        {
+          "title": "&quot;선빈이 아니었으면 (작전) 안 냈다&quot;…9회 결승 스퀴즈 번트 적중, 꽃감...",
+          "url": "https://www.xportsnews.com/article/2204094",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002065353",
+          "pub_date": "Sun, 04 Oct 2026 14:34:00 +0900"
+        },
+        {
+          "title": "가을 냄새 맡자 터졌다! 삼성 라이온즈 김영웅의 ‘사이다 솔로포’...‘...",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261004020362068",
+          "naver_url": "https://www.yeongnam.com/web/view.php?key=20261004020362068",
+          "pub_date": "Sun, 04 Oct 2026 13:54:00 +0900"
+        },
+        {
+          "title": "[포토] 박해민 '<b>배트</b>를 짧게 쥐고'",
+          "url": "https://www.starnewskorea.com/sports/2026/10/04/2026100413384358589",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003475825",
+          "pub_date": "Sun, 04 Oct 2026 13:43:00 +0900"
+        },
         {
           "title": "'적시타 추억' 스쿠발 만난 김하성, 두 차례 맞대결 결과는?",
           "url": "https://www.dailian.co.kr/news/view/1697747/?sc=Naver",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/119/0003139350",
           "pub_date": "Sun, 04 Oct 2026 11:19:00 +0900"
-        },
-        {
-          "title": "이 맛에 현질한다! 스쿠발 괴력투+카일 터커 홈런포...'신 악의 제국' 다...",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=130733",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/529/0000078771",
-          "pub_date": "Sun, 04 Oct 2026 10:45:00 +0900"
-        },
-        {
-          "title": "김우빈, '전국 꼴찌' 고교 <b>야구</b>부 감독 됐다…냉철한 카리스마 눈길 ('기...",
-          "url": "https://www.tenasia.co.kr/article/2026100291944",
-          "naver_url": "https://m.entertain.naver.com/article/312/0000778595",
-          "pub_date": "Sun, 04 Oct 2026 08:30:00 +0900"
-        },
-        {
-          "title": "불꽃<b>야구</b>2, &quot;죽어도 <b>야구</b>장에서&quot; 이대호 투혼 속 파이터즈 위기",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16237594",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16237594",
-          "pub_date": "Sun, 04 Oct 2026 08:20:00 +0900"
-        },
-        {
-          "title": "김혜성, 이 정도면 ‘육상부’네…”팀에 스피드를 더해줄 것” 다저스...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1573526",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/445/0000471882",
-          "pub_date": "Sun, 04 Oct 2026 07:06:00 +0900"
         }
       ]
     },
@@ -541,8 +541,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 1329,
+      "api_total": 1330,
       "items": [
+        {
+          "title": "&quot;예술·체육인 병역 특례 재정비 필요&quot; 김병주 더불어민주당 의원 [시사...",
+          "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223008",
+          "naver_url": "https://n.news.naver.com/mnews/article/057/0001971958?sid=004",
+          "pub_date": "Sun, 04 Oct 2026 17:00:00 +0900"
+        },
         {
           "title": "[뜻밖의 금요일] 화면 밖의 물살, 월 1만 원의 부력",
           "url": "https://www.ilemonde.com/news/articleView.html?idxno=30731",
@@ -566,12 +572,6 @@
           "url": "https://www.kyeonggi.com/article/20260907580536",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/666/0000122340",
           "pub_date": "Mon, 07 Sep 2026 18:27:00 +0900"
-        },
-        {
-          "title": "[도전! 모두의 창업 2기] 1기 진출자 김주완 씨",
-          "url": "http://www.gjdream.com/news/articleView.html?idxno=672229",
-          "naver_url": "http://www.gjdream.com/news/articleView.html?idxno=672229",
-          "pub_date": "Mon, 31 Aug 2026 00:06:00 +0900"
         }
       ]
     }
@@ -582,8 +582,26 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17228,
+      "api_total": 17233,
       "items": [
+        {
+          "title": "[<b>사회인 야구</b>] 타격 메커니즘, 하체에서 상체까지-새총을 생각하자!",
+          "url": "https://blog.naver.com/jpd707/224431229260",
+          "naver_url": "https://blog.naver.com/jpd707/224431229260",
+          "pub_date": "20261004"
+        },
+        {
+          "title": "[경기/일산] 초등학생 아이랑 주말에 뭐 하지? 설문25시<b>야구</b>센터 실....",
+          "url": "https://blog.naver.com/sujung9276/224431199206",
+          "naver_url": "https://blog.naver.com/sujung9276/224431199206",
+          "pub_date": "20261004"
+        },
+        {
+          "title": "스카논 2025 실사용 후기 | 10만 원 대 미들 밸런스 <b>사회인 야구</b> 알로....",
+          "url": "https://blog.naver.com/ih_yeo0123/224431151392",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224431151392",
+          "pub_date": "20261004"
+        },
         {
           "title": "부산<b>사회인야구</b>레슨, 송구·수비·타격을 한 사람에게 맞추는 1:1 레....",
           "url": "https://blog.naver.com/afbaseballclub/224430940624",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/paraanmoon/224430892375",
           "naver_url": "https://blog.naver.com/paraanmoon/224430892375",
           "pub_date": "20261004"
-        },
-        {
-          "title": "<b>야구</b> <b>배트</b> 그립테이프 교체 시기 타격 정확도 높이는 관리 비법",
-          "url": "https://blog.naver.com/jys040113/224414252724",
-          "naver_url": "https://blog.naver.com/jys040113/224414252724",
-          "pub_date": "20261004"
-        },
-        {
-          "title": "“경기 내내 버티려면” 포수 장비의 기능과 보호 역할 반드시 알아....",
-          "url": "https://blog.naver.com/ssnavi/224422665442",
-          "naver_url": "https://blog.naver.com/ssnavi/224422665442",
-          "pub_date": "20261004"
-        },
-        {
-          "title": "&quot;가을<b>야구</b> 앞두고 부활했다&quot; 삼성 김영웅, 백정현의 조언 한마디에 ....",
-          "url": "https://blog.naver.com/dyts60/224430563637",
-          "naver_url": "https://blog.naver.com/dyts60/224430563637",
-          "pub_date": "20261003"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791087435,
+  "updated_at": 1791110613,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791087435,
-  "shopping_updated_at": 1791087436,
-  "reference_updated_at": 1791087441
+  "trend_updated_at": 1791110613,
+  "shopping_updated_at": 1791110616,
+  "reference_updated_at": 1791110628
 }
