@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17235,
+      "api_total": 17236,
       "items": [
         {
           "title": "2026.9.19 장 훈 씨 별세  ｢카츠!｣의 이면에서 보여준 오오타니 쇼우....",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791147829,
+  "updated_at": 1791149853,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791147829,
-  "shopping_updated_at": 1791147830,
-  "reference_updated_at": 1791147836
+  "trend_updated_at": 1791149853,
+  "shopping_updated_at": 1791149856,
+  "reference_updated_at": 1791149867
 }
