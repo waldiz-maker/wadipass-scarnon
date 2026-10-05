@@ -502,7 +502,7 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85847,
+      "api_total": 85848,
       "items": [
         {
           "title": "‘이럴 수가’ LG, 왜 이러나…3일 연속 9회 악몽, 마무리 난타당하다, ...",
@@ -517,6 +517,12 @@
           "pub_date": "Mon, 05 Oct 2026 19:23:00 +0900"
         },
         {
+          "title": "각목-<b>야구배트</b>까지…평택 어린이공원서 외국인 집단 난투극",
+          "url": "https://www.donga.com/news/Society/article/all/20261005/134788295/1",
+          "naver_url": "https://n.news.naver.com/mnews/article/020/0003752785?sid=102",
+          "pub_date": "Mon, 05 Oct 2026 17:49:00 +0900"
+        },
+        {
           "title": "'너무 편하게 던졌나'…AG 마친 뒤 첫 선발 등판 롯데 김진욱 1회 7실점...",
           "url": "https://www.mydaily.co.kr/page/view/2026100515354274898",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004112347",
@@ -527,12 +533,6 @@
           "url": "https://www.mydaily.co.kr/page/view/2026100513100119712",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004112309",
           "pub_date": "Mon, 05 Oct 2026 13:12:00 +0900"
-        },
-        {
-          "title": "챔피언십 진출까지 한 경기 남았다…추리오 '끝내기 안타' 밀워키, SD에...",
-          "url": "https://www.mydaily.co.kr/page/view/2026100509253476260",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004112280",
-          "pub_date": "Mon, 05 Oct 2026 09:44:00 +0900"
         }
       ]
     },
@@ -582,14 +582,8 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17247,
+      "api_total": 17246,
       "items": [
-        {
-          "title": "가볍고 튼튼한 나무<b>배트</b> 선택 가이드",
-          "url": "https://blog.naver.com/g2zfdkkjs/224432213257",
-          "naver_url": "https://blog.naver.com/g2zfdkkjs/224432213257",
-          "pub_date": "20261005"
-        },
         {
           "title": "솔져 탱크 <b>배트</b> 그립 실사용 후기 | 그립감 좋고 푹신한 <b>배트</b> 그립",
           "url": "https://blog.naver.com/ih_yeo0123/224432152213",
@@ -613,12 +607,18 @@
           "url": "https://blog.naver.com/kiyeon9145/224431961157",
           "naver_url": "https://blog.naver.com/kiyeon9145/224431961157",
           "pub_date": "20261005"
+        },
+        {
+          "title": "'랠리픽 더 매치 : 학교대항전', 골드볼파크와 함께 합니다",
+          "url": "https://blog.naver.com/rallypick/224431743053",
+          "naver_url": "https://blog.naver.com/rallypick/224431743053",
+          "pub_date": "20261005"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791200744,
+  "updated_at": 1791202083,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791200744,
-  "shopping_updated_at": 1791200745,
-  "reference_updated_at": 1791200750
+  "trend_updated_at": 1791202083,
+  "shopping_updated_at": 1791202085,
+  "reference_updated_at": 1791202090
 }
