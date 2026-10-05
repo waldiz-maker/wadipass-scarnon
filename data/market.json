@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85845,
+      "api_total": 85847,
       "items": [
+        {
+          "title": "‘이럴 수가’ LG, 왜 이러나…3일 연속 9회 악몽, 마무리 난타당하다, ...",
+          "url": "http://www.osen.co.kr/article/G1112887958",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005618656",
+          "pub_date": "Mon, 05 Oct 2026 19:24:00 +0900"
+        },
+        {
+          "title": "'이게 슈퍼스타다!' 김도영, 9회 2사 154.5km/h 직구 통타→역전 스리런...",
+          "url": "https://www.xportsnews.com/article/2204275",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002065538",
+          "pub_date": "Mon, 05 Oct 2026 19:23:00 +0900"
+        },
         {
           "title": "'너무 편하게 던졌나'…AG 마친 뒤 첫 선발 등판 롯데 김진욱 1회 7실점...",
           "url": "https://www.mydaily.co.kr/page/view/2026100515354274898",
@@ -521,18 +533,6 @@
           "url": "https://www.mydaily.co.kr/page/view/2026100509253476260",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004112280",
           "pub_date": "Mon, 05 Oct 2026 09:44:00 +0900"
-        },
-        {
-          "title": "한밤중 주택가 공원서 외국인 패싸움...경찰 추적 중",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610050009152911",
-          "naver_url": "https://n.news.naver.com/mnews/article/052/0002414759?sid=102",
-          "pub_date": "Mon, 05 Oct 2026 00:09:00 +0900"
-        },
-        {
-          "title": "엔카나시온 '끝내기 안타' 요코하마, 센트럴리그 1위 확정 한신에 연장...",
-          "url": "https://www.mydaily.co.kr/page/view/2026100423351560070",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004112225",
-          "pub_date": "Sun, 04 Oct 2026 23:37:00 +0900"
         }
       ]
     },
@@ -585,6 +585,12 @@
       "api_total": 17246,
       "items": [
         {
+          "title": "솔져 탱크 <b>배트</b> 그립 실사용 후기 | 그립감 좋고 푹신한 <b>배트</b> 그립",
+          "url": "https://blog.naver.com/ih_yeo0123/224432152213",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224432152213",
+          "pub_date": "20261005"
+        },
+        {
           "title": "우리가 잃은건 언제나 잃기 전보다 더 아름답게 보인다.",
           "url": "https://blog.naver.com/tykim2626/224432092595",
           "naver_url": "https://blog.naver.com/tykim2626/224432092595",
@@ -603,12 +609,6 @@
           "pub_date": "20261005"
         },
         {
-          "title": "누가 대한민국의 위상을 높이는가? 병역혜택 문제에 대해서.",
-          "url": "https://blog.naver.com/dadamum/224431888363",
-          "naver_url": "https://blog.naver.com/dadamum/224431888363",
-          "pub_date": "20261005"
-        },
-        {
           "title": "'랠리픽 더 매치 : 학교대항전', 골드볼파크와 함께 합니다",
           "url": "https://blog.naver.com/rallypick/224431743053",
           "naver_url": "https://blog.naver.com/rallypick/224431743053",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791194971,
+  "updated_at": 1791196178,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791194971,
-  "shopping_updated_at": 1791194973,
-  "reference_updated_at": 1791194977
+  "trend_updated_at": 1791196178,
+  "shopping_updated_at": 1791196180,
+  "reference_updated_at": 1791196192
 }
