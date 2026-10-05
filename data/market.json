@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 8.51
+          "ratio": 11.2
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 0.85
+          "ratio": 1.01
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 0.54
+          "ratio": 0.71
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 44.5,
+    "recent_3m_avg": 45.4,
     "previous_3m_avg": 84.3,
-    "delta_pct": -47.2,
+    "delta_pct": -46.1,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 8.5,
+    "latest_ratio": 11.2,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -505,7 +505,7 @@
       "api_total": 85851,
       "items": [
         {
-          "title": "'이럴수가' 천하의 오타니가 볼에 <b>배트</b>를 댄다, 사령탑도 나쁜 습관 지...",
+          "title": "'이럴수가' 천하의 오타니가 볼에 <b>배트</b>를 댄다, 사령탑 이례적 지적→이...",
           "url": "https://www.mydaily.co.kr/page/view/2026100520375464141",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004112479",
           "pub_date": "Tue, 06 Oct 2026 08:35:00 +0900"
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791243406,
+  "updated_at": 1791244221,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791243406,
-  "shopping_updated_at": 1791243407,
-  "reference_updated_at": 1791243412
+  "trend_updated_at": 1791244221,
+  "shopping_updated_at": 1791244224,
+  "reference_updated_at": 1791244229
 }
