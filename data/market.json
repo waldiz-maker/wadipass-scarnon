@@ -585,7 +585,7 @@
       "api_total": 17246,
       "items": [
         {
-          "title": "우리가 잃은건 언제나 잃기전보다 아름답게 보인다.",
+          "title": "우리가 잃은건 언제나 잃기 전보다 더 아름답게 보인다.",
           "url": "https://blog.naver.com/tykim2626/224432092595",
           "naver_url": "https://blog.naver.com/tykim2626/224432092595",
           "pub_date": "20261005"
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791191382,
+  "updated_at": 1791192713,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791191382,
-  "shopping_updated_at": 1791191383,
-  "reference_updated_at": 1791191388
+  "trend_updated_at": 1791192713,
+  "shopping_updated_at": 1791192715,
+  "reference_updated_at": 1791192721
 }
