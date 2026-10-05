@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85850,
+      "api_total": 85851,
       "items": [
+        {
+          "title": "'이럴수가' 천하의 오타니가 볼에 <b>배트</b>를 댄다, 사령탑도 나쁜 습관 지...",
+          "url": "https://www.mydaily.co.kr/page/view/2026100520375464141",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004112479",
+          "pub_date": "Tue, 06 Oct 2026 08:35:00 +0900"
+        },
         {
           "title": "낮은 곳에서 크게 휘두르다, 롯데의 2루수 정훈",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272099&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -527,12 +533,6 @@
           "url": "https://www.xportsnews.com/article/2204275",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002065538",
           "pub_date": "Mon, 05 Oct 2026 19:23:00 +0900"
-        },
-        {
-          "title": "각목-<b>야구배트</b>까지…평택 어린이공원서 외국인 집단 난투극",
-          "url": "https://www.donga.com/news/Society/article/all/20261005/134788295/1",
-          "naver_url": "https://n.news.naver.com/mnews/article/020/0003752785?sid=102",
-          "pub_date": "Mon, 05 Oct 2026 17:49:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791242606,
+  "updated_at": 1791243406,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791242606,
-  "shopping_updated_at": 1791242608,
-  "reference_updated_at": 1791242613
+  "trend_updated_at": 1791243406,
+  "shopping_updated_at": 1791243407,
+  "reference_updated_at": 1791243412
 }
