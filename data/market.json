@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85844,
+      "api_total": 85845,
       "items": [
+        {
+          "title": "'너무 편하게 던졌나'…AG 마친 뒤 첫 선발 등판 롯데 김진욱 1회 7실점...",
+          "url": "https://www.mydaily.co.kr/page/view/2026100515354274898",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004112347",
+          "pub_date": "Mon, 05 Oct 2026 15:38:00 +0900"
+        },
         {
           "title": "'시리즈 원점' 이글레시아스 뒷문 잠궈 애틀랜타, LA 다저스 추격 뿌리...",
           "url": "https://www.mydaily.co.kr/page/view/2026100513100119712",
@@ -527,12 +533,6 @@
           "url": "https://www.mydaily.co.kr/page/view/2026100423351560070",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004112225",
           "pub_date": "Sun, 04 Oct 2026 23:37:00 +0900"
-        },
-        {
-          "title": "드디어 터진 40호, 이 선수가 더 환호했다. 켈리에 헛스윙, 시라카와에...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-04/202610040100027180001667",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004452846",
-          "pub_date": "Sun, 04 Oct 2026 14:46:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791182323,
+  "updated_at": 1791183797,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791182323,
-  "shopping_updated_at": 1791182325,
-  "reference_updated_at": 1791182337
+  "trend_updated_at": 1791183797,
+  "shopping_updated_at": 1791183799,
+  "reference_updated_at": 1791183804
 }
