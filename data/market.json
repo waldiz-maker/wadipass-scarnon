@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85873,
+      "api_total": 85875,
       "items": [
+        {
+          "title": "무릎 인대 다치고도 “대타라도 하겠다”…오지환의 투혼",
+          "url": "https://www.sportsworldi.com/newsView/20261006517048",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/396/0000757292",
+          "pub_date": "Tue, 06 Oct 2026 17:35:00 +0900"
+        },
+        {
+          "title": "KIA 타이거즈, 잠재력 품은 육성선수 7명 대거 영입",
+          "url": "https://www.joongangenews.com/news/articleView.html?idxno=552994",
+          "naver_url": "https://www.joongangenews.com/news/articleView.html?idxno=552994",
+          "pub_date": "Tue, 06 Oct 2026 17:30:00 +0900"
+        },
         {
           "title": "'연애박사' 김소현, <b>야구 배트</b> 들고 추영우 랩실 발칵",
           "url": "https://www.ize.co.kr/news/articleView.html?idxno=81388",
@@ -521,18 +533,6 @@
           "url": "https://www.ikbc.co.kr/article/view/kbc202610060046",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/660/0000118521",
           "pub_date": "Tue, 06 Oct 2026 16:52:00 +0900"
-        },
-        {
-          "title": "미국 마이너리그서 뛰었던 최병용, 육성선수로 KIA 입단",
-          "url": "https://www.newsis.com/view/NISX20261006_0003815865",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/003/0014236326",
-          "pub_date": "Tue, 06 Oct 2026 16:37:00 +0900"
-        },
-        {
-          "title": "KIA, 육성선수 7명 영입…'미래 전력' 키운다",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=925355",
-          "naver_url": "https://www.namdonews.com/news/articleView.html?idxno=925355",
-          "pub_date": "Tue, 06 Oct 2026 16:34:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791275341,
+  "updated_at": 1791276352,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791275341,
-  "shopping_updated_at": 1791275342,
-  "reference_updated_at": 1791275347
+  "trend_updated_at": 1791276352,
+  "shopping_updated_at": 1791276354,
+  "reference_updated_at": 1791276359
 }
