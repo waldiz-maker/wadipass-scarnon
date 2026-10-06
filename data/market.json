@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85851,
+      "api_total": 85853,
       "items": [
+        {
+          "title": "하입프린세스, 프로<b>야구</b> 무대서 시구·시타·공연 '힙한 에너지 폭발'",
+          "url": "https://www.socialvalue.kr/news/view/1065572221937068",
+          "naver_url": "https://www.socialvalue.kr/news/view/1065572221937068",
+          "pub_date": "Tue, 06 Oct 2026 09:24:00 +0900"
+        },
+        {
+          "title": "김도영 9회 역전 스리런… 전세 뒤집은 그 순간",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272868&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/047/0002531242",
+          "pub_date": "Tue, 06 Oct 2026 09:11:00 +0900"
+        },
         {
           "title": "'이럴수가' 천하의 오타니가 볼에 <b>배트</b>를 댄다, 사령탑 이례적 지적→이...",
           "url": "https://www.mydaily.co.kr/page/view/2026100520375464141",
@@ -521,18 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-10-05/202610060100036000002325",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004453359",
           "pub_date": "Tue, 06 Oct 2026 00:05:00 +0900"
-        },
-        {
-          "title": "‘이럴 수가’ LG, 왜 이러나…3일 연속 9회 악몽, 마무리 난타당하다, ...",
-          "url": "http://www.osen.co.kr/article/G1112887958",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005618656",
-          "pub_date": "Mon, 05 Oct 2026 19:24:00 +0900"
-        },
-        {
-          "title": "'이게 슈퍼스타다!' 김도영, 9회 2사 154.5km/h 직구 통타→역전 스리런...",
-          "url": "https://www.xportsnews.com/article/2204275",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002065538",
-          "pub_date": "Mon, 05 Oct 2026 19:23:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17249,
+      "api_total": 17250,
       "items": [
+        {
+          "title": "1,476경기 끝에 <b>배트</b>를 내려놓다…롯데 정훈을 팬들이 기억하는 이유....",
+          "url": "https://blog.naver.com/sromis00/224432635470",
+          "naver_url": "https://blog.naver.com/sromis00/224432635470",
+          "pub_date": "20261006"
+        },
         {
           "title": "경기도 안중읍 인근 평택 외국인 패싸움 발생 배경과 목격담 정리",
           "url": "https://blog.naver.com/d_day_moment/224432278978",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/qw123-11/224432242473",
           "naver_url": "https://blog.naver.com/qw123-11/224432242473",
           "pub_date": "20261005"
-        },
-        {
-          "title": "솔져 탱크 <b>배트</b> 그립 실사용 후기 | 그립감 좋고 푹신한 <b>배트</b> 그립",
-          "url": "https://blog.naver.com/ih_yeo0123/224432152213",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224432152213",
-          "pub_date": "20261005"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791245274,
+  "updated_at": 1791247015,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791245274,
-  "shopping_updated_at": 1791245276,
-  "reference_updated_at": 1791245280
+  "trend_updated_at": 1791247015,
+  "shopping_updated_at": 1791247017,
+  "reference_updated_at": 1791247023
 }
