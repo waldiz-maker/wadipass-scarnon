@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85866,
+      "api_total": 85867,
       "items": [
+        {
+          "title": "KIA, 샌디에이고 지명받았던 최병용 등 육성선수 7명 영입",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04601846645610296&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/018/0006382181",
+          "pub_date": "Tue, 06 Oct 2026 16:29:00 +0900"
+        },
         {
           "title": "[프로<b>야구</b>] KIA, '샌디에이고 출신' 최병용 등 육성선수 7명 영입",
           "url": "https://www.newspim.com/news/view/20261006001208",
@@ -526,12 +532,6 @@
           "title": "프로<b>야구</b> KIA, 투수 이준혁·최승혁 등 육성선수 7명 영입",
           "url": "https://www.yna.co.kr/view/AKR20261006141200007?input=1195m",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016360231",
-          "pub_date": "Tue, 06 Oct 2026 15:41:00 +0900"
-        },
-        {
-          "title": "전년도 한국시리즈 MVP의 한 달 준비하는 법…KT 김현수 “더 스트레스...",
-          "url": "https://sports.khan.co.kr/article/202610061540003?pt=nv",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001142440",
           "pub_date": "Tue, 06 Oct 2026 15:41:00 +0900"
         }
       ]
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791270867,
+  "updated_at": 1791271941,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791270867,
-  "shopping_updated_at": 1791270870,
-  "reference_updated_at": 1791270882
+  "trend_updated_at": 1791271941,
+  "shopping_updated_at": 1791271943,
+  "reference_updated_at": 1791271948
 }
