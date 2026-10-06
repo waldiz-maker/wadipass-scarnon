@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17255,
+      "api_total": 17256,
       "items": [
+        {
+          "title": "골드 임팩트 블랙, 카모 토피도 프리뷰 | 어뢰 <b>배트</b> 버전으로 출시한....",
+          "url": "https://blog.naver.com/ih_yeo0123/224433342888",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224433342888",
+          "pub_date": "20261006"
+        },
         {
           "title": "스사노 내야수글러브 프로엘리트 고쿠보웹 레드블랙옐로우 박준순 ....",
           "url": "https://blog.naver.com/hyperclover/224432946037",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/ghuyt5379/224432478588",
           "naver_url": "https://blog.naver.com/ghuyt5379/224432478588",
           "pub_date": "20261006"
-        },
-        {
-          "title": "다이소 운동 보조가방 짐쌕 가방 추천 헤드스포츠 스트링 백팩",
-          "url": "https://blog.naver.com/joooooony_1023/224432650011",
-          "naver_url": "https://blog.naver.com/joooooony_1023/224432650011",
-          "pub_date": "20261006"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791286001,
+  "updated_at": 1791286908,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791286001,
-  "shopping_updated_at": 1791286002,
-  "reference_updated_at": 1791286007
+  "trend_updated_at": 1791286908,
+  "shopping_updated_at": 1791286910,
+  "reference_updated_at": 1791286916
 }
