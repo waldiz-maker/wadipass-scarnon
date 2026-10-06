@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85885,
+      "api_total": 85886,
       "items": [
+        {
+          "title": "“(김)도영이 잠실에서도 밀어서 넘길 능력 있다” 꽃범호 확신…고우석...",
+          "url": "https://www.mydaily.co.kr/page/view/2026100619504227144",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004112964",
+          "pub_date": "Wed, 07 Oct 2026 04:00:00 +0900"
+        },
         {
           "title": "그는 어떻게 한 경기 4안타를 몰아쳤을까?…KT 타선이 무서운 진짜 이유",
           "url": "https://www.sportschosun.com/baseball/2026-10-06/202610070100043820002824",
@@ -527,12 +533,6 @@
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553594073",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254134",
           "pub_date": "Tue, 06 Oct 2026 22:02:00 +0900"
-        },
-        {
-          "title": "'MLB 지명→방출→KBO 미지명' 그래도 KIA는 보고 있었다…'前 마이너리...",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553593349",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/139/0002254132",
-          "pub_date": "Tue, 06 Oct 2026 21:46:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17259,
+      "api_total": 17260,
       "items": [
         {
           "title": "한눈에 보는* <b>야구</b>.해외<b>야구</b>.축구.해외축구.농구. 2026년10월7일 .",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791312549,
+  "updated_at": 1791313561,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791312549,
-  "shopping_updated_at": 1791312550,
-  "reference_updated_at": 1791312556
+  "trend_updated_at": 1791313561,
+  "shopping_updated_at": 1791313563,
+  "reference_updated_at": 1791313568
 }
