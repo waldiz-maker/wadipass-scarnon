@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85880,
+      "api_total": 85881,
       "items": [
+        {
+          "title": "'MLB 지명→방출→KBO 미지명' 그래도 KIA는 보고 있었다…'前 마이너리...",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553593349",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/139/0002254132",
+          "pub_date": "Tue, 06 Oct 2026 21:46:00 +0900"
+        },
         {
           "title": "1%대 시청률로 출발…김소현♥추영우 동갑내기 로맨스 &quot;꿈 향해 거침없...",
           "url": "https://www.tenasia.co.kr/article/2026100653974",
@@ -527,12 +533,6 @@
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3714349",
           "naver_url": "https://www.gukjenews.com/news/articleView.html?idxno=3714349",
           "pub_date": "Tue, 06 Oct 2026 18:24:00 +0900"
-        },
-        {
-          "title": "KIA, 투수 이준혁·최승혁 등 육성선수 7명 영입",
-          "url": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376272",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/472/0000041823",
-          "pub_date": "Tue, 06 Oct 2026 18:21:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791289959,
+  "updated_at": 1791291449,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791289959,
-  "shopping_updated_at": 1791289961,
-  "reference_updated_at": 1791289967
+  "trend_updated_at": 1791291449,
+  "shopping_updated_at": 1791291450,
+  "reference_updated_at": 1791291455
 }
