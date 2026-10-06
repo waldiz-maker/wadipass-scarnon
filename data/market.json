@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17260,
+      "api_total": 17261,
       "items": [
+        {
+          "title": "박위가 1위라고?.. 백종원·전현무 제친 스타 투표 결과",
+          "url": "https://blog.naver.com/rankingup_/224433698042",
+          "naver_url": "https://blog.naver.com/rankingup_/224433698042",
+          "pub_date": "20261007"
+        },
         {
           "title": "한눈에 보는* <b>야구</b>.해외<b>야구</b>.축구.해외축구.농구. 2026년10월7일 .",
           "url": "https://blog.naver.com/c1c1b1b1/224433617671",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/ih_yeo0123/224433342888",
           "naver_url": "https://blog.naver.com/ih_yeo0123/224433342888",
           "pub_date": "20261006"
-        },
-        {
-          "title": "스사노 내야수글러브 프로엘리트 고쿠보웹 레드블랙옐로우 박준순 ....",
-          "url": "https://blog.naver.com/hyperclover/224432946037",
-          "naver_url": "https://blog.naver.com/hyperclover/224432946037",
-          "pub_date": "20261006"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791326428,
+  "updated_at": 1791327149,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791326428,
-  "shopping_updated_at": 1791326429,
-  "reference_updated_at": 1791326434
+  "trend_updated_at": 1791327149,
+  "shopping_updated_at": 1791327150,
+  "reference_updated_at": 1791327155
 }
