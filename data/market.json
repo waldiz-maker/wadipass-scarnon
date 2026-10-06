@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85860,
+      "api_total": 85861,
       "items": [
+        {
+          "title": "“믿기 힘든 재능”…중학생인데 벌써 ML 구단과 ‘70억대’ 계약 예약...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1576326",
+          "naver_url": "https://m.sports.naver.com/general/article/445/0000472609",
+          "pub_date": "Tue, 06 Oct 2026 15:31:00 +0900"
+        },
         {
           "title": "‘연애박사’ <b>야구 배트</b> 든 김소현→분노한 추영우…무슨 일?",
           "url": "https://www.mk.co.kr/article/12169269",
@@ -527,12 +533,6 @@
           "url": "https://sports.donga.com/ent/article/all/20261006/134792486/1",
           "naver_url": "https://m.entertain.naver.com/article/382/0001297412",
           "pub_date": "Tue, 06 Oct 2026 13:22:00 +0900"
-        },
-        {
-          "title": "'1회에만 3실책' 양키스의 자멸 <b>야구</b>…'삼진 없는 <b>야구</b>' 탬파베이에 2연...",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=130783",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/529/0000078798",
-          "pub_date": "Tue, 06 Oct 2026 13:04:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791266857,
+  "updated_at": 1791268332,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791266857,
-  "shopping_updated_at": 1791266859,
-  "reference_updated_at": 1791266864
+  "trend_updated_at": 1791268332,
+  "shopping_updated_at": 1791268333,
+  "reference_updated_at": 1791268338
 }
