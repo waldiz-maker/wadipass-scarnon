@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85889,
+      "api_total": 85890,
       "items": [
+        {
+          "title": "‘연애박사’ 김소현♥추영우 키스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610070096",
+          "naver_url": "https://www.bntnews.co.kr/article/view/bnt202610070096",
+          "pub_date": "Wed, 07 Oct 2026 08:22:00 +0900"
+        },
         {
           "title": "‘ML 20R 지명→美 독립리그→KBO 미지명’ 24살 내야수, KIA가 품었다…...",
           "url": "http://www.osen.co.kr/article/G1112888168",
@@ -527,12 +533,6 @@
           "url": "https://www.mydaily.co.kr/page/view/2026100619504227144",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004112964",
           "pub_date": "Wed, 07 Oct 2026 04:00:00 +0900"
-        },
-        {
-          "title": "그는 어떻게 한 경기 4안타를 몰아쳤을까?…KT 타선이 무서운 진짜 이유",
-          "url": "https://www.sportschosun.com/baseball/2026-10-06/202610070100043820002824",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004453750",
-          "pub_date": "Wed, 07 Oct 2026 00:16:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791327876,
+  "updated_at": 1791329101,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791327876,
-  "shopping_updated_at": 1791327877,
-  "reference_updated_at": 1791327883
+  "trend_updated_at": 1791329101,
+  "shopping_updated_at": 1791329102,
+  "reference_updated_at": 1791329107
 }
