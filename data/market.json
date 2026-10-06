@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 11.2
+          "ratio": 13.1
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 1.01
+          "ratio": 1.26
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 0.71
+          "ratio": 0.89
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 45.4,
+    "recent_3m_avg": 46.1,
     "previous_3m_avg": 84.3,
-    "delta_pct": -46.1,
+    "delta_pct": -45.3,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 11.2,
+    "latest_ratio": 13.1,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85893,
+      "api_total": 85894,
       "items": [
+        {
+          "title": "'연애박사' 김소현♥추영우 입맞춤 엔딩...시청률도 소폭 상승",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3714710",
+          "naver_url": "https://www.gukjenews.com/news/articleView.html?idxno=3714710",
+          "pub_date": "Wed, 07 Oct 2026 08:50:00 +0900"
+        },
         {
           "title": "김소현♥추영우 2회 만 입맞춤…시청률도 상승 2회 2.4% (연애박사)",
           "url": "https://isplus.com/article/view/isp202610070017",
@@ -527,12 +533,6 @@
           "url": "https://www.bntnews.co.kr/article/view/bnt202610070096",
           "naver_url": "https://www.bntnews.co.kr/article/view/bnt202610070096",
           "pub_date": "Wed, 07 Oct 2026 08:22:00 +0900"
-        },
-        {
-          "title": "‘ML 20R 지명→美 독립리그→KBO 미지명’ 24살 내야수, KIA가 품었다…...",
-          "url": "http://www.osen.co.kr/article/G1112888168",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005619433",
-          "pub_date": "Wed, 07 Oct 2026 06:41:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791329938,
+  "updated_at": 1791330755,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791329938,
-  "shopping_updated_at": 1791329939,
-  "reference_updated_at": 1791329944
+  "trend_updated_at": 1791330755,
+  "shopping_updated_at": 1791330757,
+  "reference_updated_at": 1791330769
 }
