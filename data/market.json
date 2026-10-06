@@ -502,12 +502,18 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85871,
+      "api_total": 85872,
       "items": [
+        {
+          "title": "[오피셜]두 번 외면받아도 <b>야구</b> 놓지 않았다…미국까지 돌아온 최병용,...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1576509",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000472657",
+          "pub_date": "Tue, 06 Oct 2026 16:54:00 +0900"
+        },
         {
           "title": "샌디에이고 출신 내야수까지...KIA, 육성선수 7명 영입",
           "url": "https://www.ikbc.co.kr/article/view/kbc202610060046",
-          "naver_url": "https://m.sports.naver.com/general/article/660/0000118521",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/660/0000118521",
           "pub_date": "Tue, 06 Oct 2026 16:52:00 +0900"
         },
         {
@@ -527,12 +533,6 @@
           "url": "https://www.etoday.co.kr/news/view/2632964",
           "naver_url": "https://www.etoday.co.kr/news/view/2632964",
           "pub_date": "Tue, 06 Oct 2026 16:32:00 +0900"
-        },
-        {
-          "title": "KIA, 샌디에이고 지명받았던 최병용 등 육성선수 7명 영입",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04601846645610296&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/018/0006382181",
-          "pub_date": "Tue, 06 Oct 2026 16:29:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791273280,
+  "updated_at": 1791274064,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791273280,
-  "shopping_updated_at": 1791273282,
-  "reference_updated_at": 1791273287
+  "trend_updated_at": 1791274064,
+  "shopping_updated_at": 1791274065,
+  "reference_updated_at": 1791274070
 }
