@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85854,
+      "api_total": 85855,
       "items": [
+        {
+          "title": "[AI프리뷰] 6일 부산 두산-롯데전, 'AG 金' 돌아온 국대 에이스 두산 곽...",
+          "url": "https://www.newspim.com/news/view/20261006000616",
+          "naver_url": "https://www.newspim.com/news/view/20261006000616",
+          "pub_date": "Tue, 06 Oct 2026 12:45:00 +0900"
+        },
         {
           "title": "대충격! &quot;오타니, 타순 조정 가능성&quot; 드디어 떴다…결국 고집 꺾은 로버...",
           "url": "https://www.sportschosun.com/baseball/2026-10-06/202610060100038640002487",
@@ -527,12 +533,6 @@
           "url": "https://www.mydaily.co.kr/page/view/2026100520375464141",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004112479",
           "pub_date": "Tue, 06 Oct 2026 08:35:00 +0900"
-        },
-        {
-          "title": "낮은 곳에서 크게 휘두르다, 롯데의 2루수 정훈",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272099&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "naver_url": "https://n.news.naver.com/mnews/article/047/0002531239?sid=103",
-          "pub_date": "Tue, 06 Oct 2026 07:31:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791258172,
+  "updated_at": 1791259017,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791258172,
-  "shopping_updated_at": 1791258173,
-  "reference_updated_at": 1791258178
+  "trend_updated_at": 1791259017,
+  "shopping_updated_at": 1791259019,
+  "reference_updated_at": 1791259024
 }
