@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85856,
+      "api_total": 85857,
       "items": [
+        {
+          "title": "<b>야구</b> 방망이 든 김소현… 추영우도 살벌 눈빛 (연애박사)",
+          "url": "https://sports.donga.com/ent/article/all/20261006/134792486/1",
+          "naver_url": "https://m.entertain.naver.com/article/382/0001297412",
+          "pub_date": "Tue, 06 Oct 2026 13:22:00 +0900"
+        },
         {
           "title": "'1회에만 3실책' 양키스의 자멸 <b>야구</b>…'삼진 없는 <b>야구</b>' 탬파베이에 2연...",
           "url": "http://www.spochoo.com/news/articleView.html?idxno=130783",
@@ -527,12 +533,6 @@
           "url": "https://www.socialvalue.kr/news/view/1065572221937068",
           "naver_url": "https://www.socialvalue.kr/news/view/1065572221937068",
           "pub_date": "Tue, 06 Oct 2026 09:24:00 +0900"
-        },
-        {
-          "title": "김도영 9회 역전 스리런… 전세 뒤집은 그 순간",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003272868&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/047/0002531242",
-          "pub_date": "Tue, 06 Oct 2026 09:11:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791259823,
+  "updated_at": 1791260887,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791259823,
-  "shopping_updated_at": 1791259827,
-  "reference_updated_at": 1791259839
+  "trend_updated_at": 1791260887,
+  "shopping_updated_at": 1791260889,
+  "reference_updated_at": 1791260894
 }
