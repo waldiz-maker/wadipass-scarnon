@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17253,
+      "api_total": 17254,
       "items": [
+        {
+          "title": "스사노 내야수글러브 프로엘리트 아이웹 브라운카멜 SUPEI78",
+          "url": "https://blog.naver.com/hyperclover/224432904699",
+          "naver_url": "https://blog.naver.com/hyperclover/224432904699",
+          "pub_date": "20261006"
+        },
         {
           "title": "주식 트레이딩과 투자의 본질: 전설적 투자자들의 '기다림의 미학'....",
           "url": "https://blog.naver.com/gimhjd/224432861849",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/sromis00/224432635470",
           "naver_url": "https://blog.naver.com/sromis00/224432635470",
           "pub_date": "20261006"
-        },
-        {
-          "title": "경기도 안중읍 인근 평택 외국인 패싸움 발생 배경과 목격담 정리",
-          "url": "https://blog.naver.com/d_day_moment/224432278978",
-          "naver_url": "https://blog.naver.com/d_day_moment/224432278978",
-          "pub_date": "20261006"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791260887,
+  "updated_at": 1791261856,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791260887,
-  "shopping_updated_at": 1791260889,
-  "reference_updated_at": 1791260894
+  "trend_updated_at": 1791261856,
+  "shopping_updated_at": 1791261858,
+  "reference_updated_at": 1791261864
 }
