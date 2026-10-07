@@ -502,8 +502,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85925,
+      "api_total": 85928,
       "items": [
+        {
+          "title": "잠실 고별전, LG가 웃었다. 이재원 문보경 5타점 합작, 최소 4위 확보, 임...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-07/202610070100051580003326",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004454091",
+          "pub_date": "Wed, 07 Oct 2026 21:28:00 +0900"
+        },
+        {
+          "title": "KT 최원준 203안타...역대 한 시즌 최다 기록",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/07/XDUG6J23KNHO7LSYXUWDSNC4MU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/023/0004002643",
+          "pub_date": "Wed, 07 Oct 2026 21:24:00 +0900"
+        },
+        {
+          "title": "KT 최원준 203안타...역대 한 시즌 최다 기록",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/07/TKZ45GBPNBFKNBY6BOCMHBAPBA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/023/0004002640",
+          "pub_date": "Wed, 07 Oct 2026 20:33:00 +0900"
+        },
         {
           "title": "이재원, <b>배트</b>가 부러져도 안타",
           "url": "https://www.news1.kr/photos/8148366",
@@ -515,24 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-10-07/202610070100050740003266",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004454047",
           "pub_date": "Wed, 07 Oct 2026 19:34:00 +0900"
-        },
-        {
-          "title": "LG 이재원 홈런",
-          "url": "https://www.yna.co.kr/view/PYH20261007276800013?input=1196m",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016364208",
-          "pub_date": "Wed, 07 Oct 2026 19:08:00 +0900"
-        },
-        {
-          "title": "LG 이재원 홈런",
-          "url": "https://www.yna.co.kr/view/PYH20261007276100013?input=1196m",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016364201",
-          "pub_date": "Wed, 07 Oct 2026 19:05:00 +0900"
-        },
-        {
-          "title": "이재원, 시원한 <b>배트</b>플립",
-          "url": "https://www.news1.kr/photos/8148274",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009215894",
-          "pub_date": "Wed, 07 Oct 2026 19:02:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791374960,
+  "updated_at": 1791376494,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791374960,
-  "shopping_updated_at": 1791374963,
-  "reference_updated_at": 1791374974
+  "trend_updated_at": 1791376494,
+  "shopping_updated_at": 1791376495,
+  "reference_updated_at": 1791376500
 }
