@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85922,
+      "api_total": 85923,
       "items": [
+        {
+          "title": "LG 이재원 홈런",
+          "url": "https://www.yna.co.kr/view/PYH20261007276800013?input=1196m",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016364208",
+          "pub_date": "Wed, 07 Oct 2026 19:08:00 +0900"
+        },
         {
           "title": "LG 이재원 홈런",
           "url": "https://www.yna.co.kr/view/PYH20261007276100013?input=1196m",
@@ -527,12 +533,6 @@
           "url": "https://www.starnewskorea.com/sports/2026/10/07/2026100719000587595",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003476853",
           "pub_date": "Wed, 07 Oct 2026 19:01:00 +0900"
-        },
-        {
-          "title": "이용진 &quot;<b>야구</b>와 연애, 방망이 휘두르는 용기가 닮았죠&quot;",
-          "url": "https://www.yna.co.kr/view/AKR20261007173700005?input=1195m",
-          "naver_url": "https://n.news.naver.com/mnews/article/001/0016364139?sid=103",
-          "pub_date": "Wed, 07 Oct 2026 18:24:00 +0900"
         }
       ]
     },
@@ -603,22 +603,22 @@
           "pub_date": "20261007"
         },
         {
-          "title": "김해 초등학생 <b>야구</b>개인레슨 입문 학원 (장유,율하) 진학 결정에 도....",
-          "url": "https://blog.naver.com/surfingtaiji/224434200329",
-          "naver_url": "https://blog.naver.com/surfingtaiji/224434200329",
-          "pub_date": "20261007"
-        },
-        {
           "title": "김해 <b>사회인</b> 취미반 <b>야구</b>교실 학원 (장유,율하) 직장인 운동 후기",
           "url": "https://blog.naver.com/saker000/224434202144",
           "naver_url": "https://blog.naver.com/saker000/224434202144",
+          "pub_date": "20261007"
+        },
+        {
+          "title": "김해 초등학생 <b>야구</b>개인레슨 입문 학원 (장유,율하) 진학 결정에 도....",
+          "url": "https://blog.naver.com/surfingtaiji/224434200329",
+          "naver_url": "https://blog.naver.com/surfingtaiji/224434200329",
           "pub_date": "20261007"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791367684,
+  "updated_at": 1791368923,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791367684,
-  "shopping_updated_at": 1791367685,
-  "reference_updated_at": 1791367691
+  "trend_updated_at": 1791368923,
+  "shopping_updated_at": 1791368924,
+  "reference_updated_at": 1791368929
 }
