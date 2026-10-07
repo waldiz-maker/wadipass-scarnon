@@ -603,22 +603,22 @@
           "pub_date": "20261007"
         },
         {
-          "title": "김해 초등학생 <b>야구</b>개인레슨 입문 학원 (장유,율하) 진학 결정에 도....",
-          "url": "https://blog.naver.com/surfingtaiji/224434200329",
-          "naver_url": "https://blog.naver.com/surfingtaiji/224434200329",
-          "pub_date": "20261007"
-        },
-        {
           "title": "김해 <b>사회인</b> 취미반 <b>야구</b>교실 학원 (장유,율하) 직장인 운동 후기",
           "url": "https://blog.naver.com/saker000/224434202144",
           "naver_url": "https://blog.naver.com/saker000/224434202144",
+          "pub_date": "20261007"
+        },
+        {
+          "title": "김해 초등학생 <b>야구</b>개인레슨 입문 학원 (장유,율하) 진학 결정에 도....",
+          "url": "https://blog.naver.com/surfingtaiji/224434200329",
+          "naver_url": "https://blog.naver.com/surfingtaiji/224434200329",
           "pub_date": "20261007"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791382084,
+  "updated_at": 1791383350,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791382084,
-  "shopping_updated_at": 1791382085,
-  "reference_updated_at": 1791382090
+  "trend_updated_at": 1791383350,
+  "shopping_updated_at": 1791383352,
+  "reference_updated_at": 1791383358
 }
