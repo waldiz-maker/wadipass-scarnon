@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85904,
+      "api_total": 85910,
       "items": [
         {
-          "title": "'<b>야구</b>여왕2' 윤석민 &quot;박민서, 더욱 위력적인 투수로 느껴질 것&quot; 자신",
-          "url": "https://hbnpress.com/news/view/1065573765024677",
-          "naver_url": "https://hbnpress.com/news/view/1065573765024677",
-          "pub_date": "Wed, 07 Oct 2026 09:56:00 +0900"
+          "title": "“싫으면 지금 말해요” 김소현, 추영우에 직진 키스..분당 최고 2.6%(‘...",
+          "url": "https://www.heraldmuse.com/article/10895273?ref=naver",
+          "naver_url": "https://m.entertain.naver.com/article/112/0003809298",
+          "pub_date": "Wed, 07 Oct 2026 10:24:00 +0900"
         },
         {
-          "title": "'<b>야구</b>여왕2' 박민서, 첫 선발 마운드 오른다…한일전 대활약 예고",
-          "url": "https://swtvnews.com/news/newsview.php?ncode=1065573316268308",
-          "naver_url": "https://swtvnews.com/news/newsview.php?ncode=1065573316268308",
-          "pub_date": "Wed, 07 Oct 2026 09:52:00 +0900"
+          "title": "&quot;시즌 막바지&quot;…'불꽃<b>야구</b>2', 17번째 직관 경기 오늘(7일) 예매 오픈→상...",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16240309",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16240309",
+          "pub_date": "Wed, 07 Oct 2026 10:22:00 +0900"
         },
         {
-          "title": "'<b>야구</b>여왕2' 박민서, 한일전 위기 속 윤석민 특훈에 'AI 투수' 변신",
-          "url": "https://www.socialvalue.kr/news/view/1065573531689597",
-          "naver_url": "https://www.socialvalue.kr/news/view/1065573531689597",
-          "pub_date": "Wed, 07 Oct 2026 09:48:00 +0900"
+          "title": "공 하나 보고 끝났다, 김하성 '허망한 가을<b>야구</b>' 이대로 끝? ATL, 다저스...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-07/202610070100046290002988",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004453840",
+          "pub_date": "Wed, 07 Oct 2026 10:09:00 +0900"
         },
         {
-          "title": "‘내 삶을 다시 아름답게 만들어야겠다’ &lt;타짜: 벨제붑의 노래&gt; 노재원",
-          "url": "http://www.movist.com/star3d/view.asp?type=32&id=atc000000013060",
-          "naver_url": "http://www.movist.com/star3d/view.asp?type=32&id=atc000000013060",
-          "pub_date": "Wed, 07 Oct 2026 09:46:00 +0900"
+          "title": "&quot;싫으면 지금 말해요&quot;⋯'연애박사' 김소현, 추영우에 기습키스",
+          "url": "http://www.joynews24.com/view/2012507",
+          "naver_url": "http://www.joynews24.com/view/2012507",
+          "pub_date": "Wed, 07 Oct 2026 10:04:00 +0900"
         },
         {
-          "title": "'이럴수가!' 김하성, 한 타석 만에 교체 수모→PS 4경기 연속 무안타 수...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/07/2026100709215599858",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/108/0003476601",
-          "pub_date": "Wed, 07 Oct 2026 09:40:00 +0900"
+          "title": "시청률 1.8%→2.4% '껑충'…기습 키스에 2회부터 본격 로맨스 시동 건 韓...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1577469",
+          "naver_url": "https://m.entertain.naver.com/article/445/0000472866",
+          "pub_date": "Wed, 07 Oct 2026 10:03:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791334878,
+  "updated_at": 1791336421,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791334878,
-  "shopping_updated_at": 1791334879,
-  "reference_updated_at": 1791334885
+  "trend_updated_at": 1791336421,
+  "shopping_updated_at": 1791336423,
+  "reference_updated_at": 1791336428
 }
