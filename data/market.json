@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17265,
+      "api_total": 17267,
       "items": [
+        {
+          "title": "키네마틱 시퀀스란? 좋은 스윙은 어떻게 연결될까",
+          "url": "https://blog.naver.com/dltkdalsu/224434180376",
+          "naver_url": "https://blog.naver.com/dltkdalsu/224434180376",
+          "pub_date": "20261007"
+        },
         {
           "title": "스사노 내야수글러브 프로엘리트 십자웹 퍼플카멜 SUPEI80",
           "url": "https://blog.naver.com/hyperclover/224434107223",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/namid7/224434069150",
           "naver_url": "https://blog.naver.com/namid7/224434069150",
           "pub_date": "20261007"
-        },
-        {
-          "title": "미즈노프로 내야글러브 전체 끈수리",
-          "url": "https://blog.naver.com/susanokorea/224433393279",
-          "naver_url": "https://blog.naver.com/susanokorea/224433393279",
-          "pub_date": "20261007"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791353491,
+  "updated_at": 1791354812,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791353491,
-  "shopping_updated_at": 1791353493,
-  "reference_updated_at": 1791353498
+  "trend_updated_at": 1791354812,
+  "shopping_updated_at": 1791354813,
+  "reference_updated_at": 1791354819
 }
