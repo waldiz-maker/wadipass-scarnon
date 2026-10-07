@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85915,
+      "api_total": 85916,
       "items": [
+        {
+          "title": "&quot;수비하다 잔디서 미끄러졌다&quot; 은퇴 예고한 37세 베테랑 내야수가 쓰러...",
+          "url": "https://www.mydaily.co.kr/page/view/2026100712015371211",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004113146",
+          "pub_date": "Wed, 07 Oct 2026 15:01:00 +0900"
+        },
         {
           "title": "‘야수 최대어’ KIA 1R 신인 이호민, 3억5000만원에 도장 찍었다…KIA, ...",
           "url": "http://www.osen.co.kr/article/G1112889007",
@@ -527,12 +533,6 @@
           "url": "http://www.spochoo.com/news/articleView.html?idxno=130821",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/529/0000078813",
           "pub_date": "Wed, 07 Oct 2026 10:48:00 +0900"
-        },
-        {
-          "title": "'연애박사' 김소현, 추영우에 기습 키스… 2회 시청률 2.4%로 상승",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3438459",
-          "naver_url": "https://www.newscj.com/news/articleView.html?idxno=3438459",
-          "pub_date": "Wed, 07 Oct 2026 10:28:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791352678,
+  "updated_at": 1791353491,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791352678,
-  "shopping_updated_at": 1791352681,
-  "reference_updated_at": 1791352686
+  "trend_updated_at": 1791353491,
+  "shopping_updated_at": 1791353493,
+  "reference_updated_at": 1791353498
 }
