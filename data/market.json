@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 8.35
+          "ratio": 10.13
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.92
+          "ratio": 3.31
         }
       ]
     },
@@ -379,7 +379,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 0.81
+          "ratio": 0.97
         }
       ]
     }
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 44.5,
+    "recent_3m_avg": 45.1,
     "previous_3m_avg": 75.2,
-    "delta_pct": -40.8,
+    "delta_pct": -40.0,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 8.3,
+    "latest_ratio": 10.1,
     "peak_period": "2025-10-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 66.9,
+      "index": 67.5,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 67.1,
+      "index": 67.9,
       "period_count": 4
     }
   },
@@ -421,13 +421,13 @@
       {
         "group": "40",
         "label": "40대",
-        "index": 66.9,
+        "index": 67.5,
         "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 22.5,
+        "index": 23.2,
         "period_count": 4
       },
       {
@@ -445,7 +445,7 @@
       {
         "group": "20",
         "label": "20대",
-        "index": 7.6,
+        "index": 7.7,
         "period_count": 4
       },
       {
@@ -458,7 +458,7 @@
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 66.9,
+      "index": 67.5,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -474,20 +474,20 @@
       {
         "group": "m",
         "label": "남성",
-        "index": 67.1,
+        "index": 67.9,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 24.6,
+        "index": 24.7,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 67.1,
+      "index": 67.9,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85899,
+      "api_total": 85904,
       "items": [
         {
-          "title": "추영우♥김소현, 골목길 키스 엔딩…'연애박사' 시청률 소폭 상승",
-          "url": "https://star.ytn.co.kr/_sn/0117_202610070925516857",
-          "naver_url": "https://m.entertain.naver.com/article/052/0002415610",
-          "pub_date": "Wed, 07 Oct 2026 09:25:00 +0900"
+          "title": "'<b>야구</b>여왕2' 윤석민 &quot;박민서, 더욱 위력적인 투수로 느껴질 것&quot; 자신",
+          "url": "https://hbnpress.com/news/view/1065573765024677",
+          "naver_url": "https://hbnpress.com/news/view/1065573765024677",
+          "pub_date": "Wed, 07 Oct 2026 09:56:00 +0900"
         },
         {
-          "title": "‘연애박사’ 김소현, 추영우에 직진 키스…시청률 1.8%→2.4%로 껑충 뛰...",
-          "url": "https://www.wikitree.co.kr/articles/1164468",
-          "naver_url": "https://www.wikitree.co.kr/articles/1164468",
-          "pub_date": "Wed, 07 Oct 2026 09:14:00 +0900"
+          "title": "'<b>야구</b>여왕2' 박민서, 첫 선발 마운드 오른다…한일전 대활약 예고",
+          "url": "https://swtvnews.com/news/newsview.php?ncode=1065573316268308",
+          "naver_url": "https://swtvnews.com/news/newsview.php?ncode=1065573316268308",
+          "pub_date": "Wed, 07 Oct 2026 09:52:00 +0900"
         },
         {
-          "title": "[오피셜]레이예스 사상 첫 두 번째 200안타...최고 분석가도 분석 포기했...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1577379",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000472838",
-          "pub_date": "Wed, 07 Oct 2026 09:01:00 +0900"
+          "title": "'<b>야구</b>여왕2' 박민서, 한일전 위기 속 윤석민 특훈에 'AI 투수' 변신",
+          "url": "https://www.socialvalue.kr/news/view/1065573531689597",
+          "naver_url": "https://www.socialvalue.kr/news/view/1065573531689597",
+          "pub_date": "Wed, 07 Oct 2026 09:48:00 +0900"
         },
         {
-          "title": "안판석 감독 유작, 2회 만에 시청률 상승세 탔다…김소현, ♥추영우에 ...",
-          "url": "https://www.tenasia.co.kr/article/2026100770564",
-          "naver_url": "https://m.entertain.naver.com/article/312/0000778971",
-          "pub_date": "Wed, 07 Oct 2026 09:00:00 +0900"
+          "title": "‘내 삶을 다시 아름답게 만들어야겠다’ &lt;타짜: 벨제붑의 노래&gt; 노재원",
+          "url": "http://www.movist.com/star3d/view.asp?type=32&id=atc000000013060",
+          "naver_url": "http://www.movist.com/star3d/view.asp?type=32&id=atc000000013060",
+          "pub_date": "Wed, 07 Oct 2026 09:46:00 +0900"
         },
         {
-          "title": "김소현, 술 취해 추영우에 입맞춤⋯시청률 2.4%로 상승",
-          "url": "https://www.etoday.co.kr/news/view/2633148",
-          "naver_url": "https://www.etoday.co.kr/news/view/2633148",
-          "pub_date": "Wed, 07 Oct 2026 08:52:00 +0900"
+          "title": "'이럴수가!' 김하성, 한 타석 만에 교체 수모→PS 4경기 연속 무안타 수...",
+          "url": "https://www.starnewskorea.com/sports/2026/10/07/2026100709215599858",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/108/0003476601",
+          "pub_date": "Wed, 07 Oct 2026 09:40:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17261,
+      "api_total": 17262,
       "items": [
+        {
+          "title": "미즈노프로 내야글러브 전체 끈수리",
+          "url": "https://blog.naver.com/susanokorea/224433393279",
+          "naver_url": "https://blog.naver.com/susanokorea/224433393279",
+          "pub_date": "20261007"
+        },
         {
           "title": "박위가 1위라고?.. 백종원·전현무 제친 스타 투표 결과",
           "url": "https://blog.naver.com/rankingup_/224433698042",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/brainny369/224433364490",
           "naver_url": "https://blog.naver.com/brainny369/224433364490",
           "pub_date": "20261006"
-        },
-        {
-          "title": "골드 임팩트 블랙, 카모 토피도 프리뷰 | 어뢰 <b>배트</b> 버전으로 출시한....",
-          "url": "https://blog.naver.com/ih_yeo0123/224433342888",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224433342888",
-          "pub_date": "20261006"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791333469,
+  "updated_at": 1791334878,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791333469,
-  "shopping_updated_at": 1791333471,
-  "reference_updated_at": 1791333476
+  "trend_updated_at": 1791334878,
+  "shopping_updated_at": 1791334879,
+  "reference_updated_at": 1791334885
 }
