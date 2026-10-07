@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85914,
+      "api_total": 85915,
       "items": [
+        {
+          "title": "‘야수 최대어’ KIA 1R 신인 이호민, 3억5000만원에 도장 찍었다…KIA, ...",
+          "url": "http://www.osen.co.kr/article/G1112889007",
+          "naver_url": "https://m.sports.naver.com/general/article/109/0005619705",
+          "pub_date": "Wed, 07 Oct 2026 14:41:00 +0900"
+        },
         {
           "title": "[D뉴스]'홈런 기부' 팬들에 감동한 KIA 김도영…보육원 후원으로 화답",
           "url": "https://www.ikbc.co.kr/article/view/kbc202610070036",
@@ -527,12 +533,6 @@
           "url": "https://www.newscj.com/news/articleView.html?idxno=3438459",
           "naver_url": "https://www.newscj.com/news/articleView.html?idxno=3438459",
           "pub_date": "Wed, 07 Oct 2026 10:28:00 +0900"
-        },
-        {
-          "title": "“싫으면 지금 말해요” 김소현, 추영우에 직진 키스..분당 최고 2.6%(‘...",
-          "url": "https://www.heraldmuse.com/article/10895273?ref=naver",
-          "naver_url": "https://m.entertain.naver.com/article/112/0003809298",
-          "pub_date": "Wed, 07 Oct 2026 10:24:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791350886,
+  "updated_at": 1791351841,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791350886,
-  "shopping_updated_at": 1791350888,
-  "reference_updated_at": 1791350895
+  "trend_updated_at": 1791351841,
+  "shopping_updated_at": 1791351843,
+  "reference_updated_at": 1791351848
 }
