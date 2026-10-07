@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85916,
+      "api_total": 85917,
       "items": [
+        {
+          "title": "'타율 0.237' 백업 타자가 어떻게 11홈런을 때렸을까?…달 감독도 감탄한...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-07/202610070100050040003208",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004453997",
+          "pub_date": "Wed, 07 Oct 2026 17:48:00 +0900"
+        },
         {
           "title": "&quot;수비하다 잔디서 미끄러졌다&quot; 은퇴 예고한 37세 베테랑 내야수가 쓰러...",
           "url": "https://www.mydaily.co.kr/page/view/2026100712015371211",
@@ -527,12 +533,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03483366645610624&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "naver_url": "https://m.entertain.naver.com/article/018/0006382806",
           "pub_date": "Wed, 07 Oct 2026 11:21:00 +0900"
-        },
-        {
-          "title": "박철순·이만수·이승엽·이대호 등 레전드 60명 총출동! 잠실 더 라스트...",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=130821",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/529/0000078813",
-          "pub_date": "Wed, 07 Oct 2026 10:48:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17271,
+      "api_total": 17272,
       "items": [
+        {
+          "title": "김해 초등학생 <b>야구</b>개인레슨 입문 학원 (장유,율하) 진학 결정에 도....",
+          "url": "https://blog.naver.com/surfingtaiji/224434200329",
+          "naver_url": "https://blog.naver.com/surfingtaiji/224434200329",
+          "pub_date": "20261007"
+        },
         {
           "title": "김해 <b>사회인</b> 취미반 <b>야구</b>교실 학원 (장유,율하) 직장인 운동 후기",
           "url": "https://blog.naver.com/saker000/224434202144",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/simeon49/224434198948",
           "naver_url": "https://blog.naver.com/simeon49/224434198948",
           "pub_date": "20261007"
-        },
-        {
-          "title": "키네마틱 시퀀스란? 좋은 스윙은 어떻게 연결될까",
-          "url": "https://blog.naver.com/dltkdalsu/224434180376",
-          "naver_url": "https://blog.naver.com/dltkdalsu/224434180376",
-          "pub_date": "20261007"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791361849,
+  "updated_at": 1791363355,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791361849,
-  "shopping_updated_at": 1791361851,
-  "reference_updated_at": 1791361856
+  "trend_updated_at": 1791363355,
+  "shopping_updated_at": 1791363357,
+  "reference_updated_at": 1791363362
 }
