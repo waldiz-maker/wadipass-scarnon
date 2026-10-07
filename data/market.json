@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17270,
+      "api_total": 17271,
       "items": [
+        {
+          "title": "김해 <b>사회인</b> 취미반 <b>야구</b>교실 학원 (장유,율하) 직장인 운동 후기",
+          "url": "https://blog.naver.com/saker000/224434202144",
+          "naver_url": "https://blog.naver.com/saker000/224434202144",
+          "pub_date": "20261007"
+        },
         {
           "title": "부천 <b>사회인</b>타격레슨｜1회 레슨 전후 스윙 변화, J-ONE 베이스볼 아카....",
           "url": "https://blog.naver.com/dnjsvlwk14/224434298056",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/dltkdalsu/224434180376",
           "naver_url": "https://blog.naver.com/dltkdalsu/224434180376",
           "pub_date": "20261007"
-        },
-        {
-          "title": "스사노 내야수글러브 프로엘리트 십자웹 퍼플카멜 SUPEI80",
-          "url": "https://blog.naver.com/hyperclover/224434107223",
-          "naver_url": "https://blog.naver.com/hyperclover/224434107223",
-          "pub_date": "20261007"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791360531,
+  "updated_at": 1791361849,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791360531,
-  "shopping_updated_at": 1791360533,
-  "reference_updated_at": 1791360538
+  "trend_updated_at": 1791361849,
+  "shopping_updated_at": 1791361851,
+  "reference_updated_at": 1791361856
 }
