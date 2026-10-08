@@ -507,7 +507,7 @@
         {
           "title": "상대팀 디아즈도 축하…최원준 '204안타' 새 역사",
           "url": "https://news.jtbc.co.kr/article/NB12322036?influxDiv=NAVER",
-          "naver_url": "https://m.sports.naver.com/general/article/437/0000514821",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000514821",
           "pub_date": "Thu, 08 Oct 2026 20:41:00 +0900"
         },
         {
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17319,
+      "api_total": 17320,
       "items": [
+        {
+          "title": "KT 최원준 선수 모델 모리모토 프로 배팅 장갑 프리뷰 | KBO 단일 시즌....",
+          "url": "https://blog.naver.com/ih_yeo0123/224435618772",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224435618772",
+          "pub_date": "20261008"
+        },
         {
           "title": "안전하고 쫀득한 그립으로 경기력 UP하는 방법",
           "url": "https://blog.naver.com/c4rmebgff2bg7/224435589471",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/aqua_tong/224435231657",
           "naver_url": "https://blog.naver.com/aqua_tong/224435231657",
           "pub_date": "20261008"
-        },
-        {
-          "title": "안우진 ① 안우진은 어떻게 KBO의 지배자가 됐나｜고교 최대어에서 2....",
-          "url": "https://blog.naver.com/yuyuyu81/224435188747",
-          "naver_url": "https://blog.naver.com/yuyuyu81/224435188747",
-          "pub_date": "20261008"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791459866,
+  "updated_at": 1791460714,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791459866,
-  "shopping_updated_at": 1791459868,
-  "reference_updated_at": 1791459873
+  "trend_updated_at": 1791460714,
+  "shopping_updated_at": 1791460716,
+  "reference_updated_at": 1791460721
 }
