@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17293,
+      "api_total": 17294,
       "items": [
+        {
+          "title": "안우진 ① 안우진은 어떻게 KBO의 지배자가 됐나｜고교 최대어에서 2....",
+          "url": "https://blog.naver.com/yuyuyu81/224435188747",
+          "naver_url": "https://blog.naver.com/yuyuyu81/224435188747",
+          "pub_date": "20261008"
+        },
         {
           "title": "[BMC] 코어 퍼포먼스 밴드 세트, 가성비로 챙기는 <b>야구</b> 트레이닝",
           "url": "https://blog.naver.com/yuyuri55721/224435130456",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/happy-365year/224434409679",
           "naver_url": "https://blog.naver.com/happy-365year/224434409679",
           "pub_date": "20261007"
-        },
-        {
-          "title": "수원 <b>야구</b> 클럽 군베이스볼 성복역 위치와 운영시간",
-          "url": "https://blog.naver.com/90pitch/224434019034",
-          "naver_url": "https://blog.naver.com/90pitch/224434019034",
-          "pub_date": "20261007"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791434729,
+  "updated_at": 1791436039,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791434729,
-  "shopping_updated_at": 1791434730,
-  "reference_updated_at": 1791434735
+  "trend_updated_at": 1791436039,
+  "shopping_updated_at": 1791436040,
+  "reference_updated_at": 1791436045
 }
