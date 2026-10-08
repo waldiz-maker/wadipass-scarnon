@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85935,
+      "api_total": 85936,
       "items": [
+        {
+          "title": "44년 잠실구장 마지막 승부, ‘잠실 더 라스트 이닝’이 온다",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680908&ref=A",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/056/0012270151",
+          "pub_date": "Thu, 08 Oct 2026 12:52:00 +0900"
+        },
         {
           "title": "‘사라진 번트’ 소환… 돈 없는 구단의 승승장구",
           "url": "https://www.munhwa.com/article/11622203?ref=naver",
@@ -527,12 +533,6 @@
           "url": "http://www.osen.co.kr/article/G1112889070",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005620341",
           "pub_date": "Thu, 08 Oct 2026 06:11:00 +0900"
-        },
-        {
-          "title": "韓 <b>야구</b> 역사 새로 썼는데, 최원준 &quot;무슨 기분인지 모르겠다&quot; 돌발 고백...",
-          "url": "https://www.xportsnews.com/article/2205377",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002066633",
-          "pub_date": "Thu, 08 Oct 2026 01:30:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17287,
+      "api_total": 17289,
       "items": [
+        {
+          "title": "[BMC] 코어 퍼포먼스 밴드 세트, 가성비로 챙기는 <b>야구</b> 트레이닝",
+          "url": "https://blog.naver.com/yuyuri55721/224435130456",
+          "naver_url": "https://blog.naver.com/yuyuri55721/224435130456",
+          "pub_date": "20261008"
+        },
         {
           "title": "<b>야구</b><b>배트</b>그립으로 안정감 있게 즐기기 추천 제품 모음",
           "url": "https://blog.naver.com/umham0535785/224434804675",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/90pitch/224434019034",
           "naver_url": "https://blog.naver.com/90pitch/224434019034",
           "pub_date": "20261007"
-        },
-        {
-          "title": "김해 중학생 아이 운동 <b>야구</b>교실추천 (장유,율하) 무료체험 후기",
-          "url": "https://blog.naver.com/oldskill/224434200954",
-          "naver_url": "https://blog.naver.com/oldskill/224434200954",
-          "pub_date": "20261007"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791431129,
+  "updated_at": 1791432420,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791431129,
-  "shopping_updated_at": 1791431132,
-  "reference_updated_at": 1791431144
+  "trend_updated_at": 1791432420,
+  "shopping_updated_at": 1791432421,
+  "reference_updated_at": 1791432427
 }
