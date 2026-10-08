@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85943,
+      "api_total": 85945,
       "items": [
+        {
+          "title": "204안타 최원준, 203안타 레이예스…프로<b>야구</b> 초유의 ‘200+α안타’ 전쟁",
+          "url": "https://www.joongang.co.kr/article/25468388",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/025/0003556805",
+          "pub_date": "Fri, 09 Oct 2026 08:00:00 +0900"
+        },
+        {
+          "title": "불꽃<b>야구</b>2 불꽃 파이터즈, 대학 국가대표와 5점 차 추격전…막내 투수 ...",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242255",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16242255",
+          "pub_date": "Fri, 09 Oct 2026 07:52:00 +0900"
+        },
         {
           "title": "&quot;정말 쓰라리다&quot; <b>야구</b>의 신이 외면했나, 9년 전이랑 같은 장소에서 '홈런...",
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553601631",
@@ -521,18 +533,6 @@
           "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012100",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/477/0000632181",
           "pub_date": "Fri, 09 Oct 2026 00:32:00 +0900"
-        },
-        {
-          "title": "KBO 45년 역사상 최다 안타 신기록…홈런왕도 MVP 장담 못 해",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/08/2026100890239.html",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/448/0000643855",
-          "pub_date": "Thu, 08 Oct 2026 21:47:00 +0900"
-        },
-        {
-          "title": "상대팀 디아즈도 축하…최원준 '204안타' 새 역사",
-          "url": "https://news.jtbc.co.kr/article/NB12322036?influxDiv=NAVER",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000514821",
-          "pub_date": "Thu, 08 Oct 2026 20:41:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791499580,
+  "updated_at": 1791500785,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791499580,
-  "shopping_updated_at": 1791499582,
-  "reference_updated_at": 1791499587
+  "trend_updated_at": 1791500785,
+  "shopping_updated_at": 1791500787,
+  "reference_updated_at": 1791500792
 }
