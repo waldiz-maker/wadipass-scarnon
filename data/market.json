@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17303,
+      "api_total": 17307,
       "items": [
+        {
+          "title": "스사노 외야수글러브 프로엘리트 쌍십자웹 블랙오렌지 SUPEO34",
+          "url": "https://blog.naver.com/hyperclover/224435402642",
+          "naver_url": "https://blog.naver.com/hyperclover/224435402642",
+          "pub_date": "20261008"
+        },
         {
           "title": "아기랑 놀다 손목 삐끗한 아빠, 직접 써본 손목보호대 후기",
           "url": "https://blog.naver.com/aqua_tong/224435231657",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/umham0535785/224434804675",
           "naver_url": "https://blog.naver.com/umham0535785/224434804675",
           "pub_date": "20261008"
-        },
-        {
-          "title": "<b>야구</b>선수 김태균 프로필 나이 학력 방송 결혼 아내 가족 재산 연금 ....",
-          "url": "https://blog.naver.com/tonora/224434493904",
-          "naver_url": "https://blog.naver.com/tonora/224434493904",
-          "pub_date": "20261008"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791444656,
+  "updated_at": 1791446149,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791444656,
-  "shopping_updated_at": 1791444658,
-  "reference_updated_at": 1791444664
+  "trend_updated_at": 1791446149,
+  "shopping_updated_at": 1791446150,
+  "reference_updated_at": 1791446155
 }
