@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85937,
+      "api_total": 85938,
       "items": [
+        {
+          "title": "'이게 안 넘어가?' 무려 19개 구장서 홈런인데...124m 동점 홈런 빼앗긴...",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553600349",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254232",
+          "pub_date": "Thu, 08 Oct 2026 16:21:00 +0900"
+        },
         {
           "title": "다저스처럼 되려는 팀이 있다…'NPB 40홈런+ML 검증 FA' 日 타자 2명 동시...",
           "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011953",
@@ -527,12 +533,6 @@
           "url": "http://www.osen.co.kr/article/G1112889705",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005620386",
           "pub_date": "Thu, 08 Oct 2026 09:16:00 +0900"
-        },
-        {
-          "title": "44년 잠실구장 마지막 승부, ‘잠실 더 라스트 이닝’이 온다",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680558&ref=A",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/056/0012269891",
-          "pub_date": "Thu, 08 Oct 2026 07:44:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17301,
+      "api_total": 17303,
       "items": [
         {
           "title": "아기랑 놀다 손목 삐끗한 아빠, 직접 써본 손목보호대 후기",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791442892,
+  "updated_at": 1791444656,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791442892,
-  "shopping_updated_at": 1791442894,
-  "reference_updated_at": 1791442899
+  "trend_updated_at": 1791444656,
+  "shopping_updated_at": 1791444658,
+  "reference_updated_at": 1791444664
 }
