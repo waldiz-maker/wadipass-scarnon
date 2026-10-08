@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85945,
+      "api_total": 85946,
       "items": [
+        {
+          "title": "그날이 오긴 오겠지? 5년 전 고영표의 바람 현실이 되다…102만 2972명과...",
+          "url": "https://www.mydaily.co.kr/page/view/2026100823080627885",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004113692",
+          "pub_date": "Fri, 09 Oct 2026 08:41:00 +0900"
+        },
         {
           "title": "204안타 최원준, 203안타 레이예스…프로<b>야구</b> 초유의 ‘200+α안타’ 전쟁",
           "url": "https://www.joongang.co.kr/article/25468388",
@@ -527,12 +533,6 @@
           "url": "http://www.osen.co.kr/article/G1112890231",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/109/0005620936",
           "pub_date": "Fri, 09 Oct 2026 00:52:00 +0900"
-        },
-        {
-          "title": "오스틴도 할 말을 잃었다…'136타석 9홈런' 잠실 빅보이, 300타석 공약 지...",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012100",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/477/0000632181",
-          "pub_date": "Fri, 09 Oct 2026 00:32:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791502855,
+  "updated_at": 1791503640,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791502855,
-  "shopping_updated_at": 1791502856,
-  "reference_updated_at": 1791502861
+  "trend_updated_at": 1791503640,
+  "shopping_updated_at": 1791503641,
+  "reference_updated_at": 1791503646
 }
