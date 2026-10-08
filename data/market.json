@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85933,
+      "api_total": 85934,
       "items": [
+        {
+          "title": "&quot;15승은 평생 꿈&quot; 생애 첫 다승왕 예약, 25년 만에 LG 토종 다승왕…왜 ...",
+          "url": "http://www.osen.co.kr/article/G1112889705",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005620386",
+          "pub_date": "Thu, 08 Oct 2026 09:16:00 +0900"
+        },
         {
           "title": "44년 잠실구장 마지막 승부, ‘잠실 더 라스트 이닝’이 온다",
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680558&ref=A",
@@ -527,12 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-10-07/202610080100052420003383",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004454135",
           "pub_date": "Thu, 08 Oct 2026 00:22:00 +0900"
-        },
-        {
-          "title": "44년 잠실구장 마지막 승부, ‘잠실 더 라스트 이닝’이 온다",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680272&ref=A",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/056/0012269716",
-          "pub_date": "Wed, 07 Oct 2026 21:52:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17274,
+      "api_total": 17277,
       "items": [
         {
           "title": "<b>야구</b><b>배트</b>그립으로 안정감 있게 즐기기 추천 제품 모음",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791418027,
+  "updated_at": 1791419779,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791418027,
-  "shopping_updated_at": 1791418028,
-  "reference_updated_at": 1791418033
+  "trend_updated_at": 1791419779,
+  "shopping_updated_at": 1791419780,
+  "reference_updated_at": 1791419786
 }
