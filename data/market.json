@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 11.74
+          "ratio": 12.37
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 4.32
+          "ratio": 4.53
         }
       ]
     },
@@ -379,7 +379,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 0.97
+          "ratio": 1.14
         }
       ]
     }
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 45.7,
+    "recent_3m_avg": 45.9,
     "previous_3m_avg": 75.2,
-    "delta_pct": -39.2,
+    "delta_pct": -39.0,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 11.7,
+    "latest_ratio": 12.4,
     "peak_period": "2025-10-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 68.1,
+      "index": 68.5,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 68.5,
+      "index": 68.8,
       "period_count": 4
     }
   },
@@ -421,7 +421,7 @@
       {
         "group": "40",
         "label": "40대",
-        "index": 68.1,
+        "index": 68.5,
         "period_count": 4
       },
       {
@@ -458,7 +458,7 @@
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 68.1,
+      "index": 68.5,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -474,7 +474,7 @@
       {
         "group": "m",
         "label": "남성",
-        "index": 68.5,
+        "index": 68.8,
         "period_count": 4
       },
       {
@@ -487,7 +487,7 @@
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 68.5,
+      "index": 68.8,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791504532,
+  "updated_at": 1791506383,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791504532,
-  "shopping_updated_at": 1791504534,
-  "reference_updated_at": 1791504539
+  "trend_updated_at": 1791506383,
+  "shopping_updated_at": 1791506386,
+  "reference_updated_at": 1791506398
 }
