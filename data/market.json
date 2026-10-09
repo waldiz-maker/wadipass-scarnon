@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85954,
+      "api_total": 85955,
       "items": [
+        {
+          "title": "오타니 제대로 열받았네, 축하 파티 자리서 사라졌다…2년 전 땅을 치고...",
+          "url": "http://www.osen.co.kr/article/G1112890662",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/109/0005621370",
+          "pub_date": "Sat, 10 Oct 2026 07:21:00 +0900"
+        },
         {
           "title": "'204안타 vs 204안타' 최원준과 정면승부 펼치는 레이예스…&quot;누가 이기든...",
           "url": "https://www.xportsnews.com/article/2206011",
@@ -527,12 +533,6 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242560",
           "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16242560",
           "pub_date": "Fri, 09 Oct 2026 16:40:00 +0900"
-        },
-        {
-          "title": "&quot;더 빨리 던지고 싶다&quot;던 페덱, 이유 있었다…PO 완벽 예열, 경기 감각 ...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-09/202610090100061520003948",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004454531",
-          "pub_date": "Fri, 09 Oct 2026 16:33:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791583701,
+  "updated_at": 1791584824,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791583701,
-  "shopping_updated_at": 1791583702,
-  "reference_updated_at": 1791583708
+  "trend_updated_at": 1791584824,
+  "shopping_updated_at": 1791584827,
+  "reference_updated_at": 1791584831
 }
