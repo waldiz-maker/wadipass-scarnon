@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85952,
+      "api_total": 85953,
       "items": [
+        {
+          "title": "'5년 60억 계약 만료' 앞둔 한유섬, 홈 최종전서 130m 축포 날렸다! &quot;노림...",
+          "url": "https://www.starnewskorea.com/sports/2026/10/09/2026100917172746638",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003477475",
+          "pub_date": "Fri, 09 Oct 2026 18:19:00 +0900"
+        },
         {
           "title": "3위 수성 사활건 KIA전만 남겨둔 SSG…감독부터 캡틴까지 '절대 못진다'...",
           "url": "https://www.sportschosun.com/baseball/2026-10-09/202610090100061790003969",
@@ -527,12 +533,6 @@
           "url": "https://www.sportsseoul.com/news/read/1640392?ref=naver",
           "naver_url": "https://m.entertain.naver.com/article/468/0001271582",
           "pub_date": "Fri, 09 Oct 2026 15:48:00 +0900"
-        },
-        {
-          "title": "드디어 와인드업…'시청률 25.6%' 대어, 4년 만에 TV 드라마 전격 '복귀...",
-          "url": "https://www.tvreport.co.kr/breaking/article/1081832/",
-          "naver_url": "https://m.entertain.naver.com/article/213/0001404055",
-          "pub_date": "Fri, 09 Oct 2026 13:01:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791536905,
+  "updated_at": 1791538172,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791536905,
-  "shopping_updated_at": 1791536907,
-  "reference_updated_at": 1791536912
+  "trend_updated_at": 1791538172,
+  "shopping_updated_at": 1791538175,
+  "reference_updated_at": 1791538179
 }
