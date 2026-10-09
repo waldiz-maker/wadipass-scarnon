@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85947,
+      "api_total": 85948,
       "items": [
+        {
+          "title": "드디어 와인드업…'시청률 25.6%' 대어, 4년 만에 TV 드라마 전격 '복귀...",
+          "url": "https://www.tvreport.co.kr/breaking/article/1081832/",
+          "naver_url": "https://m.entertain.naver.com/article/213/0001404055",
+          "pub_date": "Fri, 09 Oct 2026 13:01:00 +0900"
+        },
         {
           "title": "&quot;방출로 시작했는데 지금은…&quot; 1년 사이 인생 역전! 탬파베이 '복덩이' ...",
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553600129",
@@ -527,12 +533,6 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242255",
           "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16242255",
           "pub_date": "Fri, 09 Oct 2026 07:52:00 +0900"
-        },
-        {
-          "title": "&quot;정말 쓰라리다&quot; <b>야구</b>의 신이 외면했나, 9년 전이랑 같은 장소에서 '홈런...",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553601631",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254254",
-          "pub_date": "Fri, 09 Oct 2026 06:01:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791517568,
+  "updated_at": 1791518801,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791517568,
-  "shopping_updated_at": 1791517569,
-  "reference_updated_at": 1791517574
+  "trend_updated_at": 1791518801,
+  "shopping_updated_at": 1791518803,
+  "reference_updated_at": 1791518808
 }
