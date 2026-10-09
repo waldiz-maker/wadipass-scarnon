@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85948,
+      "api_total": 85949,
       "items": [
+        {
+          "title": "불꽃 파이터즈, 군산상일고 상대로 연패 탈출 도전…니퍼트 복귀할까",
+          "url": "https://www.sportsseoul.com/news/read/1640392?ref=naver",
+          "naver_url": "https://m.entertain.naver.com/article/468/0001271582",
+          "pub_date": "Fri, 09 Oct 2026 15:48:00 +0900"
+        },
         {
           "title": "드디어 와인드업…'시청률 25.6%' 대어, 4년 만에 TV 드라마 전격 '복귀...",
           "url": "https://www.tvreport.co.kr/breaking/article/1081832/",
@@ -527,12 +533,6 @@
           "url": "https://www.joongang.co.kr/article/25468388",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/025/0003556805",
           "pub_date": "Fri, 09 Oct 2026 08:00:00 +0900"
-        },
-        {
-          "title": "불꽃<b>야구</b>2 불꽃 파이터즈, 대학 국가대표와 5점 차 추격전…막내 투수 ...",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242255",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16242255",
-          "pub_date": "Fri, 09 Oct 2026 07:52:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17335,
+      "api_total": 17336,
       "items": [
+        {
+          "title": "<b>야구</b>를 더 즐겁게 만들어주는 <b>배트</b> 그립",
+          "url": "https://blog.naver.com/ntjzg668/224436276218",
+          "naver_url": "https://blog.naver.com/ntjzg668/224436276218",
+          "pub_date": "20261009"
+        },
         {
           "title": "일산<b>야구</b>학원/일산<b>야구</b>교실/유소년<b>야구</b>교실/",
           "url": "https://blog.naver.com/wavebaseball/224436055180",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/chd52468/224432634407",
           "naver_url": "https://blog.naver.com/chd52468/224432634407",
           "pub_date": "20261008"
-        },
-        {
-          "title": "KT 최원준 선수 모델 모리모토 프로 배팅 장갑 프리뷰 | KBO 단일 시즌....",
-          "url": "https://blog.naver.com/ih_yeo0123/224435618772",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224435618772",
-          "pub_date": "20261008"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791526773,
+  "updated_at": 1791528529,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791526773,
-  "shopping_updated_at": 1791526775,
-  "reference_updated_at": 1791526780
+  "trend_updated_at": 1791528529,
+  "shopping_updated_at": 1791528531,
+  "reference_updated_at": 1791528536
 }
