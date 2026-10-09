@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17343,
+      "api_total": 17344,
       "items": [
+        {
+          "title": "미즈노 프로 <b>야구</b> 연식용. 렉가드 포수 보호구 1DJLR160",
+          "url": "https://blog.naver.com/xmvdepg296214_oz/224436124649",
+          "naver_url": "https://blog.naver.com/xmvdepg296214_oz/224436124649",
+          "pub_date": "20261010"
+        },
         {
           "title": "[2026년 10월 9일] 교회의 이웃사랑, 오브떼르를 보라!",
           "url": "https://blog.naver.com/im_name/224436618171",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/dltkdalsu/224436399041",
           "naver_url": "https://blog.naver.com/dltkdalsu/224436399041",
           "pub_date": "20261009"
-        },
-        {
-          "title": "층간소음 때문에 윗집 문 앞에...” 도끼 들고 찾아간 아저씨의 최후",
-          "url": "https://blog.naver.com/visualchange/224436370611",
-          "naver_url": "https://blog.naver.com/visualchange/224436370611",
-          "pub_date": "20261009"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791558108,
+  "updated_at": 1791559702,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791558108,
-  "shopping_updated_at": 1791558110,
-  "reference_updated_at": 1791558115
+  "trend_updated_at": 1791559702,
+  "shopping_updated_at": 1791559704,
+  "reference_updated_at": 1791559710
 }
