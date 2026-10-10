@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85957,
+      "api_total": 85958,
       "items": [
+        {
+          "title": "[오피셜]205안타 신기록 빼앗긴 최원준...타율 0.511, 괴력의 몰아치기냐...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1585474",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000475002",
+          "pub_date": "Sat, 10 Oct 2026 18:30:00 +0900"
+        },
         {
           "title": "와타라이 결승 솔로포 요코하마, 요미우리 꺾고 CS 1차전 '미소'…세이부...",
           "url": "https://www.mydaily.co.kr/page/view/2026101018071014199",
@@ -527,12 +533,6 @@
           "url": "https://www.xportsnews.com/article/2206011",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002067265",
           "pub_date": "Fri, 09 Oct 2026 23:20:00 +0900"
-        },
-        {
-          "title": "'5년 60억 계약 만료' 앞둔 한유섬, 홈 최종전서 130m 축포 날렸다! &quot;노림...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/09/2026100917172746638",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003477475",
-          "pub_date": "Fri, 09 Oct 2026 18:19:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791624356,
+  "updated_at": 1791625309,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791624356,
-  "shopping_updated_at": 1791624358,
-  "reference_updated_at": 1791624363
+  "trend_updated_at": 1791625309,
+  "shopping_updated_at": 1791625311,
+  "reference_updated_at": 1791625323
 }
