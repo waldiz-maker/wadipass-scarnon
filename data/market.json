@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85960,
+      "api_total": 85961,
       "items": [
+        {
+          "title": "황재균, 20년 <b>야구</b> 인생 마침표…은퇴식서 결국 눈물 &quot;최선 다한 선수로...",
+          "url": "https://www.xportsnews.com/article/2206337",
+          "naver_url": "https://m.entertain.naver.com/article/311/0002067566",
+          "pub_date": "Sun, 11 Oct 2026 06:20:00 +0900"
+        },
         {
           "title": "황재균의 두 번째 은퇴식… KT 이강철 감독 배려 속 공수 다 뛰었다 ('전...",
           "url": "https://mhnse.com/news/articleView.html?idxno=1586232",
@@ -527,12 +533,6 @@
           "url": "https://www.mydaily.co.kr/page/view/2026101018071014199",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004113923",
           "pub_date": "Sat, 10 Oct 2026 18:10:00 +0900"
-        },
-        {
-          "title": "“홈런 못 치는 외국인 타자 바꾸자더니…” 레이예스가 깨부순 지독한...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1584573",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000474712",
-          "pub_date": "Sat, 10 Oct 2026 11:20:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791666312,
+  "updated_at": 1791667482,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791666312,
-  "shopping_updated_at": 1791666314,
-  "reference_updated_at": 1791666319
+  "trend_updated_at": 1791667482,
+  "shopping_updated_at": 1791667483,
+  "reference_updated_at": 1791667488
 }
