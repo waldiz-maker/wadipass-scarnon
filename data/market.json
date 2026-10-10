@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85956,
+      "api_total": 85957,
       "items": [
+        {
+          "title": "와타라이 결승 솔로포 요코하마, 요미우리 꺾고 CS 1차전 '미소'…세이부...",
+          "url": "https://www.mydaily.co.kr/page/view/2026101018071014199",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004113923",
+          "pub_date": "Sat, 10 Oct 2026 18:10:00 +0900"
+        },
         {
           "title": "“홈런 못 치는 외국인 타자 바꾸자더니…” 레이예스가 깨부순 지독한...",
           "url": "https://mhnse.com/news/articleView.html?idxno=1584573",
@@ -527,12 +533,6 @@
           "url": "https://www.starnewskorea.com/sports/2026/10/09/2026100917172746638",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003477475",
           "pub_date": "Fri, 09 Oct 2026 18:19:00 +0900"
-        },
-        {
-          "title": "3위 수성 사활건 KIA전만 남겨둔 SSG…감독부터 캡틴까지 '절대 못진다'...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-09/202610090100061790003969",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004454545",
-          "pub_date": "Fri, 09 Oct 2026 17:30:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791623131,
+  "updated_at": 1791624356,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791623131,
-  "shopping_updated_at": 1791623133,
-  "reference_updated_at": 1791623139
+  "trend_updated_at": 1791624356,
+  "shopping_updated_at": 1791624358,
+  "reference_updated_at": 1791624363
 }
