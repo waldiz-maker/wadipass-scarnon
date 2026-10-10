@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17354,
+      "api_total": 17355,
       "items": [
+        {
+          "title": "<b>사회인야구</b> 타격레슨, 연습 때 잘 치는데 경기에서 못 치는 진짜 이....",
+          "url": "https://blog.naver.com/dirnqn0932/224437360228",
+          "naver_url": "https://blog.naver.com/dirnqn0932/224437360228",
+          "pub_date": "20261010"
+        },
         {
           "title": "황재균, 345일 만에 마지막 타석…20년 <b>야구</b> 인생 끝에 눈물, '전참시'....",
           "url": "https://blog.naver.com/kong_choga/224437263854",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/jkyy511030/224430022338",
           "naver_url": "https://blog.naver.com/jkyy511030/224430022338",
           "pub_date": "20261010"
-        },
-        {
-          "title": "실속 있게 선택하는 나무<b>배트</b> 추천 리스트",
-          "url": "https://blog.naver.com/joevryb4462/224437024773",
-          "naver_url": "https://blog.naver.com/joevryb4462/224437024773",
-          "pub_date": "20261010"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791630290,
+  "updated_at": 1791631468,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791630290,
-  "shopping_updated_at": 1791630292,
-  "reference_updated_at": 1791630296
+  "trend_updated_at": 1791631468,
+  "shopping_updated_at": 1791631470,
+  "reference_updated_at": 1791631474
 }
