@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17352,
+      "api_total": 17353,
       "items": [
+        {
+          "title": "황재균 프로필 나이 지연 은퇴식 다이어트 집 키 <b>야구</b>선수 티아라 ....",
+          "url": "https://blog.naver.com/ciltony/224437247138",
+          "naver_url": "https://blog.naver.com/ciltony/224437247138",
+          "pub_date": "20261010"
+        },
         {
           "title": "일산 유소년 <b>야구</b>교실｜주말반 배팅 자세 잡기! 좋은 타격의 시작은....",
           "url": "https://blog.naver.com/wavebaseball/224437218197",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/potato19/224436987452",
           "naver_url": "https://blog.naver.com/potato19/224436987452",
           "pub_date": "20261010"
-        },
-        {
-          "title": "분당 <b>야구</b>레슨 &quot;감독이 직접 공을 던진다고?&quot; 김광림<b>야구</b>학교 배팅....",
-          "url": "https://blog.naver.com/33kkl/224436952539",
-          "naver_url": "https://blog.naver.com/33kkl/224436952539",
-          "pub_date": "20261010"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791620785,
+  "updated_at": 1791621736,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791620785,
-  "shopping_updated_at": 1791620787,
-  "reference_updated_at": 1791620792
+  "trend_updated_at": 1791621736,
+  "shopping_updated_at": 1791621738,
+  "reference_updated_at": 1791621742
 }
