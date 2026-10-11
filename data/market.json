@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85984,
+      "api_total": 85986,
       "items": [
+        {
+          "title": "&quot;제 잘못입니다, 정말 죄송합니다&quot; 태도 논란 최원준 결국 고개 숙였다",
+          "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100072040004660",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455045",
+          "pub_date": "Mon, 12 Oct 2026 02:34:00 +0900"
+        },
+        {
+          "title": "<b>야구</b>에도 보이지 않는 규칙이?… '불문율' 뜻 뭐길래",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1185685",
+          "naver_url": "https://www.ggilbo.com/news/articleView.html?idxno=1185685",
+          "pub_date": "Mon, 12 Oct 2026 02:26:00 +0900"
+        },
         {
           "title": "'<b>배트</b> 패대기 논란' 최원준, 고개 숙였다 &quot;감정 조절 못한 명백한 잘못...",
           "url": "https://www.starnewskorea.com/sports/2026/10/12/2026101201574833802",
@@ -521,18 +533,6 @@
           "url": "https://www.chosun.com/sports/baseball/2026/10/12/SLTQ3ZQY7VFF7N5RBOBKYXBIS4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/023/0004003229",
           "pub_date": "Mon, 12 Oct 2026 00:40:00 +0900"
-        },
-        {
-          "title": "비겨도 3위 vs 이겨야 3위",
-          "url": "https://www.joongang.co.kr/article/25468757",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/025/0003557080",
-          "pub_date": "Mon, 12 Oct 2026 00:01:00 +0900"
-        },
-        {
-          "title": "[청도신화랑배사회인<b>야구</b>]전국 사회인<b>야구</b> 동호인 가을 축제…‘2026 청...",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261011028273553",
-          "naver_url": "https://www.yeongnam.com/web/view.php?key=20261011028273553",
-          "pub_date": "Sun, 11 Oct 2026 23:02:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17361,
+      "api_total": 17362,
       "items": [
         {
           "title": "일산 유소년 <b>야구</b>레슨, 처음 배우는 우리 아이에게 1:1이 좋은 이유",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791739538,
+  "updated_at": 1791740400,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791739538,
-  "shopping_updated_at": 1791739540,
-  "reference_updated_at": 1791739545
+  "trend_updated_at": 1791740400,
+  "shopping_updated_at": 1791740401,
+  "reference_updated_at": 1791740406
 }
