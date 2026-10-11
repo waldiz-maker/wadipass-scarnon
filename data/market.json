@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 19.51
+          "ratio": 21.77
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 1.82
+          "ratio": 2.02
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 1.44
+          "ratio": 1.61
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 48.2,
+    "recent_3m_avg": 48.9,
     "previous_3m_avg": 84.3,
-    "delta_pct": -42.8,
+    "delta_pct": -42.0,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 19.5,
+    "latest_ratio": 21.8,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 14.96
+          "ratio": 16.91
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 4.75
+          "ratio": 5.76
         }
       ]
     },
@@ -379,7 +379,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 1.69
+          "ratio": 1.86
         }
       ]
     }
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 46.7,
+    "recent_3m_avg": 47.4,
     "previous_3m_avg": 75.2,
-    "delta_pct": -37.9,
+    "delta_pct": -37.0,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 15.0,
+    "latest_ratio": 16.9,
     "peak_period": "2025-10-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 69.4,
+      "index": 70.3,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 70.1,
+      "index": 71.0,
       "period_count": 4
     }
   },
@@ -421,13 +421,13 @@
       {
         "group": "40",
         "label": "40대",
-        "index": 69.4,
+        "index": 70.3,
         "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 23.3,
+        "index": 23.5,
         "period_count": 4
       },
       {
@@ -439,26 +439,26 @@
       {
         "group": "30",
         "label": "30대",
-        "index": 14.8,
+        "index": 15.0,
         "period_count": 4
       },
       {
         "group": "20",
         "label": "20대",
-        "index": 7.7,
+        "index": 7.8,
         "period_count": 4
       },
       {
         "group": "60",
         "label": "60대 이상",
-        "index": 4.7,
+        "index": 5.1,
         "period_count": 4
       }
     ],
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 69.4,
+      "index": 70.3,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -474,20 +474,20 @@
       {
         "group": "m",
         "label": "남성",
-        "index": 70.1,
+        "index": 71.0,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 25.1,
+        "index": 25.3,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 70.1,
+      "index": 71.0,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85962,
+      "api_total": 85963,
       "items": [
+        {
+          "title": "“넌 나의 자부심” <b>야구</b> 선수 황재균 진짜 끝났다, 파이널 경기→눈물...",
+          "url": "https://www.newsen.com/news_view.php?uid=202610110811512110",
+          "naver_url": "https://m.entertain.naver.com/article/609/0001177365",
+          "pub_date": "Sun, 11 Oct 2026 09:24:00 +0900"
+        },
         {
           "title": "은퇴식 연기 후 마지막 경기...황재균, 팬들에 전한 짧은 머리 인사",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3717731",
@@ -527,12 +533,6 @@
           "url": "https://www.mydaily.co.kr/page/view/2026101013344202652",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004113960",
           "pub_date": "Sun, 11 Oct 2026 00:10:00 +0900"
-        },
-        {
-          "title": "[오피셜]205안타 신기록 빼앗긴 최원준...타율 0.511, 괴력의 몰아치기냐...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1585474",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000475002",
-          "pub_date": "Sat, 10 Oct 2026 18:30:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17356,
+      "api_total": 17357,
       "items": [
+        {
+          "title": "[BMC] 우드 헤비 트레이닝 <b>배트</b> 40온스 전문선수용",
+          "url": "https://blog.naver.com/jqthoh32618_yb/224437680525",
+          "naver_url": "https://blog.naver.com/jqthoh32618_yb/224437680525",
+          "pub_date": "20261011"
+        },
         {
           "title": "[ J - ONE 베이스볼아카데미 ] 운동에 흥미를 붙여주고 싶은 엄마들 모....",
           "url": "https://blog.naver.com/idid1020/224437474325",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/ciltony/224437247138",
           "naver_url": "https://blog.naver.com/ciltony/224437247138",
           "pub_date": "20261010"
-        },
-        {
-          "title": "일산 유소년 <b>야구</b>교실｜주말반 배팅 자세 잡기! 좋은 타격의 시작은....",
-          "url": "https://blog.naver.com/wavebaseball/224437218197",
-          "naver_url": "https://blog.naver.com/wavebaseball/224437218197",
-          "pub_date": "20261010"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791677247,
+  "updated_at": 1791678982,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791677247,
-  "shopping_updated_at": 1791677249,
-  "reference_updated_at": 1791677255
+  "trend_updated_at": 1791678982,
+  "shopping_updated_at": 1791678984,
+  "reference_updated_at": 1791678989
 }
