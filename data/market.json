@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85981,
+      "api_total": 85982,
       "items": [
+        {
+          "title": "3위·홈런왕 경쟁, 끝까지 간다",
+          "url": "https://www.chosun.com/sports/baseball/2026/10/12/SLTQ3ZQY7VFF7N5RBOBKYXBIS4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/023/0004003229",
+          "pub_date": "Mon, 12 Oct 2026 00:40:00 +0900"
+        },
         {
           "title": "비겨도 3위 vs 이겨야 3위",
           "url": "https://www.joongang.co.kr/article/25468757",
@@ -527,12 +533,6 @@
           "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008792069&plink=ORI&cooper=NAVER",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/055/0001394603",
           "pub_date": "Sun, 11 Oct 2026 20:50:00 +0900"
-        },
-        {
-          "title": "'개인 타이틀 집착 논란' KT 최원준, <b>배트</b> 내동댕이…안타 불발에 볼넷...",
-          "url": "https://www.nocutnews.co.kr/news/6589602?utm_source=naver&utm_medium=article&utm_campaign=20261011083214",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/079/0004197465",
-          "pub_date": "Sun, 11 Oct 2026 20:33:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791732335,
+  "updated_at": 1791733257,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791732335,
-  "shopping_updated_at": 1791732336,
-  "reference_updated_at": 1791732341
+  "trend_updated_at": 1791733257,
+  "shopping_updated_at": 1791733259,
+  "reference_updated_at": 1791733264
 }
