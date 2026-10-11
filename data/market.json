@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85994,
+      "api_total": 85995,
       "items": [
+        {
+          "title": "'최다안타왕 경쟁' 최원준, '<b>배트</b> 패대기' 사과…&quot;감정 조절 못한 명백...",
+          "url": "http://www.stoo.com/article.php?aid=109311652041",
+          "naver_url": "http://www.stoo.com/article.php?aid=109311652041",
+          "pub_date": "Mon, 12 Oct 2026 07:40:00 +0900"
+        },
         {
           "title": "&quot;감정 조절하지 못한 제 잘못&quot; 볼넷→방망이 패대기, 최원준 직접 고개...",
           "url": "https://www.mydaily.co.kr/page/view/2026101200141240086",
@@ -526,12 +532,6 @@
           "title": "'빈볼' 후라도, '<b>배트</b> 투척' 최원준, 팀보다 개인 타이틀 앞세운 둘 모두...",
           "url": "https://www.sportschosun.com/baseball/2026-10-12/202610110100070590004579",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455058",
-          "pub_date": "Mon, 12 Oct 2026 06:48:00 +0900"
-        },
-        {
-          "title": "볼넷에 <b>배트</b> 던진 최원준, 스퀴즈에 빈볼 던진 후라도",
-          "url": "https://www.etoday.co.kr/news/view/2634376",
-          "naver_url": "https://www.etoday.co.kr/news/view/2634376",
           "pub_date": "Mon, 12 Oct 2026 06:48:00 +0900"
         }
       ]
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791757575,
+  "updated_at": 1791758508,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791757575,
-  "shopping_updated_at": 1791757577,
-  "reference_updated_at": 1791757582
+  "trend_updated_at": 1791758508,
+  "shopping_updated_at": 1791758510,
+  "reference_updated_at": 1791758516
 }
