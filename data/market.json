@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85975,
+      "api_total": 85976,
       "items": [
+        {
+          "title": "'개인 타이틀 집착 논란' KT 최원준, <b>배트</b> 내동댕이…안타 불발에 볼넷...",
+          "url": "https://www.nocutnews.co.kr/news/6589602?utm_source=naver&utm_medium=article&utm_campaign=20261011083214",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/079/0004197465",
+          "pub_date": "Sun, 11 Oct 2026 20:33:00 +0900"
+        },
         {
           "title": "'실화냐' 볼넷에 최원준 <b>배트</b> 내동댕이→전원 집합→눈물 쏟아, 대체 왜...",
           "url": "https://www.starnewskorea.com/sports/2026/10/11/2026101119370647761",
@@ -527,12 +533,6 @@
           "url": "http://www.stoo.com/article.php?aid=109304253565",
           "naver_url": "http://www.stoo.com/article.php?aid=109304253565",
           "pub_date": "Sun, 11 Oct 2026 17:20:00 +0900"
-        },
-        {
-          "title": "롯데 한동희 만루포... 갈길 바쁜 KIA 잡았다",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/11/HAG6WUDQL5F3NDE4DSZVIX7XTY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/023/0004003172",
-          "pub_date": "Sun, 11 Oct 2026 17:08:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791717913,
+  "updated_at": 1791718774,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791717913,
-  "shopping_updated_at": 1791717915,
-  "reference_updated_at": 1791717920
+  "trend_updated_at": 1791718774,
+  "shopping_updated_at": 1791718776,
+  "reference_updated_at": 1791718781
 }
