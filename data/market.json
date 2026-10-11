@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85979,
+      "api_total": 85980,
       "items": [
+        {
+          "title": "[청도신화랑배사회인<b>야구</b>]전국 사회인<b>야구</b> 동호인 가을 축제…‘2026 청...",
+          "url": "https://www.yeongnam.com/web/view.php?key=20261011028273553",
+          "naver_url": "https://www.yeongnam.com/web/view.php?key=20261011028273553",
+          "pub_date": "Sun, 11 Oct 2026 23:02:00 +0900"
+        },
         {
           "title": "안타왕 경쟁에 마음 급했나… 최원준, 볼넷에 <b>배트</b> ‘휙’",
           "url": "https://www.sportsworldi.com/newsView/20261011515837",
@@ -527,12 +533,6 @@
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857107_37004.html",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/214/0001528324",
           "pub_date": "Sun, 11 Oct 2026 20:31:00 +0900"
-        },
-        {
-          "title": "'실화냐' 볼넷에 최원준 <b>배트</b> 내동댕이→전원 집합→눈물 쏟아, 대체 왜...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/11/2026101119370647761",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003477824",
-          "pub_date": "Sun, 11 Oct 2026 20:23:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791727029,
+  "updated_at": 1791727726,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791727029,
-  "shopping_updated_at": 1791727031,
-  "reference_updated_at": 1791727037
+  "trend_updated_at": 1791727726,
+  "shopping_updated_at": 1791727727,
+  "reference_updated_at": 1791727732
 }
