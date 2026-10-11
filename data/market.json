@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85973,
+      "api_total": 85974,
       "items": [
+        {
+          "title": "'오타니 타격폼 봤어? 정말 이상한데?' MLB 스카우터들까지 부상 의심했...",
+          "url": "https://www.xportsnews.com/article/2206429",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/311/0002067663",
+          "pub_date": "Sun, 11 Oct 2026 19:30:00 +0900"
+        },
         {
           "title": "‘볼넷 얻고 지구 폭행’ KT 최원준, 주장 장성우도 좌시하지 않았다 “...",
           "url": "http://www.osen.co.kr/article/G1112891338",
@@ -527,12 +533,6 @@
           "url": "https://www.news1.kr/photos/8152775",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009220798",
           "pub_date": "Sun, 11 Oct 2026 16:39:00 +0900"
-        },
-        {
-          "title": "볼넷 불만? <b>배트</b> 던지는 최원준",
-          "url": "https://www.news1.kr/photos/8152765",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009220785",
-          "pub_date": "Sun, 11 Oct 2026 16:22:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791714351,
+  "updated_at": 1791715254,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791714351,
-  "shopping_updated_at": 1791714353,
-  "reference_updated_at": 1791714359
+  "trend_updated_at": 1791715254,
+  "shopping_updated_at": 1791715255,
+  "reference_updated_at": 1791715260
 }
