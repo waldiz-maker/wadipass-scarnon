@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85988,
+      "api_total": 85989,
       "items": [
+        {
+          "title": "최원준, <b>배트</b> 집어던지고 결국 사과",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610120009",
+          "naver_url": "https://www.bntnews.co.kr/article/view/bnt202610120009",
+          "pub_date": "Mon, 12 Oct 2026 06:38:00 +0900"
+        },
         {
           "title": "“<b>배트</b> 내던지고 볼보이에 화풀이” KT 최원준, ‘대기록’ 도전 중 돌...",
           "url": "https://mhnse.com/news/articleView.html?idxno=1588143",
@@ -527,12 +533,6 @@
           "url": "https://www.ggilbo.com/news/articleView.html?idxno=1185685",
           "naver_url": "https://www.ggilbo.com/news/articleView.html?idxno=1185685",
           "pub_date": "Mon, 12 Oct 2026 02:26:00 +0900"
-        },
-        {
-          "title": "'<b>배트</b> 패대기 논란' 최원준, 고개 숙였다 &quot;감정 조절 못한 명백한 잘못...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/12/2026101201574833802",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003477844",
-          "pub_date": "Mon, 12 Oct 2026 02:14:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791753982,
+  "updated_at": 1791754925,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791753982,
-  "shopping_updated_at": 1791753984,
-  "reference_updated_at": 1791753990
+  "trend_updated_at": 1791754925,
+  "shopping_updated_at": 1791754926,
+  "reference_updated_at": 1791754930
 }
