@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85986,
+      "api_total": 85987,
       "items": [
+        {
+          "title": "&quot;사과드립니다, 사과드립니다&quot;…'방망이 패대기 논란' 최원준, 장문의 ...",
+          "url": "https://www.xportsnews.com/article/2206471",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002067700",
+          "pub_date": "Mon, 12 Oct 2026 03:50:00 +0900"
+        },
         {
           "title": "&quot;제 잘못입니다, 정말 죄송합니다&quot; 태도 논란 최원준 결국 고개 숙였다",
           "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100072040004660",
@@ -527,12 +533,6 @@
           "url": "http://www.osen.co.kr/article/G1112891428",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005622052",
           "pub_date": "Mon, 12 Oct 2026 01:13:00 +0900"
-        },
-        {
-          "title": "3위·홈런왕 경쟁, 끝까지 간다",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/12/SLTQ3ZQY7VFF7N5RBOBKYXBIS4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/023/0004003229",
-          "pub_date": "Mon, 12 Oct 2026 00:40:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791744479,
+  "updated_at": 1791745570,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791744479,
-  "shopping_updated_at": 1791744481,
-  "reference_updated_at": 1791744486
+  "trend_updated_at": 1791745570,
+  "shopping_updated_at": 1791745572,
+  "reference_updated_at": 1791745577
 }
