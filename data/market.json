@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 85974,
+      "api_total": 85975,
       "items": [
+        {
+          "title": "'실화냐' 볼넷에 최원준 <b>배트</b> 내동댕이→전원 집합→눈물 쏟아, 대체 왜...",
+          "url": "https://www.starnewskorea.com/sports/2026/10/11/2026101119370647761",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003477824",
+          "pub_date": "Sun, 11 Oct 2026 20:23:00 +0900"
+        },
         {
           "title": "'오타니 타격폼 봤어? 정말 이상한데?' MLB 스카우터들까지 부상 의심했...",
           "url": "https://www.xportsnews.com/article/2206429",
@@ -527,12 +533,6 @@
           "url": "https://www.chosun.com/sports/baseball/2026/10/11/HAG6WUDQL5F3NDE4DSZVIX7XTY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/023/0004003172",
           "pub_date": "Sun, 11 Oct 2026 17:08:00 +0900"
-        },
-        {
-          "title": "'<b>배트</b>를 던져?'",
-          "url": "https://www.news1.kr/photos/8152775",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009220798",
-          "pub_date": "Sun, 11 Oct 2026 16:39:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791716720,
+  "updated_at": 1791717913,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791716720,
-  "shopping_updated_at": 1791716721,
-  "reference_updated_at": 1791716726
+  "trend_updated_at": 1791717913,
+  "shopping_updated_at": 1791717915,
+  "reference_updated_at": 1791717920
 }
