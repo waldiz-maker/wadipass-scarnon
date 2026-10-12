@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86009,
+      "api_total": 86011,
       "items": [
+        {
+          "title": "'<b>배트</b>·장비 내동댕이' 최원준 &quot;감정 조절 못한 명백한 잘못&quot; 사과…레...",
+          "url": "https://www.mediapen.com/news/view/1129231",
+          "naver_url": "https://www.mediapen.com/news/view/1129231",
+          "pub_date": "Mon, 12 Oct 2026 11:04:00 +0900"
+        },
+        {
+          "title": "후라도와 신경전→볼넷 후 <b>배트</b> 던진 KT 최원준 “정당화될 수 없는 행...",
+          "url": "https://sports.khan.co.kr/article/202610121055003?pt=nv",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001143475",
+          "pub_date": "Mon, 12 Oct 2026 10:57:00 +0900"
+        },
         {
           "title": "&quot;최다 안타는 레이예스 몫&quot; 겸손 인터뷰 거짓이었나 '위대한 기록'에도...",
           "url": "https://mhnse.com/news/articleView.html?idxno=1588375",
@@ -521,18 +533,6 @@
           "url": "https://www.newsis.com/view/NISX20261012_0003821535",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/003/0014246160",
           "pub_date": "Mon, 12 Oct 2026 10:23:00 +0900"
-        },
-        {
-          "title": "‘기록 보다 인성이 먼저다’ <b>배트</b> 내동댕이 신경질, 205안타 대기록 스...",
-          "url": "http://www.osen.co.kr/article/G1112891443",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005622117",
-          "pub_date": "Mon, 12 Oct 2026 10:12:00 +0900"
-        },
-        {
-          "title": "<b>배트</b> 내던지고 주장에게 질책받은 최원준, 결국 공개 사과",
-          "url": "https://www.hankookilbo.com/news/article/A2026101209420000656?did=NA",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/469/0000958854",
-          "pub_date": "Mon, 12 Oct 2026 10:05:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17364,
+      "api_total": 17363,
       "items": [
+        {
+          "title": "인성부터 챙겨야되는 <b>야구</b>선수 최원준",
+          "url": "https://blog.naver.com/asdfg3985/224438793235",
+          "naver_url": "https://blog.naver.com/asdfg3985/224438793235",
+          "pub_date": "20261012"
+        },
         {
           "title": "프랭크 토마스(Frank Thomas) 미국  메이저리그 전설적인 거포 빅 허트(B....",
           "url": "https://blog.naver.com/donginthink9/224368428367",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/tonora/224436970031",
           "naver_url": "https://blog.naver.com/tonora/224436970031",
           "pub_date": "20261011"
-        },
-        {
-          "title": "[BMC] 우드 헤비 트레이닝 <b>배트</b> 40온스 전문선수용",
-          "url": "https://blog.naver.com/jqthoh32618_yb/224437680525",
-          "naver_url": "https://blog.naver.com/jqthoh32618_yb/224437680525",
-          "pub_date": "20261011"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791769768,
+  "updated_at": 1791770881,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791769768,
-  "shopping_updated_at": 1791769770,
-  "reference_updated_at": 1791769775
+  "trend_updated_at": 1791770881,
+  "shopping_updated_at": 1791770883,
+  "reference_updated_at": 1791770888
 }
