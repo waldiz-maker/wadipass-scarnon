@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86039,
+      "api_total": 86041,
       "items": [
+        {
+          "title": "최원준 <b>배트</b> 주워주는 강민호",
+          "url": "https://www.news1.kr/photos/8155014",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223312",
+          "pub_date": "Mon, 12 Oct 2026 20:26:00 +0900"
+        },
+        {
+          "title": "강민호 '원준아! <b>배트</b> 잘 챙겨'",
+          "url": "https://www.news1.kr/photos/8155015",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223313",
+          "pub_date": "Mon, 12 Oct 2026 20:26:00 +0900"
+        },
         {
           "title": "다리만 남은 전설의 타자…무슨 일이?",
           "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000554720",
@@ -517,21 +529,9 @@
           "pub_date": "Mon, 12 Oct 2026 19:10:00 +0900"
         },
         {
-          "title": "고개숙인 최원준, 미소짓는 강민호",
-          "url": "https://www.news1.kr/photos/8154905",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223182",
-          "pub_date": "Mon, 12 Oct 2026 18:47:00 +0900"
-        },
-        {
           "title": "'<b>배트</b> 내동댕이' 사과하는 최원준",
           "url": "https://www.news1.kr/photos/8154908",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223179",
-          "pub_date": "Mon, 12 Oct 2026 18:47:00 +0900"
-        },
-        {
-          "title": "고개숙여 사과하는 최원준",
-          "url": "https://www.news1.kr/photos/8154907",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223184",
           "pub_date": "Mon, 12 Oct 2026 18:47:00 +0900"
         }
       ]
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791802993,
+  "updated_at": 1791804633,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791802993,
-  "shopping_updated_at": 1791802995,
-  "reference_updated_at": 1791803000
+  "trend_updated_at": 1791804633,
+  "shopping_updated_at": 1791804635,
+  "reference_updated_at": 1791804640
 }
