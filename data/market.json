@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86047,
+      "api_total": 86048,
       "items": [
+        {
+          "title": "쏠퀴즈 정답 10월 13일",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610120255",
+          "naver_url": "https://www.bntnews.co.kr/article/view/bnt202610120255",
+          "pub_date": "Tue, 13 Oct 2026 00:02:00 +0900"
+        },
         {
           "title": "“내 홈런 중 최고” 통산 100호 홈런으로 KIA 3위 이끈 김도영",
           "url": "https://www.joongang.co.kr/article/25469069",
@@ -527,12 +533,6 @@
           "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000554765",
           "naver_url": "https://n.news.naver.com/mnews/article/449/0000363832?sid=102",
           "pub_date": "Mon, 12 Oct 2026 21:59:00 +0900"
-        },
-        {
-          "title": "'45호·통산 100홈런' 김도영, KIA 3위 확정 결승포",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245055",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16245055",
-          "pub_date": "Mon, 12 Oct 2026 21:22:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17369,
+      "api_total": 17370,
       "items": [
+        {
+          "title": "[그라운드의 땀방울 #3] 작은 손에 꼭 쥔 첫 글러브와 <b>야구</b>공, 아이의....",
+          "url": "https://blog.naver.com/kaimay/224439600574",
+          "naver_url": "https://blog.naver.com/kaimay/224439600574",
+          "pub_date": "20261012"
+        },
         {
           "title": "특수상해죄판결 최신 판례와 양형 기준 변호사 선임 가이드",
           "url": "https://blog.naver.com/kindbrave2118/224438731602",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/ahslahsl7420/224439464384",
           "naver_url": "https://blog.naver.com/ahslahsl7420/224439464384",
           "pub_date": "20261012"
-        },
-        {
-          "title": "최다안타 2개 차로 레이예스 쫓던 최원준, <b>배트</b> 던진 진짜 이유",
-          "url": "https://blog.naver.com/kangissue22/224439033570",
-          "naver_url": "https://blog.naver.com/kangissue22/224439033570",
-          "pub_date": "20261012"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791815650,
+  "updated_at": 1791817434,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791815650,
-  "shopping_updated_at": 1791815652,
-  "reference_updated_at": 1791815657
+  "trend_updated_at": 1791817434,
+  "shopping_updated_at": 1791817435,
+  "reference_updated_at": 1791817441
 }
