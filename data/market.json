@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17371,
+      "api_total": 17372,
       "items": [
+        {
+          "title": "<b>야구</b><b>배트</b> 종류부터 길이·무게·인증<b>배트</b>까지! 유소년 <b>야구</b> 입문 가....",
+          "url": "https://blog.naver.com/king-52/224439819413",
+          "naver_url": "https://blog.naver.com/king-52/224439819413",
+          "pub_date": "20261013"
+        },
         {
           "title": "편안함과 그립감을 더한 <b>야구</b> <b>배트</b>그립",
           "url": "https://blog.naver.com/xd4hk8ith/224439732917",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/kookim1973/224439475743",
           "naver_url": "https://blog.naver.com/kookim1973/224439475743",
           "pub_date": "20261012"
-        },
-        {
-          "title": "모리모토 아이언 호크 실사용 후기 | 10만 원 대 미들 밸런스 <b>사회인</b> ....",
-          "url": "https://blog.naver.com/ih_yeo0123/224439473698",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224439473698",
-          "pub_date": "20261012"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791844025,
+  "updated_at": 1791845010,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791844025,
-  "shopping_updated_at": 1791844026,
-  "reference_updated_at": 1791844031
+  "trend_updated_at": 1791845010,
+  "shopping_updated_at": 1791845012,
+  "reference_updated_at": 1791845017
 }
