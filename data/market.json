@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86026,
+      "api_total": 86028,
       "items": [
+        {
+          "title": "'<b>배트</b> 투척 물의' 최원준, 역전 안타왕 위해 톱타자 배치… 힐리어드는...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100076420004933",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455261",
+          "pub_date": "Mon, 12 Oct 2026 16:56:00 +0900"
+        },
+        {
+          "title": "‘<b>배트</b> 투척 논란’ 최원준, 결국 삼성 덕아웃 찾아 사과한다…최종전...",
+          "url": "http://www.osen.co.kr/article/G1112891605",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005622239",
+          "pub_date": "Mon, 12 Oct 2026 16:52:00 +0900"
+        },
         {
           "title": "스포츠 스타들의 잇단 태도 논란…스타성과 태도 리스크",
           "url": "https://www.sidae.com/article/2026101213445948146",
@@ -521,18 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100074800004844",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455221",
           "pub_date": "Mon, 12 Oct 2026 15:37:00 +0900"
-        },
-        {
-          "title": "&quot;먹힌 타구속도가 160㎞&quot; 김도영 '왕좌 등극' 위협하는 몰아치기 달인, ...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100075260004863",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455212",
-          "pub_date": "Mon, 12 Oct 2026 15:24:00 +0900"
-        },
-        {
-          "title": "[허프 사람&amp;말] '방망이 패대기' KT 위즈 최원준, 팀 주장 장성우 불호령...",
-          "url": "https://www.huffingtonpost.kr/article/261134",
-          "naver_url": "https://www.huffingtonpost.kr/article/261134",
-          "pub_date": "Mon, 12 Oct 2026 14:22:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791790398,
+  "updated_at": 1791792004,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791790398,
-  "shopping_updated_at": 1791790400,
-  "reference_updated_at": 1791790404
+  "trend_updated_at": 1791792004,
+  "shopping_updated_at": 1791792006,
+  "reference_updated_at": 1791792012
 }
