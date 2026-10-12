@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86024,
+      "api_total": 86026,
       "items": [
+        {
+          "title": "스포츠 스타들의 잇단 태도 논란…스타성과 태도 리스크",
+          "url": "https://www.sidae.com/article/2026101213445948146",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/417/0001160655",
+          "pub_date": "Mon, 12 Oct 2026 16:31:00 +0900"
+        },
+        {
+          "title": "&quot;냉정함 잃었다&quot; 사령탑의 준엄한 일침, '빈볼→<b>배트</b>투척→피홈런' 후라...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100075980004907",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455245",
+          "pub_date": "Mon, 12 Oct 2026 16:28:00 +0900"
+        },
         {
           "title": "'왜 나한테 스트라이크 안 줘' 충격 <b>배트</b> 투척, &quot;고의4구 이해한다&quot; 엉겁...",
           "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100074800004844",
@@ -521,18 +533,6 @@
           "url": "https://www.huffingtonpost.kr/article/261134",
           "naver_url": "https://www.huffingtonpost.kr/article/261134",
           "pub_date": "Mon, 12 Oct 2026 14:22:00 +0900"
-        },
-        {
-          "title": "볼넷에 <b>배트</b> 패대기, 주장 다그침에 눈물도 펑펑…고개숙인 최원준 &quot;명...",
-          "url": "https://news.jtbc.co.kr/article/NB12322522?influxDiv=NAVER",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000515236",
-          "pub_date": "Mon, 12 Oct 2026 13:59:00 +0900"
-        },
-        {
-          "title": "최다안타 신기록 경쟁에 찬물 끼얹은 최원준…태도 논란 끝 사과",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434351",
-          "naver_url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434351",
-          "pub_date": "Mon, 12 Oct 2026 13:24:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791788861,
+  "updated_at": 1791790398,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791788861,
-  "shopping_updated_at": 1791788864,
-  "reference_updated_at": 1791788876
+  "trend_updated_at": 1791790398,
+  "shopping_updated_at": 1791790400,
+  "reference_updated_at": 1791790404
 }
