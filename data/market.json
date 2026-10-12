@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86013,
+      "api_total": 86014,
       "items": [
+        {
+          "title": "[SW포커스] 기록 좇다 선 넘은 승부욕… 빈볼-<b>배트</b> 투척에 얼룩진 스포...",
+          "url": "https://www.sportsworldi.com/newsView/20261012510912",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/396/0000757725",
+          "pub_date": "Mon, 12 Oct 2026 11:57:00 +0900"
+        },
         {
           "title": "[MLB NLCS] 밀워키 vs 다저스",
           "url": "https://www.gukjenews.com/news/articleView.html?idxno=3718457",
@@ -527,12 +533,6 @@
           "url": "https://sports.khan.co.kr/article/202610121055003?pt=nv",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001143475",
           "pub_date": "Mon, 12 Oct 2026 10:57:00 +0900"
-        },
-        {
-          "title": "&quot;최다 안타는 레이예스 몫&quot; 겸손 인터뷰 거짓이었나 '위대한 기록'에도...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1588375",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000475842",
-          "pub_date": "Mon, 12 Oct 2026 10:32:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17363,
+      "api_total": 17362,
       "items": [
         {
           "title": "인성부터 챙겨야되는 <b>야구</b>선수 최원준",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791773256,
+  "updated_at": 1791774501,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791773256,
-  "shopping_updated_at": 1791773257,
-  "reference_updated_at": 1791773263
+  "trend_updated_at": 1791774501,
+  "shopping_updated_at": 1791774503,
+  "reference_updated_at": 1791774509
 }
