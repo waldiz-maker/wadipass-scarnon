@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86048,
+      "api_total": 86050,
       "items": [
+        {
+          "title": "&quot;승률왕 등극 축하, 하지만 마음 한구석이…&quot; 창단 첫 10연승·90승 정상...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-13/202610130100079600005202",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455513",
+          "pub_date": "Tue, 13 Oct 2026 00:21:00 +0900"
+        },
+        {
+          "title": "&quot;<b>야구</b>를 향한 '아름다운 순수함' 있어&quot; 통산 61경기 신인이 다저스 무너...",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553607247",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254395",
+          "pub_date": "Tue, 13 Oct 2026 00:12:00 +0900"
+        },
         {
           "title": "쏠퀴즈 정답 10월 13일",
           "url": "https://www.bntnews.co.kr/article/view/bnt202610120255",
@@ -521,18 +533,6 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245079",
           "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16245079",
           "pub_date": "Mon, 12 Oct 2026 22:10:00 +0900"
-        },
-        {
-          "title": "&quot;툭툭 털고 다시 <b>야구</b>해야지&quot;…'불꽃<b>야구</b>' 임영기, 현빈 육성 선수 합류",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245075",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16245075",
-          "pub_date": "Mon, 12 Oct 2026 22:02:00 +0900"
-        },
-        {
-          "title": "[김종석의 샷]다리만 남은 채 ‘섬뜩’",
-          "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000554765",
-          "naver_url": "https://n.news.naver.com/mnews/article/449/0000363832?sid=102",
-          "pub_date": "Mon, 12 Oct 2026 21:59:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17370,
+      "api_total": 17371,
       "items": [
+        {
+          "title": "NC 다이노스 우주로 프로필 총정리: 대전고 주장 유격수의 모든 것",
+          "url": "https://blog.naver.com/gs92401037/224433718267",
+          "naver_url": "https://blog.naver.com/gs92401037/224433718267",
+          "pub_date": "20261013"
+        },
         {
           "title": "[그라운드의 땀방울 #3] 작은 손에 꼭 쥔 첫 글러브와 <b>야구</b>공, 아이의....",
           "url": "https://blog.naver.com/kaimay/224439600574",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/ih_yeo0123/224439473698",
           "naver_url": "https://blog.naver.com/ih_yeo0123/224439473698",
           "pub_date": "20261012"
-        },
-        {
-          "title": "“타자만 하면 돈 덜 들 줄 알았는데…” <b>사회인 야구</b>, 얼마나 깨질....",
-          "url": "https://blog.naver.com/ahslahsl7420/224439464384",
-          "naver_url": "https://blog.naver.com/ahslahsl7420/224439464384",
-          "pub_date": "20261012"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791817434,
+  "updated_at": 1791818987,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791817434,
-  "shopping_updated_at": 1791817435,
-  "reference_updated_at": 1791817441
+  "trend_updated_at": 1791818987,
+  "shopping_updated_at": 1791818989,
+  "reference_updated_at": 1791818995
 }
