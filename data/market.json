@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86037,
+      "api_total": 86038,
       "items": [
+        {
+          "title": "134일 만의 좌익수 출전, 최형우의 대략난감 '안타왕' 경쟁 중 최원준 첫...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100077430005022",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455344",
+          "pub_date": "Mon, 12 Oct 2026 19:10:00 +0900"
+        },
         {
           "title": "고개숙여 사과하는 최원준",
           "url": "https://www.news1.kr/photos/8154907",
@@ -512,14 +518,8 @@
         },
         {
           "title": "'<b>배트</b> 내동댕이' 사과하는 최원준",
-          "url": "https://www.news1.kr/photos/8154908",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223179",
-          "pub_date": "Mon, 12 Oct 2026 18:47:00 +0900"
-        },
-        {
-          "title": "고개숙인 최원준, 미소짓는 강민호",
-          "url": "https://www.news1.kr/photos/8154905",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223182",
+          "url": "https://www.news1.kr/photos/8154906",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223183",
           "pub_date": "Mon, 12 Oct 2026 18:47:00 +0900"
         },
         {
@@ -530,8 +530,8 @@
         },
         {
           "title": "'<b>배트</b> 내동댕이' 사과하는 최원준",
-          "url": "https://www.news1.kr/photos/8154906",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223183",
+          "url": "https://www.news1.kr/photos/8154908",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223179",
           "pub_date": "Mon, 12 Oct 2026 18:47:00 +0900"
         }
       ]
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17366,
+      "api_total": 17365,
       "items": [
         {
           "title": "최다안타 2개 차로 레이예스 쫓던 최원준, <b>배트</b> 던진 진짜 이유",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791799162,
+  "updated_at": 1791800225,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791799162,
-  "shopping_updated_at": 1791799164,
-  "reference_updated_at": 1791799169
+  "trend_updated_at": 1791800225,
+  "shopping_updated_at": 1791800226,
+  "reference_updated_at": 1791800232
 }
