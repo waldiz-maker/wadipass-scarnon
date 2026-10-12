@@ -502,12 +502,18 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86021,
+      "api_total": 86022,
       "items": [
+        {
+          "title": "'방망이 패대기' KT 위즈 최원준, 팀 주장 장성우 불호령 듣고 눈물 : 결...",
+          "url": "https://www.huffingtonpost.kr/article/261134",
+          "naver_url": "https://www.huffingtonpost.kr/article/261134",
+          "pub_date": "Mon, 12 Oct 2026 14:22:00 +0900"
+        },
         {
           "title": "볼넷에 <b>배트</b> 패대기, 주장 다그침에 눈물도 펑펑…고개숙인 최원준 &quot;명...",
           "url": "https://news.jtbc.co.kr/article/NB12322522?influxDiv=NAVER",
-          "naver_url": "https://m.sports.naver.com/general/article/437/0000515236",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000515236",
           "pub_date": "Mon, 12 Oct 2026 13:59:00 +0900"
         },
         {
@@ -527,12 +533,6 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683171&ref=A",
           "naver_url": "https://n.news.naver.com/mnews/article/056/0012271772?sid=121",
           "pub_date": "Mon, 12 Oct 2026 13:09:00 +0900"
-        },
-        {
-          "title": "‘최다안타 1위 해도 욕, 못 해도 욕!’ 최원준 공개 사과에도 싸늘한 ...",
-          "url": "http://www.osen.co.kr/article/G1112891502",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005622151",
-          "pub_date": "Mon, 12 Oct 2026 12:46:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17364,
+      "api_total": 17365,
       "items": [
         {
           "title": "⚾ 오늘은 부모님이 라이벌! 드림즈 유소년 <b>야구</b>단 VS 학부모님 친선....",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791781321,
+  "updated_at": 1791782966,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791781321,
-  "shopping_updated_at": 1791781323,
-  "reference_updated_at": 1791781329
+  "trend_updated_at": 1791782966,
+  "shopping_updated_at": 1791782967,
+  "reference_updated_at": 1791782972
 }
