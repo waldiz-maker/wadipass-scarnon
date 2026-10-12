@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86017,
+      "api_total": 86019,
       "items": [
+        {
+          "title": "최원준, <b>배트</b> 던진 행동 공식 사과 &quot;감정 조절 못한 명백한 잘못&quot;",
+          "url": "https://www.insight.co.kr/news/577365",
+          "naver_url": "https://www.insight.co.kr/news/577365",
+          "pub_date": "Mon, 12 Oct 2026 13:12:00 +0900"
+        },
+        {
+          "title": "[영상] 후라도 빈볼, 최원준 <b>배트</b> 패대기…장성우 불호령",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683171&ref=A",
+          "naver_url": "https://n.news.naver.com/mnews/article/056/0012271772?sid=121",
+          "pub_date": "Mon, 12 Oct 2026 13:09:00 +0900"
+        },
         {
           "title": "‘최다안타 1위 해도 욕, 못 해도 욕!’ 최원준 공개 사과에도 싸늘한 ...",
           "url": "http://www.osen.co.kr/article/G1112891502",
@@ -521,18 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100073740004775",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455150",
           "pub_date": "Mon, 12 Oct 2026 12:30:00 +0900"
-        },
-        {
-          "title": "[SW포커스] 기록 좇다 선 넘은 승부욕… 빈볼-<b>배트</b> 투척에 얼룩진 스포...",
-          "url": "https://www.sportsworldi.com/newsView/20261012510912",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/396/0000757725",
-          "pub_date": "Mon, 12 Oct 2026 11:57:00 +0900"
-        },
-        {
-          "title": "[MLB NLCS] 밀워키 vs 다저스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3718457",
-          "naver_url": "https://www.gukjenews.com/news/articleView.html?idxno=3718457",
-          "pub_date": "Mon, 12 Oct 2026 11:16:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17363,
+      "api_total": 17364,
       "items": [
+        {
+          "title": "⚾ 오늘은 부모님이 라이벌! 드림즈 유소년 <b>야구</b>단 VS 학부모님 친선....",
+          "url": "https://blog.naver.com/kiss800125/224438923692",
+          "naver_url": "https://blog.naver.com/kiss800125/224438923692",
+          "pub_date": "20261012"
+        },
         {
           "title": "[부천<b>야구</b>레슨] J ONE 베이스볼 아카데미에서 투수 레슨~!",
           "url": "https://blog.naver.com/dsdsdsr/224438912261",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/duna2092/224438671600",
           "naver_url": "https://blog.naver.com/duna2092/224438671600",
           "pub_date": "20261012"
-        },
-        {
-          "title": "일산 유소년 <b>야구</b>레슨, 처음 배우는 우리 아이에게 1:1이 좋은 이유",
-          "url": "https://blog.naver.com/zerobaseball_ilsan/224438475290",
-          "naver_url": "https://blog.naver.com/zerobaseball_ilsan/224438475290",
-          "pub_date": "20261012"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791777541,
+  "updated_at": 1791778533,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791777541,
-  "shopping_updated_at": 1791777543,
-  "reference_updated_at": 1791777556
+  "trend_updated_at": 1791778533,
+  "shopping_updated_at": 1791778534,
+  "reference_updated_at": 1791778540
 }
