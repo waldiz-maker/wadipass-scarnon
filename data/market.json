@@ -502,8 +502,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86031,
+      "api_total": 86034,
       "items": [
+        {
+          "title": "“프로 선수로 보여주지 말았어야 하는 행동” 재차 고개 숙인 KT 최원준...",
+          "url": "https://sports.khan.co.kr/article/202610121821003?pt=nv",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001143565",
+          "pub_date": "Mon, 12 Oct 2026 18:22:00 +0900"
+        },
+        {
+          "title": "&quot;후라도, 감정적으로 흔들렸다&quot; 박진만 감독 쓴소리, 이강철 감독도 &quot;총...",
+          "url": "https://isplus.com/article/view/isp202610120207",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003534972",
+          "pub_date": "Mon, 12 Oct 2026 18:18:00 +0900"
+        },
+        {
+          "title": "&quot;기록보다 좋은 사람 되는 게 먼저&quot;…최원준, 눈물의 반성 뒤 달라질까",
+          "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=618279",
+          "naver_url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=618279",
+          "pub_date": "Mon, 12 Oct 2026 18:14:00 +0900"
+        },
         {
           "title": "[IS 인터뷰] &quot;기록 욕심에 잘못된 생각했다&quot; <b>배트</b> 내동댕이 사과한 KT 최...",
           "url": "https://isplus.com/article/view/isp202610120200",
@@ -515,24 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100076690004956",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455279",
           "pub_date": "Mon, 12 Oct 2026 17:52:00 +0900"
-        },
-        {
-          "title": "'경쟁 속 비신사적 행위' 최원준, 결국 사과했지만...",
-          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=323914",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/450/0000154761",
-          "pub_date": "Mon, 12 Oct 2026 17:24:00 +0900"
-        },
-        {
-          "title": "'<b>배트</b> 투척 물의' 최원준, 역전 안타왕 위해 톱타자 배치… 힐리어드는...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100076420004933",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455261",
-          "pub_date": "Mon, 12 Oct 2026 16:56:00 +0900"
-        },
-        {
-          "title": "‘<b>배트</b> 투척 논란’ 최원준, 결국 삼성 덕아웃 찾아 사과한다…최종전...",
-          "url": "http://www.osen.co.kr/article/G1112891605",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005622239",
-          "pub_date": "Mon, 12 Oct 2026 16:52:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791796179,
+  "updated_at": 1791797551,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791796179,
-  "shopping_updated_at": 1791796181,
-  "reference_updated_at": 1791796186
+  "trend_updated_at": 1791797551,
+  "shopping_updated_at": 1791797552,
+  "reference_updated_at": 1791797557
 }
