@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86050,
+      "api_total": 86051,
       "items": [
+        {
+          "title": "마치 장판파의 장비처럼 ‘단두매 매치’에서 LG 마운드를 홀로 지탱한...",
+          "url": "https://www.segye.com/newsView/20261013501743?OutUrl=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/022/0004166107",
+          "pub_date": "Tue, 13 Oct 2026 05:42:00 +0900"
+        },
         {
           "title": "&quot;승률왕 등극 축하, 하지만 마음 한구석이…&quot; 창단 첫 10연승·90승 정상...",
           "url": "https://www.sportschosun.com/baseball/2026-10-13/202610130100079600005202",
@@ -527,12 +533,6 @@
           "url": "https://www.joongang.co.kr/article/25469069",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/025/0003557361",
           "pub_date": "Mon, 12 Oct 2026 22:15:00 +0900"
-        },
-        {
-          "title": "[종합] &quot;게임 끝났어?&quot;…'불꽃<b>야구</b>' 파이터즈, 연패 눈물 딛고 부산고전...",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245079",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16245079",
-          "pub_date": "Mon, 12 Oct 2026 22:10:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791836984,
+  "updated_at": 1791838174,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791836984,
-  "shopping_updated_at": 1791836986,
-  "reference_updated_at": 1791836992
+  "trend_updated_at": 1791838174,
+  "shopping_updated_at": 1791838177,
+  "reference_updated_at": 1791838182
 }
