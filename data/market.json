@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86029,
+      "api_total": 86031,
       "items": [
+        {
+          "title": "[IS 인터뷰] &quot;기록 욕심에 잘못된 생각했다&quot; <b>배트</b> 내동댕이 사과한 KT 최...",
+          "url": "https://isplus.com/article/view/isp202610120200",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003534964",
+          "pub_date": "Mon, 12 Oct 2026 17:53:00 +0900"
+        },
+        {
+          "title": "[현장인터뷰]&quot;볼보이, 최형우·강민호 선배께 사과, 기록보다 사람 되는...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100076690004956",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455279",
+          "pub_date": "Mon, 12 Oct 2026 17:52:00 +0900"
+        },
         {
           "title": "'경쟁 속 비신사적 행위' 최원준, 결국 사과했지만...",
           "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=323914",
@@ -521,18 +533,6 @@
           "url": "http://www.osen.co.kr/article/G1112891605",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005622239",
           "pub_date": "Mon, 12 Oct 2026 16:52:00 +0900"
-        },
-        {
-          "title": "스포츠 스타들의 잇단 태도 논란…스타성과 태도 리스크",
-          "url": "https://www.sidae.com/article/2026101213445948146",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/417/0001160655",
-          "pub_date": "Mon, 12 Oct 2026 16:31:00 +0900"
-        },
-        {
-          "title": "&quot;냉정함 잃었다&quot; 사령탑의 준엄한 일침, '빈볼→<b>배트</b>투척→피홈런' 후라...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100075980004907",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455245",
-          "pub_date": "Mon, 12 Oct 2026 16:28:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791794822,
+  "updated_at": 1791796179,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791794822,
-  "shopping_updated_at": 1791794825,
-  "reference_updated_at": 1791794837
+  "trend_updated_at": 1791796179,
+  "shopping_updated_at": 1791796181,
+  "reference_updated_at": 1791796186
 }
