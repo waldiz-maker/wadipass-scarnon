@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86045,
+      "api_total": 86047,
       "items": [
+        {
+          "title": "“내 홈런 중 최고” 통산 100호 홈런으로 KIA 3위 이끈 김도영",
+          "url": "https://www.joongang.co.kr/article/25469069",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/025/0003557361",
+          "pub_date": "Mon, 12 Oct 2026 22:15:00 +0900"
+        },
+        {
+          "title": "[종합] &quot;게임 끝났어?&quot;…'불꽃<b>야구</b>' 파이터즈, 연패 눈물 딛고 부산고전...",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245079",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16245079",
+          "pub_date": "Mon, 12 Oct 2026 22:10:00 +0900"
+        },
         {
           "title": "&quot;툭툭 털고 다시 <b>야구</b>해야지&quot;…'불꽃<b>야구</b>' 임영기, 현빈 육성 선수 합류",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245075",
@@ -521,18 +533,6 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245055",
           "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16245055",
           "pub_date": "Mon, 12 Oct 2026 21:22:00 +0900"
-        },
-        {
-          "title": "&quot;이래서 김도영 김도영 하는구나&quot; 팀 3위와 단독 홈런왕 훔쳐 낸 기적의...",
-          "url": "https://www.fnnews.com/news/202610122116483260",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/014/0005588076",
-          "pub_date": "Mon, 12 Oct 2026 21:19:00 +0900"
-        },
-        {
-          "title": "최원준 <b>배트</b> 주워주는 강민호",
-          "url": "https://www.news1.kr/photos/8155014",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009223312",
-          "pub_date": "Mon, 12 Oct 2026 20:26:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17368,
+      "api_total": 17369,
       "items": [
+        {
+          "title": "특수상해죄판결 최신 판례와 양형 기준 변호사 선임 가이드",
+          "url": "https://blog.naver.com/kindbrave2118/224438731602",
+          "naver_url": "https://blog.naver.com/kindbrave2118/224438731602",
+          "pub_date": "20261012"
+        },
         {
           "title": "검단 베이스볼 아카데미를 소개합니다.",
           "url": "https://blog.naver.com/kookim1973/224439475743",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/kangissue22/224439033570",
           "naver_url": "https://blog.naver.com/kangissue22/224439033570",
           "pub_date": "20261012"
-        },
-        {
-          "title": "⚾ 오늘은 부모님이 라이벌! 드림즈 유소년 <b>야구</b>단 VS 학부모님 친선....",
-          "url": "https://blog.naver.com/kiss800125/224438923692",
-          "naver_url": "https://blog.naver.com/kiss800125/224438923692",
-          "pub_date": "20261012"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791810411,
+  "updated_at": 1791812437,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791810411,
-  "shopping_updated_at": 1791810412,
-  "reference_updated_at": 1791810418
+  "trend_updated_at": 1791812437,
+  "shopping_updated_at": 1791812438,
+  "reference_updated_at": 1791812444
 }
