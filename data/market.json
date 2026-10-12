@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 21.77
+          "ratio": 24.88
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.02
+          "ratio": 2.23
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 1.61
+          "ratio": 1.84
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 48.9,
+    "recent_3m_avg": 50.0,
     "previous_3m_avg": 84.3,
-    "delta_pct": -42.0,
+    "delta_pct": -40.7,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 21.8,
+    "latest_ratio": 24.9,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -415,8 +415,8 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-11",
-    "period_end": "2026-10-11",
+    "period_start": "2026-07-12",
+    "period_end": "2026-10-12",
     "rows": [
       {
         "group": "40",
@@ -468,8 +468,8 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-11",
-    "period_end": "2026-10-11",
+    "period_start": "2026-07-12",
+    "period_end": "2026-10-12",
     "rows": [
       {
         "group": "m",
@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86001,
+      "api_total": 86002,
       "items": [
+        {
+          "title": "레이예스와 최다안타 경쟁하다 <b>배트</b>던진 KT 최원준, 울음 뒤 사과",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261012010003047",
+          "naver_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261012010003047",
+          "pub_date": "Mon, 12 Oct 2026 09:00:00 +0900"
+        },
         {
           "title": "볼넷에 <b>배트</b> 던진 최원준, 결국 사과…&quot;감정 조절 못한 명백한 잘못&quot;",
           "url": "https://www.news1.kr/sports/baseball/6316297",
@@ -527,12 +533,6 @@
           "url": "https://www.dailian.co.kr/news/view/1700078/?sc=Naver",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/119/0003141506",
           "pub_date": "Mon, 12 Oct 2026 08:11:00 +0900"
-        },
-        {
-          "title": "볼넷에 <b>배트</b> 내던진 ‘안타왕 후보’ 최원준 “감정 조절 못했다” 사과",
-          "url": "https://www.joongang.co.kr/article/25468865",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/025/0003557180",
-          "pub_date": "Mon, 12 Oct 2026 07:53:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17362,
+      "api_total": 17363,
       "items": [
+        {
+          "title": "모스타르_올드타운으로 가는길",
+          "url": "https://blog.naver.com/duna2092/224438671600",
+          "naver_url": "https://blog.naver.com/duna2092/224438671600",
+          "pub_date": "20261012"
+        },
         {
           "title": "일산 유소년 <b>야구</b>레슨, 처음 배우는 우리 아이에게 1:1이 좋은 이유",
           "url": "https://blog.naver.com/zerobaseball_ilsan/224438475290",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/idid1020/224437474325",
           "naver_url": "https://blog.naver.com/idid1020/224437474325",
           "pub_date": "20261010"
-        },
-        {
-          "title": "<b>사회인야구</b> 타격레슨, 연습 때 잘 치는데 경기에서 못 치는 진짜 이....",
-          "url": "https://blog.naver.com/dirnqn0932/224437360228",
-          "naver_url": "https://blog.naver.com/dirnqn0932/224437360228",
-          "pub_date": "20261010"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791762811,
+  "updated_at": 1791763716,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791762811,
-  "shopping_updated_at": 1791762812,
-  "reference_updated_at": 1791762817
+  "trend_updated_at": 1791763716,
+  "shopping_updated_at": 1791763718,
+  "reference_updated_at": 1791763724
 }
