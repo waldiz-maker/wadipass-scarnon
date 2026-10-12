@@ -507,7 +507,7 @@
         {
           "title": "'왜 나한테 스트라이크 안 줘' 충격 <b>배트</b> 투척, &quot;고의4구 이해한다&quot; 엉겁...",
           "url": "https://www.sportschosun.com/baseball/2026-10-12/202610120100074800004844",
-          "naver_url": "https://m.sports.naver.com/general/article/076/0004455221",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455221",
           "pub_date": "Mon, 12 Oct 2026 15:37:00 +0900"
         },
         {
@@ -517,7 +517,7 @@
           "pub_date": "Mon, 12 Oct 2026 15:24:00 +0900"
         },
         {
-          "title": "'방망이 패대기' KT 위즈 최원준, 팀 주장 장성우 불호령 듣고 눈물 : 결...",
+          "title": "[허프 사람&amp;말] '방망이 패대기' KT 위즈 최원준, 팀 주장 장성우 불호령...",
           "url": "https://www.huffingtonpost.kr/article/261134",
           "naver_url": "https://www.huffingtonpost.kr/article/261134",
           "pub_date": "Mon, 12 Oct 2026 14:22:00 +0900"
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791787086,
+  "updated_at": 1791788861,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791787086,
-  "shopping_updated_at": 1791787087,
-  "reference_updated_at": 1791787092
+  "trend_updated_at": 1791788861,
+  "shopping_updated_at": 1791788864,
+  "reference_updated_at": 1791788876
 }
