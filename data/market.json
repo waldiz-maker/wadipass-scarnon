@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17365,
+      "api_total": 17366,
       "items": [
+        {
+          "title": "최다안타 2개 차로 레이예스 쫓던 최원준, <b>배트</b> 던진 진짜 이유",
+          "url": "https://blog.naver.com/kangissue22/224439033570",
+          "naver_url": "https://blog.naver.com/kangissue22/224439033570",
+          "pub_date": "20261012"
+        },
         {
           "title": "⚾ 오늘은 부모님이 라이벌! 드림즈 유소년 <b>야구</b>단 VS 학부모님 친선....",
           "url": "https://blog.naver.com/kiss800125/224438923692",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/donginthink9/224368428367",
           "naver_url": "https://blog.naver.com/donginthink9/224368428367",
           "pub_date": "20261012"
-        },
-        {
-          "title": "모스타르_올드타운으로 가는길",
-          "url": "https://blog.naver.com/duna2092/224438671600",
-          "naver_url": "https://blog.naver.com/duna2092/224438671600",
-          "pub_date": "20261012"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791782966,
+  "updated_at": 1791784116,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791782966,
-  "shopping_updated_at": 1791782967,
-  "reference_updated_at": 1791782972
+  "trend_updated_at": 1791784116,
+  "shopping_updated_at": 1791784119,
+  "reference_updated_at": 1791784131
 }
