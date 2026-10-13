@@ -511,15 +511,15 @@
           "pub_date": "Tue, 13 Oct 2026 10:17:00 +0900"
         },
         {
-          "title": "김도영, 단 한 방으로 KIA 3위·홈런왕·MVP까지 [프로<b>야구</b>]",
-          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
-          "naver_url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
-          "pub_date": "Tue, 13 Oct 2026 09:30:00 +0900"
-        },
-        {
           "title": "레이예스 '최다안타 드라마' 주인공…최종전 4안타로 211안타, 불멸의 기...",
           "url": "https://www.mediapen.com/news/view/1129458",
           "naver_url": "https://www.mediapen.com/news/view/1129458",
+          "pub_date": "Tue, 13 Oct 2026 09:30:00 +0900"
+        },
+        {
+          "title": "김도영, 단 한 방으로 KIA 3위·홈런왕·MVP까지 [프로<b>야구</b>]",
+          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
+          "naver_url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
           "pub_date": "Tue, 13 Oct 2026 09:30:00 +0900"
         },
         {
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17375,
+      "api_total": 17372,
       "items": [
         {
           "title": "2026년 10월 13일 퀴즈(신한SOL, KB스타뱅킹, KB페이, NH디깅퀴즈, 카카오....",
@@ -597,12 +597,6 @@
           "pub_date": "20261013"
         },
         {
-          "title": "<b>야구</b><b>배트</b>그립으로 더 안정된 타격감 느껴보세요",
-          "url": "https://blog.naver.com/pxgeuttdeq804/224439862548",
-          "naver_url": "https://blog.naver.com/pxgeuttdeq804/224439862548",
-          "pub_date": "20261013"
-        },
-        {
           "title": "<b>야구</b><b>배트</b> 종류부터 길이·무게·인증<b>배트</b>까지! 유소년 <b>야구</b> 입문 가....",
           "url": "https://blog.naver.com/king-52/224439819413",
           "naver_url": "https://blog.naver.com/king-52/224439819413",
@@ -613,12 +607,18 @@
           "url": "https://blog.naver.com/xd4hk8ith/224439732917",
           "naver_url": "https://blog.naver.com/xd4hk8ith/224439732917",
           "pub_date": "20261013"
+        },
+        {
+          "title": "NC 다이노스 우주로 프로필 총정리: 대전고 주장 유격수의 모든 것",
+          "url": "https://blog.naver.com/gs92401037/224433718267",
+          "naver_url": "https://blog.naver.com/gs92401037/224433718267",
+          "pub_date": "20261013"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791860881,
+  "updated_at": 1791862181,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791860881,
-  "shopping_updated_at": 1791860882,
-  "reference_updated_at": 1791860888
+  "trend_updated_at": 1791862181,
+  "shopping_updated_at": 1791862183,
+  "reference_updated_at": 1791862188
 }
