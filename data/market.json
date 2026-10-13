@@ -415,8 +415,8 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-12",
-    "period_end": "2026-10-12",
+    "period_start": "2026-07-13",
+    "period_end": "2026-10-13",
     "rows": [
       {
         "group": "40",
@@ -468,8 +468,8 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-12",
-    "period_end": "2026-10-12",
+    "period_start": "2026-07-13",
+    "period_end": "2026-10-13",
     "rows": [
       {
         "group": "m",
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17373,
+      "api_total": 17374,
       "items": [
+        {
+          "title": "강속구가 아니어도 괜찮아",
+          "url": "https://blog.naver.com/luce13/224439883429",
+          "naver_url": "https://blog.naver.com/luce13/224439883429",
+          "pub_date": "20261013"
+        },
         {
           "title": "<b>야구</b><b>배트</b>그립으로 더 안정된 타격감 느껴보세요",
           "url": "https://blog.naver.com/pxgeuttdeq804/224439862548",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/gs92401037/224433718267",
           "naver_url": "https://blog.naver.com/gs92401037/224433718267",
           "pub_date": "20261013"
-        },
-        {
-          "title": "특수상해죄판결 최신 판례와 양형 기준 변호사 선임 가이드",
-          "url": "https://blog.naver.com/kindbrave2118/224438731602",
-          "naver_url": "https://blog.naver.com/kindbrave2118/224438731602",
-          "pub_date": "20261012"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791849509,
+  "updated_at": 1791850839,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791849509,
-  "shopping_updated_at": 1791849511,
-  "reference_updated_at": 1791849516
+  "trend_updated_at": 1791850839,
+  "shopping_updated_at": 1791850840,
+  "reference_updated_at": 1791850846
 }
