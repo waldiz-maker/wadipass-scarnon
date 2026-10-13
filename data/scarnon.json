@@ -3072,7 +3072,7 @@
           "share": 83.3
         },
         "top_attraction": {
-          "label": "디자인·가격·구성",
+          "label": "차별성·스토리·전문성",
           "count": 2,
           "share": 33.3
         },
@@ -3088,12 +3088,12 @@
         },
         "attractions": [
           {
-            "label": "디자인·가격·구성",
+            "label": "차별성·스토리·전문성",
             "count": 2,
             "share": 33.3
           },
           {
-            "label": "차별성·스토리·전문성",
+            "label": "디자인·가격·구성",
             "count": 2,
             "share": 33.3
           },
@@ -3103,12 +3103,12 @@
             "share": 33.3
           },
           {
-            "label": "타격 성능·기능",
+            "label": "소재·내구성",
             "count": 1,
             "share": 16.7
           },
           {
-            "label": "소재·내구성",
+            "label": "타격 성능·기능",
             "count": 1,
             "share": 16.7
           }
@@ -4266,7 +4266,7 @@
             "share": 50.0
           },
           "top_attraction": {
-            "label": "타격 성능·기능",
+            "label": "소재·내구성",
             "count": 1,
             "share": 50.0
           },
@@ -4853,7 +4853,7 @@
             "share": 100.0
           },
           "top_attraction": {
-            "label": "디자인·가격·구성",
+            "label": "차별성·스토리·전문성",
             "count": 2,
             "share": 50.0
           },
