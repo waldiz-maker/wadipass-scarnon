@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86053,
+      "api_total": 86057,
       "items": [
+        {
+          "title": "레이예스 '최다안타 드라마' 주인공…최종전 4안타로 211안타, 불멸의 기...",
+          "url": "https://www.mediapen.com/news/view/1129458",
+          "naver_url": "https://www.mediapen.com/news/view/1129458",
+          "pub_date": "Tue, 13 Oct 2026 09:30:00 +0900"
+        },
+        {
+          "title": "김도영, 단 한 방으로 KIA 3위·홈런왕·MVP까지 [프로<b>야구</b>]",
+          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
+          "naver_url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
+          "pub_date": "Tue, 13 Oct 2026 09:30:00 +0900"
+        },
+        {
+          "title": "'슈퍼스타' 김도영이 이뤄낸 8회의 기적... &quot;평화의 소녀상 앞에서 소원...",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274750&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/047/0002531977",
+          "pub_date": "Tue, 13 Oct 2026 09:21:00 +0900"
+        },
+        {
+          "title": "'2020년대 최고 시즌' KT, 창단 최다 90승에 개인 타이틀-신기록 잔치로...",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274743&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/047/0002531976",
+          "pub_date": "Tue, 13 Oct 2026 09:21:00 +0900"
+        },
         {
           "title": "경악! '정말 믿을 수 없다' 日 특급, '포스트시즌 사나이' 야마모토, 패...",
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553608716",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254410",
           "pub_date": "Tue, 13 Oct 2026 08:40:00 +0900"
-        },
-        {
-          "title": "신한 쏠<b>야구</b> 퀴즈 정답 10월 13일",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=392362",
-          "naver_url": "https://www.vegannews.co.kr/news/article.html?no=392362",
-          "pub_date": "Tue, 13 Oct 2026 08:12:00 +0900"
-        },
-        {
-          "title": "마치 장판파의 장비처럼 ‘단두매 매치’에서 LG 마운드를 홀로 지탱한...",
-          "url": "https://www.segye.com/newsView/20261013501743?OutUrl=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/022/0004166107",
-          "pub_date": "Tue, 13 Oct 2026 05:42:00 +0900"
-        },
-        {
-          "title": "&quot;승률왕 등극 축하, 하지만 마음 한구석이…&quot; 창단 첫 10연승·90승 정상...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-13/202610130100079600005202",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455513",
-          "pub_date": "Tue, 13 Oct 2026 00:21:00 +0900"
-        },
-        {
-          "title": "&quot;<b>야구</b>를 향한 '아름다운 순수함' 있어&quot; 통산 61경기 신인이 다저스 무너...",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553607247",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254395",
-          "pub_date": "Tue, 13 Oct 2026 00:12:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17374,
+      "api_total": 17375,
       "items": [
+        {
+          "title": "2026년 10월 13일 퀴즈(신한SOL, KB스타뱅킹, KB페이, NH디깅퀴즈, 카카오....",
+          "url": "https://blog.naver.com/jejeje91_/224439894112",
+          "naver_url": "https://blog.naver.com/jejeje91_/224439894112",
+          "pub_date": "20261013"
+        },
         {
           "title": "강속구가 아니어도 괜찮아",
           "url": "https://blog.naver.com/luce13/224439883429",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/xd4hk8ith/224439732917",
           "naver_url": "https://blog.naver.com/xd4hk8ith/224439732917",
           "pub_date": "20261013"
-        },
-        {
-          "title": "NC 다이노스 우주로 프로필 총정리: 대전고 주장 유격수의 모든 것",
-          "url": "https://blog.naver.com/gs92401037/224433718267",
-          "naver_url": "https://blog.naver.com/gs92401037/224433718267",
-          "pub_date": "20261013"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791850839,
+  "updated_at": 1791852897,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791850839,
-  "shopping_updated_at": 1791850840,
-  "reference_updated_at": 1791850846
+  "trend_updated_at": 1791852897,
+  "shopping_updated_at": 1791852898,
+  "reference_updated_at": 1791852903
 }
