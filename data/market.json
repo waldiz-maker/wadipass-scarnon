@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86070,
+      "api_total": 86071,
       "items": [
+        {
+          "title": "‘올해만 2번 방출→사실상 은퇴’ 맥커친, WS 앞두고 ‘마이크 잡는다...",
+          "url": "https://sports.donga.com/sports/article/all/20261014/134837488/1",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/382/0001298828",
+          "pub_date": "Wed, 14 Oct 2026 05:33:00 +0900"
+        },
         {
           "title": "&quot;저를 딱 쳐다봤잖아요&quot; 후라도의 빈볼 도발→황당한 이강철 감독의 일...",
           "url": "https://www.sportschosun.com/baseball/2026-10-14/202610130100080290005249",
@@ -527,12 +533,6 @@
           "url": "https://www.ftimes.kr/news/articleView.html?idxno=40350",
           "naver_url": "https://www.ftimes.kr/news/articleView.html?idxno=40350",
           "pub_date": "Tue, 13 Oct 2026 20:20:00 +0900"
-        },
-        {
-          "title": "&quot;대기록 포기 선택&quot;…박재현·박승규, 팀 승리를 택했다",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245736",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16245736",
-          "pub_date": "Tue, 13 Oct 2026 16:38:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791921973,
+  "updated_at": 1791924074,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791921973,
-  "shopping_updated_at": 1791921974,
-  "reference_updated_at": 1791921980
+  "trend_updated_at": 1791924074,
+  "shopping_updated_at": 1791924076,
+  "reference_updated_at": 1791924088
 }
