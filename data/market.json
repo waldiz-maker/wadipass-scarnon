@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86062,
+      "api_total": 86063,
       "items": [
+        {
+          "title": "‘연패 스토퍼’ 중책 맡은 유희관, 부산고 공격 막았다(불꽃<b>야구</b>2)",
+          "url": "https://www.mk.co.kr/article/12174540",
+          "naver_url": "https://m.entertain.naver.com/article/410/0001143123",
+          "pub_date": "Tue, 13 Oct 2026 16:00:00 +0900"
+        },
         {
           "title": "불꽃 파이터즈, 2연패 수렁에 빠져 (불꽃<b>야구</b>2)",
           "url": "https://sports.khan.co.kr/article/202610131528003?pt=nv",
@@ -517,7 +523,7 @@
           "pub_date": "Tue, 13 Oct 2026 14:08:00 +0900"
         },
         {
-          "title": "[영상] 레이예스 211안타에모두 환호…최원준도 208안타 대기록",
+          "title": "[영상] 레이예스 211안타에 모두 환호…최원준도 208안타 대기록",
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684307&ref=A",
           "naver_url": "https://n.news.naver.com/mnews/article/056/0012272615?sid=121",
           "pub_date": "Tue, 13 Oct 2026 13:38:00 +0900"
@@ -527,12 +533,6 @@
           "url": "https://www.starnewskorea.com/broadcast-show/2026/10/13/2026101312214133235",
           "naver_url": "https://m.entertain.naver.com/article/108/0003478285",
           "pub_date": "Tue, 13 Oct 2026 12:33:00 +0900"
-        },
-        {
-          "title": "[단독 인터뷰] 삼성 <b>야구</b>가 노래가 됐다…볼빨간사춘기 안지영의 신곡 ...",
-          "url": "https://isplus.com/article/view/isp202610130010",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003535056",
-          "pub_date": "Tue, 13 Oct 2026 10:17:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17366,
+      "api_total": 17367,
       "items": [
+        {
+          "title": "<b>야구</b> <b>배트</b> 그립으로 더 안전하게 강한 스윙을 즐기세요",
+          "url": "https://blog.naver.com/srahh6i9p/224440323514",
+          "naver_url": "https://blog.naver.com/srahh6i9p/224440323514",
+          "pub_date": "20261013"
+        },
         {
           "title": "최최강 롯롯데데데 자자이언츠츠츠츠 로롯데 소손성빈빈빈",
           "url": "https://blog.naver.com/kimpunke/224440308320",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/king-52/224439819413",
           "naver_url": "https://blog.naver.com/king-52/224439819413",
           "pub_date": "20261013"
-        },
-        {
-          "title": "NC 다이노스 우주로 프로필 총정리: 대전고 주장 유격수의 모든 것",
-          "url": "https://blog.naver.com/gs92401037/224433718267",
-          "naver_url": "https://blog.naver.com/gs92401037/224433718267",
-          "pub_date": "20261013"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791873692,
+  "updated_at": 1791875300,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791873692,
-  "shopping_updated_at": 1791873694,
-  "reference_updated_at": 1791873699
+  "trend_updated_at": 1791875300,
+  "shopping_updated_at": 1791875301,
+  "reference_updated_at": 1791875306
 }
