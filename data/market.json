@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86061,
+      "api_total": 86062,
       "items": [
+        {
+          "title": "불꽃 파이터즈, 2연패 수렁에 빠져 (불꽃<b>야구</b>2)",
+          "url": "https://sports.khan.co.kr/article/202610131528003?pt=nv",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001143774",
+          "pub_date": "Tue, 13 Oct 2026 15:29:00 +0900"
+        },
         {
           "title": "KIA, 김도영 8회 투런포로 LG 꺾고 준PO 직행",
           "url": "https://www.joongangenews.com/news/articleView.html?idxno=554522",
@@ -527,12 +533,6 @@
           "url": "https://isplus.com/article/view/isp202610130010",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003535056",
           "pub_date": "Tue, 13 Oct 2026 10:17:00 +0900"
-        },
-        {
-          "title": "김도영, 단 한 방으로 KIA 3위·홈런왕·MVP까지 [프로<b>야구</b>]",
-          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
-          "naver_url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
-          "pub_date": "Tue, 13 Oct 2026 09:30:00 +0900"
         }
       ]
     },
@@ -585,6 +585,12 @@
       "api_total": 17366,
       "items": [
         {
+          "title": "최최강 롯롯데데데 자자이언츠츠츠츠 로롯데 소손성빈빈빈",
+          "url": "https://blog.naver.com/kimpunke/224440308320",
+          "naver_url": "https://blog.naver.com/kimpunke/224440308320",
+          "pub_date": "20261013"
+        },
+        {
           "title": "2026년 10월 13일 퀴즈(신한SOL, KB스타뱅킹, KB페이, NH디깅퀴즈, 카카오....",
           "url": "https://blog.naver.com/jejeje91_/224439894112",
           "naver_url": "https://blog.naver.com/jejeje91_/224439894112",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/gs92401037/224433718267",
           "naver_url": "https://blog.naver.com/gs92401037/224433718267",
           "pub_date": "20261013"
-        },
-        {
-          "title": "특수상해죄판결 최신 판례와 양형 기준 변호사 선임 가이드",
-          "url": "https://blog.naver.com/kindbrave2118/224438731602",
-          "naver_url": "https://blog.naver.com/kindbrave2118/224438731602",
-          "pub_date": "20261012"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791872012,
+  "updated_at": 1791873692,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791872012,
-  "shopping_updated_at": 1791872014,
-  "reference_updated_at": 1791872019
+  "trend_updated_at": 1791873692,
+  "shopping_updated_at": 1791873694,
+  "reference_updated_at": 1791873699
 }
