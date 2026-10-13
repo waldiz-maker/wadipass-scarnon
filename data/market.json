@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86071,
+      "api_total": 86072,
       "items": [
+        {
+          "title": "&quot;오타니 몸에 문제 있는 듯&quot; 前 스승 충격 진단…&quot;6년 만에 보는 부진, ...",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553611738",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254447",
+          "pub_date": "Wed, 14 Oct 2026 05:56:00 +0900"
+        },
         {
           "title": "‘올해만 2번 방출→사실상 은퇴’ 맥커친, WS 앞두고 ‘마이크 잡는다...",
           "url": "https://sports.donga.com/sports/article/all/20261014/134837488/1",
@@ -527,12 +533,6 @@
           "url": "https://www.fnnews.com/news/202610132019286582",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/014/0005588719",
           "pub_date": "Tue, 13 Oct 2026 20:25:00 +0900"
-        },
-        {
-          "title": "&quot;한국 <b>야구</b>는 아예 다른 종목 같다&quot;…일본 66승 투수의 충격 고백, KBO 와...",
-          "url": "https://www.ftimes.kr/news/articleView.html?idxno=40350",
-          "naver_url": "https://www.ftimes.kr/news/articleView.html?idxno=40350",
-          "pub_date": "Tue, 13 Oct 2026 20:20:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791924074,
+  "updated_at": 1791925718,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791924074,
-  "shopping_updated_at": 1791924076,
-  "reference_updated_at": 1791924088
+  "trend_updated_at": 1791925718,
+  "shopping_updated_at": 1791925719,
+  "reference_updated_at": 1791925724
 }
