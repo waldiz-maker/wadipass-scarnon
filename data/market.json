@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86069,
+      "api_total": 86070,
       "items": [
+        {
+          "title": "&quot;저를 딱 쳐다봤잖아요&quot; 후라도의 빈볼 도발→황당한 이강철 감독의 일...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-14/202610130100080290005249",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455790",
+          "pub_date": "Wed, 14 Oct 2026 00:39:00 +0900"
+        },
         {
           "title": "타이틀 밀어주기 흑역사와 정반대...2026 KBO를 빛낸 '희생의 플레이'",
           "url": "https://www.maniareport.com/view.php?ud=2026101316492560526cf2d78c68_19",
@@ -527,12 +533,6 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245736",
           "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16245736",
           "pub_date": "Tue, 13 Oct 2026 16:38:00 +0900"
-        },
-        {
-          "title": "SSG 아쿼 타케다, 日매체와 인터뷰에서 “한국 <b>야구</b>, 일본과는 완전히 ...",
-          "url": "https://sports.khan.co.kr/article/202610131635003?pt=nv",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001143796",
-          "pub_date": "Tue, 13 Oct 2026 16:36:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791905469,
+  "updated_at": 1791907093,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791905469,
-  "shopping_updated_at": 1791905471,
-  "reference_updated_at": 1791905476
+  "trend_updated_at": 1791907093,
+  "shopping_updated_at": 1791907095,
+  "reference_updated_at": 1791907100
 }
