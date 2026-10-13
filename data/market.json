@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86066,
+      "api_total": 86068,
       "items": [
+        {
+          "title": "&quot;어쩜 이리 기특할까&quot; 20-20 대기록 대신 '초구 기습번트' 댔다… KIA 팬...",
+          "url": "https://www.fnnews.com/news/202610132019286582",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/014/0005588719",
+          "pub_date": "Tue, 13 Oct 2026 20:25:00 +0900"
+        },
+        {
+          "title": "&quot;한국 <b>야구</b>는 아예 다른 종목 같다&quot;…일본 66승 투수의 충격 고백, KBO 와...",
+          "url": "https://www.ftimes.kr/news/articleView.html?idxno=40350",
+          "naver_url": "https://www.ftimes.kr/news/articleView.html?idxno=40350",
+          "pub_date": "Tue, 13 Oct 2026 20:20:00 +0900"
+        },
         {
           "title": "&quot;대기록 포기 선택&quot;…박재현·박승규, 팀 승리를 택했다",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16245736",
@@ -521,18 +533,6 @@
           "url": "https://www.yna.co.kr/view/AKR20261013152200007?input=1195m",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016374215",
           "pub_date": "Tue, 13 Oct 2026 16:27:00 +0900"
-        },
-        {
-          "title": "‘연패 스토퍼’ 중책 맡은 유희관, 부산고 공격 막았다(불꽃<b>야구</b>2)",
-          "url": "https://www.mk.co.kr/article/12174540",
-          "naver_url": "https://m.entertain.naver.com/article/410/0001143123",
-          "pub_date": "Tue, 13 Oct 2026 16:00:00 +0900"
-        },
-        {
-          "title": "불꽃 파이터즈, 2연패 수렁에 빠져 (불꽃<b>야구</b>2)",
-          "url": "https://sports.khan.co.kr/article/202610131528003?pt=nv",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001143774",
-          "pub_date": "Tue, 13 Oct 2026 15:29:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17370,
+      "api_total": 17372,
       "items": [
+        {
+          "title": "알루미늄 <b>야구</b> 방망이 <b>배트</b> 알아보기: 구매 전 비교 항목",
+          "url": "https://blog.naver.com/n39o4841ecj/224440615318",
+          "naver_url": "https://blog.naver.com/n39o4841ecj/224440615318",
+          "pub_date": "20261013"
+        },
+        {
+          "title": "최고의 <b>야구</b><b>배트</b> 그립으로 실력을 업그레이드하자",
+          "url": "https://blog.naver.com/rfpmtehyfl2894/224440607935",
+          "naver_url": "https://blog.naver.com/rfpmtehyfl2894/224440607935",
+          "pub_date": "20261013"
+        },
         {
           "title": "(스압 주의) 포켓몬 학대 일기",
           "url": "https://blog.naver.com/lunar8468/224440444466",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/kimpunke/224440308320",
           "naver_url": "https://blog.naver.com/kimpunke/224440308320",
           "pub_date": "20261013"
-        },
-        {
-          "title": "2026년 10월 13일 퀴즈(신한SOL, KB스타뱅킹, KB페이, NH디깅퀴즈, 카카오....",
-          "url": "https://blog.naver.com/jejeje91_/224439894112",
-          "naver_url": "https://blog.naver.com/jejeje91_/224439894112",
-          "pub_date": "20261013"
-        },
-        {
-          "title": "강속구가 아니어도 괜찮아",
-          "url": "https://blog.naver.com/luce13/224439883429",
-          "naver_url": "https://blog.naver.com/luce13/224439883429",
-          "pub_date": "20261013"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791890068,
+  "updated_at": 1791891321,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791890068,
-  "shopping_updated_at": 1791890071,
-  "reference_updated_at": 1791890077
+  "trend_updated_at": 1791891321,
+  "shopping_updated_at": 1791891323,
+  "reference_updated_at": 1791891335
 }
