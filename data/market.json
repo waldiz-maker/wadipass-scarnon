@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86068,
+      "api_total": 86069,
       "items": [
+        {
+          "title": "타이틀 밀어주기 흑역사와 정반대...2026 KBO를 빛낸 '희생의 플레이'",
+          "url": "https://www.maniareport.com/view.php?ud=2026101316492560526cf2d78c68_19",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/425/0000210850",
+          "pub_date": "Tue, 13 Oct 2026 21:16:00 +0900"
+        },
         {
           "title": "&quot;어쩜 이리 기특할까&quot; 20-20 대기록 대신 '초구 기습번트' 댔다… KIA 팬...",
           "url": "https://www.fnnews.com/news/202610132019286582",
@@ -527,12 +533,6 @@
           "url": "https://sports.khan.co.kr/article/202610131635003?pt=nv",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001143796",
           "pub_date": "Tue, 13 Oct 2026 16:36:00 +0900"
-        },
-        {
-          "title": "'기록은 영원하다'는 옛말…개인 대기록 포기한 박재현·박승규",
-          "url": "https://www.yna.co.kr/view/AKR20261013152200007?input=1195m",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016374215",
-          "pub_date": "Tue, 13 Oct 2026 16:27:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17374,
+      "api_total": 17376,
       "items": [
+        {
+          "title": "김포·파주 <b>야구</b>레슨 : 타격 임팩트의 원리",
+          "url": "https://blog.naver.com/paju_glove/224440693693",
+          "naver_url": "https://blog.naver.com/paju_glove/224440693693",
+          "pub_date": "20261013"
+        },
         {
           "title": "티라노스포츠 도그마 1.8 프리뷰 | 반발력 우수한 미들탑 밸런스 사....",
           "url": "https://blog.naver.com/ih_yeo0123/224440636853",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/lunar8468/224440444466",
           "naver_url": "https://blog.naver.com/lunar8468/224440444466",
           "pub_date": "20261013"
-        },
-        {
-          "title": "<b>야구</b> <b>배트</b> 그립으로 더 안전하게 강한 스윙을 즐기세요",
-          "url": "https://blog.naver.com/srahh6i9p/224440323514",
-          "naver_url": "https://blog.naver.com/srahh6i9p/224440323514",
-          "pub_date": "20261013"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791893736,
+  "updated_at": 1791896019,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791893736,
-  "shopping_updated_at": 1791893737,
-  "reference_updated_at": 1791893741
+  "trend_updated_at": 1791896019,
+  "shopping_updated_at": 1791896022,
+  "reference_updated_at": 1791896034
 }
