@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86059,
+      "api_total": 86060,
       "items": [
+        {
+          "title": "[영상] 레이예스 211안타에모두 환호…최원준도 208안타 대기록",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684307&ref=A",
+          "naver_url": "https://n.news.naver.com/mnews/article/056/0012272615?sid=121",
+          "pub_date": "Tue, 13 Oct 2026 13:38:00 +0900"
+        },
         {
           "title": "불꽃 파이터즈, 시즌 첫 2연패..대학 국가대표팀에 10:6 패배 [불꽃<b>야구</b>...",
           "url": "https://www.starnewskorea.com/broadcast-show/2026/10/13/2026101312214133235",
@@ -517,22 +523,16 @@
           "pub_date": "Tue, 13 Oct 2026 10:17:00 +0900"
         },
         {
-          "title": "김도영, 단 한 방으로 KIA 3위·홈런왕·MVP까지 [프로<b>야구</b>]",
-          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
-          "naver_url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
-          "pub_date": "Tue, 13 Oct 2026 09:30:00 +0900"
-        },
-        {
           "title": "레이예스 '최다안타 드라마' 주인공…최종전 4안타로 211안타, 불멸의 기...",
           "url": "https://www.mediapen.com/news/view/1129458",
           "naver_url": "https://www.mediapen.com/news/view/1129458",
           "pub_date": "Tue, 13 Oct 2026 09:30:00 +0900"
         },
         {
-          "title": "'2020년대 최고 시즌' KT, 창단 최다 90승에 개인 타이틀-신기록 잔치로...",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274743&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/047/0002531976",
-          "pub_date": "Tue, 13 Oct 2026 09:21:00 +0900"
+          "title": "김도영, 단 한 방으로 KIA 3위·홈런왕·MVP까지 [프로<b>야구</b>]",
+          "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
+          "naver_url": "https://www.newsq.co.kr/news/articleView.html?idxno=500424",
+          "pub_date": "Tue, 13 Oct 2026 09:30:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791865872,
+  "updated_at": 1791867501,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791865872,
-  "shopping_updated_at": 1791865875,
-  "reference_updated_at": 1791865887
+  "trend_updated_at": 1791867501,
+  "shopping_updated_at": 1791867503,
+  "reference_updated_at": 1791867508
 }
