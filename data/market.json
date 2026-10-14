@@ -541,8 +541,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 1330,
+      "api_total": 1331,
       "items": [
+        {
+          "title": "경찰과 사회복지사가 만든 울산 다문화 리틀 <b>야구</b>단 12년 [차형석의 별...",
+          "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58601",
+          "naver_url": "https://n.news.naver.com/mnews/article/308/0000038858?sid=103",
+          "pub_date": "Thu, 15 Oct 2026 06:16:00 +0900"
+        },
         {
           "title": "&quot;예술·체육인 병역 특례 재정비 필요&quot; 김병주 더불어민주당 의원 [시사...",
           "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223008",
@@ -566,12 +572,6 @@
           "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291355",
           "naver_url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1291355",
           "pub_date": "Tue, 08 Sep 2026 16:40:00 +0900"
-        },
-        {
-          "title": "포천<b>야구</b>장 새 단장…배수 개선하고 비디오 판독까지 갖췄다",
-          "url": "https://www.kyeonggi.com/article/20260907580536",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/666/0000122340",
-          "pub_date": "Mon, 07 Sep 2026 18:27:00 +0900"
         }
       ]
     }
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17419,
+      "api_total": 17420,
       "items": [
         {
           "title": "[제작사례] <b>야구</b>팬의 열정을 담은 레드 유니폼 커스텀 레고 미니피....",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1792012076,
+  "updated_at": 1792013899,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792012076,
-  "shopping_updated_at": 1792012077,
-  "reference_updated_at": 1792012082
+  "trend_updated_at": 1792013899,
+  "shopping_updated_at": 1792013900,
+  "reference_updated_at": 1792013905
 }
