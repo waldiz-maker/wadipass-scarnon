@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17411,
+      "api_total": 17413,
       "items": [
+        {
+          "title": "오타니 쇼헤이 투수 슬럼프? 110타석째 홈런포 실종(+ 선발제외 전망!....",
+          "url": "https://blog.naver.com/billionaire7383/224441643895",
+          "naver_url": "https://blog.naver.com/billionaire7383/224441643895",
+          "pub_date": "20261014"
+        },
         {
           "title": "엘리트 중등부 2학년 타격레슨 / 인천타격레슨 / 인천<b>야구</b>레슨",
           "url": "https://blog.naver.com/sa9388j/224441590652",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/k_taeng93/224441381046",
           "naver_url": "https://blog.naver.com/k_taeng93/224441381046",
           "pub_date": "20261014"
-        },
-        {
-          "title": "윌슨 Wilson A2K 1787 리뷰, 63만 5천 원짜리 글러브가 <b>사회인 야구</b>에 필....",
-          "url": "https://blog.naver.com/run_fit_pick/224441054613",
-          "naver_url": "https://blog.naver.com/run_fit_pick/224441054613",
-          "pub_date": "20261014"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791966050,
+  "updated_at": 1791968409,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791966050,
-  "shopping_updated_at": 1791966052,
-  "reference_updated_at": 1791966065
+  "trend_updated_at": 1791968409,
+  "shopping_updated_at": 1791968412,
+  "reference_updated_at": 1791968424
 }
