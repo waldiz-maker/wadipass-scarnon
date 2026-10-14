@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86075,
+      "api_total": 86076,
       "items": [
+        {
+          "title": "‘0승2패’ 다저스 살려! ‘PS 타율 0.150’ 오타니 기다릴 여유 없는데...",
+          "url": "https://www.sportsseoul.com/news/read/1641194?ref=naver",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/468/0001272377",
+          "pub_date": "Wed, 14 Oct 2026 10:08:00 +0900"
+        },
         {
           "title": "'승부에 취하고, 감정에 무너지다' 2026 KBO 정규시즌 황당 장면들...최원...",
           "url": "https://www.maniareport.com/view.php?ud=20261014092428324491b55a0d56_19",
@@ -527,12 +533,6 @@
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553611738",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254447",
           "pub_date": "Wed, 14 Oct 2026 05:56:00 +0900"
-        },
-        {
-          "title": "‘올해만 2번 방출→사실상 은퇴’ 맥커친, WS 앞두고 ‘마이크 잡는다...",
-          "url": "https://sports.donga.com/sports/article/all/20261014/134837488/1",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/382/0001298828",
-          "pub_date": "Wed, 14 Oct 2026 05:33:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791938959,
+  "updated_at": 1791941098,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791938959,
-  "shopping_updated_at": 1791938960,
-  "reference_updated_at": 1791938965
+  "trend_updated_at": 1791941098,
+  "shopping_updated_at": 1791941099,
+  "reference_updated_at": 1791941104
 }
