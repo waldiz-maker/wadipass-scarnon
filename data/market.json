@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17416,
+      "api_total": 17417,
       "items": [
+        {
+          "title": "[제작사례] <b>야구</b>팬의 열정을 담은 레드 유니폼 커스텀 레고 미니피....",
+          "url": "https://blog.naver.com/nplan114/224441945396",
+          "naver_url": "https://blog.naver.com/nplan114/224441945396",
+          "pub_date": "20261014"
+        },
         {
           "title": "LG 카라스코, 메이저리그 112승 투수의 충격적인 데뷔! 7이닝 퍼펙트·....",
           "url": "https://blog.naver.com/sport_korea/224441927931",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/billionaire7383/224441643895",
           "naver_url": "https://blog.naver.com/billionaire7383/224441643895",
           "pub_date": "20261014"
-        },
-        {
-          "title": "엘리트 중등부 2학년 타격레슨 / 인천타격레슨 / 인천<b>야구</b>레슨",
-          "url": "https://blog.naver.com/sa9388j/224441590652",
-          "naver_url": "https://blog.naver.com/sa9388j/224441590652",
-          "pub_date": "20261014"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791988184,
+  "updated_at": 1791990167,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791988184,
-  "shopping_updated_at": 1791988186,
-  "reference_updated_at": 1791988191
+  "trend_updated_at": 1791990167,
+  "shopping_updated_at": 1791990169,
+  "reference_updated_at": 1791990174
 }
