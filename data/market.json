@@ -502,19 +502,25 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86098,
+      "api_total": 86100,
       "items": [
+        {
+          "title": "'투런포' 오스틴, 가볍게 <b>배트</b>플립",
+          "url": "https://www.news1.kr/photos/8159470",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009228340",
+          "pub_date": "Wed, 14 Oct 2026 19:43:00 +0900"
+        },
+        {
+          "title": "[포토] 오스틴, 느좋 빠던",
+          "url": "https://www.starnewskorea.com/sports/2026/10/14/2026101419415518798",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003478762",
+          "pub_date": "Wed, 14 Oct 2026 19:42:00 +0900"
+        },
         {
           "title": "<b>배트</b>플립하는 오스틴",
           "url": "https://www.news1.kr/photos/8159462",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009228332",
           "pub_date": "Wed, 14 Oct 2026 19:39:00 +0900"
-        },
-        {
-          "title": "'투런포' 오스틴, 가볍게 <b>배트</b>플립",
-          "url": "https://www.news1.kr/photos/8159461",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009228331",
-          "pub_date": "Wed, 14 Oct 2026 19:38:00 +0900"
         },
         {
           "title": "'아뿔싸' 두산 '고의 낙구' 센스→치명적 실책이라니! 그런데 곽빈 대단...",
@@ -523,16 +529,10 @@
           "pub_date": "Wed, 14 Oct 2026 19:38:00 +0900"
         },
         {
-          "title": "'이럴수가' 곽빈 '왜' 157㎞ 광속구 놔두고 거기서 커브를... 오스틴에게...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/14/2026101416160540357",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003478746",
-          "pub_date": "Wed, 14 Oct 2026 19:10:00 +0900"
-        },
-        {
-          "title": "[WC1] 곽빈 울린 오스틴의 한 방… LG, 두산에 2-0 리드",
-          "url": "https://www.sportsworldi.com/newsView/20261014523410",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/396/0000758005",
-          "pub_date": "Wed, 14 Oct 2026 19:07:00 +0900"
+          "title": "'투런포' 오스틴, 가볍게 <b>배트</b>플립",
+          "url": "https://www.news1.kr/photos/8159461",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009228331",
+          "pub_date": "Wed, 14 Oct 2026 19:38:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791974444,
+  "updated_at": 1791976175,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791974444,
-  "shopping_updated_at": 1791974446,
-  "reference_updated_at": 1791974452
+  "trend_updated_at": 1791976175,
+  "shopping_updated_at": 1791976176,
+  "reference_updated_at": 1791976182
 }
