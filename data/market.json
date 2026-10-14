@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 27.54
+          "ratio": 29.5
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.48
+          "ratio": 2.74
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.03
+          "ratio": 2.15
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 50.9,
+    "recent_3m_avg": 51.5,
     "previous_3m_avg": 84.3,
-    "delta_pct": -39.6,
+    "delta_pct": -38.9,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 27.5,
+    "latest_ratio": 29.5,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 21.48
+          "ratio": 23.86
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 6.95
+          "ratio": 7.58
         }
       ]
     },
@@ -379,7 +379,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.12
+          "ratio": 2.25
         }
       ]
     }
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 48.9,
+    "recent_3m_avg": 49.7,
     "previous_3m_avg": 75.2,
-    "delta_pct": -35.0,
+    "delta_pct": -33.9,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 21.5,
+    "latest_ratio": 23.9,
     "peak_period": "2025-10-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 72.0,
+      "index": 73.1,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 72.9,
+      "index": 74.1,
       "period_count": 4
     }
   },
@@ -421,25 +421,25 @@
       {
         "group": "40",
         "label": "40대",
-        "index": 72.0,
+        "index": 73.1,
         "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 24.4,
+        "index": 25.0,
         "period_count": 4
       },
       {
         "group": "10",
         "label": "10대",
-        "index": 19.8,
+        "index": 20.0,
         "period_count": 4
       },
       {
         "group": "30",
         "label": "30대",
-        "index": 15.2,
+        "index": 15.4,
         "period_count": 4
       },
       {
@@ -458,7 +458,7 @@
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 72.0,
+      "index": 73.1,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -474,20 +474,20 @@
       {
         "group": "m",
         "label": "남성",
-        "index": 72.9,
+        "index": 74.1,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 25.8,
+        "index": 25.9,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 72.9,
+      "index": 74.1,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -502,8 +502,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86072,
+      "api_total": 86075,
       "items": [
+        {
+          "title": "'승부에 취하고, 감정에 무너지다' 2026 KBO 정규시즌 황당 장면들...최원...",
+          "url": "https://www.maniareport.com/view.php?ud=20261014092428324491b55a0d56_19",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/425/0000210864",
+          "pub_date": "Wed, 14 Oct 2026 09:30:00 +0900"
+        },
+        {
+          "title": "&quot;오타니 보는 게 괴롭다&quot; 베츠까지 안타까움 호소…110타석 홈런 실종, ...",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012895",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/477/0000632893",
+          "pub_date": "Wed, 14 Oct 2026 09:29:00 +0900"
+        },
+        {
+          "title": "어라? 곽빈 WC 결정전 성적이 왜 이래...그저 지난 일일 뿐인걸까 아니...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1590916",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000476306",
+          "pub_date": "Wed, 14 Oct 2026 09:04:00 +0900"
+        },
         {
           "title": "&quot;오타니 몸에 문제 있는 듯&quot; 前 스승 충격 진단…&quot;6년 만에 보는 부진, ...",
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553611738",
@@ -515,24 +533,6 @@
           "url": "https://sports.donga.com/sports/article/all/20261014/134837488/1",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/382/0001298828",
           "pub_date": "Wed, 14 Oct 2026 05:33:00 +0900"
-        },
-        {
-          "title": "&quot;저를 딱 쳐다봤잖아요&quot; 후라도의 빈볼 도발→황당한 이강철 감독의 일...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-14/202610130100080290005249",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004455790",
-          "pub_date": "Wed, 14 Oct 2026 00:39:00 +0900"
-        },
-        {
-          "title": "타이틀 밀어주기 흑역사와 정반대...2026 KBO를 빛낸 '희생의 플레이'",
-          "url": "https://www.maniareport.com/view.php?ud=2026101316492560526cf2d78c68_19",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/425/0000210850",
-          "pub_date": "Tue, 13 Oct 2026 21:16:00 +0900"
-        },
-        {
-          "title": "&quot;어쩜 이리 기특할까&quot; 20-20 대기록 대신 '초구 기습번트' 댔다… KIA 팬...",
-          "url": "https://www.fnnews.com/news/202610132019286582",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/014/0005588719",
-          "pub_date": "Tue, 13 Oct 2026 20:25:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791936048,
+  "updated_at": 1791938959,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791936048,
-  "shopping_updated_at": 1791936049,
-  "reference_updated_at": 1791936054
+  "trend_updated_at": 1791938959,
+  "shopping_updated_at": 1791938960,
+  "reference_updated_at": 1791938965
 }
