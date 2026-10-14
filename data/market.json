@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86086,
+      "api_total": 86092,
       "items": [
         {
-          "title": "오타니 슬럼프? 110타석째 홈런포 실종…선발 제외 전망까지",
-          "url": "https://www.donga.com/news/Sports/article/all/20261014/134840401/1",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/020/0003754966",
-          "pub_date": "Wed, 14 Oct 2026 16:59:00 +0900"
+          "title": "[포토] 투런포 폭발 오스틴, 빠던도 폼나게",
+          "url": "https://www.sportschosun.com/baseball/2026-10-14/202610140100092660005995",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004456110",
+          "pub_date": "Wed, 14 Oct 2026 18:55:00 +0900"
         },
         {
-          "title": "오타니, 두 달째 '홈런 없음'... 벼랑 끝 다저스, 그래도 믿는다",
-          "url": "https://www.hankookilbo.com/news/article/A2026101415280001356?did=NA",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/469/0000959445",
-          "pub_date": "Wed, 14 Oct 2026 16:03:00 +0900"
+          "title": "[포토] 투런 폭발 오스틴, <b>배트</b>도 저 멀리~",
+          "url": "https://www.sportschosun.com/baseball/2026-10-14/202610140100092650005994",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004456109",
+          "pub_date": "Wed, 14 Oct 2026 18:54:00 +0900"
         },
         {
-          "title": "홈런 만큼 값진 번트, 포스트시즌 승패 가르는 비밀무기",
-          "url": "https://www.seoul.co.kr/news/sport/2026/10/14/20261014500134?wlog_tag3=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/081/0003688849",
-          "pub_date": "Wed, 14 Oct 2026 14:17:00 +0900"
+          "title": "오스틴, 선제 투런포 폭발",
+          "url": "https://www.news1.kr/photos/8159373",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009228235",
+          "pub_date": "Wed, 14 Oct 2026 18:53:00 +0900"
         },
         {
-          "title": "&quot;오타니 빼자고? 본인이 강하게 반대했다&quot;…24경기 1타점 충격, 다저스 ...",
-          "url": "https://www.ftimes.kr/news/articleView.html?idxno=40372",
-          "naver_url": "https://www.ftimes.kr/news/articleView.html?idxno=40372",
-          "pub_date": "Wed, 14 Oct 2026 13:12:00 +0900"
+          "title": "박해민, 부러진 <b>배트</b>",
+          "url": "https://www.yna.co.kr/view/PYH20261014235300013?input=1196m",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016377272",
+          "pub_date": "Wed, 14 Oct 2026 18:52:00 +0900"
         },
         {
-          "title": "&quot;다른 종목 같아&quot; SSG 타케다가 본 한국 <b>야구</b>…&quot;수비 커버 늦고 전력 질...",
-          "url": "http://www.stoo.com/article.php?aid=109346085920",
-          "naver_url": "http://www.stoo.com/article.php?aid=109346085920",
-          "pub_date": "Wed, 14 Oct 2026 13:04:00 +0900"
+          "title": "박해민, 부러진 <b>배트</b>",
+          "url": "https://www.yna.co.kr/view/PYH20261014235100013?input=1196m",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016377270",
+          "pub_date": "Wed, 14 Oct 2026 18:52:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17413,
+      "api_total": 17414,
       "items": [
+        {
+          "title": "전남광주<b>사회인야구</b> 정타가 잘 안 나온다면 스윙보다 먼저 확인할 ....",
+          "url": "https://blog.naver.com/dksxk707/224441691143",
+          "naver_url": "https://blog.naver.com/dksxk707/224441691143",
+          "pub_date": "20261014"
+        },
         {
           "title": "오타니 쇼헤이 투수 슬럼프? 110타석째 홈런포 실종(+ 선발제외 전망!....",
           "url": "https://blog.naver.com/billionaire7383/224441643895",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/hyperclover/224441505992",
           "naver_url": "https://blog.naver.com/hyperclover/224441505992",
           "pub_date": "20261014"
-        },
-        {
-          "title": "인천 검단 <b>야구</b>레슨｜엘리트·유소년·<b>사회인</b> 맞춤 레슨, 임팩트 베....",
-          "url": "https://blog.naver.com/k_taeng93/224441381046",
-          "naver_url": "https://blog.naver.com/k_taeng93/224441381046",
-          "pub_date": "20261014"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791970186,
+  "updated_at": 1791972155,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791970186,
-  "shopping_updated_at": 1791970189,
-  "reference_updated_at": 1791970194
+  "trend_updated_at": 1791972155,
+  "shopping_updated_at": 1791972156,
+  "reference_updated_at": 1791972162
 }
