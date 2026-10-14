@@ -502,8 +502,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86078,
+      "api_total": 86081,
       "items": [
+        {
+          "title": "‘0홈런 0타점’ 오타니, 슬럼프는 부상 때문이 아니다?",
+          "url": "https://sports.khan.co.kr/article/202610141240013?pt=nv",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/144/0001143991",
+          "pub_date": "Wed, 14 Oct 2026 12:42:00 +0900"
+        },
+        {
+          "title": "가을<b>야구</b> 타율 0.150에 장타 침묵...다저스 &quot;그래도 오타니 믿는다&quot;",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03512886645612920&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/018/0006387746",
+          "pub_date": "Wed, 14 Oct 2026 12:21:00 +0900"
+        },
+        {
+          "title": "[AI프리뷰] 14일 잠실 LG-두산 WC 1차전, 외나무 다리에서 만난 잠실 라...",
+          "url": "https://www.newspim.com/news/view/20261014000729",
+          "naver_url": "https://www.newspim.com/news/view/20261014000729",
+          "pub_date": "Wed, 14 Oct 2026 12:17:00 +0900"
+        },
         {
           "title": "&quot;2027년에도 롯데서 뛰고 싶다&quot; 211안타 최다 안타 신기록 남긴 레이예스...",
           "url": "https://www.mydaily.co.kr/page/view/2026101410561585077",
@@ -515,24 +533,6 @@
           "url": "https://mhnse.com/news/articleView.html?idxno=1591095",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000476348",
           "pub_date": "Wed, 14 Oct 2026 10:57:00 +0900"
-        },
-        {
-          "title": "‘0승2패’ 다저스 살려! ‘PS 타율 0.150’ 오타니 기다릴 여유 없는데...",
-          "url": "https://www.sportsseoul.com/news/read/1641194?ref=naver",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/468/0001272377",
-          "pub_date": "Wed, 14 Oct 2026 10:08:00 +0900"
-        },
-        {
-          "title": "'승부에 취하고, 감정에 무너지다' 2026 KBO 정규시즌 황당 장면들...최원...",
-          "url": "https://www.maniareport.com/view.php?ud=20261014092428324491b55a0d56_19",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/425/0000210864",
-          "pub_date": "Wed, 14 Oct 2026 09:30:00 +0900"
-        },
-        {
-          "title": "&quot;오타니 보는 게 괴롭다&quot; 베츠까지 안타까움 호소…110타석 홈런 실종, ...",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012895",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/477/0000632893",
-          "pub_date": "Wed, 14 Oct 2026 09:29:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17406,
+      "api_total": 17407,
       "items": [
         {
           "title": "윌슨 Wilson A2K 1787 리뷰, 63만 5천 원짜리 글러브가 <b>사회인 야구</b>에 필....",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791947912,
+  "updated_at": 1791950303,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791947912,
-  "shopping_updated_at": 1791947914,
-  "reference_updated_at": 1791947919
+  "trend_updated_at": 1791950303,
+  "shopping_updated_at": 1791950304,
+  "reference_updated_at": 1791950310
 }
