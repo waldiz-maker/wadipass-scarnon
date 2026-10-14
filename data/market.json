@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86084,
+      "api_total": 86085,
       "items": [
+        {
+          "title": "오타니, 두 달째 '홈런 없음'... 벼랑 끝 다저스, 그래도 믿는다",
+          "url": "https://www.hankookilbo.com/news/article/A2026101415280001356?did=NA",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/469/0000959445",
+          "pub_date": "Wed, 14 Oct 2026 16:03:00 +0900"
+        },
         {
           "title": "홈런 만큼 값진 번트, 포스트시즌 승패 가르는 비밀무기",
           "url": "https://www.seoul.co.kr/news/sport/2026/10/14/20261014500134?wlog_tag3=naver",
@@ -527,12 +533,6 @@
           "url": "https://sports.khan.co.kr/article/202610141240013?pt=nv",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/144/0001143991",
           "pub_date": "Wed, 14 Oct 2026 12:42:00 +0900"
-        },
-        {
-          "title": "가을<b>야구</b> 타율 0.150에 장타 침묵...다저스 &quot;그래도 오타니 믿는다&quot;",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03512886645612920&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/018/0006387746",
-          "pub_date": "Wed, 14 Oct 2026 12:21:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17408,
+      "api_total": 17409,
       "items": [
+        {
+          "title": "스사노 올라운드글러브 프로엘리트 오가웹 민트카멜 SUPEA2",
+          "url": "https://blog.naver.com/hyperclover/224441505992",
+          "naver_url": "https://blog.naver.com/hyperclover/224441505992",
+          "pub_date": "20261014"
+        },
         {
           "title": "인천 검단 <b>야구</b>레슨｜엘리트·유소년·<b>사회인</b> 맞춤 레슨, 임팩트 베....",
           "url": "https://blog.naver.com/k_taeng93/224441381046",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/chanyong73/224440495518",
           "naver_url": "https://blog.naver.com/chanyong73/224440495518",
           "pub_date": "20261013"
-        },
-        {
-          "title": "김포·파주 <b>야구</b>레슨 : 타격 임팩트의 원리",
-          "url": "https://blog.naver.com/paju_glove/224440693693",
-          "naver_url": "https://blog.naver.com/paju_glove/224440693693",
-          "pub_date": "20261013"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1791958812,
+  "updated_at": 1791961893,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791958812,
-  "shopping_updated_at": 1791958814,
-  "reference_updated_at": 1791958819
+  "trend_updated_at": 1791961893,
+  "shopping_updated_at": 1791961894,
+  "reference_updated_at": 1791961901
 }
