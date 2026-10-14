@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86105,
+      "api_total": 86110,
       "items": [
         {
-          "title": "'MLB 112승' 39세 카라스코, 2026 KBO리그 최고 투수 곽빈을 꺾었다",
-          "url": "https://isplus.com/article/view/isp202610140254",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003535465",
-          "pub_date": "Wed, 14 Oct 2026 22:11:00 +0900"
+          "title": "'LG 살린 슈퍼 캐치' 박해민 &quot;맞자마자 잡을 수 있다고 생각&quot;(종합)[WC]",
+          "url": "https://www.newsis.com/view/NISX20261014_0003826422",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/003/0014254286",
+          "pub_date": "Wed, 14 Oct 2026 22:57:00 +0900"
         },
         {
-          "title": "두산 구하지 못한 패전투수 곽빈, 누가 그에게 돌을 던지랴 [WC1 현장]",
-          "url": "https://www.sportschosun.com/baseball/2026-10-14/202610140100093880006099",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004456201",
-          "pub_date": "Wed, 14 Oct 2026 21:53:00 +0900"
+          "title": "'가을침묵' 씻은 오스틴, 생일에 WC 결승포 &quot;커브, 자신 있었다&quot;(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261014188451007?input=1195m",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016377683",
+          "pub_date": "Wed, 14 Oct 2026 22:50:00 +0900"
         },
         {
-          "title": "'최고 159km' 두산 선발 곽빈, 삼진 10개 잡고도 패전 위기",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05621926645612920&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/018/0006388103",
-          "pub_date": "Wed, 14 Oct 2026 20:54:00 +0900"
+          "title": "“미친...” 헬멧 던지게 한 박해민 슈퍼캐치, 승리에 미친 영향력…박...",
+          "url": "https://www.dailian.co.kr/news/view/1701633/?sc=Naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/119/0003142870",
+          "pub_date": "Wed, 14 Oct 2026 22:49:00 +0900"
         },
         {
-          "title": "'37% 지각' 1할타자 오타니 실화? 부진 이유 나왔다…&quot;억지로 공을 꺼내...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-14/202610140100093290006053",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004456168",
-          "pub_date": "Wed, 14 Oct 2026 20:37:00 +0900"
+          "title": "'1회 2점포'…LG 오스틴, 두산 곽빈 공략해 WC 결승타",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16247265",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16247265",
+          "pub_date": "Wed, 14 Oct 2026 22:40:00 +0900"
         },
         {
-          "title": "이렇게까지 못 친다고? 오타니도 '답답'…감독은 &quot;믿는다&quot;",
-          "url": "https://news.jtbc.co.kr/article/NB12323019?influxDiv=NAVER",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/437/0000515736",
-          "pub_date": "Wed, 14 Oct 2026 20:19:00 +0900"
+          "title": "두산에 '내일'은 없었다... LG, '광주로 간다'",
+          "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=324038",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/450/0000154814",
+          "pub_date": "Wed, 14 Oct 2026 22:39:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1791984373,
+  "updated_at": 1791986414,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1791984373,
-  "shopping_updated_at": 1791984374,
-  "reference_updated_at": 1791984380
+  "trend_updated_at": 1791986414,
+  "shopping_updated_at": 1791986415,
+  "reference_updated_at": 1791986421
 }
