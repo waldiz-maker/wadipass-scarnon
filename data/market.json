@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86125,
+      "api_total": 86126,
       "items": [
+        {
+          "title": "&quot;일본전 병살타에 손가락 인대까지 파열됐는데…&quot; 45홈런왕 김도영, 3년...",
+          "url": "https://www.ftimes.kr/news/articleView.html?idxno=40426",
+          "naver_url": "https://www.ftimes.kr/news/articleView.html?idxno=40426",
+          "pub_date": "Fri, 16 Oct 2026 00:08:00 +0900"
+        },
         {
           "title": "‘트중박’ 박해민, 호수비 현미경 분석",
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686967&ref=A",
@@ -527,12 +533,6 @@
           "url": "https://www.news1.kr/sports/baseball/6321650",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009230785",
           "pub_date": "Thu, 15 Oct 2026 17:49:00 +0900"
-        },
-        {
-          "title": "쳐야 한다 vs 막아야 한다…KIA-LG 준PO 맞대결의 중심에는 여전히 김도...",
-          "url": "https://sports.khan.co.kr/article/202610151640003?pt=nv",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001144296",
-          "pub_date": "Thu, 15 Oct 2026 16:41:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1792076348,
+  "updated_at": 1792078222,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792076348,
-  "shopping_updated_at": 1792076350,
-  "reference_updated_at": 1792076355
+  "trend_updated_at": 1792078222,
+  "shopping_updated_at": 1792078223,
+  "reference_updated_at": 1792078229
 }
