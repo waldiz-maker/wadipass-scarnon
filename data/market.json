@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86123,
+      "api_total": 86124,
       "items": [
+        {
+          "title": "준PO 앞둔 LG-KIA, 벌써 '김도영 이야기'…신경전 활활",
+          "url": "https://news.jtbc.co.kr/article/NB12323237?influxDiv=NAVER",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000515956",
+          "pub_date": "Thu, 15 Oct 2026 20:31:00 +0900"
+        },
         {
           "title": "멀게만 느껴지는 내일, 그것을 미리 꿈꾸는 용기",
           "url": "https://sjbnews.com/news/news.php?number=890036",
@@ -527,12 +533,6 @@
           "url": "https://www.busan.com/view/busan/view.php?code=2026101514344100592",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/082/0001402646",
           "pub_date": "Thu, 15 Oct 2026 14:58:00 +0900"
-        },
-        {
-          "title": "&quot;이런 말 논란될 수도 있지만…&quot; NPB 66승 베테랑의 씁쓸한 1년, 日 아시...",
-          "url": "http://www.osen.co.kr/article/G1112893218",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005623859",
-          "pub_date": "Thu, 15 Oct 2026 14:41:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1792063371,
+  "updated_at": 1792065411,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792063371,
-  "shopping_updated_at": 1792063372,
-  "reference_updated_at": 1792063378
+  "trend_updated_at": 1792065411,
+  "shopping_updated_at": 1792065413,
+  "reference_updated_at": 1792065419
 }
