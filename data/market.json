@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86124,
+      "api_total": 86125,
       "items": [
+        {
+          "title": "‘트중박’ 박해민, 호수비 현미경 분석",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686967&ref=A",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/056/0012274690",
+          "pub_date": "Thu, 15 Oct 2026 21:49:00 +0900"
+        },
         {
           "title": "준PO 앞둔 LG-KIA, 벌써 '김도영 이야기'…신경전 활활",
           "url": "https://news.jtbc.co.kr/article/NB12323237?influxDiv=NAVER",
@@ -527,12 +533,6 @@
           "url": "https://sports.khan.co.kr/article/202610151640003?pt=nv",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001144296",
           "pub_date": "Thu, 15 Oct 2026 16:41:00 +0900"
-        },
-        {
-          "title": "타율 0.182 오타니의 굴욕…다저스 왕조도 벼랑 끝",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026101514344100592",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/082/0001402646",
-          "pub_date": "Thu, 15 Oct 2026 14:58:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17434,
+      "api_total": 17435,
       "items": [
         {
           "title": "오사카 우메다 미즈노 차야마치 <b>야구</b>용품 글러브 구매",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1792067050,
+  "updated_at": 1792069924,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792067050,
-  "shopping_updated_at": 1792067052,
-  "reference_updated_at": 1792067064
+  "trend_updated_at": 1792069924,
+  "shopping_updated_at": 1792069925,
+  "reference_updated_at": 1792069930
 }
