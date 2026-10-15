@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86121,
+      "api_total": 86122,
       "items": [
+        {
+          "title": "KT '캡틴' 장성우 &quot;이렇게 올라가서 KS 우승 못하면 자존심 상해&quot;",
+          "url": "https://www.news1.kr/sports/baseball/6321650",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009230785",
+          "pub_date": "Thu, 15 Oct 2026 17:49:00 +0900"
+        },
         {
           "title": "쳐야 한다 vs 막아야 한다…KIA-LG 준PO 맞대결의 중심에는 여전히 김도...",
           "url": "https://sports.khan.co.kr/article/202610151640003?pt=nv",
@@ -527,12 +533,6 @@
           "url": "https://www.cbci.co.kr/news/articleView.html?idxno=615747",
           "naver_url": "https://www.cbci.co.kr/news/articleView.html?idxno=615747",
           "pub_date": "Thu, 15 Oct 2026 11:32:00 +0900"
-        },
-        {
-          "title": "[공식발표] 삼성 초대형 호재! 구자욱, 햄스트링 부종 잡혔다→15일부터...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/15/2026101511025692920",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003478915",
-          "pub_date": "Thu, 15 Oct 2026 11:07:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17432,
+      "api_total": 17433,
       "items": [
+        {
+          "title": "“축구처럼 가볍게 시작할 줄 알았는데…” <b>사회인 야구</b>, 비용이 얼....",
+          "url": "https://blog.naver.com/ahslahsl7420/224441969770",
+          "naver_url": "https://blog.naver.com/ahslahsl7420/224441969770",
+          "pub_date": "20261015"
+        },
         {
           "title": "<b>야구</b>선수 김민석 프로필 나이 가을 <b>야구</b> 두산베어스 연봉 수상 학력....",
           "url": "https://blog.naver.com/tonora/224441750923",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/hyperclover/224442589258",
           "naver_url": "https://blog.naver.com/hyperclover/224442589258",
           "pub_date": "20261015"
-        },
-        {
-          "title": "스사노 투수글러브 프로엘리트 독수리웹 블랙레드카멜 SUPEP18",
-          "url": "https://blog.naver.com/hyperclover/224442566320",
-          "naver_url": "https://blog.naver.com/hyperclover/224442566320",
-          "pub_date": "20261015"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792053949,
+  "updated_at": 1792056080,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792053949,
-  "shopping_updated_at": 1792053950,
-  "reference_updated_at": 1792053955
+  "trend_updated_at": 1792056080,
+  "shopping_updated_at": 1792056083,
+  "reference_updated_at": 1792056089
 }
