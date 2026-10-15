@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86117,
+      "api_total": 86118,
       "items": [
+        {
+          "title": "[엔터家] 프로<b>야구</b> ㉔ㅣ '불붙은 가을<b>야구</b>' LG 준PO행…오스틴 결승포·...",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=615747",
+          "naver_url": "https://www.cbci.co.kr/news/articleView.html?idxno=615747",
+          "pub_date": "Thu, 15 Oct 2026 11:32:00 +0900"
+        },
         {
           "title": "[공식발표] 삼성 초대형 호재! 구자욱, 햄스트링 부종 잡혔다→15일부터...",
           "url": "https://www.starnewskorea.com/sports/2026/10/15/2026101511025692920",
@@ -527,12 +533,6 @@
           "url": "https://www.mk.co.kr/article/12176271",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/410/0001143370",
           "pub_date": "Thu, 15 Oct 2026 07:41:00 +0900"
-        },
-        {
-          "title": "'곽빈, 왜 커브를 던졌나?’ 오스틴에 높은 직구로 승부했어야…시속 1...",
-          "url": "https://www.maniareport.com/view.php?ud=20261015065308788791b55a0d56_19",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/425/0000210901",
-          "pub_date": "Thu, 15 Oct 2026 07:13:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17418,
+      "api_total": 17421,
       "items": [
+        {
+          "title": "[충격] 경찰과 <b>사회</b>복지사가 벌인 ‘12년의 기적’, 울산에서 포착된....",
+          "url": "https://blog.naver.com/issueeditor365/224442364156",
+          "naver_url": "https://blog.naver.com/issueeditor365/224442364156",
+          "pub_date": "20261015"
+        },
         {
           "title": "광주 진월동 <b>야구</b>할 때 무릎이 아프다면? 무릎통증이 반복되는 이유....",
           "url": "https://blog.naver.com/yongju3123/224442338484",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/susanokorea/224441824556",
           "naver_url": "https://blog.naver.com/susanokorea/224441824556",
           "pub_date": "20261014"
-        },
-        {
-          "title": "전남광주<b>사회인야구</b> 정타가 잘 안 나온다면 스윙보다 먼저 확인할 ....",
-          "url": "https://blog.naver.com/dksxk707/224441691143",
-          "naver_url": "https://blog.naver.com/dksxk707/224441691143",
-          "pub_date": "20261014"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792030260,
+  "updated_at": 1792031978,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792030260,
-  "shopping_updated_at": 1792030262,
-  "reference_updated_at": 1792030267
+  "trend_updated_at": 1792031978,
+  "shopping_updated_at": 1792031979,
+  "reference_updated_at": 1792031985
 }
