@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 31.48
+          "ratio": 33.39
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.87
+          "ratio": 3.11
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.44
+          "ratio": 2.57
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 52.2,
+    "recent_3m_avg": 52.8,
     "previous_3m_avg": 84.3,
-    "delta_pct": -38.1,
+    "delta_pct": -37.4,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 31.5,
+    "latest_ratio": 33.4,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 25.0
+          "ratio": 27.12
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 7.71
+          "ratio": 7.97
         }
       ]
     },
@@ -379,7 +379,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.54
+          "ratio": 2.58
         }
       ]
     }
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 50.1,
+    "recent_3m_avg": 50.8,
     "previous_3m_avg": 75.2,
-    "delta_pct": -33.4,
+    "delta_pct": -32.4,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 25.0,
+    "latest_ratio": 27.1,
     "peak_period": "2025-10-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 73.6,
+      "index": 74.1,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 74.6,
+      "index": 75.7,
       "period_count": 4
     }
   },
@@ -421,44 +421,44 @@
       {
         "group": "40",
         "label": "40대",
-        "index": 73.6,
+        "index": 74.1,
         "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 25.1,
+        "index": 25.6,
         "period_count": 4
       },
       {
         "group": "10",
         "label": "10대",
-        "index": 20.0,
+        "index": 20.2,
         "period_count": 4
       },
       {
         "group": "30",
         "label": "30대",
-        "index": 15.4,
+        "index": 15.7,
         "period_count": 4
       },
       {
         "group": "20",
         "label": "20대",
-        "index": 7.9,
+        "index": 8.2,
         "period_count": 4
       },
       {
         "group": "60",
         "label": "60대 이상",
-        "index": 5.2,
+        "index": 5.4,
         "period_count": 4
       }
     ],
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 73.6,
+      "index": 74.1,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -474,20 +474,20 @@
       {
         "group": "m",
         "label": "남성",
-        "index": 74.6,
+        "index": 75.7,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 26.0,
+        "index": 26.2,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 74.6,
+      "index": 75.7,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17435,
+      "api_total": 17436,
       "items": [
+        {
+          "title": "뒷마당 창고에서 메이저리그 점유율 1위로 <b>야구</b> 브랜드 마루치 성공....",
+          "url": "https://blog.naver.com/mpbp/224443437671",
+          "naver_url": "https://blog.naver.com/mpbp/224443437671",
+          "pub_date": "20261016"
+        },
         {
           "title": "오사카 우메다 미즈노 차야마치 <b>야구</b>용품 글러브 구매",
           "url": "https://blog.naver.com/eunink/224442962958",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/ss0ny0/224442733879",
           "naver_url": "https://blog.naver.com/ss0ny0/224442733879",
           "pub_date": "20261015"
-        },
-        {
-          "title": "타격 파워를 끌어내는 드릴, 내가 가진 힘을 충분히 쓰고 있나요?",
-          "url": "https://blog.naver.com/dltkdalsu/224442625762",
-          "naver_url": "https://blog.naver.com/dltkdalsu/224442625762",
-          "pub_date": "20261015"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792110140,
+  "updated_at": 1792112654,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792110140,
-  "shopping_updated_at": 1792110141,
-  "reference_updated_at": 1792110146
+  "trend_updated_at": 1792112654,
+  "shopping_updated_at": 1792112656,
+  "reference_updated_at": 1792112661
 }
