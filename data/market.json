@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86145,
+      "api_total": 86161,
       "items": [
         {
-          "title": "[AI프리뷰] 17일 광주 KIA-LG 준PO 1차전, 네일vs톨허스트 &amp; 김도영vs오스...",
-          "url": "https://www.newspim.com/news/view/20261017000029",
-          "naver_url": "https://www.newspim.com/news/view/20261017000029",
-          "pub_date": "Sat, 17 Oct 2026 10:15:00 +0900"
+          "title": "김도영 멀티홈런·네일 역투 빛났다…KIA, LG와 준PO 첫판 완승",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=844693",
+          "naver_url": "https://www.jemin.com/news/articleView.html?idxno=844693",
+          "pub_date": "Sat, 17 Oct 2026 17:26:00 +0900"
         },
         {
-          "title": "울산 웨일즈 장원진 감독·롱비치 코스트 돈 와카마쓰 감독, 경기 앞두...",
-          "url": "https://www.sportsseoul.com/news/read/1641868?ref=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001273059",
-          "pub_date": "Sat, 17 Oct 2026 10:00:00 +0900"
+          "title": "&quot;125ｍ 두 방&quot;…KIA 김도영, LG 상대로 준PO 1차전 제압",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16249871",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16249871",
+          "pub_date": "Sat, 17 Oct 2026 17:16:00 +0900"
         },
         {
-          "title": "'<b>배트</b> 맞고 쓰러진 <b>야구</b>심판' 6개월 만에 기적적으로 깨어났다... 목표는...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/17/2026101708551052298",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/108/0003479414",
-          "pub_date": "Sat, 17 Oct 2026 09:07:00 +0900"
+          "title": "&quot;작전 간파·병살 두 번&quot;…KIA, LG 제압하고 준PO 1차전 선승",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16249868",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16249868",
+          "pub_date": "Sat, 17 Oct 2026 17:16:00 +0900"
         },
         {
-          "title": "6개월 만에 깨어났다! <b>배트</b>에 머리 직격→혼수상태, 日 불운 심판 희소...",
-          "url": "https://www.mydaily.co.kr/page/view/2026101707153367961",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004115766",
-          "pub_date": "Sat, 17 Oct 2026 08:11:00 +0900"
+          "title": "KIA, LG 작전 간파·깔끔한 병살 수비로 준PO 1차전 잡았다",
+          "url": "https://www.yna.co.kr/view/AKR20261017039000007?input=1195m",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016382961",
+          "pub_date": "Sat, 17 Oct 2026 17:04:00 +0900"
         },
         {
-          "title": "1년 전 가을 ‘<b>야구</b>의 신’이 강림했던 오타니, 올 가을엔 ‘한낱 인간...",
-          "url": "https://www.segye.com/newsView/20261017500413?OutUrl=naver",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/022/0004167355",
-          "pub_date": "Sat, 17 Oct 2026 07:02:00 +0900"
+          "title": "알고도 못 막는 슈퍼스타…KIA 김도영, 멀티포로 뚫은 LG 견제",
+          "url": "https://www.yna.co.kr/view/AKR20261017038800007?input=1195m",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016382958",
+          "pub_date": "Sat, 17 Oct 2026 17:02:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17453,
+      "api_total": 17457,
       "items": [
+        {
+          "title": "수영선수 정유인 프로필 나이 국가대표 연금 결혼 <b>야구</b> 여왕2 근황",
+          "url": "https://blog.naver.com/tonora/224443844285",
+          "naver_url": "https://blog.naver.com/tonora/224443844285",
+          "pub_date": "20261017"
+        },
+        {
+          "title": "ZETT 제트 <b>야구</b> 연식 <b>배트</b> 가격 특징 총정리 (운동족 관점)",
+          "url": "https://blog.naver.com/smddk00/224444621577",
+          "naver_url": "https://blog.naver.com/smddk00/224444621577",
+          "pub_date": "20261017"
+        },
         {
           "title": "10/12 kt vs 삼성 (자신이 없어 질 자신이)",
           "url": "https://blog.naver.com/diveintotear/224444526867",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/tonora/224443807056",
           "naver_url": "https://blog.naver.com/tonora/224443807056",
           "pub_date": "20261017"
-        },
-        {
-          "title": "고양 풀스윙 배팅센터 방문 후기 | 고양, 항공대, 상암 근처 실내 야....",
-          "url": "https://blog.naver.com/ih_yeo0123/224444186053",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224444186053",
-          "pub_date": "20261016"
-        },
-        {
-          "title": "대구어린이<b>야구</b>교실 무료체험 받는 곳, 수성구 200평 실내 <b>야구</b>장 베....",
-          "url": "https://blog.naver.com/shgothd12/224444101685",
-          "naver_url": "https://blog.naver.com/shgothd12/224444101685",
-          "pub_date": "20261016"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792210826,
+  "updated_at": 1792226544,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792210826,
-  "shopping_updated_at": 1792210827,
-  "reference_updated_at": 1792210831
+  "trend_updated_at": 1792226544,
+  "shopping_updated_at": 1792226546,
+  "reference_updated_at": 1792226552
 }
