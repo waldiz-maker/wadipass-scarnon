@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86169,
+      "api_total": 86170,
       "items": [
+        {
+          "title": "'깜짝' KIA 단속 0순위, 잔류 의지 보였다…&quot;팀이 다시 날 또 선택한다면...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-17/202610170100109780007133",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004456989",
+          "pub_date": "Sun, 18 Oct 2026 01:22:00 +0900"
+        },
         {
           "title": "“(김)도영이 형 하는 일에 제가 낀 거죠, 좋은 일 좀 하고 싶어서…”...",
           "url": "https://www.mydaily.co.kr/page/view/2026101715201324317",
@@ -527,12 +533,6 @@
           "url": "https://www.newscj.com/news/articleView.html?idxno=3441066",
           "naver_url": "https://www.newscj.com/news/articleView.html?idxno=3441066",
           "pub_date": "Sat, 17 Oct 2026 20:14:00 +0900"
-        },
-        {
-          "title": "'이럴수가! 막겠다더니 알고도 당했다'... 천하의 염갈량도 감탄한 김도...",
-          "url": "https://www.fnnews.com/news/202610171948426598",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/014/0005590533",
-          "pub_date": "Sat, 17 Oct 2026 19:52:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17464,
+      "api_total": 17465,
       "items": [
+        {
+          "title": "BMC 비엠씨 2026 프로 <b>야구</b> 배팅장갑 스노우 에디션",
+          "url": "https://blog.naver.com/mopyg380416_ld/224444047276",
+          "naver_url": "https://blog.naver.com/mopyg380416_ld/224444047276",
+          "pub_date": "20261018"
+        },
         {
           "title": "찰리 멍거의 투자 철학을 이식한 단기 트레이딩 전략 및 행동재무학....",
           "url": "https://blog.naver.com/gimhjd/224445033730",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/dongyong-rc/224444816884",
           "naver_url": "https://blog.naver.com/dongyong-rc/224444816884",
           "pub_date": "20261017"
-        },
-        {
-          "title": "수영선수 정유인 프로필 나이 국가대표 연금 결혼 <b>야구</b> 여왕2 근황",
-          "url": "https://blog.naver.com/tonora/224443844285",
-          "naver_url": "https://blog.naver.com/tonora/224443844285",
-          "pub_date": "20261017"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792252056,
+  "updated_at": 1792260258,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792252056,
-  "shopping_updated_at": 1792252058,
-  "reference_updated_at": 1792252064
+  "trend_updated_at": 1792260258,
+  "shopping_updated_at": 1792260259,
+  "reference_updated_at": 1792260265
 }
