@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 33.39
+          "ratio": 35.3
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 3.11
+          "ratio": 3.34
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.57
+          "ratio": 2.68
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 52.8,
+    "recent_3m_avg": 53.5,
     "previous_3m_avg": 84.3,
-    "delta_pct": -37.4,
+    "delta_pct": -36.5,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 33.4,
+    "latest_ratio": 35.3,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -415,8 +415,8 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-16",
-    "period_end": "2026-10-16",
+    "period_start": "2026-07-17",
+    "period_end": "2026-10-17",
     "rows": [
       {
         "group": "40",
@@ -468,8 +468,8 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-16",
-    "period_end": "2026-10-16",
+    "period_start": "2026-07-17",
+    "period_end": "2026-10-17",
     "rows": [
       {
         "group": "m",
@@ -502,8 +502,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86139,
+      "api_total": 86142,
       "items": [
+        {
+          "title": "6개월 만에 깨어났다! <b>배트</b>에 머리 직격→혼수상태, 日 불운 심판 희소...",
+          "url": "https://www.mydaily.co.kr/page/view/2026101707153367961",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004115766",
+          "pub_date": "Sat, 17 Oct 2026 08:11:00 +0900"
+        },
+        {
+          "title": "1년 전 가을 ‘<b>야구</b>의 신’이 강림했던 오타니, 올 가을엔 ‘한낱 인간...",
+          "url": "https://www.segye.com/newsView/20261017500413?OutUrl=naver",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/022/0004167355",
+          "pub_date": "Sat, 17 Oct 2026 07:02:00 +0900"
+        },
+        {
+          "title": "KIA 최고 히트상품 박재현, 가을<b>야구</b>도 뒤흔들까[준PO]",
+          "url": "https://www.newsis.com/view/NISX20261016_0003829759",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/003/0014259369",
+          "pub_date": "Sat, 17 Oct 2026 07:00:00 +0900"
+        },
         {
           "title": "울산 웨일즈, '美 독립리그' 롱비치 코스트와 6-6 무승부→경기 전 뜻깊...",
           "url": "https://www.starnewskorea.com/sports/2026/10/17/2026101623043998578",
@@ -515,24 +533,6 @@
           "url": "http://www.osen.co.kr/article/G1112893887",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005624469",
           "pub_date": "Sat, 17 Oct 2026 01:01:00 +0900"
-        },
-        {
-          "title": "타자 <b>배트</b>에 맞고 쓰러진 <b>야구</b> 심판, 6개월 만 의식회복…&quot;현장 복귀 의...",
-          "url": "https://isplus.com/article/view/isp202610160078",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/241/0003535720",
-          "pub_date": "Sat, 17 Oct 2026 00:01:00 +0900"
-        },
-        {
-          "title": "'충격 사고' 후 6개월, 희소식 전해졌다! '<b>배트</b>에 머리 맞고 중태' 日 심...",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553621616",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254600",
-          "pub_date": "Fri, 16 Oct 2026 23:21:00 +0900"
-        },
-        {
-          "title": "오타니포 터졌지만, 그게 끝…'너무 늦었잖아요'",
-          "url": "https://news.jtbc.co.kr/article/NB12323384?influxDiv=NAVER",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/437/0000516134",
-          "pub_date": "Fri, 16 Oct 2026 20:24:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1792187464,
+  "updated_at": 1792195482,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792187464,
-  "shopping_updated_at": 1792187466,
-  "reference_updated_at": 1792187472
+  "trend_updated_at": 1792195482,
+  "shopping_updated_at": 1792195483,
+  "reference_updated_at": 1792195489
 }
