@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 27.12
+          "ratio": 27.92
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 7.97
+          "ratio": 9.53
         }
       ]
     },
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 50.8,
+    "recent_3m_avg": 51.0,
     "previous_3m_avg": 75.2,
-    "delta_pct": -32.4,
+    "delta_pct": -32.2,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 27.1,
+    "latest_ratio": 27.9,
     "peak_period": "2025-10-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 74.1,
+      "index": 74.5,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 75.7,
+      "index": 75.8,
       "period_count": 4
     }
   },
@@ -421,7 +421,7 @@
       {
         "group": "40",
         "label": "40대",
-        "index": 74.1,
+        "index": 74.5,
         "period_count": 4
       },
       {
@@ -439,7 +439,7 @@
       {
         "group": "30",
         "label": "30대",
-        "index": 15.7,
+        "index": 15.8,
         "period_count": 4
       },
       {
@@ -458,7 +458,7 @@
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 74.1,
+      "index": 74.5,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -474,20 +474,20 @@
       {
         "group": "m",
         "label": "남성",
-        "index": 75.7,
+        "index": 75.8,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 26.2,
+        "index": 26.3,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 75.7,
+      "index": 75.8,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -502,8 +502,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86142,
+      "api_total": 86145,
       "items": [
+        {
+          "title": "[AI프리뷰] 17일 광주 KIA-LG 준PO 1차전, 네일vs톨허스트 &amp; 김도영vs오스...",
+          "url": "https://www.newspim.com/news/view/20261017000029",
+          "naver_url": "https://www.newspim.com/news/view/20261017000029",
+          "pub_date": "Sat, 17 Oct 2026 10:15:00 +0900"
+        },
+        {
+          "title": "울산 웨일즈 장원진 감독·롱비치 코스트 돈 와카마쓰 감독, 경기 앞두...",
+          "url": "https://www.sportsseoul.com/news/read/1641868?ref=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001273059",
+          "pub_date": "Sat, 17 Oct 2026 10:00:00 +0900"
+        },
+        {
+          "title": "'<b>배트</b> 맞고 쓰러진 <b>야구</b>심판' 6개월 만에 기적적으로 깨어났다... 목표는...",
+          "url": "https://www.starnewskorea.com/sports/2026/10/17/2026101708551052298",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/108/0003479414",
+          "pub_date": "Sat, 17 Oct 2026 09:07:00 +0900"
+        },
         {
           "title": "6개월 만에 깨어났다! <b>배트</b>에 머리 직격→혼수상태, 日 불운 심판 희소...",
           "url": "https://www.mydaily.co.kr/page/view/2026101707153367961",
@@ -515,24 +533,6 @@
           "url": "https://www.segye.com/newsView/20261017500413?OutUrl=naver",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/022/0004167355",
           "pub_date": "Sat, 17 Oct 2026 07:02:00 +0900"
-        },
-        {
-          "title": "KIA 최고 히트상품 박재현, 가을<b>야구</b>도 뒤흔들까[준PO]",
-          "url": "https://www.newsis.com/view/NISX20261016_0003829759",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/003/0014259369",
-          "pub_date": "Sat, 17 Oct 2026 07:00:00 +0900"
-        },
-        {
-          "title": "울산 웨일즈, '美 독립리그' 롱비치 코스트와 6-6 무승부→경기 전 뜻깊...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/17/2026101623043998578",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003479381",
-          "pub_date": "Sat, 17 Oct 2026 02:22:00 +0900"
-        },
-        {
-          "title": "‘우정은 뜨겁게, 승부는 치열하게’ 울산웨일즈-롱비치 코스트, 특별한...",
-          "url": "http://www.osen.co.kr/article/G1112893887",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005624469",
-          "pub_date": "Sat, 17 Oct 2026 01:01:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17447,
+      "api_total": 17453,
       "items": [
+        {
+          "title": "10/12 kt vs 삼성 (자신이 없어 질 자신이)",
+          "url": "https://blog.naver.com/diveintotear/224444526867",
+          "naver_url": "https://blog.naver.com/diveintotear/224444526867",
+          "pub_date": "20261017"
+        },
+        {
+          "title": "광주 실내 <b>야구</b>연습장 고릴라 <b>야구</b>연습장 첨단점, 초1 아들, 아빠와 ....",
+          "url": "https://blog.naver.com/artistwoovely/224444477925",
+          "naver_url": "https://blog.naver.com/artistwoovely/224444477925",
+          "pub_date": "20261017"
+        },
         {
           "title": "해럴드 카스트로 프로필 국적 나이 기아타이거즈 연봉 <b>야구</b>선수 경....",
           "url": "https://blog.naver.com/tonora/224443807056",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/shgothd12/224444101685",
           "naver_url": "https://blog.naver.com/shgothd12/224444101685",
           "pub_date": "20261016"
-        },
-        {
-          "title": "<b>야구</b> 실력의 밀도를 높이는 광주<b>야구</b>연습장 활용법",
-          "url": "https://blog.naver.com/choi639405/224443992169",
-          "naver_url": "https://blog.naver.com/choi639405/224443992169",
-          "pub_date": "20261016"
-        },
-        {
-          "title": "앞으로 밀리고 끊기던 스윙, 무엇이 달라졌을까? | <b>사회인 야구</b> 타격....",
-          "url": "https://blog.naver.com/dltkdalsu/224443894088",
-          "naver_url": "https://blog.naver.com/dltkdalsu/224443894088",
-          "pub_date": "20261016"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792195482,
+  "updated_at": 1792210826,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792195482,
-  "shopping_updated_at": 1792195483,
-  "reference_updated_at": 1792195489
+  "trend_updated_at": 1792210826,
+  "shopping_updated_at": 1792210827,
+  "reference_updated_at": 1792210831
 }
