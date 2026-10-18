@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17475,
+      "api_total": 17480,
       "items": [
+        {
+          "title": "프로모릭스 알루미늄<b>배트</b> <b>야구</b><b>배트</b>가방 세트 가격 특징 총정리",
+          "url": "https://blog.naver.com/smddk00/224444648092",
+          "naver_url": "https://blog.naver.com/smddk00/224444648092",
+          "pub_date": "20261019"
+        },
         {
           "title": "골드 임팩트 <b>배트</b> 캡수리",
           "url": "https://blog.naver.com/misterbaseball/224445753413",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/shkkjr/224445280412",
           "naver_url": "https://blog.naver.com/shkkjr/224445280412",
           "pub_date": "20261018"
-        },
-        {
-          "title": "메이저 런쳐 블루 실사용 후기 | 반발력 좋고 시원한 디자인의 <b>사회</b>....",
-          "url": "https://blog.naver.com/ih_yeo0123/224445328570",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224445328570",
-          "pub_date": "20261018"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792341581,
+  "updated_at": 1792349803,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792341581,
-  "shopping_updated_at": 1792341583,
-  "reference_updated_at": 1792341589
+  "trend_updated_at": 1792349803,
+  "shopping_updated_at": 1792349805,
+  "reference_updated_at": 1792349810
 }
