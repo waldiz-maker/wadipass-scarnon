@@ -502,8 +502,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86171,
+      "api_total": 86174,
       "items": [
+        {
+          "title": "&quot;LG 클린업 8타수 무안타 봉쇄&quot; 올러, KIA 가을<b>야구</b> 첫 선발승",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16250634",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16250634",
+          "pub_date": "Sun, 18 Oct 2026 17:26:00 +0900"
+        },
+        {
+          "title": "‘3안타 박해민 혼자 뛴다’ LG의 타선 침묵 어쩌나···2번 승부수 송...",
+          "url": "https://sports.khan.co.kr/article/202610181720023?pt=nv",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001144849",
+          "pub_date": "Sun, 18 Oct 2026 17:21:00 +0900"
+        },
+        {
+          "title": "'이럴수가' 2위 삼성이 바라지 않는 최악 시나리오, KIA 2연승에 'PO까지...",
+          "url": "https://www.starnewskorea.com/sports/2026/10/18/2026101811073231928",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003479731",
+          "pub_date": "Sun, 18 Oct 2026 17:17:00 +0900"
+        },
         {
           "title": "참혹했던 외국인 농사, 사실 두산 5등 잘한 거였다...재계약 생존자 나...",
           "url": "https://www.sportschosun.com/baseball/2026-10-18/202610180100111000007230",
@@ -515,24 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-10-17/202610170100109780007133",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004456989",
           "pub_date": "Sun, 18 Oct 2026 01:22:00 +0900"
-        },
-        {
-          "title": "“(김)도영이 형 하는 일에 제가 낀 거죠, 좋은 일 좀 하고 싶어서…”...",
-          "url": "https://www.mydaily.co.kr/page/view/2026101715201324317",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004115967",
-          "pub_date": "Sat, 17 Oct 2026 23:00:00 +0900"
-        },
-        {
-          "title": "1루 주자가 박동원인데? 무사 1루→2사 무주자로 바꾼 작전 실패...준PO ...",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=131167",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/529/0000078959",
-          "pub_date": "Sat, 17 Oct 2026 21:28:00 +0900"
-        },
-        {
-          "title": "염경엽 수비 중시 라인업 짰다고 했는데… 작전 간파에 수비도 말썽, 디...",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013734",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/477/0000633620",
-          "pub_date": "Sat, 17 Oct 2026 21:01:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17462,
+      "api_total": 17468,
       "items": [
+        {
+          "title": "프로히터 <b>야구</b><b>배트</b> 타격울림방지 엄지 보호대 가격 특징",
+          "url": "https://blog.naver.com/smddk00/224444638308",
+          "naver_url": "https://blog.naver.com/smddk00/224444638308",
+          "pub_date": "20261018"
+        },
+        {
+          "title": "<b>야구</b> <b>배트</b>, 직접 다뤄보고 느낀 무게와 타격감의 차이",
+          "url": "https://blog.naver.com/shkkjr/224445280412",
+          "naver_url": "https://blog.naver.com/shkkjr/224445280412",
+          "pub_date": "20261018"
+        },
         {
           "title": "메이저 런쳐 블루 실사용 후기 | 반발력 좋고 시원한 디자인의 <b>사회</b>....",
           "url": "https://blog.naver.com/ih_yeo0123/224445328570",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/mopyg380416_ld/224444047276",
           "naver_url": "https://blog.naver.com/mopyg380416_ld/224444047276",
           "pub_date": "20261018"
-        },
-        {
-          "title": "찰리 멍거의 투자 철학을 이식한 단기 트레이딩 전략 및 행동재무학....",
-          "url": "https://blog.naver.com/gimhjd/224445033730",
-          "naver_url": "https://blog.naver.com/gimhjd/224445033730",
-          "pub_date": "20261017"
-        },
-        {
-          "title": "2026_10_16 ニュースジャーナル",
-          "url": "https://blog.naver.com/study_life_24/224444964005",
-          "naver_url": "https://blog.naver.com/study_life_24/224444964005",
-          "pub_date": "20261017"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792299102,
+  "updated_at": 1792314920,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792299102,
-  "shopping_updated_at": 1792299104,
-  "reference_updated_at": 1792299110
+  "trend_updated_at": 1792314920,
+  "shopping_updated_at": 1792314921,
+  "reference_updated_at": 1792314927
 }
