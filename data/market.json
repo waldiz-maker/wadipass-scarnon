@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86170,
+      "api_total": 86171,
       "items": [
+        {
+          "title": "참혹했던 외국인 농사, 사실 두산 5등 잘한 거였다...재계약 생존자 나...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-18/202610180100111000007230",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004457045",
+          "pub_date": "Sun, 18 Oct 2026 10:27:00 +0900"
+        },
         {
           "title": "'깜짝' KIA 단속 0순위, 잔류 의지 보였다…&quot;팀이 다시 날 또 선택한다면...",
           "url": "https://www.sportschosun.com/baseball/2026-10-17/202610170100109780007133",
@@ -527,12 +533,6 @@
           "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1013734",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/477/0000633620",
           "pub_date": "Sat, 17 Oct 2026 21:01:00 +0900"
-        },
-        {
-          "title": "[<b>야구</b>] KIA, LG 작전 꿰뚫고 준PO 1차전 승리… 깔끔한 수비도 돋보여",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3441066",
-          "naver_url": "https://www.newscj.com/news/articleView.html?idxno=3441066",
-          "pub_date": "Sat, 17 Oct 2026 20:14:00 +0900"
         }
       ]
     },
@@ -585,6 +585,12 @@
       "api_total": 17462,
       "items": [
         {
+          "title": "메이저 런쳐 블루 실사용 후기 | 반발력 좋고 시원한 디자인의 <b>사회</b>....",
+          "url": "https://blog.naver.com/ih_yeo0123/224445328570",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224445328570",
+          "pub_date": "20261018"
+        },
+        {
           "title": "프랭클린 <b>배트</b> 그립 AW5000 <b>야구</b><b>배트</b>그립 24110C 정보와 특징",
           "url": "https://blog.naver.com/smddk00/224444634618",
           "naver_url": "https://blog.naver.com/smddk00/224444634618",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/study_life_24/224444964005",
           "naver_url": "https://blog.naver.com/study_life_24/224444964005",
           "pub_date": "20261017"
-        },
-        {
-          "title": "⚾[판교 <b>야구</b>용품점 ¦¦ 야중사 스타디움샵] <b>야구</b>용품 천국! KT위즈 ....",
-          "url": "https://blog.naver.com/gch00335/224444972172",
-          "naver_url": "https://blog.naver.com/gch00335/224444972172",
-          "pub_date": "20261017"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792282705,
+  "updated_at": 1792299102,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792282705,
-  "shopping_updated_at": 1792282706,
-  "reference_updated_at": 1792282711
+  "trend_updated_at": 1792299102,
+  "shopping_updated_at": 1792299104,
+  "reference_updated_at": 1792299110
 }
