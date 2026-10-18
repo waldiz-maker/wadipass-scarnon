@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86174,
+      "api_total": 86175,
       "items": [
+        {
+          "title": "하석진, 무릎 꿇고 버티기 통했다…진경 &quot;안희연이랑 끝을 봐라&quot;('사랑이...",
+          "url": "http://www.celuvmedia.com/article.php?aid=1792325634529433006",
+          "naver_url": "http://www.celuvmedia.com/article.php?aid=1792325634529433006",
+          "pub_date": "Sun, 18 Oct 2026 21:22:00 +0900"
+        },
         {
           "title": "&quot;LG 클린업 8타수 무안타 봉쇄&quot; 올러, KIA 가을<b>야구</b> 첫 선발승",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16250634",
@@ -527,12 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-10-18/202610180100111000007230",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004457045",
           "pub_date": "Sun, 18 Oct 2026 10:27:00 +0900"
-        },
-        {
-          "title": "'깜짝' KIA 단속 0순위, 잔류 의지 보였다…&quot;팀이 다시 날 또 선택한다면...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-17/202610170100109780007133",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004456989",
-          "pub_date": "Sun, 18 Oct 2026 01:22:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17468,
+      "api_total": 17475,
       "items": [
+        {
+          "title": "골드 임팩트 <b>배트</b> 캡수리",
+          "url": "https://blog.naver.com/misterbaseball/224445753413",
+          "naver_url": "https://blog.naver.com/misterbaseball/224445753413",
+          "pub_date": "20261018"
+        },
+        {
+          "title": "플라이볼500 내외야 펑고연습 <b>야구</b>연습 FLYBALL500 가격 특징",
+          "url": "https://blog.naver.com/smddk00/224444640052",
+          "naver_url": "https://blog.naver.com/smddk00/224444640052",
+          "pub_date": "20261018"
+        },
         {
           "title": "프로히터 <b>야구</b><b>배트</b> 타격울림방지 엄지 보호대 가격 특징",
           "url": "https://blog.naver.com/smddk00/224444638308",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/ih_yeo0123/224445328570",
           "naver_url": "https://blog.naver.com/ih_yeo0123/224445328570",
           "pub_date": "20261018"
-        },
-        {
-          "title": "프랭클린 <b>배트</b> 그립 AW5000 <b>야구</b><b>배트</b>그립 24110C 정보와 특징",
-          "url": "https://blog.naver.com/smddk00/224444634618",
-          "naver_url": "https://blog.naver.com/smddk00/224444634618",
-          "pub_date": "20261018"
-        },
-        {
-          "title": "BMC 비엠씨 2026 프로 <b>야구</b> 배팅장갑 스노우 에디션",
-          "url": "https://blog.naver.com/mopyg380416_ld/224444047276",
-          "naver_url": "https://blog.naver.com/mopyg380416_ld/224444047276",
-          "pub_date": "20261018"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792314920,
+  "updated_at": 1792329616,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792314920,
-  "shopping_updated_at": 1792314921,
-  "reference_updated_at": 1792314927
+  "trend_updated_at": 1792329616,
+  "shopping_updated_at": 1792329618,
+  "reference_updated_at": 1792329623
 }
