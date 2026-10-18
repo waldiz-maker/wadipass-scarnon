@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86176,
+      "api_total": 86178,
       "items": [
+        {
+          "title": "LG 작전·주루 ‘완벽 봉쇄’…‘단단한’ KIA, 철저히 준비한 ‘티’가...",
+          "url": "https://www.sportsseoul.com/news/read/1642287?ref=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001273473",
+          "pub_date": "Mon, 19 Oct 2026 06:10:00 +0900"
+        },
+        {
+          "title": "[헐크 이만수의 힘] 40년 팬의 눈물겨운 고백, 그리고 56년 <b>야구</b> 인생이...",
+          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026052",
+          "naver_url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026052",
+          "pub_date": "Mon, 19 Oct 2026 06:00:00 +0900"
+        },
         {
           "title": "'이길 필요 없는' <b>야구</b>가 있다?…다문화 아이들 뭉친 '스윙스'",
           "url": "https://news.jtbc.co.kr/article/NB12323555?influxDiv=NAVER",
@@ -521,18 +533,6 @@
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16250634",
           "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16250634",
           "pub_date": "Sun, 18 Oct 2026 17:26:00 +0900"
-        },
-        {
-          "title": "‘3안타 박해민 혼자 뛴다’ LG의 타선 침묵 어쩌나···2번 승부수 송...",
-          "url": "https://sports.khan.co.kr/article/202610181720023?pt=nv",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001144849",
-          "pub_date": "Sun, 18 Oct 2026 17:21:00 +0900"
-        },
-        {
-          "title": "'이럴수가' 2위 삼성이 바라지 않는 최악 시나리오, KIA 2연승에 'PO까지...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/18/2026101811073231928",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003479731",
-          "pub_date": "Sun, 18 Oct 2026 17:17:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17480,
+      "api_total": 17483,
       "items": [
         {
           "title": "프로모릭스 알루미늄<b>배트</b> <b>야구</b><b>배트</b>가방 세트 가격 특징 총정리",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1792349803,
+  "updated_at": 1792358017,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792349803,
-  "shopping_updated_at": 1792349805,
-  "reference_updated_at": 1792349810
+  "trend_updated_at": 1792358017,
+  "shopping_updated_at": 1792358019,
+  "reference_updated_at": 1792358024
 }
