@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86175,
+      "api_total": 86176,
       "items": [
+        {
+          "title": "'이길 필요 없는' <b>야구</b>가 있다?…다문화 아이들 뭉친 '스윙스'",
+          "url": "https://news.jtbc.co.kr/article/NB12323555?influxDiv=NAVER",
+          "naver_url": "https://n.news.naver.com/mnews/article/437/0000516295?sid=102",
+          "pub_date": "Sun, 18 Oct 2026 23:14:00 +0900"
+        },
         {
           "title": "하석진, 무릎 꿇고 버티기 통했다…진경 &quot;안희연이랑 끝을 봐라&quot;('사랑이...",
           "url": "http://www.celuvmedia.com/article.php?aid=1792325634529433006",
@@ -527,12 +533,6 @@
           "url": "https://www.starnewskorea.com/sports/2026/10/18/2026101811073231928",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003479731",
           "pub_date": "Sun, 18 Oct 2026 17:17:00 +0900"
-        },
-        {
-          "title": "참혹했던 외국인 농사, 사실 두산 5등 잘한 거였다...재계약 생존자 나...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-18/202610180100111000007230",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004457045",
-          "pub_date": "Sun, 18 Oct 2026 10:27:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1792329616,
+  "updated_at": 1792341581,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792329616,
-  "shopping_updated_at": 1792329618,
-  "reference_updated_at": 1792329623
+  "trend_updated_at": 1792341581,
+  "shopping_updated_at": 1792341583,
+  "reference_updated_at": 1792341589
 }
