@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86180,
+      "api_total": 86184,
       "items": [
+        {
+          "title": "&quot;<b>배트</b>보이나 마스코트면 몰라도&quot; 김하성 재계약 향한 싸늘한 美 시선, 2...",
+          "url": "https://www.starnewskorea.com/sports/2026/10/19/2026101915333974749",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/108/0003480064",
+          "pub_date": "Mon, 19 Oct 2026 19:01:00 +0900"
+        },
+        {
+          "title": "'제2의 린도어' 밀워키의 19세 MLB 전체 유망주 1위…월드시리즈 앞두고...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1602952",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/445/0000479510",
+          "pub_date": "Mon, 19 Oct 2026 16:51:00 +0900"
+        },
+        {
+          "title": "[위아자 2026] 양의지 친필 사인 <b>배트</b>·류현진 착용 유니폼…프로<b>야구</b> ...",
+          "url": "https://www.joongang.co.kr/article/25470946",
+          "naver_url": "https://n.news.naver.com/mnews/article/025/0003558916?sid=102",
+          "pub_date": "Mon, 19 Oct 2026 16:30:00 +0900"
+        },
+        {
+          "title": "제2의 ‘스토브리그’는? 김래원→김우빈도 등판했다 <b>야구</b> 드라마 봇물...",
+          "url": "https://www.newsen.com/news_view.php?uid=202610191356581910",
+          "naver_url": "https://m.entertain.naver.com/article/609/0001179542",
+          "pub_date": "Mon, 19 Oct 2026 16:06:00 +0900"
+        },
         {
           "title": "정해영-성영탁-이의리 거쳐...찾았다! 호랑이 군단의 ‘가을 끝판대장’...",
           "url": "https://www.segye.com/newsView/20261019500349?OutUrl=naver",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/022/0004167721",
           "pub_date": "Mon, 19 Oct 2026 07:32:00 +0900"
-        },
-        {
-          "title": "2026년 전 세계 타구 속도(191.9km) 1위 ‘잠실 빅보이’ 이재원, 흐르는...",
-          "url": "https://www.segye.com/newsView/20261019500834?OutUrl=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/022/0004167706",
-          "pub_date": "Mon, 19 Oct 2026 06:32:00 +0900"
-        },
-        {
-          "title": "LG 작전·주루 ‘완벽 봉쇄’…‘단단한’ KIA, 철저히 준비한 ‘티’가...",
-          "url": "https://www.sportsseoul.com/news/read/1642287?ref=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001273473",
-          "pub_date": "Mon, 19 Oct 2026 06:10:00 +0900"
-        },
-        {
-          "title": "[헐크 이만수의 힘] 40년 팬의 눈물겨운 고백, 그리고 56년 <b>야구</b> 인생이...",
-          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026052",
-          "naver_url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026052",
-          "pub_date": "Mon, 19 Oct 2026 06:00:00 +0900"
-        },
-        {
-          "title": "'이길 필요 없는' <b>야구</b>가 있다?…다문화 아이들 뭉친 '스윙스'",
-          "url": "https://news.jtbc.co.kr/article/NB12323555?influxDiv=NAVER",
-          "naver_url": "https://n.news.naver.com/mnews/article/437/0000516295?sid=102",
-          "pub_date": "Sun, 18 Oct 2026 23:14:00 +0900"
         }
       ]
     },
@@ -541,8 +541,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 1332,
+      "api_total": 1333,
       "items": [
+        {
+          "title": "[금융권 이모저모]한국거래소, 코스닥 기술평가 개편…우주항공·로봇 ...",
+          "url": "https://www.businessplus.kr/news/articleView.html?idxno=118387",
+          "naver_url": "https://www.businessplus.kr/news/articleView.html?idxno=118387",
+          "pub_date": "Mon, 19 Oct 2026 15:46:00 +0900"
+        },
         {
           "title": "관객이 영화 고르고 직접 찍는다…커뮤니티비프의 특별한 실험",
           "url": "https://www.nocutnews.co.kr/news/6592194?utm_source=naver&utm_medium=article&utm_campaign=20261015043800",
@@ -566,12 +572,6 @@
           "url": "https://www.ilemonde.com/news/articleView.html?idxno=30731",
           "naver_url": "https://www.ilemonde.com/news/articleView.html?idxno=30731",
           "pub_date": "Thu, 01 Oct 2026 21:54:00 +0900"
-        },
-        {
-          "title": "[손병관의 뉴스프레소] 수장 없이 일단 띄우는 '검찰 대체기구'",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271443&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-          "naver_url": "https://n.news.naver.com/mnews/article/047/0002530693?sid=102",
-          "pub_date": "Wed, 30 Sep 2026 08:06:00 +0900"
         }
       ]
     }
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17492,
+      "api_total": 17516,
       "items": [
         {
-          "title": "응원팀 때문에 화났는데 오늘도 중계 켰다…프로<b>야구</b>, 끊겠다던 팬....",
-          "url": "https://blog.naver.com/ahslahsl7420/224446090140",
-          "naver_url": "https://blog.naver.com/ahslahsl7420/224446090140",
+          "title": "제트 프로스테이터스 겐다 내야글러브 웹 교체 수리",
+          "url": "https://blog.naver.com/susanokorea/224446962272",
+          "naver_url": "https://blog.naver.com/susanokorea/224446962272",
           "pub_date": "20261019"
         },
         {
-          "title": "[종합] 코드쿤스트, 주우재와 소식좌 양대산맥 인정 &quot;정상적으로 먹....",
-          "url": "https://blog.naver.com/wonogi/224445614311",
-          "naver_url": "https://blog.naver.com/wonogi/224445614311",
+          "title": "웨이트레이드 샤퍼 골드 시타 후기 | 가벼운 <b>사회인 야구</b> 미들탑 밸....",
+          "url": "https://blog.naver.com/ih_yeo0123/224446961844",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224446961844",
           "pub_date": "20261019"
         },
         {
-          "title": "<b>사회인 야구</b> 입문부터 경기 준비까지! <b>야구</b> 동호인이 알아두면 좋은....",
-          "url": "https://blog.naver.com/icedouble-/224446279878",
-          "naver_url": "https://blog.naver.com/icedouble-/224446279878",
+          "title": "김우빈·한효주·김래원 <b>야구</b> 드라마 대전, 스토브리그 이을까",
+          "url": "https://blog.naver.com/meet_hyeon/224446826606",
+          "naver_url": "https://blog.naver.com/meet_hyeon/224446826606",
           "pub_date": "20261019"
         },
         {
-          "title": "프로모릭스 알루미늄<b>배트</b> <b>야구</b><b>배트</b>가방 세트 가격 특징 총정리",
-          "url": "https://blog.naver.com/smddk00/224444648092",
-          "naver_url": "https://blog.naver.com/smddk00/224444648092",
+          "title": "강남 아이들이 <b>야구</b>학원을 다니는 진짜 이유",
+          "url": "https://blog.naver.com/kiyeon9145/224446801259",
+          "naver_url": "https://blog.naver.com/kiyeon9145/224446801259",
           "pub_date": "20261019"
         },
         {
-          "title": "골드 임팩트 <b>배트</b> 캡수리",
-          "url": "https://blog.naver.com/misterbaseball/224445753413",
-          "naver_url": "https://blog.naver.com/misterbaseball/224445753413",
-          "pub_date": "20261018"
+          "title": "<b>사회인 야구</b> 비용 축구와 비교해보니, 돈 더 드는 진짜 이유가 따로 ....",
+          "url": "https://blog.naver.com/ahslahsl7420/224446090720",
+          "naver_url": "https://blog.naver.com/ahslahsl7420/224446090720",
+          "pub_date": "20261019"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792391169,
+  "updated_at": 1792417571,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792391169,
-  "shopping_updated_at": 1792391171,
-  "reference_updated_at": 1792391177
+  "trend_updated_at": 1792417571,
+  "shopping_updated_at": 1792417573,
+  "reference_updated_at": 1792417578
 }
