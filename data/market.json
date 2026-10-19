@@ -582,8 +582,26 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17483,
+      "api_total": 17492,
       "items": [
+        {
+          "title": "응원팀 때문에 화났는데 오늘도 중계 켰다…프로<b>야구</b>, 끊겠다던 팬....",
+          "url": "https://blog.naver.com/ahslahsl7420/224446090140",
+          "naver_url": "https://blog.naver.com/ahslahsl7420/224446090140",
+          "pub_date": "20261019"
+        },
+        {
+          "title": "[종합] 코드쿤스트, 주우재와 소식좌 양대산맥 인정 &quot;정상적으로 먹....",
+          "url": "https://blog.naver.com/wonogi/224445614311",
+          "naver_url": "https://blog.naver.com/wonogi/224445614311",
+          "pub_date": "20261019"
+        },
+        {
+          "title": "<b>사회인 야구</b> 입문부터 경기 준비까지! <b>야구</b> 동호인이 알아두면 좋은....",
+          "url": "https://blog.naver.com/icedouble-/224446279878",
+          "naver_url": "https://blog.naver.com/icedouble-/224446279878",
+          "pub_date": "20261019"
+        },
         {
           "title": "프로모릭스 알루미늄<b>배트</b> <b>야구</b><b>배트</b>가방 세트 가격 특징 총정리",
           "url": "https://blog.naver.com/smddk00/224444648092",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/misterbaseball/224445753413",
           "naver_url": "https://blog.naver.com/misterbaseball/224445753413",
           "pub_date": "20261018"
-        },
-        {
-          "title": "플라이볼500 내외야 펑고연습 <b>야구</b>연습 FLYBALL500 가격 특징",
-          "url": "https://blog.naver.com/smddk00/224444640052",
-          "naver_url": "https://blog.naver.com/smddk00/224444640052",
-          "pub_date": "20261018"
-        },
-        {
-          "title": "프로히터 <b>야구</b><b>배트</b> 타격울림방지 엄지 보호대 가격 특징",
-          "url": "https://blog.naver.com/smddk00/224444638308",
-          "naver_url": "https://blog.naver.com/smddk00/224444638308",
-          "pub_date": "20261018"
-        },
-        {
-          "title": "<b>야구</b> <b>배트</b>, 직접 다뤄보고 느낀 무게와 타격감의 차이",
-          "url": "https://blog.naver.com/shkkjr/224445280412",
-          "naver_url": "https://blog.naver.com/shkkjr/224445280412",
-          "pub_date": "20261018"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792372580,
+  "updated_at": 1792391169,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792372580,
-  "shopping_updated_at": 1792372583,
-  "reference_updated_at": 1792372589
+  "trend_updated_at": 1792391169,
+  "shopping_updated_at": 1792391171,
+  "reference_updated_at": 1792391177
 }
