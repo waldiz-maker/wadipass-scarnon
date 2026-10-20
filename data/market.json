@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 40.53
+          "ratio": 42.87
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 3.68
+          "ratio": 3.79
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 3.08
+          "ratio": 3.3
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 55.2,
+    "recent_3m_avg": 56.0,
     "previous_3m_avg": 84.3,
-    "delta_pct": -34.5,
+    "delta_pct": -33.6,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 40.5,
+    "latest_ratio": 42.9,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 34.28
+          "ratio": 36.99
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 10.34
+          "ratio": 10.85
         }
       ]
     },
@@ -379,7 +379,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 2.84
+          "ratio": 3.09
         }
       ]
     }
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 53.2,
+    "recent_3m_avg": 54.1,
     "previous_3m_avg": 75.2,
-    "delta_pct": -29.3,
+    "delta_pct": -28.1,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 34.3,
+    "latest_ratio": 37.0,
     "peak_period": "2025-10-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 76.2,
+      "index": 77.1,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 77.8,
+      "index": 78.9,
       "period_count": 4
     }
   },
@@ -415,19 +415,19 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-19",
-    "period_end": "2026-10-19",
+    "period_start": "2026-07-20",
+    "period_end": "2026-10-20",
     "rows": [
       {
         "group": "40",
         "label": "40대",
-        "index": 76.2,
+        "index": 77.1,
         "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 26.1,
+        "index": 26.6,
         "period_count": 4
       },
       {
@@ -439,26 +439,26 @@
       {
         "group": "30",
         "label": "30대",
-        "index": 16.0,
+        "index": 16.4,
         "period_count": 4
       },
       {
         "group": "20",
         "label": "20대",
-        "index": 8.5,
+        "index": 8.6,
         "period_count": 4
       },
       {
         "group": "60",
         "label": "60대 이상",
-        "index": 5.6,
+        "index": 5.7,
         "period_count": 4
       }
     ],
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 76.2,
+      "index": 77.1,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -468,26 +468,26 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-19",
-    "period_end": "2026-10-19",
+    "period_start": "2026-07-20",
+    "period_end": "2026-10-20",
     "rows": [
       {
         "group": "m",
         "label": "남성",
-        "index": 77.8,
+        "index": 78.9,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 26.9,
+        "index": 27.3,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 77.8,
+      "index": 78.9,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -582,18 +582,18 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17566,
+      "api_total": 17585,
       "items": [
-        {
-          "title": "오늘의 생각 (시간을 자유롭게 산다는 것은..)",
-          "url": "https://blog.naver.com/sus1914/224446354635",
-          "naver_url": "https://blog.naver.com/sus1914/224446354635",
-          "pub_date": "20261020"
-        },
         {
           "title": "미즈노 <b>야구</b> <b>배트</b> 메이플 일본제 한정판 가격 특징 총정리",
           "url": "https://blog.naver.com/smddk00/224444664648",
           "naver_url": "https://blog.naver.com/smddk00/224444664648",
+          "pub_date": "20261020"
+        },
+        {
+          "title": "오늘의 생각 (시간을 자유롭게 산다는 것은..)",
+          "url": "https://blog.naver.com/sus1914/224446354635",
+          "naver_url": "https://blog.naver.com/sus1914/224446354635",
           "pub_date": "20261020"
         },
         {
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1792451105,
+  "updated_at": 1792460877,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792451105,
-  "shopping_updated_at": 1792451107,
-  "reference_updated_at": 1792451113
+  "trend_updated_at": 1792460877,
+  "shopping_updated_at": 1792460879,
+  "reference_updated_at": 1792460887
 }
