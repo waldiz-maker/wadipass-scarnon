@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86215,
+      "api_total": 86228,
       "items": [
         {
-          "title": "팬들이 마련한 <b>야구</b> 관람, KIA 김도영 <b>야구</b>용품으로 화답",
-          "url": "https://www.khan.co.kr/article/202610202015001",
-          "naver_url": "https://n.news.naver.com/mnews/article/032/0003477483?sid=102",
-          "pub_date": "Tue, 20 Oct 2026 20:15:00 +0900"
+          "title": "&quot;프런트가 오타니 통제 못하는 게 문제야&quot; 수뇌부 뜻 꺾고 '출전 고집→...",
+          "url": "https://www.starnewskorea.com/sports/2026/10/21/2026102013422189466",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/108/0003480419",
+          "pub_date": "Wed, 21 Oct 2026 02:03:00 +0900"
         },
         {
-          "title": "'이런 사연이!' 오타니 3점포 뒤 미친 듯이 포효한 이유 있었다...&quot;다저...",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553630986",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254789",
-          "pub_date": "Tue, 20 Oct 2026 20:01:00 +0900"
+          "title": "말 한 마디에 관중석이 붉은 물결, 스윙 한 번에 각종 신기록...슈퍼스타...",
+          "url": "http://www.spochoo.com/news/articleView.html?idxno=131266",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/529/0000078996",
+          "pub_date": "Wed, 21 Oct 2026 01:52:00 +0900"
         },
         {
-          "title": "&quot;잠실구장 천장 뚫을 뻔했다&quot; 179km/h·145m 날아간 김도영의 만루포... ...",
-          "url": "https://www.fnnews.com/news/202610201933137045",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/014/0005592067",
-          "pub_date": "Tue, 20 Oct 2026 19:39:00 +0900"
+          "title": "한 손 놓고 쳤는데 담장을 넘겨? KIA '37년 PS 징크스', 주장 대포 2방에...",
+          "url": "https://www.xportsnews.com/article/2209798",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002070975",
+          "pub_date": "Wed, 21 Oct 2026 00:00:00 +0900"
         },
         {
-          "title": "박병호보다 멀리, 우즈만큼 멀리, 김도영이 잠실 담장을 넘겼다...초대형...",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=131263",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/529/0000078993",
-          "pub_date": "Tue, 20 Oct 2026 19:36:00 +0900"
+          "title": "'홈런 3방에 준PO MVP' 김도영 &quot;필요할 때마다 홈런, 나도 신기&quot;",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=06189366645614888&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/018/0006392509",
+          "pub_date": "Tue, 20 Oct 2026 23:24:00 +0900"
         },
         {
-          "title": "김도영, '만루포 환호 <b>배트</b> 던지기'",
-          "url": "https://www.newsis.com/view/NISI20261020_0021497451",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/003/0014267124",
-          "pub_date": "Tue, 20 Oct 2026 19:30:00 +0900"
+          "title": "가장 완벽했던 잠실 고별사…145ｍ 만루포로 준PO 지배한 김도영(종합)",
+          "url": "https://www.yna.co.kr/view/AKR20261020177051007?input=1195m",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016390042",
+          "pub_date": "Tue, 20 Oct 2026 23:01:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17647,
+      "api_total": 17662,
       "items": [
+        {
+          "title": "<b>야구</b> Craft <b>사회인 야구</b> 배팅 장갑 소개",
+          "url": "https://blog.naver.com/ih_yeo0123/224448191604",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224448191604",
+          "pub_date": "20261020"
+        },
         {
           "title": "<b>사회인 야구</b>, 연습해도 제자리라면? <b>야구</b> 레슨 선택 전 확인할 3가지",
           "url": "https://blog.naver.com/juneh1160/224448092105",
@@ -594,12 +600,6 @@
           "title": "서울 성동구 <b>야구</b>레슨, 성동<b>야구</b>아카데미에서 취미반부터 선수반까....",
           "url": "https://blog.naver.com/prefer0007/224447990404",
           "naver_url": "https://blog.naver.com/prefer0007/224447990404",
-          "pub_date": "20261020"
-        },
-        {
-          "title": "<b>야구</b> <b>배트</b>그립 쉽게 고르는 방법과 추천 제품",
-          "url": "https://blog.naver.com/jtcete0657633/224447941508",
-          "naver_url": "https://blog.naver.com/jtcete0657633/224447941508",
           "pub_date": "20261020"
         },
         {
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1792499201,
+  "updated_at": 1792517108,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792499201,
-  "shopping_updated_at": 1792499203,
-  "reference_updated_at": 1792499209
+  "trend_updated_at": 1792517108,
+  "shopping_updated_at": 1792517110,
+  "reference_updated_at": 1792517116
 }
