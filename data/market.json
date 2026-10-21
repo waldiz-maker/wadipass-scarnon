@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86236,
+      "api_total": 86240,
       "items": [
+        {
+          "title": "[영상] 소름 돋는 <b>배트</b> 플립…영화 찍은 김도영",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691332&ref=A",
+          "naver_url": "https://n.news.naver.com/mnews/article/056/0012277934?sid=121",
+          "pub_date": "Wed, 21 Oct 2026 14:22:00 +0900"
+        },
+        {
+          "title": "'통산 삼성전 홈런 18개' 김도영 “절대 자만하지 않겠다” PO 다짐",
+          "url": "http://www.joynews24.com/view/2017268",
+          "naver_url": "http://www.joynews24.com/view/2017268",
+          "pub_date": "Wed, 21 Oct 2026 13:26:00 +0900"
+        },
+        {
+          "title": "&quot;요즘 비싼 선수 절대 안잡는 KIA인데&quot;… 박정우가 증명할수록, FA 김호...",
+          "url": "https://www.fnnews.com/news/202610211102186323",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/014/0005592349",
+          "pub_date": "Wed, 21 Oct 2026 11:30:00 +0900"
+        },
+        {
+          "title": "'불꽃<b>야구</b>2', 18번째 직관 경기 오늘(21일) 예매 오픈→상대는 강릉영동...",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253314",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16253314",
+          "pub_date": "Wed, 21 Oct 2026 11:14:00 +0900"
+        },
         {
           "title": "9구 승부 출루…KIA 박정우, LG 카라스코 붕괴 첫 단추",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253289",
           "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16253289",
           "pub_date": "Wed, 21 Oct 2026 10:30:00 +0900"
-        },
-        {
-          "title": "&quot;최형우 더비&quot;로 맞붙는 삼성·KIA, 박재현·박정우 기세 주목",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253278",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16253278",
-          "pub_date": "Wed, 21 Oct 2026 10:24:00 +0900"
-        },
-        {
-          "title": "KIA 박정우의 9구 볼넷, LG 카라스코 무너뜨린 시발점",
-          "url": "https://www.yna.co.kr/view/AKR20261021059700007?input=1195m",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/001/0016390589",
-          "pub_date": "Wed, 21 Oct 2026 10:15:00 +0900"
-        },
-        {
-          "title": "'이럴수가' 김도영 만장일치 MVP 아니었다→'논란의 1표' 심지어 '2회 강...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/21/2026102018014237475",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003480441",
-          "pub_date": "Wed, 21 Oct 2026 07:29:00 +0900"
-        },
-        {
-          "title": "홈런만 무려 4개 터졌다…44년 역사 잠실<b>야구</b>장 마지막 KIA-LG전 결과",
-          "url": "https://www.wikitree.co.kr/articles/1167845",
-          "naver_url": "https://www.wikitree.co.kr/articles/1167845",
-          "pub_date": "Wed, 21 Oct 2026 07:14:00 +0900"
         }
       ]
     },
@@ -551,7 +551,7 @@
         },
         {
           "title": "관객이 영화 고르고 직접 찍는다…커뮤니티비프의 특별한 실험",
-          "url": "https://www.nocutnews.co.kr/news/6592194?utm_source=naver&utm_medium=article&utm_campaign=20261015043800",
+          "url": "https://www.nocutnews.co.kr/news/6592194?utm_source=naver&utm_medium=article&utm_campaign=20261021042312",
           "naver_url": "https://n.news.naver.com/mnews/article/079/0004199279?sid=102",
           "pub_date": "Thu, 15 Oct 2026 16:38:00 +0900"
         },
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17679,
+      "api_total": 17690,
       "items": [
         {
-          "title": "“자존심은 쎈데 자존감은 낮은 사람인가요?” 김창옥이 말한 가장 ....",
-          "url": "https://blog.naver.com/bermint/224448579558",
-          "naver_url": "https://blog.naver.com/bermint/224448579558",
+          "title": "“잘 지내는 줄 알았는데…” 김우빈, 결혼 9개월만에 뜻밖의 소식",
+          "url": "https://blog.naver.com/redopamine/224449069000",
+          "naver_url": "https://blog.naver.com/redopamine/224449069000",
           "pub_date": "20261021"
         },
         {
-          "title": "<b>야구</b> Craft <b>사회인 야구</b> 배팅 장갑 소개",
-          "url": "https://blog.naver.com/ih_yeo0123/224448191604",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224448191604",
-          "pub_date": "20261020"
+          "title": "부천 <b>야구</b> 트레이닝｜서울·경기·인천 <b>야구</b>선수들이 비시즌에 반드....",
+          "url": "https://blog.naver.com/dirnqn0932/224449045220",
+          "naver_url": "https://blog.naver.com/dirnqn0932/224449045220",
+          "pub_date": "20261021"
         },
         {
-          "title": "<b>사회인 야구</b>, 연습해도 제자리라면? <b>야구</b> 레슨 선택 전 확인할 3가지",
-          "url": "https://blog.naver.com/juneh1160/224448092105",
-          "naver_url": "https://blog.naver.com/juneh1160/224448092105",
-          "pub_date": "20261020"
+          "title": "인코자바 글러브 RP 블랙/블루 W-14 올라운드 오가웹",
+          "url": "https://blog.naver.com/hyperclover/224448960547",
+          "naver_url": "https://blog.naver.com/hyperclover/224448960547",
+          "pub_date": "20261021"
         },
         {
-          "title": "서울 성동구 <b>야구</b>레슨, 성동<b>야구</b>아카데미에서 취미반부터 선수반까....",
-          "url": "https://blog.naver.com/prefer0007/224447990404",
-          "naver_url": "https://blog.naver.com/prefer0007/224447990404",
-          "pub_date": "20261020"
+          "title": "인코자바 내야수글러브 아이웹 GR BP-2(MT/NV)26",
+          "url": "https://blog.naver.com/hyperclover/224448944112",
+          "naver_url": "https://blog.naver.com/hyperclover/224448944112",
+          "pub_date": "20261021"
         },
         {
-          "title": "스사노 투수글러브 프로엘리트 다이아웹 민트크림 SUPEP11 좌투",
-          "url": "https://blog.naver.com/hyperclover/224447738957",
-          "naver_url": "https://blog.naver.com/hyperclover/224447738957",
-          "pub_date": "20261020"
+          "title": "<b>야구</b>가 처음인 우리 아이도 OK! 부산 어린이<b>야구</b>교실 모집 ⚾",
+          "url": "https://blog.naver.com/baku1018/224448940769",
+          "naver_url": "https://blog.naver.com/baku1018/224448940769",
+          "pub_date": "20261021"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792548040,
+  "updated_at": 1792568017,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792548040,
-  "shopping_updated_at": 1792548042,
-  "reference_updated_at": 1792548048
+  "trend_updated_at": 1792568017,
+  "shopping_updated_at": 1792568018,
+  "reference_updated_at": 1792568023
 }
