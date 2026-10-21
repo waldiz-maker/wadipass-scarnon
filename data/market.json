@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86240,
+      "api_total": 86242,
       "items": [
+        {
+          "title": "결정적 순간마다 홈런 또 홈런…김도영이 써가는 '가을의 전설'",
+          "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5226357",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/057/0001974561",
+          "pub_date": "Wed, 21 Oct 2026 20:07:00 +0900"
+        },
+        {
+          "title": "'생생정보' 시래기장어탕·장어돼지구이 맛집",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202610210205",
+          "naver_url": "https://www.bntnews.co.kr/article/view/bnt202610210205",
+          "pub_date": "Wed, 21 Oct 2026 18:16:00 +0900"
+        },
         {
           "title": "[영상] 소름 돋는 <b>배트</b> 플립…영화 찍은 김도영",
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691332&ref=A",
@@ -521,18 +533,6 @@
           "url": "https://www.fnnews.com/news/202610211102186323",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/014/0005592349",
           "pub_date": "Wed, 21 Oct 2026 11:30:00 +0900"
-        },
-        {
-          "title": "'불꽃<b>야구</b>2', 18번째 직관 경기 오늘(21일) 예매 오픈→상대는 강릉영동...",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253314",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16253314",
-          "pub_date": "Wed, 21 Oct 2026 11:14:00 +0900"
-        },
-        {
-          "title": "9구 승부 출루…KIA 박정우, LG 카라스코 붕괴 첫 단추",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253289",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16253289",
-          "pub_date": "Wed, 21 Oct 2026 10:30:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17690,
+      "api_total": 17694,
       "items": [
+        {
+          "title": "조조의 사주팔자 주저리::슈퍼스타는 MLB 진출에 성공할 수 있을까/....",
+          "url": "https://blog.naver.com/cocoa410/224449398373",
+          "naver_url": "https://blog.naver.com/cocoa410/224449398373",
+          "pub_date": "20261021"
+        },
+        {
+          "title": "<b>야구</b>치기 축구차기",
+          "url": "https://blog.naver.com/sdgs05807/224449392345",
+          "naver_url": "https://blog.naver.com/sdgs05807/224449392345",
+          "pub_date": "20261021"
+        },
         {
           "title": "“잘 지내는 줄 알았는데…” 김우빈, 결혼 9개월만에 뜻밖의 소식",
           "url": "https://blog.naver.com/redopamine/224449069000",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/hyperclover/224448960547",
           "naver_url": "https://blog.naver.com/hyperclover/224448960547",
           "pub_date": "20261021"
-        },
-        {
-          "title": "인코자바 내야수글러브 아이웹 GR BP-2(MT/NV)26",
-          "url": "https://blog.naver.com/hyperclover/224448944112",
-          "naver_url": "https://blog.naver.com/hyperclover/224448944112",
-          "pub_date": "20261021"
-        },
-        {
-          "title": "<b>야구</b>가 처음인 우리 아이도 OK! 부산 어린이<b>야구</b>교실 모집 ⚾",
-          "url": "https://blog.naver.com/baku1018/224448940769",
-          "naver_url": "https://blog.naver.com/baku1018/224448940769",
-          "pub_date": "20261021"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792568017,
+  "updated_at": 1792588415,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792568017,
-  "shopping_updated_at": 1792568018,
-  "reference_updated_at": 1792568023
+  "trend_updated_at": 1792588415,
+  "shopping_updated_at": 1792588416,
+  "reference_updated_at": 1792588422
 }
