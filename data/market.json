@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86243,
+      "api_total": 86244,
       "items": [
+        {
+          "title": "다큐인사이트, '구속혁명' 조명…곽빈부터 하현승·엄준상까지 파이어볼...",
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=212393",
+          "naver_url": "https://www.lecturernews.com/news/articleView.html?idxno=212393",
+          "pub_date": "Thu, 22 Oct 2026 06:06:00 +0900"
+        },
         {
           "title": "'욕심쟁이' 나성범, 홈런 2방 쳤는데…&quot;그것보단 마지막 타석 삼진이 아...",
           "url": "https://www.sportschosun.com/baseball/2026-10-21/202610220100136330008881",
@@ -527,12 +533,6 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691332&ref=A",
           "naver_url": "https://n.news.naver.com/mnews/article/056/0012277934?sid=121",
           "pub_date": "Wed, 21 Oct 2026 14:22:00 +0900"
-        },
-        {
-          "title": "'통산 삼성전 홈런 18개' 김도영 “절대 자만하지 않겠다” PO 다짐",
-          "url": "http://www.joynews24.com/view/2017268",
-          "naver_url": "http://www.joynews24.com/view/2017268",
-          "pub_date": "Wed, 21 Oct 2026 13:26:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17699,
+      "api_total": 17700,
       "items": [
+        {
+          "title": "호호호",
+          "url": "https://blog.naver.com/haru2268/224449696619",
+          "naver_url": "https://blog.naver.com/haru2268/224449696619",
+          "pub_date": "20261022"
+        },
         {
           "title": "식린이의 서울식물원 가이드북 따라 주제정원 나무 &amp; 빨간 열매 나....",
           "url": "https://blog.naver.com/jacknal2/224449613735",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/storytopic/224449557495",
           "naver_url": "https://blog.naver.com/storytopic/224449557495",
           "pub_date": "20261022"
-        },
-        {
-          "title": "[BMC] 비엠씨 PRO25 천연양피 <b>야구</b> 배팅장갑 - BPR-224 / 블루",
-          "url": "https://blog.naver.com/jwmzxlg853155_fc/224448672142",
-          "naver_url": "https://blog.naver.com/jwmzxlg853155_fc/224448672142",
-          "pub_date": "20261022"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792605804,
+  "updated_at": 1792618682,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792605804,
-  "shopping_updated_at": 1792605805,
-  "reference_updated_at": 1792605811
+  "trend_updated_at": 1792618682,
+  "shopping_updated_at": 1792618685,
+  "reference_updated_at": 1792618698
 }
