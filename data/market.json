@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86242,
+      "api_total": 86243,
       "items": [
+        {
+          "title": "'욕심쟁이' 나성범, 홈런 2방 쳤는데…&quot;그것보단 마지막 타석 삼진이 아...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-21/202610220100136330008881",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004458368",
+          "pub_date": "Thu, 22 Oct 2026 00:12:00 +0900"
+        },
         {
           "title": "결정적 순간마다 홈런 또 홈런…김도영이 써가는 '가을의 전설'",
           "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5226357",
@@ -527,12 +533,6 @@
           "url": "http://www.joynews24.com/view/2017268",
           "naver_url": "http://www.joynews24.com/view/2017268",
           "pub_date": "Wed, 21 Oct 2026 13:26:00 +0900"
-        },
-        {
-          "title": "&quot;요즘 비싼 선수 절대 안잡는 KIA인데&quot;… 박정우가 증명할수록, FA 김호...",
-          "url": "https://www.fnnews.com/news/202610211102186323",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/014/0005592349",
-          "pub_date": "Wed, 21 Oct 2026 11:30:00 +0900"
         }
       ]
     },
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17694,
+      "api_total": 17699,
       "items": [
         {
-          "title": "조조의 사주팔자 주저리::슈퍼스타는 MLB 진출에 성공할 수 있을까/....",
-          "url": "https://blog.naver.com/cocoa410/224449398373",
-          "naver_url": "https://blog.naver.com/cocoa410/224449398373",
-          "pub_date": "20261021"
+          "title": "식린이의 서울식물원 가이드북 따라 주제정원 나무 &amp; 빨간 열매 나....",
+          "url": "https://blog.naver.com/jacknal2/224449613735",
+          "naver_url": "https://blog.naver.com/jacknal2/224449613735",
+          "pub_date": "20261022"
         },
         {
-          "title": "<b>야구</b>치기 축구차기",
-          "url": "https://blog.naver.com/sdgs05807/224449392345",
-          "naver_url": "https://blog.naver.com/sdgs05807/224449392345",
-          "pub_date": "20261021"
+          "title": "가볍고 튼튼한 나무<b>배트</b>로 <b>야구</b> 즐기기",
+          "url": "https://blog.naver.com/iatzqekh468438/224449588246",
+          "naver_url": "https://blog.naver.com/iatzqekh468438/224449588246",
+          "pub_date": "20261022"
         },
         {
-          "title": "“잘 지내는 줄 알았는데…” 김우빈, 결혼 9개월만에 뜻밖의 소식",
-          "url": "https://blog.naver.com/redopamine/224449069000",
-          "naver_url": "https://blog.naver.com/redopamine/224449069000",
-          "pub_date": "20261021"
+          "title": "앞발 착지와 중심 이동의 차이｜타격에서 이동과 회전이 연결되는 ....",
+          "url": "https://blog.naver.com/dltkdalsu/224449570080",
+          "naver_url": "https://blog.naver.com/dltkdalsu/224449570080",
+          "pub_date": "20261022"
         },
         {
-          "title": "부천 <b>야구</b> 트레이닝｜서울·경기·인천 <b>야구</b>선수들이 비시즌에 반드....",
-          "url": "https://blog.naver.com/dirnqn0932/224449045220",
-          "naver_url": "https://blog.naver.com/dirnqn0932/224449045220",
-          "pub_date": "20261021"
+          "title": "<b>사회인 야구</b> 장비값 뭐길래, 축구보다 돈 더 깨진다는 진짜 이유",
+          "url": "https://blog.naver.com/storytopic/224449557495",
+          "naver_url": "https://blog.naver.com/storytopic/224449557495",
+          "pub_date": "20261022"
         },
         {
-          "title": "인코자바 글러브 RP 블랙/블루 W-14 올라운드 오가웹",
-          "url": "https://blog.naver.com/hyperclover/224448960547",
-          "naver_url": "https://blog.naver.com/hyperclover/224448960547",
-          "pub_date": "20261021"
+          "title": "[BMC] 비엠씨 PRO25 천연양피 <b>야구</b> 배팅장갑 - BPR-224 / 블루",
+          "url": "https://blog.naver.com/jwmzxlg853155_fc/224448672142",
+          "naver_url": "https://blog.naver.com/jwmzxlg853155_fc/224448672142",
+          "pub_date": "20261022"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792588415,
+  "updated_at": 1792605804,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792588415,
-  "shopping_updated_at": 1792588416,
-  "reference_updated_at": 1792588422
+  "trend_updated_at": 1792605804,
+  "shopping_updated_at": 1792605805,
+  "reference_updated_at": 1792605811
 }
