@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86253,
+      "api_total": 86255,
       "items": [
+        {
+          "title": "&quot;아내가 나를 지켜줬다&quot; 한국 갈 생각도 안 했다니…<b>야구</b> 그만두고 이민...",
+          "url": "http://www.osen.co.kr/article/G1112896922",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/109/0005627538",
+          "pub_date": "Fri, 23 Oct 2026 01:13:00 +0900"
+        },
+        {
+          "title": "‘두산 라이온즈’ 화제의 신인 근황 떴다! 1군 0경기→일본행→타율 0...",
+          "url": "http://www.osen.co.kr/article/G1112896798",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005627537",
+          "pub_date": "Fri, 23 Oct 2026 01:12:00 +0900"
+        },
         {
           "title": "첫해 아쉬움 털어내는 방망이… 두산 김주오, 日교육리그서 10경기 4홈런",
           "url": "https://www.sportsworldi.com/newsView/20261022523204",
@@ -521,18 +533,6 @@
           "url": "https://www.sportsseoul.com/news/read/1643410?ref=naver",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001274593",
           "pub_date": "Thu, 22 Oct 2026 16:16:00 +0900"
-        },
-        {
-          "title": "&quot;장타 비율 높아져 좋습니다&quot; 교육리그서 맹타 두산 김주오, 2027시즌 기...",
-          "url": "https://www.mydaily.co.kr/page/view/2026102213491097253",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004117425",
-          "pub_date": "Thu, 22 Oct 2026 13:52:00 +0900"
-        },
-        {
-          "title": "'10G 4홈런 폭발' 日 교육리그 지배, 아기곰 김주오 '<b>배트</b> 무게 낮추고 ...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/22/2026102211572063266",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003480803",
-          "pub_date": "Thu, 22 Oct 2026 13:38:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17706,
+      "api_total": 17708,
       "items": [
+        {
+          "title": "본 BON 나무<b>배트</b> <b>야구</b> <b>배트</b> 상품별 선택 기준 - 프로선수 지급용 추천",
+          "url": "https://blog.naver.com/sz9gvbb5f9/224450794260",
+          "naver_url": "https://blog.naver.com/sz9gvbb5f9/224450794260",
+          "pub_date": "20261023"
+        },
         {
           "title": "스톰 2027 폭풍 무궁화 에디션 프리뷰 | 2027년 신제품 <b>사회인 야구</b> 미....",
           "url": "https://blog.naver.com/ih_yeo0123/224450594370",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/housing66/224450274962",
           "naver_url": "https://blog.naver.com/housing66/224450274962",
           "pub_date": "20261022"
-        },
-        {
-          "title": "[신차] 신형 투싼 출시! 가성비 트림은 뭘까? 풀체인지 가격부터 하....",
-          "url": "https://blog.naver.com/sotoss/224450048564",
-          "naver_url": "https://blog.naver.com/sotoss/224450048564",
-          "pub_date": "20261022"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792680005,
+  "updated_at": 1792694906,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792680005,
-  "shopping_updated_at": 1792680008,
-  "reference_updated_at": 1792680020
+  "trend_updated_at": 1792694906,
+  "shopping_updated_at": 1792694907,
+  "reference_updated_at": 1792694913
 }
