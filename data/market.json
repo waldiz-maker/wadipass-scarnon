@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86244,
+      "api_total": 86249,
       "items": [
         {
-          "title": "다큐인사이트, '구속혁명' 조명…곽빈부터 하현승·엄준상까지 파이어볼...",
-          "url": "https://www.lecturernews.com/news/articleView.html?idxno=212393",
-          "naver_url": "https://www.lecturernews.com/news/articleView.html?idxno=212393",
-          "pub_date": "Thu, 22 Oct 2026 06:06:00 +0900"
+          "title": "'10G 4홈런 폭발' 日 교육리그 지배, 아기곰 김주오 '<b>배트</b> 무게 낮추고 ...",
+          "url": "https://www.starnewskorea.com/sports/2026/10/22/2026102211572063266",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003480803",
+          "pub_date": "Thu, 22 Oct 2026 13:38:00 +0900"
         },
         {
-          "title": "'욕심쟁이' 나성범, 홈런 2방 쳤는데…&quot;그것보단 마지막 타석 삼진이 아...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-21/202610220100136330008881",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004458368",
-          "pub_date": "Thu, 22 Oct 2026 00:12:00 +0900"
+          "title": "[오피셜] 마지막 유니콘 '끝내' 옷 벗었다! '美 도전→LG 4R' 25세 우완도...",
+          "url": "https://www.starnewskorea.com/sports/2026/10/22/2026102211281850350",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003480793",
+          "pub_date": "Thu, 22 Oct 2026 13:01:00 +0900"
         },
         {
-          "title": "결정적 순간마다 홈런 또 홈런…김도영이 써가는 '가을의 전설'",
-          "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5226357",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/057/0001974561",
-          "pub_date": "Wed, 21 Oct 2026 20:07:00 +0900"
+          "title": "두산 2026 1R 루키, 미야자키 교육리그서 대폭발…2027시즌이 기대된다",
+          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942085",
+          "naver_url": "https://sports.hankooki.com/news/articleView.html?idxno=6942085",
+          "pub_date": "Thu, 22 Oct 2026 12:18:00 +0900"
         },
         {
-          "title": "'생생정보' 시래기장어탕·장어돼지구이 맛집",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202610210205",
-          "naver_url": "https://www.bntnews.co.kr/article/view/bnt202610210205",
-          "pub_date": "Wed, 21 Oct 2026 18:16:00 +0900"
+          "title": "이래서 두산이 1라운드로 지명했구나…4할4푼에 홈런 4방 대폭발, 이도...",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014730",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/477/0000634498",
+          "pub_date": "Thu, 22 Oct 2026 10:51:00 +0900"
         },
         {
-          "title": "[영상] 소름 돋는 <b>배트</b> 플립…영화 찍은 김도영",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691332&ref=A",
-          "naver_url": "https://n.news.naver.com/mnews/article/056/0012277934?sid=121",
-          "pub_date": "Wed, 21 Oct 2026 14:22:00 +0900"
+          "title": "두산 김주오, 교육리그 4할4푼 ‘맹타’…“정타 비율 늘어, 자신감 생...",
+          "url": "https://sports.khan.co.kr/article/202610221041003?pt=nv",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001145685",
+          "pub_date": "Thu, 22 Oct 2026 10:42:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17700,
+      "api_total": 17702,
       "items": [
+        {
+          "title": "[신차] 신형 투싼 출시! 가성비 트림은 뭘까? 풀체인지 가격부터 하....",
+          "url": "https://blog.naver.com/sotoss/224450048564",
+          "naver_url": "https://blog.naver.com/sotoss/224450048564",
+          "pub_date": "20261022"
+        },
         {
           "title": "호호호",
           "url": "https://blog.naver.com/haru2268/224449696619",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/dltkdalsu/224449570080",
           "naver_url": "https://blog.naver.com/dltkdalsu/224449570080",
           "pub_date": "20261022"
-        },
-        {
-          "title": "<b>사회인 야구</b> 장비값 뭐길래, 축구보다 돈 더 깨진다는 진짜 이유",
-          "url": "https://blog.naver.com/storytopic/224449557495",
-          "naver_url": "https://blog.naver.com/storytopic/224449557495",
-          "pub_date": "20261022"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792627967,
+  "updated_at": 1792644218,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792627967,
-  "shopping_updated_at": 1792627968,
-  "reference_updated_at": 1792627974
+  "trend_updated_at": 1792644218,
+  "shopping_updated_at": 1792644219,
+  "reference_updated_at": 1792644224
 }
