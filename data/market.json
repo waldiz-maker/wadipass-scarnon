@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86262,
+      "api_total": 86263,
       "items": [
+        {
+          "title": "日 대충격! 전력 외 선수, 팀 선배 글러브 훔치다 걸렸나? 중고 거래 사...",
+          "url": "https://www.xportsnews.com/article/2210855",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/311/0002072008",
+          "pub_date": "Fri, 23 Oct 2026 22:10:00 +0900"
+        },
         {
           "title": "PO 앞둔 KIA의 행복한 중견수 고민…김호령이냐, 박정우냐",
           "url": "https://www.dailian.co.kr/news/view/1705334/?sc=Naver",
@@ -527,12 +533,6 @@
           "url": "http://www.spochoo.com/news/articleView.html?idxno=131379",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/529/0000079026",
           "pub_date": "Fri, 23 Oct 2026 12:57:00 +0900"
-        },
-        {
-          "title": "라스무센 대신 마르티네스, WS 1차전 출격…미저라우스키와 맞대결",
-          "url": "https://sports.khan.co.kr/article/202610231153003?pt=nv",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/144/0001145905",
-          "pub_date": "Fri, 23 Oct 2026 11:54:00 +0900"
         }
       ]
     },
@@ -582,8 +582,26 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17721,
+      "api_total": 17723,
       "items": [
+        {
+          "title": "&quot;2041년 드래프트 1순위 예약?!&quot; 배팅볼 110km 날려버린 광주 6살 괴물 ....",
+          "url": "https://blog.naver.com/junlee448/224451687735",
+          "naver_url": "https://blog.naver.com/junlee448/224451687735",
+          "pub_date": "20261023"
+        },
+        {
+          "title": "빠르게 시작하는 스윙과 빠르게 가속하는 스윙의 차이｜<b>배트</b>스피드....",
+          "url": "https://blog.naver.com/dltkdalsu/224451680631",
+          "naver_url": "https://blog.naver.com/dltkdalsu/224451680631",
+          "pub_date": "20261023"
+        },
+        {
+          "title": "스트링 라이트로 집 분위기 바꾼 후기",
+          "url": "https://blog.naver.com/ibjtmkz5/224451162321",
+          "naver_url": "https://blog.naver.com/ibjtmkz5/224451162321",
+          "pub_date": "20261023"
+        },
         {
           "title": "스타디움샵 이벤트! 모리모토 글러브 구매 후기!",
           "url": "https://blog.naver.com/dong_ta_ni/224451372603",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/ibjtmkz5/224451154621",
           "naver_url": "https://blog.naver.com/ibjtmkz5/224451154621",
           "pub_date": "20261023"
-        },
-        {
-          "title": "아내의 둘째 임신에 은퇴 포기… 26홈런 친 남편의 반전",
-          "url": "https://blog.naver.com/lovejesus727/224451292514",
-          "naver_url": "https://blog.naver.com/lovejesus727/224451292514",
-          "pub_date": "20261023"
-        },
-        {
-          "title": "인천 <b>야구</b>레슨, 와이키키베이스볼 트레이닝센터를 소개합니다",
-          "url": "https://blog.naver.com/waikikibaseball_/224451216930",
-          "naver_url": "https://blog.naver.com/waikikibaseball_/224451216930",
-          "pub_date": "20261023"
-        },
-        {
-          "title": "‘무릎 꿇고도 잠실 담장을 넘기던 괴력’ 36홈런으로 MVP를 거머쥐....",
-          "url": "https://blog.naver.com/pbjkrkr/224451116014",
-          "naver_url": "https://blog.naver.com/pbjkrkr/224451116014",
-          "pub_date": "20261023"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792749802,
+  "updated_at": 1792767731,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792749802,
-  "shopping_updated_at": 1792749804,
-  "reference_updated_at": 1792749809
+  "trend_updated_at": 1792767731,
+  "shopping_updated_at": 1792767734,
+  "reference_updated_at": 1792767748
 }
