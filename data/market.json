@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86261,
+      "api_total": 86262,
       "items": [
+        {
+          "title": "PO 앞둔 KIA의 행복한 중견수 고민…김호령이냐, 박정우냐",
+          "url": "https://www.dailian.co.kr/news/view/1705334/?sc=Naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/119/0003146340",
+          "pub_date": "Fri, 23 Oct 2026 14:22:00 +0900"
+        },
         {
           "title": "‘고질라’ 마쓰이, 감독으로 친정 요미우리 컴백...스승과 약속 지킨다",
           "url": "https://www.edaily.co.kr/News/Read?newsId=04077046645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
@@ -527,12 +533,6 @@
           "url": "https://sports.khan.co.kr/article/202610231153003?pt=nv",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/144/0001145905",
           "pub_date": "Fri, 23 Oct 2026 11:54:00 +0900"
-        },
-        {
-          "title": "[속보] ‘고질라’ 마쓰이 히데키, 요미우리 새 감독 선임…23일 오후 기...",
-          "url": "http://www.osen.co.kr/article/G1112897103",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/109/0005627638",
-          "pub_date": "Fri, 23 Oct 2026 11:33:00 +0900"
         }
       ]
     },
@@ -582,8 +582,26 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17718,
+      "api_total": 17721,
       "items": [
+        {
+          "title": "스타디움샵 이벤트! 모리모토 글러브 구매 후기!",
+          "url": "https://blog.naver.com/dong_ta_ni/224451372603",
+          "naver_url": "https://blog.naver.com/dong_ta_ni/224451372603",
+          "pub_date": "20261023"
+        },
+        {
+          "title": "발목 통증 원인 알게 된 후 달라진 내 생활",
+          "url": "https://blog.naver.com/ibjtmkz5/224451154621",
+          "naver_url": "https://blog.naver.com/ibjtmkz5/224451154621",
+          "pub_date": "20261023"
+        },
+        {
+          "title": "아내의 둘째 임신에 은퇴 포기… 26홈런 친 남편의 반전",
+          "url": "https://blog.naver.com/lovejesus727/224451292514",
+          "naver_url": "https://blog.naver.com/lovejesus727/224451292514",
+          "pub_date": "20261023"
+        },
         {
           "title": "인천 <b>야구</b>레슨, 와이키키베이스볼 트레이닝센터를 소개합니다",
           "url": "https://blog.naver.com/waikikibaseball_/224451216930",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/pbjkrkr/224451116014",
           "naver_url": "https://blog.naver.com/pbjkrkr/224451116014",
           "pub_date": "20261023"
-        },
-        {
-          "title": "인천/경기/서울)<b>사회인</b> 여자 <b>야구</b> 동호회 2027년 신입 모집 선착순",
-          "url": "https://blog.naver.com/09_studio/224451107396",
-          "naver_url": "https://blog.naver.com/09_studio/224451107396",
-          "pub_date": "20261023"
-        },
-        {
-          "title": "시구자가 던진 공, 시타자가 진짜로 쳐버리면 벌어지는 일과 숨겨진....",
-          "url": "https://blog.naver.com/dalcom-tea/224444563607",
-          "naver_url": "https://blog.naver.com/dalcom-tea/224444563607",
-          "pub_date": "20261023"
-        },
-        {
-          "title": "본 BON 나무<b>배트</b> <b>야구</b> <b>배트</b> 상품별 선택 기준 - 프로선수 지급용 추천",
-          "url": "https://blog.naver.com/sz9gvbb5f9/224450794260",
-          "naver_url": "https://blog.naver.com/sz9gvbb5f9/224450794260",
-          "pub_date": "20261023"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792732371,
+  "updated_at": 1792749802,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792732371,
-  "shopping_updated_at": 1792732374,
-  "reference_updated_at": 1792732386
+  "trend_updated_at": 1792749802,
+  "shopping_updated_at": 1792749804,
+  "reference_updated_at": 1792749809
 }
