@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86263,
+      "api_total": 86264,
       "items": [
+        {
+          "title": "취업전쟁, 실수연발, 애정갈구… 날 닮았네 안쓰러운 저 녀석들",
+          "url": "https://www.donga.com/news/Culture/article/all/20261023/134899472/2",
+          "naver_url": "https://n.news.naver.com/mnews/article/020/0003757324?sid=103",
+          "pub_date": "Sat, 24 Oct 2026 01:44:00 +0900"
+        },
         {
           "title": "日 대충격! 전력 외 선수, 팀 선배 글러브 훔치다 걸렸나? 중고 거래 사...",
           "url": "https://www.xportsnews.com/article/2210855",
@@ -527,12 +533,6 @@
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639811",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254929",
           "pub_date": "Fri, 23 Oct 2026 13:36:00 +0900"
-        },
-        {
-          "title": "日 자이언츠 신임 사령탑에 507홈런 레전드 파격 발탁...'고질라' 마쓰이...",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=131379",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/529/0000079026",
-          "pub_date": "Fri, 23 Oct 2026 12:57:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17723,
+      "api_total": 17722,
       "items": [
         {
           "title": "&quot;2041년 드래프트 1순위 예약?!&quot; 배팅볼 110km 날려버린 광주 6살 괴물 ....",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1792767731,
+  "updated_at": 1792782622,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792767731,
-  "shopping_updated_at": 1792767734,
-  "reference_updated_at": 1792767748
+  "trend_updated_at": 1792782622,
+  "shopping_updated_at": 1792782624,
+  "reference_updated_at": 1792782629
 }
