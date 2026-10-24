@@ -502,7 +502,7 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86265,
+      "api_total": 86145,
       "items": [
         {
           "title": "'지키는 <b>야구</b> 통했다' 밀워키, 옐리치 선제 결승 3루타·미저라우스키 ...",
@@ -541,7 +541,7 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 1333,
+      "api_total": 1331,
       "items": [
         {
           "title": "[금융권 이모저모]한국거래소, 코스닥 기술평가 개편…우주항공·로봇 ...",
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17739,
+      "api_total": 17741,
       "items": [
+        {
+          "title": "디아즈 프로필 삼성 라이온즈 나무위키 <b>야구</b>선수 나이 국적 연봉 가....",
+          "url": "https://blog.naver.com/tonora/224452500018",
+          "naver_url": "https://blog.naver.com/tonora/224452500018",
+          "pub_date": "20261025"
+        },
         {
           "title": "[동행기 #7] &quot;원래 <b>야구</b> 가방은 몸보다 큰 거야!&quot; : 초보 아빠의 백팩 ....",
           "url": "https://blog.naver.com/kaimay52/224452433887",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/doitanything82/224452179042",
           "naver_url": "https://blog.naver.com/doitanything82/224452179042",
           "pub_date": "20261024"
-        },
-        {
-          "title": "탕정 영어체육 프레피짐, <b>야구</b> 체험수업 수강료 수업시간",
-          "url": "https://blog.naver.com/jisu5135/224452158524",
-          "naver_url": "https://blog.naver.com/jisu5135/224452158524",
-          "pub_date": "20261024"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792848682,
+  "updated_at": 1792861040,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792848682,
-  "shopping_updated_at": 1792848684,
-  "reference_updated_at": 1792848690
+  "trend_updated_at": 1792861040,
+  "shopping_updated_at": 1792861042,
+  "reference_updated_at": 1792861047
 }
