@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86145,
+      "api_total": 86146,
       "items": [
+        {
+          "title": "스기모토 NPB 드래프트→유토에게까지 미친 '나비효과'…'투수 장인' 이...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-25/202610250100153470010012",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004459126",
+          "pub_date": "Sun, 25 Oct 2026 07:12:00 +0900"
+        },
         {
           "title": "'지키는 <b>야구</b> 통했다' 밀워키, 옐리치 선제 결승 3루타·미저라우스키 ...",
           "url": "https://www.mydaily.co.kr/page/view/2026102412412483161",
@@ -527,12 +533,6 @@
           "url": "https://www.dailian.co.kr/news/view/1705334/?sc=Naver",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/119/0003146340",
           "pub_date": "Fri, 23 Oct 2026 14:22:00 +0900"
-        },
-        {
-          "title": "‘고질라’ 마쓰이, 감독으로 친정 요미우리 컴백...스승과 약속 지킨다",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=04077046645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/018/0006394649",
-          "pub_date": "Fri, 23 Oct 2026 13:51:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17743,
+      "api_total": 17744,
       "items": [
+        {
+          "title": "낫소 필드<b>야구</b> 티볼용 써보니 이렇습니다",
+          "url": "https://blog.naver.com/ghmi24n4n61hu2b/224452791989",
+          "naver_url": "https://blog.naver.com/ghmi24n4n61hu2b/224452791989",
+          "pub_date": "20261025"
+        },
         {
           "title": "이재현 프로필 <b>야구</b>선수 삼성라이온즈 학력 응원가 연봉 가을 <b>야구</b> ....",
           "url": "https://blog.naver.com/tonora/224452516084",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/yuyuyu81/224452379090",
           "naver_url": "https://blog.naver.com/yuyuyu81/224452379090",
           "pub_date": "20261024"
-        },
-        {
-          "title": "&quot;10년 차 베테랑도 방출 통보받았다더니&quot; 김정율, <b>야구</b> 그만두려다 ....",
-          "url": "https://blog.naver.com/sportshub365/224451834515",
-          "naver_url": "https://blog.naver.com/sportshub365/224451834515",
-          "pub_date": "20261024"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792877830,
+  "updated_at": 1792885342,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792877830,
-  "shopping_updated_at": 1792877831,
-  "reference_updated_at": 1792877837
+  "trend_updated_at": 1792885342,
+  "shopping_updated_at": 1792885344,
+  "reference_updated_at": 1792885350
 }
