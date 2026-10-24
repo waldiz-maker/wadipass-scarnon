@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17726,
+      "api_total": 17739,
       "items": [
+        {
+          "title": "[동행기 #7] &quot;원래 <b>야구</b> 가방은 몸보다 큰 거야!&quot; : 초보 아빠의 백팩 ....",
+          "url": "https://blog.naver.com/kaimay52/224452433887",
+          "naver_url": "https://blog.naver.com/kaimay52/224452433887",
+          "pub_date": "20261024"
+        },
         {
           "title": "<b>야구</b>여왕으로 관심 커진 여자<b>야구</b>｜LX배 직관, 경기 수준에 놀랐습....",
           "url": "https://blog.naver.com/yuyuyu81/224452379090",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/jisu5135/224452158524",
           "naver_url": "https://blog.naver.com/jisu5135/224452158524",
           "pub_date": "20261024"
-        },
-        {
-          "title": "<b>야구</b>화의 모든 것! 종류부터 브랜드, 아웃솔(바닥) 종류, 포지션별 ....",
-          "url": "https://blog.naver.com/kboinfo/224451968874",
-          "naver_url": "https://blog.naver.com/kboinfo/224451968874",
-          "pub_date": "20261024"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792834215,
+  "updated_at": 1792848682,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792834215,
-  "shopping_updated_at": 1792834216,
-  "reference_updated_at": 1792834222
+  "trend_updated_at": 1792848682,
+  "shopping_updated_at": 1792848684,
+  "reference_updated_at": 1792848690
 }
