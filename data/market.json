@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86264,
+      "api_total": 86265,
       "items": [
+        {
+          "title": "'지키는 <b>야구</b> 통했다' 밀워키, 옐리치 선제 결승 3루타·미저라우스키 ...",
+          "url": "https://www.mydaily.co.kr/page/view/2026102412412483161",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004118009",
+          "pub_date": "Sat, 24 Oct 2026 12:45:00 +0900"
+        },
         {
           "title": "취업전쟁, 실수연발, 애정갈구… 날 닮았네 안쓰러운 저 녀석들",
           "url": "https://www.donga.com/news/Culture/article/all/20261023/134899472/2",
@@ -527,12 +533,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=04077046645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/018/0006394649",
           "pub_date": "Fri, 23 Oct 2026 13:51:00 +0900"
-        },
-        {
-          "title": "'5G급 光속 직업 변경' 김혜성 동료 로하스, 일주일 만에 월드시리즈 현...",
-          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553639811",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002254929",
-          "pub_date": "Fri, 23 Oct 2026 13:36:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17722,
+      "api_total": 17725,
       "items": [
+        {
+          "title": "[취미는 과학 50화] <b>야구</b>, 타격은 왜 과학인가? — 키네마틱 시퀀스와....",
+          "url": "https://blog.naver.com/doitanything82/224452179042",
+          "naver_url": "https://blog.naver.com/doitanything82/224452179042",
+          "pub_date": "20261024"
+        },
+        {
+          "title": "탕정 영어체육 프레피짐, <b>야구</b> 체험수업 수강료 수업시간",
+          "url": "https://blog.naver.com/jisu5135/224452158524",
+          "naver_url": "https://blog.naver.com/jisu5135/224452158524",
+          "pub_date": "20261024"
+        },
         {
           "title": "<b>야구</b>화의 모든 것! 종류부터 브랜드, 아웃솔(바닥) 종류, 포지션별 ....",
           "url": "https://blog.naver.com/kboinfo/224451968874",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/dltkdalsu/224451680631",
           "naver_url": "https://blog.naver.com/dltkdalsu/224451680631",
           "pub_date": "20261023"
-        },
-        {
-          "title": "스트링 라이트로 집 분위기 바꾼 후기",
-          "url": "https://blog.naver.com/ibjtmkz5/224451162321",
-          "naver_url": "https://blog.naver.com/ibjtmkz5/224451162321",
-          "pub_date": "20261023"
-        },
-        {
-          "title": "스타디움샵 이벤트! 모리모토 글러브 구매 후기!",
-          "url": "https://blog.naver.com/dong_ta_ni/224451372603",
-          "naver_url": "https://blog.naver.com/dong_ta_ni/224451372603",
-          "pub_date": "20261023"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792802292,
+  "updated_at": 1792818086,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792802292,
-  "shopping_updated_at": 1792802294,
-  "reference_updated_at": 1792802300
+  "trend_updated_at": 1792818086,
+  "shopping_updated_at": 1792818087,
+  "reference_updated_at": 1792818092
 }
