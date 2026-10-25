@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86154,
+      "api_total": 86155,
       "items": [
+        {
+          "title": "대포 덕분 '홈런 3방' 앞세운 소프트뱅크, 요코하마에 재역전승 일본시...",
+          "url": "https://www.mydaily.co.kr/page/view/2026102521544287990",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004118232",
+          "pub_date": "Sun, 25 Oct 2026 21:56:00 +0900"
+        },
         {
           "title": "'감독은 <b>야구</b>할 맛 나겠네'…선발 3회 무너져도 불펜 6이닝 무실점 '순삭...",
           "url": "https://www.sportschosun.com/baseball/2026-10-25/202610250100156610010218",
@@ -526,12 +532,6 @@
           "title": "서울디자인위크에서 만나는 공예품들",
           "url": "https://www.news1.kr/photos/8177574",
           "naver_url": "https://n.news.naver.com/mnews/article/421/0009248497?sid=102",
-          "pub_date": "Sun, 25 Oct 2026 15:42:00 +0900"
-        },
-        {
-          "title": "공예품으로 탄생한 폐기 <b>야구 배트</b>",
-          "url": "https://www.news1.kr/photos/8177572",
-          "naver_url": "https://n.news.naver.com/mnews/article/421/0009248498?sid=102",
           "pub_date": "Sun, 25 Oct 2026 15:42:00 +0900"
         }
       ]
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17813,
+      "api_total": 17859,
       "items": [
+        {
+          "title": "DG베이스볼 아카데미 : 플러스 배팅센터, 배팅장 시설 추가 # 비오는....",
+          "url": "https://blog.naver.com/kojinwoong/224453225372",
+          "naver_url": "https://blog.naver.com/kojinwoong/224453225372",
+          "pub_date": "20261025"
+        },
         {
           "title": "우만동 실내연습장에서 수원<b>야구</b> 꿈 키우는 아이들 보면서 든 생각",
           "url": "https://blog.naver.com/cyzsdndqkrxw/224453109762",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/tonora/224452600684",
           "naver_url": "https://blog.naver.com/tonora/224452600684",
           "pub_date": "20261025"
-        },
-        {
-          "title": "<b>야구</b>를 사랑하는 당신을 위한 나무<b>배트</b> 추천",
-          "url": "https://blog.naver.com/cvlwnt56/224452854329",
-          "naver_url": "https://blog.naver.com/cvlwnt56/224452854329",
-          "pub_date": "20261025"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792930462,
+  "updated_at": 1792945369,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792930462,
-  "shopping_updated_at": 1792930465,
-  "reference_updated_at": 1792930477
+  "trend_updated_at": 1792945369,
+  "shopping_updated_at": 1792945371,
+  "reference_updated_at": 1792945377
 }
