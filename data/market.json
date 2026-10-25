@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86146,
+      "api_total": 86153,
       "items": [
         {
-          "title": "스기모토 NPB 드래프트→유토에게까지 미친 '나비효과'…'투수 장인' 이...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-25/202610250100153470010012",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004459126",
-          "pub_date": "Sun, 25 Oct 2026 07:12:00 +0900"
+          "title": "폐기된 <b>야구 배트</b>의 새로운 모습",
+          "url": "https://www.news1.kr/photos/8177568",
+          "naver_url": "https://n.news.naver.com/mnews/article/421/0009248503?sid=102",
+          "pub_date": "Sun, 25 Oct 2026 15:43:00 +0900"
         },
         {
-          "title": "'지키는 <b>야구</b> 통했다' 밀워키, 옐리치 선제 결승 3루타·미저라우스키 ...",
-          "url": "https://www.mydaily.co.kr/page/view/2026102412412483161",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004118009",
-          "pub_date": "Sat, 24 Oct 2026 12:45:00 +0900"
+          "title": "<b>야구 배트</b>에 '변신'",
+          "url": "https://www.news1.kr/photos/8177570",
+          "naver_url": "https://n.news.naver.com/mnews/article/421/0009248500?sid=102",
+          "pub_date": "Sun, 25 Oct 2026 15:42:00 +0900"
         },
         {
-          "title": "취업전쟁, 실수연발, 애정갈구… 날 닮았네 안쓰러운 저 녀석들",
-          "url": "https://www.donga.com/news/Culture/article/all/20261023/134899472/2",
-          "naver_url": "https://n.news.naver.com/mnews/article/020/0003757324?sid=103",
-          "pub_date": "Sat, 24 Oct 2026 01:44:00 +0900"
+          "title": "못 쓰는 <b>야구 배트</b> '새로운 변신'",
+          "url": "https://www.news1.kr/photos/8177571",
+          "naver_url": "https://n.news.naver.com/mnews/article/421/0009248499?sid=102",
+          "pub_date": "Sun, 25 Oct 2026 15:42:00 +0900"
         },
         {
-          "title": "日 대충격! 전력 외 선수, 팀 선배 글러브 훔치다 걸렸나? 중고 거래 사...",
-          "url": "https://www.xportsnews.com/article/2210855",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/311/0002072008",
-          "pub_date": "Fri, 23 Oct 2026 22:10:00 +0900"
+          "title": "공예품으로 탄생한 폐기 <b>야구 배트</b>",
+          "url": "https://www.news1.kr/photos/8177572",
+          "naver_url": "https://n.news.naver.com/mnews/article/421/0009248498?sid=102",
+          "pub_date": "Sun, 25 Oct 2026 15:42:00 +0900"
         },
         {
-          "title": "PO 앞둔 KIA의 행복한 중견수 고민…김호령이냐, 박정우냐",
-          "url": "https://www.dailian.co.kr/news/view/1705334/?sc=Naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/119/0003146340",
-          "pub_date": "Fri, 23 Oct 2026 14:22:00 +0900"
+          "title": "서울디자인위크에서 만나는 공예품들",
+          "url": "https://www.news1.kr/photos/8177574",
+          "naver_url": "https://n.news.naver.com/mnews/article/421/0009248497?sid=102",
+          "pub_date": "Sun, 25 Oct 2026 15:42:00 +0900"
         }
       ]
     },
@@ -582,8 +582,26 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17746,
+      "api_total": 17783,
       "items": [
+        {
+          "title": "우만동 실내연습장에서 수원<b>야구</b> 꿈 키우는 아이들 보면서 든 생각",
+          "url": "https://blog.naver.com/cyzsdndqkrxw/224453109762",
+          "naver_url": "https://blog.naver.com/cyzsdndqkrxw/224453109762",
+          "pub_date": "20261025"
+        },
+        {
+          "title": "기장 발달장애인 주간활동서비스｜10월 2주차 일광<b>야구</b>체험관·한글....",
+          "url": "https://blog.naver.com/boramsc/224453100992",
+          "naver_url": "https://blog.naver.com/boramsc/224453100992",
+          "pub_date": "20261025"
+        },
+        {
+          "title": "월드 모델(World Models), AI가 세상을 이해하기 시작했다 (Gartner 2027 트....",
+          "url": "https://blog.naver.com/onlyu/224453002140",
+          "naver_url": "https://blog.naver.com/onlyu/224453002140",
+          "pub_date": "20261025"
+        },
         {
           "title": "박진만 프로필 삼성 라이온즈 <b>야구</b>감독 연봉 나무위키 학력 고향 가....",
           "url": "https://blog.naver.com/tonora/224452600684",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/cvlwnt56/224452854329",
           "naver_url": "https://blog.naver.com/cvlwnt56/224452854329",
           "pub_date": "20261025"
-        },
-        {
-          "title": "이재현 프로필 <b>야구</b>선수 삼성라이온즈 학력 응원가 연봉 가을 <b>야구</b> ....",
-          "url": "https://blog.naver.com/tonora/224452516084",
-          "naver_url": "https://blog.naver.com/tonora/224452516084",
-          "pub_date": "20261025"
-        },
-        {
-          "title": "디아즈 프로필 삼성 라이온즈 나무위키 <b>야구</b>선수 나이 국적 연봉 가....",
-          "url": "https://blog.naver.com/tonora/224452500018",
-          "naver_url": "https://blog.naver.com/tonora/224452500018",
-          "pub_date": "20261025"
-        },
-        {
-          "title": "[동행기 #7] &quot;원래 <b>야구</b> 가방은 몸보다 큰 거야!&quot; : 초보 아빠의 백팩 ....",
-          "url": "https://blog.naver.com/kaimay52/224452433887",
-          "naver_url": "https://blog.naver.com/kaimay52/224452433887",
-          "pub_date": "20261024"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1792892399,
+  "updated_at": 1792911068,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1792892399,
-  "shopping_updated_at": 1792892402,
-  "reference_updated_at": 1792892414
+  "trend_updated_at": 1792911068,
+  "shopping_updated_at": 1792911070,
+  "reference_updated_at": 1792911075
 }
