@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86177,
+      "api_total": 86179,
       "items": [
+        {
+          "title": "“KIA가 한국시리즈 갈 것” 함평→서울→함평 강행군에도 마음은 대구...",
+          "url": "http://www.osen.co.kr/article/G1112898832",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005629353",
+          "pub_date": "Tue, 27 Oct 2026 08:16:00 +0900"
+        },
+        {
+          "title": "“그동안 마이너스였잖아요”…157㎞ 좌완 이의리 우려 씻은 호투, PO 1차...",
+          "url": "https://sports.donga.com/sports/article/all/20261027/134913361/1",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/382/0001301257",
+          "pub_date": "Tue, 27 Oct 2026 08:00:00 +0900"
+        },
         {
           "title": "천하의 김도영도 착각할 때가 있다, 타구 감상하다가 후다닥 2루 질주 “...",
           "url": "http://www.osen.co.kr/article/G1112898794",
@@ -521,18 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-10-26/202610270100165870010825",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004459750",
           "pub_date": "Tue, 27 Oct 2026 00:19:00 +0900"
-        },
-        {
-          "title": "&quot;신인 최고 계약금, 부모님께 드리겠다&quot; 하현승, 2년 연속 퓨처스 스타...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/27/2026102613280966309",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003481884",
-          "pub_date": "Tue, 27 Oct 2026 00:09:00 +0900"
-        },
-        {
-          "title": "&quot;호랑이만 만나면 약해지는 사자&quot; 삼성, 비로 하루 미뤄진 기아와 PO 1차...",
-          "url": "https://www.hidomin.com/news/articleView.html?idxno=726591",
-          "naver_url": "https://www.hidomin.com/news/articleView.html?idxno=726591",
-          "pub_date": "Mon, 26 Oct 2026 22:02:00 +0900"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 17961,
+      "api_total": 17973,
       "items": [
         {
           "title": "<b>야구</b> 연습을 위한 최고의 <b>배트</b> 그립 추천",
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1793043951,
+  "updated_at": 1793057349,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793043951,
-  "shopping_updated_at": 1793043953,
-  "reference_updated_at": 1793043958
+  "trend_updated_at": 1793057349,
+  "shopping_updated_at": 1793057350,
+  "reference_updated_at": 1793057356
 }
