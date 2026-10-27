@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86211,
+      "api_total": 86213,
       "items": [
+        {
+          "title": "'불꽃<b>야구</b>2', 19번째 직관 경기 오늘(28일) 예매 오픈→상대는?…&quot;트로피...",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16259977",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16259977",
+          "pub_date": "Wed, 28 Oct 2026 07:00:00 +0900"
+        },
+        {
+          "title": "'카스트로도 디아즈도 터졌다고?' 누구든 와라! 44홈런 타점왕 힐리어드...",
+          "url": "https://www.starnewskorea.com/sports/2026/10/28/2026102721495826003",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003482249",
+          "pub_date": "Wed, 28 Oct 2026 06:16:00 +0900"
+        },
         {
           "title": "[오피셜]'한국 안 온다!' KIA 거절한 이유 때문인가, 깜짝 계약 소식…K...",
           "url": "https://www.sportschosun.com/baseball/2026-10-27/202610280100173620011477",
@@ -521,18 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-10-27/202610280100176260011681",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004460247",
           "pub_date": "Wed, 28 Oct 2026 00:14:00 +0900"
-        },
-        {
-          "title": "BJ 수탉, 납치·폭행 가해자 일당 2심 감형에 분노…&quot;내가 죽었어야 했나...",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16259717",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16259717",
-          "pub_date": "Tue, 27 Oct 2026 23:28:00 +0900"
-        },
-        {
-          "title": "KIA 이의리, 주자 1루 약점 노출…PO 2차전 승부처에서 밀어내기 볼넷",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16259837",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16259837",
-          "pub_date": "Tue, 27 Oct 2026 21:50:00 +0900"
         }
       ]
     },
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1793129492,
+  "updated_at": 1793142645,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793129492,
-  "shopping_updated_at": 1793129494,
-  "reference_updated_at": 1793129500
+  "trend_updated_at": 1793142645,
+  "shopping_updated_at": 1793142647,
+  "reference_updated_at": 1793142653
 }
