@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86239,
+      "api_total": 86245,
       "items": [
         {
-          "title": "“좋은 각도로 나오기 어려운 코스였는데…” 이순철 해설위원도 깜놀...",
-          "url": "http://www.osen.co.kr/article/G1112900663",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005631164",
-          "pub_date": "Thu, 29 Oct 2026 20:17:00 +0900"
+          "title": "&quot;일본 <b>야구</b> 재미없다&quot; 사이영상 출신 바우어 작심 발언…&quot;팀마다 파울만...",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553658111",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002255241",
+          "pub_date": "Fri, 30 Oct 2026 02:31:00 +0900"
         },
         {
-          "title": "'친정' KIA 만나면 눈에 불꽃이…, 시라카와 끌어내린 역전 투런포, 류지...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-29/202610290100191570013248",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004461083",
-          "pub_date": "Thu, 29 Oct 2026 20:16:00 +0900"
+          "title": "“일본 <b>야구</b>는 재미없다” 사이영상 투수의 작심 발언. 알고 보니 日타...",
+          "url": "https://www.sportschosun.com/baseball/2026-10-29/202610300100191590013249",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004461173",
+          "pub_date": "Fri, 30 Oct 2026 00:19:00 +0900"
         },
         {
-          "title": "구자욱 '잘 안풀리네'",
-          "url": "https://www.news1.kr/photos/8187297",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009259280",
-          "pub_date": "Thu, 29 Oct 2026 19:48:00 +0900"
+          "title": "‘김도영 잡고, 1구 세이브’ 사토시 “피할 생각 없었어” 강렬…“팬...",
+          "url": "https://www.sportsseoul.com/news/read/1645357?ref=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001276538",
+          "pub_date": "Fri, 30 Oct 2026 00:00:00 +0900"
         },
         {
-          "title": "김도영, 시원한 <b>배트</b>플립",
-          "url": "https://www.news1.kr/photos/8187276",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009259251",
-          "pub_date": "Thu, 29 Oct 2026 19:37:00 +0900"
+          "title": "삼성, 한국시리즈까지 1승 남았다...3차전서 6-4 승리",
+          "url": "https://www.seoul.co.kr/news/sport/2026/10/29/20261029500346?wlog_tag3=naver",
+          "naver_url": "https://m.sports.naver.com/general/article/081/0003693991",
+          "pub_date": "Thu, 29 Oct 2026 23:03:00 +0900"
         },
         {
-          "title": "김도영, 역전 솔로포 '빠던'",
-          "url": "https://www.news1.kr/photos/8187268",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009259237",
-          "pub_date": "Thu, 29 Oct 2026 19:35:00 +0900"
+          "title": "'내일' 없는 <b>야구</b>, 삼성이 끝내 웃었다!…박승규 결승타로 KIA 6-4 제압→...",
+          "url": "https://www.xportsnews.com/article/2213151",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002074302",
+          "pub_date": "Thu, 29 Oct 2026 22:20:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18169,
+      "api_total": 18171,
       "items": [
+        {
+          "title": "<b>야구</b>를 더 즐겁게 해주는 그립",
+          "url": "https://blog.naver.com/wiihow2fdgh7f/224458489013",
+          "naver_url": "https://blog.naver.com/wiihow2fdgh7f/224458489013",
+          "pub_date": "20261030"
+        },
+        {
+          "title": "티라노스포츠 NEW 족가지마 프리뷰 | 10만 원대 가성비 끝판왕 <b>사회인</b>....",
+          "url": "https://blog.naver.com/ih_yeo0123/224458254472",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224458254472",
+          "pub_date": "20261029"
+        },
         {
           "title": "금속 알루미늄 <b>야구</b> <b>배트</b> 스포츠 알루미늄 <b>야구</b> 방망이 <b>사회인</b>",
           "url": "https://blog.naver.com/djerutxhs13658_pd/224457755053",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/jmkokuno/224458136412",
           "naver_url": "https://blog.naver.com/jmkokuno/224458136412",
           "pub_date": "20261029"
-        },
-        {
-          "title": "연극 트로피보이즈 후기 (시간/좌석/배우/줄거리/할인) @링크아트센....",
-          "url": "https://blog.naver.com/avrildefiant0304/224457896967",
-          "naver_url": "https://blog.naver.com/avrildefiant0304/224457896967",
-          "pub_date": "20261029"
-        },
-        {
-          "title": "제트 내야수글러브 프로모델 고쿠보웹 퍼플화이트 송성문패턴 JBPRO",
-          "url": "https://blog.naver.com/hyperclover/224457843212",
-          "naver_url": "https://blog.naver.com/hyperclover/224457843212",
-          "pub_date": "20261029"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793274378,
+  "updated_at": 1793296200,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793274378,
-  "shopping_updated_at": 1793274380,
-  "reference_updated_at": 1793274386
+  "trend_updated_at": 1793296200,
+  "shopping_updated_at": 1793296201,
+  "reference_updated_at": 1793296207
 }
