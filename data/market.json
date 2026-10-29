@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86245,
+      "api_total": 86249,
       "items": [
+        {
+          "title": "'김도영 잠재운 단 1구' 삼성 日 사토시, 역대 PS 최소 투구 세이브",
+          "url": "https://www.nocutnews.co.kr/news/6599546?utm_source=naver&utm_medium=article&utm_campaign=20261030070032",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/079/0004204655",
+          "pub_date": "Fri, 30 Oct 2026 07:01:00 +0900"
+        },
+        {
+          "title": "&quot;최형우 기념구? 선배가 버리라 해서…&quot; 류지혁이 전한 '보살 기념구' 뒷...",
+          "url": "https://www.nocutnews.co.kr/news/6599544?utm_source=naver&utm_medium=article&utm_campaign=20261030060032",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/079/0004204648",
+          "pub_date": "Fri, 30 Oct 2026 06:01:00 +0900"
+        },
+        {
+          "title": "「어린이 <b>야구</b> 대백과」공을 잘 치려면?",
+          "url": "https://www.kidshankook.kr/news/articleView.html?idxno=18653",
+          "naver_url": "https://www.kidshankook.kr/news/articleView.html?idxno=18653",
+          "pub_date": "Fri, 30 Oct 2026 05:52:00 +0900"
+        },
+        {
+          "title": "호랑이굴서 사자가 포효했다",
+          "url": "https://www.seoul.co.kr/news/sport/baseball/2026/10/30/20261030034002?wlog_tag3=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/081/0003694071",
+          "pub_date": "Fri, 30 Oct 2026 05:05:00 +0900"
+        },
         {
           "title": "&quot;일본 <b>야구</b> 재미없다&quot; 사이영상 출신 바우어 작심 발언…&quot;팀마다 파울만...",
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553658111",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002255241",
           "pub_date": "Fri, 30 Oct 2026 02:31:00 +0900"
-        },
-        {
-          "title": "“일본 <b>야구</b>는 재미없다” 사이영상 투수의 작심 발언. 알고 보니 日타...",
-          "url": "https://www.sportschosun.com/baseball/2026-10-29/202610300100191590013249",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004461173",
-          "pub_date": "Fri, 30 Oct 2026 00:19:00 +0900"
-        },
-        {
-          "title": "‘김도영 잡고, 1구 세이브’ 사토시 “피할 생각 없었어” 강렬…“팬...",
-          "url": "https://www.sportsseoul.com/news/read/1645357?ref=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001276538",
-          "pub_date": "Fri, 30 Oct 2026 00:00:00 +0900"
-        },
-        {
-          "title": "삼성, 한국시리즈까지 1승 남았다...3차전서 6-4 승리",
-          "url": "https://www.seoul.co.kr/news/sport/2026/10/29/20261029500346?wlog_tag3=naver",
-          "naver_url": "https://m.sports.naver.com/general/article/081/0003693991",
-          "pub_date": "Thu, 29 Oct 2026 23:03:00 +0900"
-        },
-        {
-          "title": "'내일' 없는 <b>야구</b>, 삼성이 끝내 웃었다!…박승규 결승타로 KIA 6-4 제압→...",
-          "url": "https://www.xportsnews.com/article/2213151",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002074302",
-          "pub_date": "Thu, 29 Oct 2026 22:20:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18171,
+      "api_total": 18173,
       "items": [
+        {
+          "title": "여름 버티기 성공 (⁎⁍̴̛ᴗ⁍̴̛⁎)",
+          "url": "https://blog.naver.com/amy060315/224458565152",
+          "naver_url": "https://blog.naver.com/amy060315/224458565152",
+          "pub_date": "20261030"
+        },
+        {
+          "title": "261030 [장전] Market Indicators &amp; 주요 뉴스",
+          "url": "https://blog.naver.com/zarobiza/224458545045",
+          "naver_url": "https://blog.naver.com/zarobiza/224458545045",
+          "pub_date": "20261030"
+        },
         {
           "title": "<b>야구</b>를 더 즐겁게 해주는 그립",
           "url": "https://blog.naver.com/wiihow2fdgh7f/224458489013",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/djerutxhs13658_pd/224457755053",
           "naver_url": "https://blog.naver.com/djerutxhs13658_pd/224457755053",
           "pub_date": "20261029"
-        },
-        {
-          "title": "와니엘 디아멍 <b>배트</b> 캡수리",
-          "url": "https://blog.naver.com/misterbaseball/224458143036",
-          "naver_url": "https://blog.naver.com/misterbaseball/224458143036",
-          "pub_date": "20261029"
-        },
-        {
-          "title": "김도영 고교 시절, 투타 겸업이 아니라 공수주 유격수였다: 동성고 ....",
-          "url": "https://blog.naver.com/jmkokuno/224458136412",
-          "naver_url": "https://blog.naver.com/jmkokuno/224458136412",
-          "pub_date": "20261029"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793296200,
+  "updated_at": 1793312053,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793296200,
-  "shopping_updated_at": 1793296201,
-  "reference_updated_at": 1793296207
+  "trend_updated_at": 1793312053,
+  "shopping_updated_at": 1793312055,
+  "reference_updated_at": 1793312060
 }
