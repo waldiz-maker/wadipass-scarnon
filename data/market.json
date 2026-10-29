@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 50.3
+          "ratio": 51.14
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 13.14
+          "ratio": 13.31
         }
       ]
     },
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 58.5,
+    "recent_3m_avg": 58.8,
     "previous_3m_avg": 75.2,
-    "delta_pct": -22.2,
+    "delta_pct": -21.8,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 50.3,
+    "latest_ratio": 51.1,
     "peak_period": "2025-10-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 81.6,
+      "index": 81.8,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 83.0,
+      "index": 83.1,
       "period_count": 4
     }
   },
@@ -421,13 +421,13 @@
       {
         "group": "40",
         "label": "40대",
-        "index": 81.6,
+        "index": 81.8,
         "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 28.8,
+        "index": 28.9,
         "period_count": 4
       },
       {
@@ -458,7 +458,7 @@
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 81.6,
+      "index": 81.8,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -474,20 +474,20 @@
       {
         "group": "m",
         "label": "남성",
-        "index": 83.0,
+        "index": 83.1,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 29.2,
+        "index": 29.3,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 83.0,
+      "index": 83.1,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -502,7 +502,7 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86230,
+      "api_total": 86229,
       "items": [
         {
           "title": "[소셜＋] &quot;과제 폭탄엔 디지털 <b>배트</b>&quot;…대학가 파고든 캠퍼스 파괴 게임",
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18156,
+      "api_total": 18166,
       "items": [
         {
-          "title": "유튜버 수탉 납치 일당 공탁금 1000만원, 거부했는데도 감형에 반영....",
-          "url": "https://blog.naver.com/bop114/224457427390",
-          "naver_url": "https://blog.naver.com/bop114/224457427390",
+          "title": "팀대관 4+1 이벤트",
+          "url": "https://blog.naver.com/cells21/224457746864",
+          "naver_url": "https://blog.naver.com/cells21/224457746864",
           "pub_date": "20261029"
         },
         {
-          "title": "기프트 김우빈 4년 만의 복귀 12부작 <b>야구</b> 드라마의 반전 (tvN 토일드....",
-          "url": "https://blog.naver.com/divi-hwang/224457234735",
-          "naver_url": "https://blog.naver.com/divi-hwang/224457234735",
+          "title": "<b>야구</b>를 즐기기 위한 필수 아이템",
+          "url": "https://blog.naver.com/xs1iag4ob02b4x/224457716564",
+          "naver_url": "https://blog.naver.com/xs1iag4ob02b4x/224457716564",
           "pub_date": "20261029"
         },
         {
-          "title": "러브샷 6부",
-          "url": "https://blog.naver.com/bluskyhi/224457059940",
-          "naver_url": "https://blog.naver.com/bluskyhi/224457059940",
-          "pub_date": "20261028"
+          "title": "삼성 김영웅 도발이다? 원태인에게 던진 한마디 속 진짜 이유",
+          "url": "https://blog.naver.com/amazing_jeju/224457637778",
+          "naver_url": "https://blog.naver.com/amazing_jeju/224457637778",
+          "pub_date": "20261029"
         },
         {
-          "title": "러브샷 4부",
-          "url": "https://blog.naver.com/bluskyhi/224457057519",
-          "naver_url": "https://blog.naver.com/bluskyhi/224457057519",
-          "pub_date": "20261028"
+          "title": "의정부 <b>야구</b> 배팅장 추천! <b>야구</b>야 24시 배팅장 방문 후기",
+          "url": "https://blog.naver.com/whdgus928/224457658269",
+          "naver_url": "https://blog.naver.com/whdgus928/224457658269",
+          "pub_date": "20261029"
         },
         {
-          "title": "러브샷 3부",
-          "url": "https://blog.naver.com/bluskyhi/224457056273",
-          "naver_url": "https://blog.naver.com/bluskyhi/224457056273",
-          "pub_date": "20261028"
+          "title": "썬버드 올라운드 <b>야구</b>글러브 SR4K 왼쪽(좌) 12.5인치, 입문용 장비 추....",
+          "url": "https://blog.naver.com/stardog87925/224457595546",
+          "naver_url": "https://blog.naver.com/stardog87925/224457595546",
+          "pub_date": "20261029"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793232426,
+  "updated_at": 1793252519,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793232426,
-  "shopping_updated_at": 1793232428,
-  "reference_updated_at": 1793232434
+  "trend_updated_at": 1793252519,
+  "shopping_updated_at": 1793252520,
+  "reference_updated_at": 1793252526
 }
