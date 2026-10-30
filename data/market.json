@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86258,
+      "api_total": 86266,
       "items": [
         {
-          "title": "홈런 친 김도영이 자책하다니...KIA, 가을<b>야구</b>가 이어지려면? '해줘 <b>야구</b>...",
-          "url": "https://isplus.com/article/view/isp202610300027",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003538244",
-          "pub_date": "Fri, 30 Oct 2026 10:46:00 +0900"
+          "title": "'불꽃<b>야구</b>' 김성근 감독 어쩌나…시즌 첫 3연패, 파격 라인업으로 명예...",
+          "url": "https://www.tenasia.co.kr/article/2026103060104",
+          "naver_url": "https://m.entertain.naver.com/article/312/0000782280",
+          "pub_date": "Fri, 30 Oct 2026 16:30:00 +0900"
         },
         {
-          "title": "류지혁, 친정 KIA에 역전 2점포…포스트시즌 통산 39경기 만의 첫 홈런",
-          "url": "https://www.imaeil.com/page/view/2026103009513460862",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/088/0001037409",
-          "pub_date": "Fri, 30 Oct 2026 10:45:00 +0900"
+          "title": "사라져가던 번트…‘머니볼’ 이후 공격 무기로 돌아왔다",
+          "url": "https://www.hani.co.kr/arti/sports/baseball/1285022.html",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/028/0002829982",
+          "pub_date": "Fri, 30 Oct 2026 15:00:00 +0900"
         },
         {
-          "title": "&quot;못해도 끝까지 해보자&quot; 한 달간 경기까지 포기한 '일병' 박지환, 타격폼...",
-          "url": "https://www.starnewskorea.com/sports/2026/10/30/2026102919354567212",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003482921",
-          "pub_date": "Fri, 30 Oct 2026 10:01:00 +0900"
+          "title": "‘불꽃<b>야구</b>2’ 김성근 감독, 이택근 긴급 호출?! 베스트 라인업을 위한...",
+          "url": "https://sports.khan.co.kr/article/202610301415003?pt=nv",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001147237",
+          "pub_date": "Fri, 30 Oct 2026 14:16:00 +0900"
         },
         {
-          "title": "초구 노린 김도영, 승부는 사토시의 승리…삼성, KIA에 2-1 리드 [PO 3차전...",
-          "url": "https://www.kukinews.com/article/view/kuk202610300019",
-          "naver_url": "https://www.kukinews.com/article/view/kuk202610300019",
-          "pub_date": "Fri, 30 Oct 2026 09:14:00 +0900"
+          "title": "김성근, '롯데 단장 부임' 이택근 긴급 호출..대책 본부 급조 ('불꽃<b>야구</b>...",
+          "url": "http://www.osen.co.kr/article/G1112901115",
+          "naver_url": "https://m.entertain.naver.com/article/109/0005631598",
+          "pub_date": "Fri, 30 Oct 2026 14:06:00 +0900"
         },
         {
-          "title": "“아내 빼고 다 바꿨다” 이대호…3연패에 <b>배트</b>·글러브 싹 교체",
-          "url": "https://www.sportsseoul.com/news/read/1645385?ref=naver",
-          "naver_url": "https://m.entertain.naver.com/article/468/0001276573",
-          "pub_date": "Fri, 30 Oct 2026 08:49:00 +0900"
+          "title": "ML 최초 업적만 두 개! 얼마나 잘했으면…'착용 안경' 명예의전당 박물...",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016439",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/477/0000636034",
+          "pub_date": "Fri, 30 Oct 2026 13:33:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18179,
+      "api_total": 18180,
       "items": [
+        {
+          "title": "[미드영어 The Simpsons] 심슨가족 시즌2 제5화 Dancin' Homer",
+          "url": "https://blog.naver.com/jsenglishworld/224459001962",
+          "naver_url": "https://blog.naver.com/jsenglishworld/224459001962",
+          "pub_date": "20261030"
+        },
+        {
+          "title": "사사키 프로엣지 내야글러브 전체끈수리",
+          "url": "https://blog.naver.com/susanokorea/224458938744",
+          "naver_url": "https://blog.naver.com/susanokorea/224458938744",
+          "pub_date": "20261030"
+        },
         {
           "title": "처음부터 무리하지 않는 <b>사회인 야구</b> 연습법, 달서구 베이스볼뱅크....",
           "url": "https://blog.naver.com/hoiubpm2pa1tg/224458759640",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/zahircase/224458637315",
           "naver_url": "https://blog.naver.com/zahircase/224458637315",
           "pub_date": "20261030"
-        },
-        {
-          "title": "[생활발명] 종이컵은 누가 만들었나",
-          "url": "https://blog.naver.com/temwasseo/224452475783",
-          "naver_url": "https://blog.naver.com/temwasseo/224452475783",
-          "pub_date": "20261030"
-        },
-        {
-          "title": "여름 버티기 성공 (⁎⁍̴̛ᴗ⁍̴̛⁎)",
-          "url": "https://blog.naver.com/amy060315/224458565152",
-          "naver_url": "https://blog.naver.com/amy060315/224458565152",
-          "pub_date": "20261030"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793325486,
+  "updated_at": 1793347593,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793325486,
-  "shopping_updated_at": 1793325488,
-  "reference_updated_at": 1793325493
+  "trend_updated_at": 1793347593,
+  "shopping_updated_at": 1793347595,
+  "reference_updated_at": 1793347600
 }
