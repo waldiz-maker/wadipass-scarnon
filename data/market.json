@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86266,
+      "api_total": 86280,
       "items": [
         {
-          "title": "'불꽃<b>야구</b>' 김성근 감독 어쩌나…시즌 첫 3연패, 파격 라인업으로 명예...",
-          "url": "https://www.tenasia.co.kr/article/2026103060104",
-          "naver_url": "https://m.entertain.naver.com/article/312/0000782280",
-          "pub_date": "Fri, 30 Oct 2026 16:30:00 +0900"
+          "title": "삼성 큰형 최형우, 가을<b>야구</b> '최고령' 홈런 기록 또 경신",
+          "url": "https://news.jtbc.co.kr/article/NB12325778?influxDiv=NAVER",
+          "naver_url": "https://m.sports.naver.com/general/article/437/0000518456",
+          "pub_date": "Fri, 30 Oct 2026 23:37:00 +0900"
         },
         {
-          "title": "사라져가던 번트…‘머니볼’ 이후 공격 무기로 돌아왔다",
-          "url": "https://www.hani.co.kr/arti/sports/baseball/1285022.html",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/028/0002829982",
-          "pub_date": "Fri, 30 Oct 2026 15:00:00 +0900"
+          "title": "'김영웅 실책 컸다' KIA 대역전 드라마! 5차전 확정…한준수 결승타+짜릿...",
+          "url": "https://www.xportsnews.com/article/2213678",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002074824",
+          "pub_date": "Fri, 30 Oct 2026 22:22:00 +0900"
         },
         {
-          "title": "‘불꽃<b>야구</b>2’ 김성근 감독, 이택근 긴급 호출?! 베스트 라인업을 위한...",
-          "url": "https://sports.khan.co.kr/article/202610301415003?pt=nv",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001147237",
-          "pub_date": "Fri, 30 Oct 2026 14:16:00 +0900"
+          "title": "3연패 빠진 불꽃 파이터즈, 김성근이 꺼낸 승부수는 ‘파격 라인업’",
+          "url": "https://www.sportsworldi.com/newsView/20261030516520",
+          "naver_url": "https://m.entertain.naver.com/article/396/0000759560",
+          "pub_date": "Fri, 30 Oct 2026 22:08:00 +0900"
         },
         {
-          "title": "김성근, '롯데 단장 부임' 이택근 긴급 호출..대책 본부 급조 ('불꽃<b>야구</b>...",
-          "url": "http://www.osen.co.kr/article/G1112901115",
-          "naver_url": "https://m.entertain.naver.com/article/109/0005631598",
-          "pub_date": "Fri, 30 Oct 2026 14:06:00 +0900"
+          "title": "수원은 벌써 한국시리즈 '0차전'…8천 관중에 응원단·비트<b>배트</b>까지, KT...",
+          "url": "http://www.spochoo.com/news/articleView.html?idxno=131636",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/529/0000079114",
+          "pub_date": "Fri, 30 Oct 2026 21:43:00 +0900"
         },
         {
-          "title": "ML 최초 업적만 두 개! 얼마나 잘했으면…'착용 안경' 명예의전당 박물...",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016439",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/477/0000636034",
-          "pub_date": "Fri, 30 Oct 2026 13:33:00 +0900"
+          "title": "'122km 실투 쾅!' 42세 최형우, 사흘 만에 최고령 홈런 또 깼다… 1-1 균...",
+          "url": "https://www.fnnews.com/news/202610302053035474",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/014/0005597259",
+          "pub_date": "Fri, 30 Oct 2026 20:54:00 +0900"
         }
       ]
     },
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18180,
+      "api_total": 18182,
       "items": [
+        {
+          "title": "[브루스볼트 배팅장갑] - MLB 선수들이 즐겨쓰는 튼튼한 배팅장갑",
+          "url": "https://blog.naver.com/seogi1/224459573743",
+          "naver_url": "https://blog.naver.com/seogi1/224459573743",
+          "pub_date": "20261030"
+        },
+        {
+          "title": "26년 10월, 9살 6살 먹으러 간 부산 여행",
+          "url": "https://blog.naver.com/luvsujin2/224459481861",
+          "naver_url": "https://blog.naver.com/luvsujin2/224459481861",
+          "pub_date": "20261030"
+        },
+        {
+          "title": "롯데 <b>배트</b>걸이 치어리더가 됐다고? 정치외교학과 출신 한예은의 반....",
+          "url": "https://blog.naver.com/odengm/224457709465",
+          "naver_url": "https://blog.naver.com/odengm/224457709465",
+          "pub_date": "20261030"
+        },
+        {
+          "title": "스윙 영상 분석, 많이 본다고 실력이 늘까? | 타격 레슨에서 중요한 ....",
+          "url": "https://blog.naver.com/dltkdalsu/224459407241",
+          "naver_url": "https://blog.naver.com/dltkdalsu/224459407241",
+          "pub_date": "20261030"
+        },
         {
           "title": "[미드영어 The Simpsons] 심슨가족 시즌2 제5화 Dancin' Homer",
           "url": "https://blog.naver.com/jsenglishworld/224459001962",
           "naver_url": "https://blog.naver.com/jsenglishworld/224459001962",
-          "pub_date": "20261030"
-        },
-        {
-          "title": "사사키 프로엣지 내야글러브 전체끈수리",
-          "url": "https://blog.naver.com/susanokorea/224458938744",
-          "naver_url": "https://blog.naver.com/susanokorea/224458938744",
-          "pub_date": "20261030"
-        },
-        {
-          "title": "처음부터 무리하지 않는 <b>사회인 야구</b> 연습법, 달서구 베이스볼뱅크....",
-          "url": "https://blog.naver.com/hoiubpm2pa1tg/224458759640",
-          "naver_url": "https://blog.naver.com/hoiubpm2pa1tg/224458759640",
-          "pub_date": "20261030"
-        },
-        {
-          "title": "인천 검단 <b>야구</b> 트레이닝｜구속과 타구 속도가 늘지 않는 이유? 임....",
-          "url": "https://blog.naver.com/k_taeng93/224456951926",
-          "naver_url": "https://blog.naver.com/k_taeng93/224456951926",
-          "pub_date": "20261030"
-        },
-        {
-          "title": "<b>야구</b> 초보의 꾸준한 연습 고민, 빈도와 목표를 나눠 세우는 방법과 B....",
-          "url": "https://blog.naver.com/zahircase/224458637315",
-          "naver_url": "https://blog.naver.com/zahircase/224458637315",
           "pub_date": "20261030"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793347593,
+  "updated_at": 1793372474,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793347593,
-  "shopping_updated_at": 1793347595,
-  "reference_updated_at": 1793347600
+  "trend_updated_at": 1793372474,
+  "shopping_updated_at": 1793372475,
+  "reference_updated_at": 1793372481
 }
