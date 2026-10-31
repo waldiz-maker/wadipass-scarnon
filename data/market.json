@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86285,
+      "api_total": 86286,
       "items": [
+        {
+          "title": "[PO 포커스] '하이존 약점 노출' 카스트로 부활에 달린 KIA의 한국시리즈...",
+          "url": "https://www.newspim.com/news/view/20261031000111",
+          "naver_url": "https://www.newspim.com/news/view/20261031000111",
+          "pub_date": "Sat, 31 Oct 2026 21:04:00 +0900"
+        },
         {
           "title": "김혜성, 자신의 <b>야구</b> 찾아야 살아남는다",
           "url": "https://www.sisajournal.com/news/articleView.html?idxno=392203",
@@ -527,12 +533,6 @@
           "url": "https://news.jtbc.co.kr/article/NB12325789?influxDiv=NAVER",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000518467",
           "pub_date": "Sat, 31 Oct 2026 09:09:00 +0900"
-        },
-        {
-          "title": "&quot;일본<b>야구</b> 수비 과대 평가, 돈 때문이야!&quot; 한국도 오기 어려운데…뒤끝...",
-          "url": "http://www.osen.co.kr/article/G1112901561",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/109/0005632162",
-          "pub_date": "Sat, 31 Oct 2026 00:51:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18186,
+      "api_total": 18187,
       "items": [
+        {
+          "title": "모리모토 미드나이트 스텔스 실사용 후기 | 10만 원 대 미들탑 밸런....",
+          "url": "https://blog.naver.com/ih_yeo0123/224460360155",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224460360155",
+          "pub_date": "20261031"
+        },
+        {
+          "title": "프로스펙스 1루미트 끈수리",
+          "url": "https://blog.naver.com/misterbaseball/224460312736",
+          "naver_url": "https://blog.naver.com/misterbaseball/224460312736",
+          "pub_date": "20261031"
+        },
         {
           "title": "이콜로지컬 주짓수 (Ecological Jiu-jitsu)의 진실: 뉴웰의 제한 이론 (제....",
           "url": "https://blog.naver.com/ericc2/224460242473",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/t106541/224459915679",
           "naver_url": "https://blog.naver.com/t106541/224459915679",
           "pub_date": "20261031"
-        },
-        {
-          "title": "인천 <b>사회인 야구</b>레슨｜열심히 연습해도 실력이 늘지 않는 이유! 임....",
-          "url": "https://blog.naver.com/k_taeng93/224457232631",
-          "naver_url": "https://blog.naver.com/k_taeng93/224457232631",
-          "pub_date": "20261031"
-        },
-        {
-          "title": "시민단체 참관인의 분노 이태한 특별검사팀의 증거 양도 및 부실 검....",
-          "url": "https://blog.naver.com/qnrrmrtjd2022/224459171913",
-          "naver_url": "https://blog.naver.com/qnrrmrtjd2022/224459171913",
-          "pub_date": "20261031"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793436710,
+  "updated_at": 1793458527,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793436710,
-  "shopping_updated_at": 1793436712,
-  "reference_updated_at": 1793436718
+  "trend_updated_at": 1793458527,
+  "shopping_updated_at": 1793458530,
+  "reference_updated_at": 1793458536
 }
