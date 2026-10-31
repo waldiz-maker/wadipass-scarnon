@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18187,
+      "api_total": 18188,
       "items": [
+        {
+          "title": "27년형 캉스 강스스튜디오 잭팟3 METAL 징스파이크 <b>야구</b>화, 그라운드....",
+          "url": "https://blog.naver.com/greengold20211/224460641859",
+          "naver_url": "https://blog.naver.com/greengold20211/224460641859",
+          "pub_date": "20261101"
+        },
         {
           "title": "모리모토 미드나이트 스텔스 실사용 후기 | 10만 원 대 미들탑 밸런....",
           "url": "https://blog.naver.com/ih_yeo0123/224460360155",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/mj_policy/224460085985",
           "naver_url": "https://blog.naver.com/mj_policy/224460085985",
           "pub_date": "20261031"
-        },
-        {
-          "title": "요즘 <b>야구</b>를 취미로 시작한다면 살펴볼 입문 순서, 대구 도원로서길....",
-          "url": "https://blog.naver.com/t106541/224459915679",
-          "naver_url": "https://blog.naver.com/t106541/224459915679",
-          "pub_date": "20261031"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793458527,
+  "updated_at": 1793473025,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793458527,
-  "shopping_updated_at": 1793458530,
-  "reference_updated_at": 1793458536
+  "trend_updated_at": 1793473025,
+  "shopping_updated_at": 1793473026,
+  "reference_updated_at": 1793473031
 }
