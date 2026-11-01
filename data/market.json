@@ -478,37 +478,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86303,
+      "api_total": 86308,
       "items": [
         {
-          "title": "&quot;수비 출전? 온몸이 쑤신다(웃음)&quot;…43세 최형우 &quot;그래도 KS까지 죽기 살...",
-          "url": "https://www.sportschosun.com/baseball/2026-11-01/202611020100007010000363",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004462012",
-          "pub_date": "Mon, 02 Nov 2026 00:15:00 +0900"
+          "title": "눈물이 해결책은 아니다…‘잠실 빅보이’, 소녀 감성 탈피하고 변화구...",
+          "url": "http://www.osen.co.kr/article/G1112902472",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005632926",
+          "pub_date": "Mon, 02 Nov 2026 07:12:00 +0900"
         },
         {
-          "title": "노시환 초대박! 오타니 팀 동료 될 수 있다고?…&quot;다저스 3루수 FA 매력적...",
-          "url": "https://www.xportsnews.com/article/2214119",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002075249",
-          "pub_date": "Sun, 01 Nov 2026 21:05:00 +0900"
+          "title": "“김도영 ML 20~25홈런 가능, 타격 뛰어나다” 美극찬…3루수 안 되면 외...",
+          "url": "https://www.mydaily.co.kr/page/view/2026110204112261323",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004120792",
+          "pub_date": "Mon, 02 Nov 2026 06:10:00 +0900"
         },
         {
-          "title": "'사랑이 온다' 박수오, 배운규 결혼 소식에 감격…&quot;끝장나게 잘 살아&quot;",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=778093",
-          "naver_url": "https://www.slist.kr/news/articleView.html?idxno=778093",
-          "pub_date": "Sun, 01 Nov 2026 20:24:00 +0900"
+          "title": "초대박! ‘307억 포기’ 노시환, 벌써 ML 4개 구단과 연결 실화? 美 예측...",
+          "url": "http://www.osen.co.kr/article/G1112902473",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005632916",
+          "pub_date": "Mon, 02 Nov 2026 05:42:00 +0900"
         },
         {
-          "title": "삼성, KIA 잡고 2년 만에 한국시리즈행…설욕 기회 잡았다",
-          "url": "https://news.jtbc.co.kr/article/NB12325916?influxDiv=NAVER",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000518592",
-          "pub_date": "Sun, 01 Nov 2026 19:33:00 +0900"
+          "title": "&quot;피치컴 던져버려!&quot;…페덱 각성시킨 강민호의 한마디→이래서 가을<b>야구</b>...",
+          "url": "https://www.sportschosun.com/baseball/2026-11-01/202611020100007240000380",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004462024",
+          "pub_date": "Mon, 02 Nov 2026 04:54:00 +0900"
         },
         {
-          "title": "‘불꽃<b>야구</b>2’ 정성훈, 베테랑 바이브 폭발",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202611010062",
-          "naver_url": "https://www.bntnews.co.kr/article/view/bnt202611010062",
-          "pub_date": "Sun, 01 Nov 2026 17:38:00 +0900"
+          "title": "5할 쳤던 '타격 천재', 미지명→프로 파이터 변신…'데뷔 2연승' 격투기...",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016943",
+          "naver_url": "https://m.sports.naver.com/general/article/477/0000636507",
+          "pub_date": "Mon, 02 Nov 2026 04:17:00 +0900"
         }
       ]
     },
@@ -517,8 +517,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 1332,
+      "api_total": 1333,
       "items": [
+        {
+          "title": "&quot;계약 잘 성사된다면...&quot; LG 이적 무산 아픔에도 日 울산 에이스 환하게...",
+          "url": "https://www.starnewskorea.com/sports/2026/11/02/2026110109011398069",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003483617",
+          "pub_date": "Mon, 02 Nov 2026 06:01:00 +0900"
+        },
         {
           "title": "[문만용 교수, 한국 과학과 과학 한국] 금메달과 노벨상 사이",
           "url": "http://www.gjdream.com/news/articleView.html?idxno=673761",
@@ -542,12 +548,6 @@
           "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58601",
           "naver_url": "https://n.news.naver.com/mnews/article/308/0000038858?sid=103",
           "pub_date": "Thu, 15 Oct 2026 06:16:00 +0900"
-        },
-        {
-          "title": "&quot;예술·체육인 병역 특례 재정비 필요&quot; 김병주 더불어민주당 의원 [시사...",
-          "url": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223008",
-          "naver_url": "https://n.news.naver.com/mnews/article/057/0001971958?sid=004",
-          "pub_date": "Sun, 04 Oct 2026 17:00:00 +0900"
         }
       ]
     }
@@ -558,8 +558,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18191,
+      "api_total": 18193,
       "items": [
+        {
+          "title": "스포츠 메케닉 &amp; 동작 분석",
+          "url": "https://blog.naver.com/edkim38/224461437089",
+          "naver_url": "https://blog.naver.com/edkim38/224461437089",
+          "pub_date": "20261102"
+        },
+        {
+          "title": "일요일 밤 주요 핫뉴스 2가지 대형 금융사 고객정보 유출 및 법원 내....",
+          "url": "https://blog.naver.com/qnrrmrtjd2022/224461307014",
+          "naver_url": "https://blog.naver.com/qnrrmrtjd2022/224461307014",
+          "pub_date": "20261102"
+        },
         {
           "title": "[부산장애인부모회 사상지회] ⚾ 오늘은 우리가 <b>야구</b>선수! 일광<b>야구</b>....",
           "url": "https://blog.naver.com/pbss2023/224461548052",
@@ -577,24 +589,12 @@
           "url": "https://blog.naver.com/zerobaseball_ilsan/224461409230",
           "naver_url": "https://blog.naver.com/zerobaseball_ilsan/224461409230",
           "pub_date": "20261101"
-        },
-        {
-          "title": "<b>야구</b> Craft <b>사회인 야구</b> 배팅 장갑 실사용 후기 | 두껍고 내구성 좋은 ....",
-          "url": "https://blog.naver.com/ih_yeo0123/224460972046",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224460972046",
-          "pub_date": "20261101"
-        },
-        {
-          "title": "역대급 다년 계약을 뒤로한 도전, 노시환은 메이저리그의 문을 열 ....",
-          "url": "https://blog.naver.com/sootaejy/224460943958",
-          "naver_url": "https://blog.naver.com/sootaejy/224460943958",
-          "pub_date": "20261101"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793559721,
+  "updated_at": 1793573188,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -603,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793559721,
-  "shopping_updated_at": 1793559722,
-  "reference_updated_at": 1793559728
+  "trend_updated_at": 1793573188,
+  "shopping_updated_at": 1793573192,
+  "reference_updated_at": 1793573205
 }
