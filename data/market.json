@@ -14,10 +14,6 @@
       ],
       "data": [
         {
-          "period": "2025-10-01",
-          "ratio": 94.61
-        },
-        {
           "period": "2025-11-01",
           "ratio": 83.61
         },
@@ -63,7 +59,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 64.15
+          "ratio": 66.36
         }
       ]
     },
@@ -73,10 +69,6 @@
         "알로이 배트"
       ],
       "data": [
-        {
-          "period": "2025-10-01",
-          "ratio": 6.1
-        },
         {
           "period": "2025-11-01",
           "ratio": 6.22
@@ -123,7 +115,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 5.44
+          "ratio": 5.54
         }
       ]
     },
@@ -133,10 +125,6 @@
         "사회인야구 배트"
       ],
       "data": [
-        {
-          "period": "2025-10-01",
-          "ratio": 3.64
-        },
         {
           "period": "2025-11-01",
           "ratio": 3.38
@@ -183,7 +171,7 @@
         },
         {
           "period": "2026-10-01",
-          "ratio": 4.84
+          "ratio": 4.96
         }
       ]
     }
@@ -191,12 +179,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 63.1,
+    "recent_3m_avg": 63.8,
     "previous_3m_avg": 84.3,
-    "delta_pct": -25.1,
+    "delta_pct": -24.3,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 64.2,
+    "latest_ratio": 66.4,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -210,56 +198,52 @@
       ],
       "data": [
         {
-          "period": "2025-10-01",
-          "ratio": 100.0
-        },
-        {
           "period": "2025-11-01",
-          "ratio": 90.51
+          "ratio": 91.87
         },
         {
           "period": "2025-12-01",
-          "ratio": 87.33
+          "ratio": 88.65
         },
         {
           "period": "2026-01-01",
-          "ratio": 52.46
+          "ratio": 53.25
         },
         {
           "period": "2026-02-01",
-          "ratio": 45.81
+          "ratio": 46.49
         },
         {
           "period": "2026-03-01",
-          "ratio": 52.37
+          "ratio": 53.16
         },
         {
           "period": "2026-04-01",
-          "ratio": 77.88
+          "ratio": 79.05
         },
         {
           "period": "2026-05-01",
-          "ratio": 98.52
+          "ratio": 100.0
         },
         {
           "period": "2026-06-01",
-          "ratio": 73.56
+          "ratio": 74.67
         },
         {
           "period": "2026-07-01",
-          "ratio": 53.56
+          "ratio": 54.37
         },
         {
           "period": "2026-08-01",
-          "ratio": 53.81
+          "ratio": 54.62
         },
         {
           "period": "2026-09-01",
-          "ratio": 71.4
+          "ratio": 72.47
         },
         {
           "period": "2026-10-01",
-          "ratio": 53.52
+          "ratio": 56.04
         }
       ]
     },
@@ -270,56 +254,52 @@
       ],
       "data": [
         {
-          "period": "2025-10-01",
-          "ratio": 13.64
-        },
-        {
           "period": "2025-11-01",
-          "ratio": 13.18
+          "ratio": 13.38
         },
         {
           "period": "2025-12-01",
-          "ratio": 12.84
+          "ratio": 13.03
         },
         {
           "period": "2026-01-01",
-          "ratio": 6.27
+          "ratio": 6.37
         },
         {
           "period": "2026-02-01",
-          "ratio": 7.63
+          "ratio": 7.74
         },
         {
           "period": "2026-03-01",
-          "ratio": 10.3
+          "ratio": 10.45
         },
         {
           "period": "2026-04-01",
-          "ratio": 15.72
+          "ratio": 15.96
         },
         {
           "period": "2026-05-01",
-          "ratio": 17.88
+          "ratio": 18.15
         },
         {
           "period": "2026-06-01",
-          "ratio": 14.7
+          "ratio": 14.92
         },
         {
           "period": "2026-07-01",
-          "ratio": 10.38
+          "ratio": 10.54
         },
         {
           "period": "2026-08-01",
-          "ratio": 15.0
+          "ratio": 15.23
         },
         {
           "period": "2026-09-01",
-          "ratio": 13.52
+          "ratio": 13.72
         },
         {
           "period": "2026-10-01",
-          "ratio": 14.11
+          "ratio": 14.54
         }
       ]
     },
@@ -330,56 +310,52 @@
       ],
       "data": [
         {
-          "period": "2025-10-01",
-          "ratio": 4.75
-        },
-        {
           "period": "2025-11-01",
-          "ratio": 4.32
+          "ratio": 4.39
         },
         {
           "period": "2025-12-01",
-          "ratio": 4.07
+          "ratio": 4.13
         },
         {
           "period": "2026-01-01",
-          "ratio": 4.32
+          "ratio": 4.39
         },
         {
           "period": "2026-02-01",
-          "ratio": 5.59
+          "ratio": 5.68
         },
         {
           "period": "2026-03-01",
-          "ratio": 7.58
+          "ratio": 7.7
         },
         {
           "period": "2026-04-01",
-          "ratio": 10.3
+          "ratio": 10.45
         },
         {
           "period": "2026-05-01",
-          "ratio": 8.01
+          "ratio": 8.13
         },
         {
           "period": "2026-06-01",
-          "ratio": 9.62
+          "ratio": 9.76
         },
         {
           "period": "2026-07-01",
-          "ratio": 4.7
+          "ratio": 4.77
         },
         {
           "period": "2026-08-01",
-          "ratio": 4.7
+          "ratio": 4.77
         },
         {
           "period": "2026-09-01",
-          "ratio": 7.46
+          "ratio": 7.57
         },
         {
           "period": "2026-10-01",
-          "ratio": 3.73
+          "ratio": 4.0
         }
       ]
     }
@@ -387,27 +363,27 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 59.6,
-    "previous_3m_avg": 75.2,
-    "delta_pct": -20.7,
+    "recent_3m_avg": 61.0,
+    "previous_3m_avg": 76.3,
+    "delta_pct": -20.1,
     "latest_period": "2026-10-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 53.5,
-    "peak_period": "2025-10-01",
+    "latest_ratio": 56.0,
+    "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
     "calculation_note": "최근 3개월 평균과 직전 3개월 평균을 단순 비교한 수치이며 실제 클릭수·구매량이 아닙니다.",
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 82.4,
-      "period_count": 4
+      "index": 83.3,
+      "period_count": 3
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 84.0,
-      "period_count": 4
+      "index": 87.7,
+      "period_count": 3
     }
   },
   "shopping_age": {
@@ -415,51 +391,51 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-31",
-    "period_end": "2026-10-31",
+    "period_start": "2026-08-01",
+    "period_end": "2026-11-01",
     "rows": [
       {
         "group": "40",
         "label": "40대",
-        "index": 82.4,
-        "period_count": 4
+        "index": 83.3,
+        "period_count": 3
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 29.4,
-        "period_count": 4
+        "index": 31.7,
+        "period_count": 3
       },
       {
         "group": "10",
         "label": "10대",
-        "index": 22.6,
-        "period_count": 4
+        "index": 23.4,
+        "period_count": 3
       },
       {
         "group": "30",
         "label": "30대",
-        "index": 17.1,
-        "period_count": 4
+        "index": 18.5,
+        "period_count": 3
       },
       {
         "group": "20",
         "label": "20대",
-        "index": 8.9,
-        "period_count": 4
+        "index": 9.2,
+        "period_count": 3
       },
       {
         "group": "60",
         "label": "60대 이상",
-        "index": 5.9,
-        "period_count": 4
+        "index": 7.0,
+        "period_count": 3
       }
     ],
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 82.4,
-      "period_count": 4
+      "index": 83.3,
+      "period_count": 3
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
   },
@@ -468,27 +444,27 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-07-31",
-    "period_end": "2026-10-31",
+    "period_start": "2026-08-01",
+    "period_end": "2026-11-01",
     "rows": [
       {
         "group": "m",
         "label": "남성",
-        "index": 84.0,
-        "period_count": 4
+        "index": 87.7,
+        "period_count": 3
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 29.5,
-        "period_count": 4
+        "index": 30.5,
+        "period_count": 3
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 84.0,
-      "period_count": 4
+      "index": 87.7,
+      "period_count": 3
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
   },
@@ -502,37 +478,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86286,
+      "api_total": 86290,
       "items": [
+        {
+          "title": "‘OPS 9위’ 오명 벗어라… 두산, 마무리캠프 첫날부터 <b>배트</b> 쉼 없이 돌...",
+          "url": "https://www.sportsworldi.com/newsView/20261101503579",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/396/0000759635",
+          "pub_date": "Sun, 01 Nov 2026 09:49:00 +0900"
+        },
+        {
+          "title": "‘사랑이 온다’ 배윤규, 정보민 가족까지 품은 결혼 맹세",
+          "url": "https://www.sportsseoul.com/news/read/1645747?ref=naver",
+          "naver_url": "https://m.entertain.naver.com/article/468/0001276930",
+          "pub_date": "Sun, 01 Nov 2026 09:04:00 +0900"
+        },
+        {
+          "title": "'사랑이 온다' 배윤규, 정보민 가족 사정 듣고 결혼 맹세…캔 뚜껑 프러...",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264881",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16264881",
+          "pub_date": "Sun, 01 Nov 2026 08:36:00 +0900"
+        },
+        {
+          "title": "'불꽃<b>야구</b>2' 불꽃 파이터즈, 마산용마고와 맞대결…이대은 선발 출격",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16264856",
+          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16264856",
+          "pub_date": "Sun, 01 Nov 2026 08:08:00 +0900"
+        },
         {
           "title": "[PO 포커스] '하이존 약점 노출' 카스트로 부활에 달린 KIA의 한국시리즈...",
           "url": "https://www.newspim.com/news/view/20261031000111",
           "naver_url": "https://www.newspim.com/news/view/20261031000111",
           "pub_date": "Sat, 31 Oct 2026 21:04:00 +0900"
-        },
-        {
-          "title": "김혜성, 자신의 <b>야구</b> 찾아야 살아남는다",
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=392203",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/586/0000141307",
-          "pub_date": "Sat, 31 Oct 2026 12:00:00 +0900"
-        },
-        {
-          "title": "KIA의 테이블세터 고민, 절반은 풀렸지만...결국은 이 선수 살아나야",
-          "url": "https://www.seoul.co.kr/news/sport/2026/10/31/20261031500015?wlog_tag3=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/081/0003694462",
-          "pub_date": "Sat, 31 Oct 2026 11:04:00 +0900"
-        },
-        {
-          "title": "[오피셜]중견수 FA? NC는 '짐승'으로 불렸던 남자 영입해 메웠다…김강...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1651339",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000484679",
-          "pub_date": "Sat, 31 Oct 2026 10:16:00 +0900"
-        },
-        {
-          "title": "페덱 상대로 10구 승부하던 김도영, 2루타에 득점까지...벼랑 끝 KIA의 선...",
-          "url": "https://news.jtbc.co.kr/article/NB12325789?influxDiv=NAVER",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000518467",
-          "pub_date": "Sat, 31 Oct 2026 09:09:00 +0900"
         }
       ]
     },
@@ -582,8 +558,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18189,
+      "api_total": 18190,
       "items": [
+        {
+          "title": "앙떼띠 커피로스터리",
+          "url": "https://blog.naver.com/pineappleexp/224460798117",
+          "naver_url": "https://blog.naver.com/pineappleexp/224460798117",
+          "pub_date": "20261101"
+        },
         {
           "title": "27년형 캉스 강스스튜디오 잭팟3 METAL 징스파이크 <b>야구</b>화, 그라운드....",
           "url": "https://blog.naver.com/greengold20211/224460641859",
@@ -607,18 +589,12 @@
           "url": "https://blog.naver.com/ericc2/224460242473",
           "naver_url": "https://blog.naver.com/ericc2/224460242473",
           "pub_date": "20261031"
-        },
-        {
-          "title": "KBO 포스트시즌 순위부터 <b>야구</b>여왕 시즌2까지, 요즘 <b>야구</b>가 다시 핫....",
-          "url": "https://blog.naver.com/mj_policy/224460085985",
-          "naver_url": "https://blog.naver.com/mj_policy/224460085985",
-          "pub_date": "20261031"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793484591,
+  "updated_at": 1793495207,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +603,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793484591,
-  "shopping_updated_at": 1793484597,
-  "reference_updated_at": 1793484602
+  "trend_updated_at": 1793495207,
+  "shopping_updated_at": 1793495209,
+  "reference_updated_at": 1793495216
 }
