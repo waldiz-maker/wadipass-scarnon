@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18203,
+      "api_total": 18208,
       "items": [
         {
-          "title": "2026 한국시리즈 티켓팅 성공 후기｜놀티켓 대기번호 3천 번대, 코시 ....",
-          "url": "https://blog.naver.com/ari2027/224462342761",
-          "naver_url": "https://blog.naver.com/ari2027/224462342761",
+          "title": "구미 유소년 <b>야구</b>교실｜초1~초3 모집! 140평 실내<b>야구</b>장에서 날씨 걱....",
+          "url": "https://blog.naver.com/alsltk456/224462949072",
+          "naver_url": "https://blog.naver.com/alsltk456/224462949072",
+          "pub_date": "20261103"
+        },
+        {
+          "title": "[또간집],[히밥 대식좌의 밥상] 대구3대막창 풍자 또간집 대구 아리....",
+          "url": "https://blog.naver.com/kim921212/224462903791",
+          "naver_url": "https://blog.naver.com/kim921212/224462903791",
+          "pub_date": "20261103"
+        },
+        {
+          "title": "군포 실내 <b>야구</b> 배팅장 메이저포인트 24시 배팅센터｜이용요금·카....",
+          "url": "https://blog.naver.com/dbsrlfls2/224462795743",
+          "naver_url": "https://blog.naver.com/dbsrlfls2/224462795743",
           "pub_date": "20261102"
         },
         {
-          "title": "162km 직구에 157km 스플리터까지…요안 두란의 공은 어떻게 치라는 걸....",
-          "url": "https://blog.naver.com/woodpilot/224462320641",
-          "naver_url": "https://blog.naver.com/woodpilot/224462320641",
+          "title": "<b>야구</b>를 취미로 시작해 보려는 분께, 레슨 20번 받은 초보의 기록",
+          "url": "https://blog.naver.com/anthrolog/224461603903",
+          "naver_url": "https://blog.naver.com/anthrolog/224461603903",
           "pub_date": "20261102"
         },
         {
-          "title": "인천 <b>야구</b> 아카데미｜프로의 경험과 데이터가 만나는 공간, 임팩트 ....",
-          "url": "https://blog.naver.com/k_taeng93/224458102911",
-          "naver_url": "https://blog.naver.com/k_taeng93/224458102911",
-          "pub_date": "20261102"
-        },
-        {
-          "title": "특수공갈자수감경 2026 최신 양형 기준과 자수 요건 변호사 상담 가....",
-          "url": "https://blog.naver.com/8fkb3-no_-mq/224461680709",
-          "naver_url": "https://blog.naver.com/8fkb3-no_-mq/224461680709",
-          "pub_date": "20261102"
-        },
-        {
-          "title": "<b>야구</b> 초보의 장비 선택과 운동복 준비, 헷갈리는 기준을 베이스볼뱅....",
-          "url": "https://blog.naver.com/gmspc055so04/224462078450",
-          "naver_url": "https://blog.naver.com/gmspc055so04/224462078450",
+          "title": "하타케야마 포수미트 M8 전체끈수리",
+          "url": "https://blog.naver.com/susanokorea/224462688802",
+          "naver_url": "https://blog.naver.com/susanokorea/224462688802",
           "pub_date": "20261102"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793610023,
+  "updated_at": 1793647228,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793610023,
-  "shopping_updated_at": 1793610024,
-  "reference_updated_at": 1793610030
+  "trend_updated_at": 1793647228,
+  "shopping_updated_at": 1793647230,
+  "reference_updated_at": 1793647235
 }
