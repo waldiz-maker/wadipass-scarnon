@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86357,
+      "api_total": 86361,
       "items": [
+        {
+          "title": "307억 대신 MLB 도전 택한 노시환, 양키스·다저스까지 관심?",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190364",
+          "naver_url": "https://www.ggilbo.com/news/articleView.html?idxno=1190364",
+          "pub_date": "Thu, 05 Nov 2026 01:30:00 +0900"
+        },
+        {
+          "title": "감독에게 90도 인사한 디아즈 &quot;수비 실책 책임감 느꼈다&quot;[KS2]",
+          "url": "https://www.news1.kr/sports/baseball/6343497",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/421/0009271142",
+          "pub_date": "Thu, 05 Nov 2026 00:03:00 +0900"
+        },
+        {
+          "title": "“콘서트장이야? <b>야구</b>장이야?”",
+          "url": "https://sports.khan.co.kr/article/202611050000006?pt=nv",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001148144",
+          "pub_date": "Thu, 05 Nov 2026 00:00:00 +0900"
+        },
+        {
+          "title": "이게 얼마만의 찰떡 수비야! 수원은 지금? 1만7700석 전석 매진 [KS2]",
+          "url": "https://www.sportsseoul.com/news/read/1646994?ref=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001278172",
+          "pub_date": "Wed, 04 Nov 2026 19:41:00 +0900"
+        },
         {
           "title": "CJ ONE &quot;프로<b>야구</b> 숏폼·응원·굿즈 한 번에 즐기세요&quot;",
           "url": "https://www.cnbnews.com/news/articleView.html?idxno=1022294",
           "naver_url": "https://www.cnbnews.com/news/articleView.html?idxno=1022294",
           "pub_date": "Wed, 04 Nov 2026 16:02:00 +0900"
-        },
-        {
-          "title": "8점 차 리드가 1점 차로…눈물 쏟은 KT 팬들 &quot;박영현은 소방관, 김현수는...",
-          "url": "https://news.jtbc.co.kr/article/NB12326442?influxDiv=NAVER",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000519104",
-          "pub_date": "Wed, 04 Nov 2026 15:46:00 +0900"
-        },
-        {
-          "title": "“무지개로 파도타기까지!” 드레스코드 맞서는 KT의 비트<b>배트</b> 응원 [SD...",
-          "url": "https://sports.donga.com/sports/article/all/20261104/134964778/1",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/382/0001302908",
-          "pub_date": "Wed, 04 Nov 2026 14:59:00 +0900"
-        },
-        {
-          "title": "10억 일시불 활약! 김지찬 저격+쐐기 홈런 미쳤다, 그런데 왜 고개 숙였...",
-          "url": "https://www.mydaily.co.kr/page/view/2026110413162395042",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004121912",
-          "pub_date": "Wed, 04 Nov 2026 14:41:00 +0900"
-        },
-        {
-          "title": "&quot;우리 팀 게 제일 예뻐&quot; KT 선수들도 자부심, 응원봉 '비트<b>배트</b>' 또 업그...",
-          "url": "https://www.xportsnews.com/article/2215243",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002076413",
-          "pub_date": "Wed, 04 Nov 2026 14:00:00 +0900"
         }
       ]
     },
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18223,
+      "api_total": 18233,
       "items": [
         {
-          "title": "[<b>야구</b>장비] 드디어 왔다!",
-          "url": "https://blog.naver.com/gyumi_gemi/224463730194",
-          "naver_url": "https://blog.naver.com/gyumi_gemi/224463730194",
+          "title": "타격할 시간이 부족했던 대학생 타자 | 런치 타이밍과 타격 포인트....",
+          "url": "https://blog.naver.com/dltkdalsu/224465311199",
+          "naver_url": "https://blog.naver.com/dltkdalsu/224465311199",
+          "pub_date": "20261105"
+        },
+        {
+          "title": "⚾ [<b>야구</b> 바이오메카닉스 #1] 타격과 투구는 쌍둥이다 : 시소 원리와 ....",
+          "url": "https://blog.naver.com/canavaro13/224465246539",
+          "naver_url": "https://blog.naver.com/canavaro13/224465246539",
           "pub_date": "20261104"
         },
         {
-          "title": "스사노 내야수글러브 프로엘리트 고쿠보웹 블랙레드카멜 SUPEI81",
-          "url": "https://blog.naver.com/hyperclover/224464710301",
-          "naver_url": "https://blog.naver.com/hyperclover/224464710301",
+          "title": "KT 삼성 한국시리즈 1차전 8-7 결과와 2차전 연장 승부, 3차전은 대구....",
+          "url": "https://blog.naver.com/rlackdxo/224465232428",
+          "naver_url": "https://blog.naver.com/rlackdxo/224465232428",
           "pub_date": "20261104"
         },
         {
-          "title": "스사노 외야수글러브 프로엘리트 쌍십자웹 블랙골드 SUPEO40 좌투",
-          "url": "https://blog.naver.com/hyperclover/224464665696",
-          "naver_url": "https://blog.naver.com/hyperclover/224464665696",
+          "title": "세종 평일 오전 <b>야구</b> 팀원 모집!ㅣ내년 리그 참가 목표 연습 중",
+          "url": "https://blog.naver.com/superstar1125/224465209044",
+          "naver_url": "https://blog.naver.com/superstar1125/224465209044",
           "pub_date": "20261104"
         },
         {
-          "title": "연습 전 몸이 뻣뻣하고 장비도 낯설다면, <b>야구</b> 워밍업과 복장 준비....",
-          "url": "https://blog.naver.com/necessary3284/224464560942",
-          "naver_url": "https://blog.naver.com/necessary3284/224464560942",
-          "pub_date": "20261104"
-        },
-        {
-          "title": "<b>야구</b> 초보라면 알아야 할 개인운동 준비 순서, 몸 풀기부터 장비 점....",
-          "url": "https://blog.naver.com/sand_12931/224464306370",
-          "naver_url": "https://blog.naver.com/sand_12931/224464306370",
+          "title": "요즘 <b>야구</b>를 배우기 시작했다면 장비보다 먼저 챙길 것, 워밍업 루....",
+          "url": "https://blog.naver.com/contumelious76454/224465113715",
+          "naver_url": "https://blog.naver.com/contumelious76454/224465113715",
           "pub_date": "20261104"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793781885,
+  "updated_at": 1793810219,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793781885,
-  "shopping_updated_at": 1793781887,
-  "reference_updated_at": 1793781893
+  "trend_updated_at": 1793810219,
+  "shopping_updated_at": 1793810221,
+  "reference_updated_at": 1793810226
 }
