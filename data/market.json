@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86384,
+      "api_total": 86385,
       "items": [
+        {
+          "title": "비트 <b>배트</b>냐, 푸른 우의냐… KS 색깔전쟁 ‘끝판왕’",
+          "url": "https://www.seoul.co.kr/news/sport/baseball/2026/11/06/20261106034003?wlog_tag3=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/081/0003696375",
+          "pub_date": "Fri, 06 Nov 2026 05:05:00 +0900"
+        },
         {
           "title": "KBO, <b>야구</b> 대표팀 '쌍학흉배' 에디션 출시... 어떤 의미 담았나",
           "url": "https://www.starnewskorea.com/sports/2026/11/06/2026110522480554971",
@@ -527,12 +533,6 @@
           "url": "https://www.mydaily.co.kr/page/view/2026110519563102316",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004122441",
           "pub_date": "Thu, 05 Nov 2026 19:59:00 +0900"
-        },
-        {
-          "title": "수원 KT위즈파크 뒤덮은 무지갯빛 '비트<b>배트</b>'..일상과 만난 AI기술",
-          "url": "https://news.jtbc.co.kr/article/NB12326711?influxDiv=NAVER",
-          "naver_url": "https://n.news.naver.com/mnews/article/437/0000519338?sid=101",
-          "pub_date": "Thu, 05 Nov 2026 18:24:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18245,
+      "api_total": 18246,
       "items": [
+        {
+          "title": "김해 <b>야구</b> 연습할 곳 찾는다면? YG <b>야구</b>아카데미 배팅센터",
+          "url": "https://blog.naver.com/issue2768/224466753233",
+          "naver_url": "https://blog.naver.com/issue2768/224466753233",
+          "pub_date": "20261106"
+        },
         {
           "title": "<b>야구</b>를 더 즐겁게 해주는 필수 아이템",
           "url": "https://blog.naver.com/xyiisgy12/224466525969",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/susanokorea/224466358942",
           "naver_url": "https://blog.naver.com/susanokorea/224466358942",
           "pub_date": "20261105"
-        },
-        {
-          "title": "<b>야구</b>의 벽...",
-          "url": "https://blog.naver.com/gift4u73/224466169613",
-          "naver_url": "https://blog.naver.com/gift4u73/224466169613",
-          "pub_date": "20261105"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793900406,
+  "updated_at": 1793919065,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793900406,
-  "shopping_updated_at": 1793900407,
-  "reference_updated_at": 1793900412
+  "trend_updated_at": 1793919065,
+  "shopping_updated_at": 1793919067,
+  "reference_updated_at": 1793919072
 }
