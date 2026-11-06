@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86393,
+      "api_total": 86395,
       "items": [
+        {
+          "title": "“구자욱이 해줘야 한다” 삼성의 ‘믿음’→캡틴이 ‘거대한 3루타’로...",
+          "url": "https://www.sportsseoul.com/news/read/1647693?ref=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001278899",
+          "pub_date": "Fri, 06 Nov 2026 21:39:00 +0900"
+        },
+        {
+          "title": "&quot;7이닝 잘 던질 것&quot; 박진만 작투탔나, '가을지배자' 후라도, 첫 KS도 7이...",
+          "url": "https://www.sportschosun.com/baseball/2026-11-06/202611060100046680004787",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004464089",
+          "pub_date": "Fri, 06 Nov 2026 20:52:00 +0900"
+        },
         {
           "title": "문유강, <b>야구</b>장서 캐주얼 무드…연극 '유리동물원' 활약 잇는다",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16270194",
@@ -521,18 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-11-06/202611060100044650004497",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004463938",
           "pub_date": "Fri, 06 Nov 2026 16:24:00 +0900"
-        },
-        {
-          "title": "“애는 영원한 애다” 사이영상 수상자 조롱거리로 전락… 심판에 거친...",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018084",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/477/0000637531",
-          "pub_date": "Fri, 06 Nov 2026 16:16:00 +0900"
-        },
-        {
-          "title": "강민호, 못 치는데도 마스크 쓰는 이유…삼성 벤치의 계산",
-          "url": "https://www.imaeil.com/page/view/2026110615312440787",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/088/0001038881",
-          "pub_date": "Fri, 06 Nov 2026 16:09:00 +0900"
         }
       ]
     },
@@ -585,6 +585,18 @@
       "api_total": 18252,
       "items": [
         {
+          "title": "노시환 양키스 이적설의 진실: 307억 포기한 홈런왕의 MLB 도전과 냉....",
+          "url": "https://blog.naver.com/ewedding/224467730665",
+          "naver_url": "https://blog.naver.com/ewedding/224467730665",
+          "pub_date": "20261106"
+        },
+        {
+          "title": "잘 먹고 잘 사는 법 273",
+          "url": "https://blog.naver.com/kangsohee--/224467629905",
+          "naver_url": "https://blog.naver.com/kangsohee--/224467629905",
+          "pub_date": "20261106"
+        },
+        {
           "title": "겨울 <b>야구</b> 배팅장갑 추천｜제트 ZETT BGK-391 동계 배팅장갑, 겨울 훈련....",
           "url": "https://blog.naver.com/jinsck_/224467323601",
           "naver_url": "https://blog.naver.com/jinsck_/224467323601",
@@ -597,28 +609,16 @@
           "pub_date": "20261106"
         },
         {
-          "title": "더 나은 <b>야구</b> 경험을 위한 그립 탐색",
-          "url": "https://blog.naver.com/pebxbwaeol327/224467008844",
-          "naver_url": "https://blog.naver.com/pebxbwaeol327/224467008844",
-          "pub_date": "20261106"
-        },
-        {
           "title": "골드 로얄 내야글러브 김혜성 글러브길들이기",
           "url": "https://blog.naver.com/susanokorea/224466378216",
           "naver_url": "https://blog.naver.com/susanokorea/224466378216",
-          "pub_date": "20261106"
-        },
-        {
-          "title": "처음 하는 <b>야구</b> 개인운동, 장비복장워밍업 준비를 한 번에 익히는 ....",
-          "url": "https://blog.naver.com/ock2377ov4r5iup/224466790652",
-          "naver_url": "https://blog.naver.com/ock2377ov4r5iup/224466790652",
           "pub_date": "20261106"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1793961253,
+  "updated_at": 1793986833,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1793961253,
-  "shopping_updated_at": 1793961256,
-  "reference_updated_at": 1793961267
+  "trend_updated_at": 1793986833,
+  "shopping_updated_at": 1793986834,
+  "reference_updated_at": 1793986840
 }
