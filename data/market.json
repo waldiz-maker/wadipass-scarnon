@@ -502,8 +502,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86397,
+      "api_total": 86400,
       "items": [
+        {
+          "title": "좌석 맵핑부터 무선 제어까지...KT 응원봉에 숨은 ICT 기술",
+          "url": "https://www.chosun.com/economy/tech_it/2026/11/07/ERTR2SRRTBCY5KIEWUUQEIBYSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+          "naver_url": "https://n.news.naver.com/mnews/article/023/0004008338?sid=105",
+          "pub_date": "Sat, 07 Nov 2026 14:47:00 +0900"
+        },
+        {
+          "title": "&quot;MLB 선수들 한국 KBO로 몰려드나&quot;…트리스탄 벡 LG행, 美 매체도 주목→...",
+          "url": "https://www.xportsnews.com/article/2216676",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002077809",
+          "pub_date": "Sat, 07 Nov 2026 14:00:00 +0900"
+        },
+        {
+          "title": "&quot;올해 복귀 못하겠다 싶었는데…&quot; 기적의 복귀+KS 엔트리 합류, 삼성 구...",
+          "url": "https://www.xportsnews.com/article/2216672",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002077786",
+          "pub_date": "Sat, 07 Nov 2026 12:00:00 +0900"
+        },
         {
           "title": "[KS 포커스] 가을<b>야구</b> 아닌 겨울<b>야구</b>…변수로 떠오른 갑작스러운 추위",
           "url": "https://www.newspim.com/news/view/20261106001290",
@@ -515,24 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-11-07/202611070100048020004879",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004464168",
           "pub_date": "Sat, 07 Nov 2026 07:38:00 +0900"
-        },
-        {
-          "title": "“구자욱이 해줘야 한다” 삼성의 ‘믿음’→캡틴이 ‘거대한 3루타’로...",
-          "url": "https://www.sportsseoul.com/news/read/1647693?ref=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001278899",
-          "pub_date": "Fri, 06 Nov 2026 21:39:00 +0900"
-        },
-        {
-          "title": "&quot;7이닝 잘 던질 것&quot; 박진만 작투탔나, '가을지배자' 후라도, 첫 KS도 7이...",
-          "url": "https://www.sportschosun.com/baseball/2026-11-06/202611060100046680004787",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004464089",
-          "pub_date": "Fri, 06 Nov 2026 20:52:00 +0900"
-        },
-        {
-          "title": "문유강, <b>야구</b>장서 캐주얼 무드…연극 '유리동물원' 활약 잇는다",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16270194",
-          "naver_url": "https://www.topstarnews.net/news/articleView.html?idxno=16270194",
-          "pub_date": "Fri, 06 Nov 2026 18:48:00 +0900"
         }
       ]
     },
@@ -582,8 +582,26 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18249,
+      "api_total": 18251,
       "items": [
+        {
+          "title": "[성남SB리그] 2026.11.7 <b>배트</b>메이트 vs 에이원",
+          "url": "https://blog.naver.com/nogari_37/224468258457",
+          "naver_url": "https://blog.naver.com/nogari_37/224468258457",
+          "pub_date": "20261107"
+        },
+        {
+          "title": "안산 실내<b>야구</b>장 A존 vs B존｜혼자면 1시간 15,000원, 인원별로 고르는 ....",
+          "url": "https://blog.naver.com/adh4010/224468158573",
+          "naver_url": "https://blog.naver.com/adh4010/224468158573",
+          "pub_date": "20261107"
+        },
+        {
+          "title": "안산 실내<b>야구</b>장 대관 후기｜혼자 피칭부터 팀 연습까지, 1시간 15,00....",
+          "url": "https://blog.naver.com/adh4010/224468137194",
+          "naver_url": "https://blog.naver.com/adh4010/224468137194",
+          "pub_date": "20261107"
+        },
         {
           "title": "인천 <b>야구</b>레슨｜좋은 코치란? 우리 아이에게 맞는 <b>야구</b> 지도자를 선....",
           "url": "https://blog.naver.com/k_taeng93/224462967906",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/ewedding/224467730665",
           "naver_url": "https://blog.naver.com/ewedding/224467730665",
           "pub_date": "20261106"
-        },
-        {
-          "title": "잘 먹고 잘 사는 법 273",
-          "url": "https://blog.naver.com/kangsohee--/224467629905",
-          "naver_url": "https://blog.naver.com/kangsohee--/224467629905",
-          "pub_date": "20261106"
-        },
-        {
-          "title": "겨울 <b>야구</b> 배팅장갑 추천｜제트 ZETT BGK-391 동계 배팅장갑, 겨울 훈련....",
-          "url": "https://blog.naver.com/jinsck_/224467323601",
-          "naver_url": "https://blog.naver.com/jinsck_/224467323601",
-          "pub_date": "20261106"
-        },
-        {
-          "title": "<b>야구</b> 연습네트 추천 + 실내연습가능한 공｜타격부터 투구까지! SAIVEI....",
-          "url": "https://blog.naver.com/jinsck_/224467314039",
-          "naver_url": "https://blog.naver.com/jinsck_/224467314039",
-          "pub_date": "20261106"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794017220,
+  "updated_at": 1794040981,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794017220,
-  "shopping_updated_at": 1794017223,
-  "reference_updated_at": 1794017235
+  "trend_updated_at": 1794040981,
+  "shopping_updated_at": 1794040982,
+  "reference_updated_at": 1794040988
 }
