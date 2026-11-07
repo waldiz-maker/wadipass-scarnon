@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86400,
+      "api_total": 86402,
       "items": [
+        {
+          "title": "노시환 몸값에도 영향 주나… 日 최고 매물 ‘거품론’에 이정후 못 넘...",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018451",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/477/0000637874",
+          "pub_date": "Sat, 07 Nov 2026 19:33:00 +0900"
+        },
+        {
+          "title": "&quot;드루와&quot; 한마디가 만든 퍼펙트 매직, 옆구리 터져도, '자동아웃'에도 ...",
+          "url": "https://www.sportschosun.com/baseball/2026-11-07/202611070100051360005143",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004464405",
+          "pub_date": "Sat, 07 Nov 2026 18:22:00 +0900"
+        },
         {
           "title": "좌석 맵핑부터 무선 제어까지...KT 응원봉에 숨은 ICT 기술",
           "url": "https://www.chosun.com/economy/tech_it/2026/11/07/ERTR2SRRTBCY5KIEWUUQEIBYSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -521,18 +533,6 @@
           "url": "https://www.xportsnews.com/article/2216672",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002077786",
           "pub_date": "Sat, 07 Nov 2026 12:00:00 +0900"
-        },
-        {
-          "title": "[KS 포커스] 가을<b>야구</b> 아닌 겨울<b>야구</b>…변수로 떠오른 갑작스러운 추위",
-          "url": "https://www.newspim.com/news/view/20261106001290",
-          "naver_url": "https://www.newspim.com/news/view/20261106001290",
-          "pub_date": "Sat, 07 Nov 2026 09:00:00 +0900"
-        },
-        {
-          "title": "&quot;수원 너무 멀다, 대구서 끝낸다&quot; 도파민 솟구치는 '신종 국민노예' &quot;박...",
-          "url": "https://www.sportschosun.com/baseball/2026-11-07/202611070100048020004879",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004464168",
-          "pub_date": "Sat, 07 Nov 2026 07:38:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18251,
+      "api_total": 18253,
       "items": [
+        {
+          "title": "<b>야구</b>의 재미를 더해줄 나무<b>배트</b> 추천",
+          "url": "https://blog.naver.com/tgsfaqu63518/224468688460",
+          "naver_url": "https://blog.naver.com/tgsfaqu63518/224468688460",
+          "pub_date": "20261107"
+        },
+        {
+          "title": "B45 프로 나무<b>배트</b> <b>야구</b> 캐나다산 공인 우드<b>배트</b> B23 안현민 모델 우....",
+          "url": "https://blog.naver.com/hvlbe25648_sw/224467070694",
+          "naver_url": "https://blog.naver.com/hvlbe25648_sw/224467070694",
+          "pub_date": "20261107"
+        },
         {
           "title": "[성남SB리그] 2026.11.7 <b>배트</b>메이트 vs 에이원",
           "url": "https://blog.naver.com/nogari_37/224468258457",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/adh4010/224468137194",
           "naver_url": "https://blog.naver.com/adh4010/224468137194",
           "pub_date": "20261107"
-        },
-        {
-          "title": "인천 <b>야구</b>레슨｜좋은 코치란? 우리 아이에게 맞는 <b>야구</b> 지도자를 선....",
-          "url": "https://blog.naver.com/k_taeng93/224462967906",
-          "naver_url": "https://blog.naver.com/k_taeng93/224462967906",
-          "pub_date": "20261107"
-        },
-        {
-          "title": "노시환 양키스 이적설의 진실: 307억 포기한 홈런왕의 MLB 도전과 냉....",
-          "url": "https://blog.naver.com/ewedding/224467730665",
-          "naver_url": "https://blog.naver.com/ewedding/224467730665",
-          "pub_date": "20261106"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794040981,
+  "updated_at": 1794064219,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794040981,
-  "shopping_updated_at": 1794040982,
-  "reference_updated_at": 1794040988
+  "trend_updated_at": 1794064219,
+  "shopping_updated_at": 1794064220,
+  "reference_updated_at": 1794064225
 }
