@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86408,
+      "api_total": 86409,
       "items": [
+        {
+          "title": "'V9' 삼성 12년 만에 우승 왜 아름다운가, 절뚝이는 구자욱&amp;타격도 힘든...",
+          "url": "https://www.mydaily.co.kr/page/view/2026110816443242185",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004123280",
+          "pub_date": "Sun, 08 Nov 2026 17:41:00 +0900"
+        },
         {
           "title": "'22년 한 풀었다' 강민호·첫 반지 구자욱…삼성, 12년 만에 한국시리즈...",
           "url": "https://www.topstarnews.net/news/articleView.html?idxno=16271279",
@@ -527,12 +533,6 @@
           "url": "https://www.starnewskorea.com/sports/2026/11/08/2026110810285635570",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003485678",
           "pub_date": "Sun, 08 Nov 2026 12:25:00 +0900"
-        },
-        {
-          "title": "밀워키와 요코하마가 보여준 ‘머니볼’ 계보 [경기장의 안과 밖]",
-          "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58693",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/308/0000038952",
-          "pub_date": "Sun, 08 Nov 2026 09:33:00 +0900"
         }
       ]
     },
@@ -582,8 +582,26 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18263,
+      "api_total": 18266,
       "items": [
+        {
+          "title": "김해<b>사회인야구</b> 타격이 어려운 이유｜배팅센터에서 기본부터 연습....",
+          "url": "https://blog.naver.com/yg-yoon-coach/224469673419",
+          "naver_url": "https://blog.naver.com/yg-yoon-coach/224469673419",
+          "pub_date": "20261109"
+        },
+        {
+          "title": "2026년 3분기 결산(8월편)",
+          "url": "https://blog.naver.com/rdt1215/224469371225",
+          "naver_url": "https://blog.naver.com/rdt1215/224469371225",
+          "pub_date": "20261108"
+        },
+        {
+          "title": "임시 서울 자취 일상+<b>야구</b>팬 1년차의 소회",
+          "url": "https://blog.naver.com/dsb_413/224469309516",
+          "naver_url": "https://blog.naver.com/dsb_413/224469309516",
+          "pub_date": "20261108"
+        },
         {
           "title": "김영웅 1루타 팩트체크와 벤치가 그를 클린업에 두는 이유",
           "url": "https://blog.naver.com/reversal79/224469265594",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/misterbaseball/224469214024",
           "naver_url": "https://blog.naver.com/misterbaseball/224469214024",
           "pub_date": "20261108"
-        },
-        {
-          "title": "웨이트레이드 잔트가르 시타 후기 | 가벼운 무게감의 <b>사회인 야구</b> ....",
-          "url": "https://blog.naver.com/ih_yeo0123/224469208350",
-          "naver_url": "https://blog.naver.com/ih_yeo0123/224469208350",
-          "pub_date": "20261108"
-        },
-        {
-          "title": "BBK <b>야구</b>배팅장갑 22 BG380 더블벨크로 배팅장갑 블랙 후기",
-          "url": "https://blog.naver.com/cvewd771828_ci/224468167904",
-          "naver_url": "https://blog.naver.com/cvewd771828_ci/224468167904",
-          "pub_date": "20261108"
-        },
-        {
-          "title": "수원·군포·시흥 근처 실내<b>야구</b>장｜장비 무료 대여, 1시간 15,000원부....",
-          "url": "https://blog.naver.com/adh4010/224468193412",
-          "naver_url": "https://blog.naver.com/adh4010/224468193412",
-          "pub_date": "20261108"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794127039,
+  "updated_at": 1794152108,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794127039,
-  "shopping_updated_at": 1794127040,
-  "reference_updated_at": 1794127046
+  "trend_updated_at": 1794152108,
+  "shopping_updated_at": 1794152109,
+  "reference_updated_at": 1794152115
 }
