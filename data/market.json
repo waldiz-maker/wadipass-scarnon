@@ -6,15 +6,492 @@
     "알로이 배트",
     "사회인야구 배트"
   ],
-  "trend": [],
-  "trend_summary": {},
-  "shopping_trend": [],
-  "shopping_summary": {
-    "top_age": {},
-    "top_gender": {}
+  "trend": [
+    {
+      "title": "야구배트",
+      "keywords": [
+        "야구배트"
+      ],
+      "data": [
+        {
+          "period": "2025-11-01",
+          "ratio": 83.61
+        },
+        {
+          "period": "2025-12-01",
+          "ratio": 78.61
+        },
+        {
+          "period": "2026-01-01",
+          "ratio": 53.82
+        },
+        {
+          "period": "2026-02-01",
+          "ratio": 49.29
+        },
+        {
+          "period": "2026-03-01",
+          "ratio": 69.92
+        },
+        {
+          "period": "2026-04-01",
+          "ratio": 83.04
+        },
+        {
+          "period": "2026-05-01",
+          "ratio": 100.0
+        },
+        {
+          "period": "2026-06-01",
+          "ratio": 85.49
+        },
+        {
+          "period": "2026-07-01",
+          "ratio": 67.33
+        },
+        {
+          "period": "2026-08-01",
+          "ratio": 57.6
+        },
+        {
+          "period": "2026-09-01",
+          "ratio": 67.47
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 66.36
+        },
+        {
+          "period": "2026-11-01",
+          "ratio": 17.13
+        }
+      ]
+    },
+    {
+      "title": "알로이 배트",
+      "keywords": [
+        "알로이 배트"
+      ],
+      "data": [
+        {
+          "period": "2025-11-01",
+          "ratio": 6.22
+        },
+        {
+          "period": "2025-12-01",
+          "ratio": 5.61
+        },
+        {
+          "period": "2026-01-01",
+          "ratio": 4.76
+        },
+        {
+          "period": "2026-02-01",
+          "ratio": 4.82
+        },
+        {
+          "period": "2026-03-01",
+          "ratio": 6.86
+        },
+        {
+          "period": "2026-04-01",
+          "ratio": 8.49
+        },
+        {
+          "period": "2026-05-01",
+          "ratio": 8.62
+        },
+        {
+          "period": "2026-06-01",
+          "ratio": 8.11
+        },
+        {
+          "period": "2026-07-01",
+          "ratio": 5.89
+        },
+        {
+          "period": "2026-08-01",
+          "ratio": 4.37
+        },
+        {
+          "period": "2026-09-01",
+          "ratio": 5.5
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 5.54
+        },
+        {
+          "period": "2026-11-01",
+          "ratio": 0.92
+        }
+      ]
+    },
+    {
+      "title": "사회인야구 배트",
+      "keywords": [
+        "사회인야구 배트"
+      ],
+      "data": [
+        {
+          "period": "2025-11-01",
+          "ratio": 3.38
+        },
+        {
+          "period": "2025-12-01",
+          "ratio": 2.81
+        },
+        {
+          "period": "2026-01-01",
+          "ratio": 2.73
+        },
+        {
+          "period": "2026-02-01",
+          "ratio": 4.27
+        },
+        {
+          "period": "2026-03-01",
+          "ratio": 7.29
+        },
+        {
+          "period": "2026-04-01",
+          "ratio": 7.81
+        },
+        {
+          "period": "2026-05-01",
+          "ratio": 6.79
+        },
+        {
+          "period": "2026-06-01",
+          "ratio": 5.42
+        },
+        {
+          "period": "2026-07-01",
+          "ratio": 3.45
+        },
+        {
+          "period": "2026-08-01",
+          "ratio": 3.25
+        },
+        {
+          "period": "2026-09-01",
+          "ratio": 3.58
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 4.96
+        },
+        {
+          "period": "2026-11-01",
+          "ratio": 1.26
+        }
+      ]
+    }
+  ],
+  "trend_summary": {
+    "primary_keyword": "야구배트",
+    "state": "최근 관심 감소",
+    "recent_3m_avg": 50.3,
+    "previous_3m_avg": 70.1,
+    "delta_pct": -28.2,
+    "latest_period": "2026-11-01",
+    "latest_keyword": "야구배트",
+    "latest_ratio": 17.1,
+    "peak_period": "2026-05-01",
+    "peak_ratio": 100.0,
+    "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
+    "calculation_note": "최근 3개월 평균과 직전 3개월 평균을 단순 비교한 수치이며 절대 검색량이 아닙니다."
   },
-  "shopping_age": {},
-  "shopping_gender": {},
+  "shopping_trend": [
+    {
+      "title": "야구배트",
+      "keywords": [
+        "야구배트"
+      ],
+      "data": [
+        {
+          "period": "2025-11-01",
+          "ratio": 91.87
+        },
+        {
+          "period": "2025-12-01",
+          "ratio": 88.65
+        },
+        {
+          "period": "2026-01-01",
+          "ratio": 53.25
+        },
+        {
+          "period": "2026-02-01",
+          "ratio": 46.49
+        },
+        {
+          "period": "2026-03-01",
+          "ratio": 53.16
+        },
+        {
+          "period": "2026-04-01",
+          "ratio": 79.05
+        },
+        {
+          "period": "2026-05-01",
+          "ratio": 100.0
+        },
+        {
+          "period": "2026-06-01",
+          "ratio": 74.67
+        },
+        {
+          "period": "2026-07-01",
+          "ratio": 54.37
+        },
+        {
+          "period": "2026-08-01",
+          "ratio": 54.62
+        },
+        {
+          "period": "2026-09-01",
+          "ratio": 72.47
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 56.04
+        },
+        {
+          "period": "2026-11-01",
+          "ratio": 15.31
+        }
+      ]
+    },
+    {
+      "title": "알로이 배트",
+      "keywords": [
+        "알로이배트"
+      ],
+      "data": [
+        {
+          "period": "2025-11-01",
+          "ratio": 13.38
+        },
+        {
+          "period": "2025-12-01",
+          "ratio": 13.03
+        },
+        {
+          "period": "2026-01-01",
+          "ratio": 6.37
+        },
+        {
+          "period": "2026-02-01",
+          "ratio": 7.74
+        },
+        {
+          "period": "2026-03-01",
+          "ratio": 10.45
+        },
+        {
+          "period": "2026-04-01",
+          "ratio": 15.96
+        },
+        {
+          "period": "2026-05-01",
+          "ratio": 18.15
+        },
+        {
+          "period": "2026-06-01",
+          "ratio": 14.92
+        },
+        {
+          "period": "2026-07-01",
+          "ratio": 10.54
+        },
+        {
+          "period": "2026-08-01",
+          "ratio": 15.23
+        },
+        {
+          "period": "2026-09-01",
+          "ratio": 13.72
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 14.54
+        },
+        {
+          "period": "2026-11-01",
+          "ratio": 1.46
+        }
+      ]
+    },
+    {
+      "title": "사회인야구 배트",
+      "keywords": [
+        "사회인야구배트"
+      ],
+      "data": [
+        {
+          "period": "2025-11-01",
+          "ratio": 4.39
+        },
+        {
+          "period": "2025-12-01",
+          "ratio": 4.13
+        },
+        {
+          "period": "2026-01-01",
+          "ratio": 4.39
+        },
+        {
+          "period": "2026-02-01",
+          "ratio": 5.68
+        },
+        {
+          "period": "2026-03-01",
+          "ratio": 7.7
+        },
+        {
+          "period": "2026-04-01",
+          "ratio": 10.45
+        },
+        {
+          "period": "2026-05-01",
+          "ratio": 8.13
+        },
+        {
+          "period": "2026-06-01",
+          "ratio": 9.76
+        },
+        {
+          "period": "2026-07-01",
+          "ratio": 4.77
+        },
+        {
+          "period": "2026-08-01",
+          "ratio": 4.77
+        },
+        {
+          "period": "2026-09-01",
+          "ratio": 7.57
+        },
+        {
+          "period": "2026-10-01",
+          "ratio": 4.0
+        },
+        {
+          "period": "2026-11-01",
+          "ratio": 1.03
+        }
+      ]
+    }
+  ],
+  "shopping_summary": {
+    "primary_keyword": "야구배트",
+    "state": "최근 관심 감소",
+    "recent_3m_avg": 47.9,
+    "previous_3m_avg": 61.2,
+    "delta_pct": -21.7,
+    "latest_period": "2026-11-01",
+    "latest_keyword": "야구배트",
+    "latest_ratio": 15.3,
+    "peak_period": "2026-05-01",
+    "peak_ratio": 100.0,
+    "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
+    "calculation_note": "최근 3개월 평균과 직전 3개월 평균을 단순 비교한 수치이며 실제 클릭수·구매량이 아닙니다.",
+    "top_age": {
+      "group": "40",
+      "label": "40대",
+      "index": 69.4,
+      "period_count": 4
+    },
+    "top_gender": {
+      "group": "m",
+      "label": "남성",
+      "index": 71.2,
+      "period_count": 4
+    }
+  },
+  "shopping_age": {
+    "kind": "age",
+    "keyword": "야구배트",
+    "category_id": "50000007",
+    "category_name": "스포츠/레저",
+    "period_start": "2026-08-09",
+    "period_end": "2026-11-09",
+    "rows": [
+      {
+        "group": "40",
+        "label": "40대",
+        "index": 69.4,
+        "period_count": 4
+      },
+      {
+        "group": "50",
+        "label": "50대",
+        "index": 24.9,
+        "period_count": 4
+      },
+      {
+        "group": "10",
+        "label": "10대",
+        "index": 18.7,
+        "period_count": 4
+      },
+      {
+        "group": "30",
+        "label": "30대",
+        "index": 14.5,
+        "period_count": 4
+      },
+      {
+        "group": "20",
+        "label": "20대",
+        "index": 7.6,
+        "period_count": 4
+      },
+      {
+        "group": "60",
+        "label": "60대 이상",
+        "index": 5.6,
+        "period_count": 4
+      }
+    ],
+    "top": {
+      "group": "40",
+      "label": "40대",
+      "index": 69.4,
+      "period_count": 4
+    },
+    "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
+  },
+  "shopping_gender": {
+    "kind": "gender",
+    "keyword": "야구배트",
+    "category_id": "50000007",
+    "category_name": "스포츠/레저",
+    "period_start": "2026-08-09",
+    "period_end": "2026-11-09",
+    "rows": [
+      {
+        "group": "m",
+        "label": "남성",
+        "index": 71.2,
+        "period_count": 4
+      },
+      {
+        "group": "f",
+        "label": "여성",
+        "index": 24.9,
+        "period_count": 4
+      }
+    ],
+    "top": {
+      "group": "m",
+      "label": "남성",
+      "index": 71.2,
+      "period_count": 4
+    },
+    "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
+  },
   "shopping_category": {
     "id": "50000007",
     "name": "스포츠/레저"
@@ -25,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86419,
+      "api_total": 86420,
       "items": [
+        {
+          "title": "[헐크 이만수의 힘] 별 중의 별, 그러나 언제나 고개 숙인 벼 이삭 같았...",
+          "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027158",
+          "naver_url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027158",
+          "pub_date": "Tue, 10 Nov 2026 06:00:00 +0900"
+        },
         {
           "title": "'역시 오타니!' 404만원 한정판 <b>배트</b> 하루 만에 '1000자루 완판'…日 매...",
           "url": "https://www.xportsnews.com/article/2217633",
@@ -50,12 +533,6 @@
           "url": "https://www.edaily.co.kr/News/Read?newsId=03011046645644080&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/018/0006406664",
           "pub_date": "Mon, 09 Nov 2026 13:21:00 +0900"
-        },
-        {
-          "title": "류현진재단, ‘2026 류현진재단 자선골프대회’ 개최…유소년 <b>야구</b>선수...",
-          "url": "http://www.osen.co.kr/article/G1112907147",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005637545",
-          "pub_date": "Mon, 09 Nov 2026 13:01:00 +0900"
         }
       ]
     },
@@ -105,48 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18278,
+      "api_total": 18283,
       "items": [
         {
-          "title": "정의 수업 - 라이언 홀리데이 (1)",
-          "url": "https://blog.naver.com/twainnnn/224470621302",
-          "naver_url": "https://blog.naver.com/twainnnn/224470621302",
+          "title": "가볍고 강력한 나무<b>배트</b> 선택하기",
+          "url": "https://blog.naver.com/krujcoaeo5342/224471058502",
+          "naver_url": "https://blog.naver.com/krujcoaeo5342/224471058502",
+          "pub_date": "20261110"
+        },
+        {
+          "title": "<b>사회인야구</b> <b>배트</b> 소재, KBN <b>알로이</b>·일반 <b>알로이</b>·코어·카본 차이",
+          "url": "https://blog.naver.com/short_talk/224470980031",
+          "naver_url": "https://blog.naver.com/short_talk/224470980031",
+          "pub_date": "20261110"
+        },
+        {
+          "title": "<b>배트</b> 밸런스 탑·미들·극미들, 같은 무게인데 왜 다르게 느껴질까",
+          "url": "https://blog.naver.com/short_talk/224470923667",
+          "naver_url": "https://blog.naver.com/short_talk/224470923667",
           "pub_date": "20261109"
         },
         {
-          "title": "하체 턴과 스윙의 연결, 어깨선과 손 위치 점검",
-          "url": "https://blog.naver.com/dltkdalsu/224470576207",
-          "naver_url": "https://blog.naver.com/dltkdalsu/224470576207",
+          "title": "[PR Baseball Lab] <b>사회인 야구</b> 타격 레슨 | 스윙 분석부터 실전 타격까지",
+          "url": "https://blog.naver.com/kingsun1108/224470841613",
+          "naver_url": "https://blog.naver.com/kingsun1108/224470841613",
           "pub_date": "20261109"
         },
         {
-          "title": "[현장 취재] 퇴근 후 꿈꾸는 링 위의 나…프로레슬링 동호회 '트리플....",
-          "url": "https://blog.naver.com/sportainers/224470414962",
-          "naver_url": "https://blog.naver.com/sportainers/224470414962",
-          "pub_date": "20261109"
-        },
-        {
-          "title": "후기와 제작과정 <b>야구</b>유니폼 3년만에 리뉴얼 - 유니폼큐 X 브루어스",
-          "url": "https://blog.naver.com/uniform-q/224470240509",
-          "naver_url": "https://blog.naver.com/uniform-q/224470240509",
-          "pub_date": "20261109"
-        },
-        {
-          "title": "고교생 오타니 쇼헤이의 최강 멘탈 수업 - 니시다 하쓰미",
-          "url": "https://blog.naver.com/twainnnn/224470015460",
-          "naver_url": "https://blog.naver.com/twainnnn/224470015460",
+          "title": "미즈노 대성스포츠 방문",
+          "url": "https://blog.naver.com/dack44541/224470787760",
+          "naver_url": "https://blog.naver.com/dack44541/224470787760",
           "pub_date": "20261109"
         }
       ]
     }
   ],
-  "errors": {
-    "trend": "HTTPError: 400 Client Error: Bad Request for url: https://naverapihub.apigw.ntruss.com/search-trend/v1/search",
-    "shopping_keywords": "HTTPError: 400 Client Error: Bad Request for url: https://naverapihub.apigw.ntruss.com/shopping/v1/category/keywords",
-    "shopping_age": "HTTPError: 400 Client Error: Bad Request for url: https://naverapihub.apigw.ntruss.com/shopping/v1/category/keyword/age",
-    "shopping_gender": "HTTPError: 400 Client Error: Bad Request for url: https://naverapihub.apigw.ntruss.com/shopping/v1/category/keyword/gender"
-  },
-  "updated_at": 1794220871,
+  "errors": {},
+  "updated_at": 1794258334,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -155,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794220871,
-  "shopping_updated_at": 1794220876,
-  "reference_updated_at": 1794220890
+  "trend_updated_at": 1794258334,
+  "shopping_updated_at": 1794258336,
+  "reference_updated_at": 1794258349
 }
