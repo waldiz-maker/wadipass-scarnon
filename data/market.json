@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86435,
+      "api_total": 86436,
       "items": [
+        {
+          "title": "올해 세 번째 태극마크… 김도영의 시간이 왔다",
+          "url": "https://www.seoul.co.kr/news/sport/baseball/2026/11/12/20261112034003?wlog_tag3=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/081/0003698530",
+          "pub_date": "Thu, 12 Nov 2026 05:06:00 +0900"
+        },
         {
           "title": "공, 팔로만 던지다 어깨 망가질라… <b>야구</b> 오래하려면 '이 근육' 지켜라",
           "url": "https://health.chosun.com/site/data/html_dir/2026/11/11/2026111102692.html",
@@ -527,12 +533,6 @@
           "url": "https://news.jtbc.co.kr/article/NB12327476?influxDiv=NAVER",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000520142",
           "pub_date": "Wed, 11 Nov 2026 08:35:00 +0900"
-        },
-        {
-          "title": "“TV로만 보던 선배님들 직접 만나보니 긴장돼”",
-          "url": "https://sports.khan.co.kr/article/202611110800016?pt=nv",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001149112",
-          "pub_date": "Wed, 11 Nov 2026 08:02:00 +0900"
         }
       ]
     },
@@ -582,8 +582,26 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18284,
+      "api_total": 18287,
       "items": [
+        {
+          "title": "동탄 타자 몸통 회전 / 스윙이 팔로만 나간다면? 비시즌에 채울 회전....",
+          "url": "https://blog.naver.com/autumnme1001/224473262205",
+          "naver_url": "https://blog.naver.com/autumnme1001/224473262205",
+          "pub_date": "20261112"
+        },
+        {
+          "title": "주식투자는 결코 안전하지 않는 아주 위험한 투자이다. 이를 명심해....",
+          "url": "https://blog.naver.com/lka7270/224473711366",
+          "naver_url": "https://blog.naver.com/lka7270/224473711366",
+          "pub_date": "20261112"
+        },
+        {
+          "title": "머리를 고정하는 것과 시선을 유지하는 것은 다릅니다 | 타격에서 ....",
+          "url": "https://blog.naver.com/dltkdalsu/224473561035",
+          "naver_url": "https://blog.naver.com/dltkdalsu/224473561035",
+          "pub_date": "20261111"
+        },
         {
           "title": "네이버 크리에이터샵 PICKLAB 픽랩을 오픈했습니다!",
           "url": "https://blog.naver.com/smilelife_/224473250562",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/smilelife_/224473134304",
           "naver_url": "https://blog.naver.com/smilelife_/224473134304",
           "pub_date": "20261111"
-        },
-        {
-          "title": "국가대표 스포츠꿈나무 장학기금 후원, 스포츠 레전드들과 함께한 ....",
-          "url": "https://blog.naver.com/eunkyo3370/224473090630",
-          "naver_url": "https://blog.naver.com/eunkyo3370/224473090630",
-          "pub_date": "20261111"
-        },
-        {
-          "title": "Superhero Grief and the Multiverse - Jill A. Harrington and Darcy L. Harris.",
-          "url": "https://blog.naver.com/twainnnn/224473090883",
-          "naver_url": "https://blog.naver.com/twainnnn/224473090883",
-          "pub_date": "20261111"
-        },
-        {
-          "title": "「<b>야구</b> 타격 이론 - 아웃-인 스윙과 당겨치기」",
-          "url": "https://blog.naver.com/clinicalpsyahn/224472868293",
-          "naver_url": "https://blog.naver.com/clinicalpsyahn/224472868293",
-          "pub_date": "20261111"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794406330,
+  "updated_at": 1794432295,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794406330,
-  "shopping_updated_at": 1794406332,
-  "reference_updated_at": 1794406338
+  "trend_updated_at": 1794432295,
+  "shopping_updated_at": 1794432297,
+  "reference_updated_at": 1794432302
 }
