@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 19.2
+          "ratio": 20.84
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 0.92
+          "ratio": 1.07
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 1.47
+          "ratio": 1.61
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 51.0,
+    "recent_3m_avg": 51.6,
     "previous_3m_avg": 70.1,
-    "delta_pct": -27.2,
+    "delta_pct": -26.4,
     "latest_period": "2026-11-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 19.2,
+    "latest_ratio": 20.8,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -415,8 +415,8 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-08-10",
-    "period_end": "2026-11-10",
+    "period_start": "2026-08-11",
+    "period_end": "2026-11-11",
     "rows": [
       {
         "group": "40",
@@ -468,8 +468,8 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-08-10",
-    "period_end": "2026-11-10",
+    "period_start": "2026-08-11",
+    "period_end": "2026-11-11",
     "rows": [
       {
         "group": "m",
@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86428,
+      "api_total": 86432,
       "items": [
+        {
+          "title": "일본만 만나면 '주춤'…김도영 &quot;자신있다&quot; 천재 증명할까",
+          "url": "https://news.jtbc.co.kr/article/NB12327476?influxDiv=NAVER",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000520142",
+          "pub_date": "Wed, 11 Nov 2026 08:35:00 +0900"
+        },
+        {
+          "title": "“TV로만 보던 선배님들 직접 만나보니 긴장돼”",
+          "url": "https://sports.khan.co.kr/article/202611110800016?pt=nv",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/144/0001149112",
+          "pub_date": "Wed, 11 Nov 2026 08:02:00 +0900"
+        },
+        {
+          "title": "&quot;내 잘못 깊이 반성, 죄송합니다&quot; 208안타에도 48억 타자는 왜 웃지 못했...",
+          "url": "https://www.mydaily.co.kr/page/view/2026111023054252491",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004124039",
+          "pub_date": "Wed, 11 Nov 2026 07:41:00 +0900"
+        },
+        {
+          "title": "이웃집 뒷마당 빌려 <b>배트</b> 휘두르던 소년, MLB 가장 빛난 신인에",
+          "url": "https://www.donga.com/news/Sports/article/all/20261111/135002584/2",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/020/0003761588",
+          "pub_date": "Wed, 11 Nov 2026 04:35:00 +0900"
+        },
         {
           "title": "'와' 267억 1할 타자가 탐난다고? 아직도 김하성 노리는 ML 팀 있다... &quot;로...",
           "url": "https://www.starnewskorea.com/sports/2026/11/11/2026111017181775614",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/108/0003486456",
           "pub_date": "Wed, 11 Nov 2026 00:01:00 +0900"
-        },
-        {
-          "title": "&quot;삼진 4개 당해도 투수 생각 없다&quot;…돌아갈 다리 불태운 장재영, '거포 ...",
-          "url": "http://www.spochoo.com/news/articleView.html?idxno=131973",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/529/0000079222",
-          "pub_date": "Tue, 10 Nov 2026 22:51:00 +0900"
-        },
-        {
-          "title": "일본만 만나면 '주춤'하는 김도영…이번엔 '징크스' 깰까",
-          "url": "https://news.jtbc.co.kr/article/NB12327425?influxDiv=NAVER",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/437/0000520102",
-          "pub_date": "Tue, 10 Nov 2026 21:45:00 +0900"
-        },
-        {
-          "title": "&quot;참 잘 뽑았다&quot; 볼수록 기특하다…개인 과외 받지 않은 모범생, 이런 기...",
-          "url": "http://www.osen.co.kr/article/G1112907738",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005638186",
-          "pub_date": "Tue, 10 Nov 2026 19:41:00 +0900"
-        },
-        {
-          "title": "첫 지휘봉 잡은 이동욱 “수비 체질 바꾼다” 특명",
-          "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261111.22015003038",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/658/0000160897",
-          "pub_date": "Tue, 10 Nov 2026 19:01:00 +0900"
         }
       ]
     },
@@ -585,6 +585,18 @@
       "api_total": 18282,
       "items": [
         {
+          "title": "김해 <b>야구</b> 취미반, <b>야구</b>를 좋아하는 마음이면 충분합니다!",
+          "url": "https://blog.naver.com/yg-yoon-coach/224472503177",
+          "naver_url": "https://blog.naver.com/yg-yoon-coach/224472503177",
+          "pub_date": "20261111"
+        },
+        {
+          "title": "<b>야구</b>를 즐기는 이들을 위한 그립 추천",
+          "url": "https://blog.naver.com/yllwhdlbodtk597/224472449517",
+          "naver_url": "https://blog.naver.com/yllwhdlbodtk597/224472449517",
+          "pub_date": "20261111"
+        },
+        {
           "title": "최고의 <b>야구</b> <b>배트</b>그립 추천",
           "url": "https://blog.naver.com/twylbzbqgrbp76/224472369583",
           "naver_url": "https://blog.naver.com/twylbzbqgrbp76/224472369583",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/ih_yeo0123/224472145390",
           "naver_url": "https://blog.naver.com/ih_yeo0123/224472145390",
           "pub_date": "20261110"
-        },
-        {
-          "title": "부산<b>야구</b>레슨｜유치부 아이 <b>야구</b>가 필요한 이유? 1:1 기초·취미반",
-          "url": "https://blog.naver.com/afbaseballclub/224472097621",
-          "naver_url": "https://blog.naver.com/afbaseballclub/224472097621",
-          "pub_date": "20261110"
-        },
-        {
-          "title": "<b>사회인야구</b> 타격, 세게 치기만 하면 될까?｜MLB Statcast로 보는 좋은 ....",
-          "url": "https://blog.naver.com/kthss0000/224472052406",
-          "naver_url": "https://blog.naver.com/kthss0000/224472052406",
-          "pub_date": "20261110"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794337585,
+  "updated_at": 1794355231,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794337585,
-  "shopping_updated_at": 1794337587,
-  "reference_updated_at": 1794337592
+  "trend_updated_at": 1794355231,
+  "shopping_updated_at": 1794355233,
+  "reference_updated_at": 1794355238
 }
