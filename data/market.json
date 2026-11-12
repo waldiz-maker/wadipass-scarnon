@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86448,
+      "api_total": 86450,
       "items": [
+        {
+          "title": "다저스 최고 스타 선수 무키 베츠가 <b>배트</b> 대신 기타를 들었다? 도대체 ...",
+          "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553697223",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/139/0002255963",
+          "pub_date": "Thu, 12 Nov 2026 22:31:00 +0900"
+        },
+        {
+          "title": "빈틈이 안 보였다, 좌완 선발 가네마루 7이닝 무실점, 1번 마사키 2홈런...",
+          "url": "https://www.sportschosun.com/baseball/2026-11-12/202611120100088980008390",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004466309",
+          "pub_date": "Thu, 12 Nov 2026 21:41:00 +0900"
+        },
         {
           "title": "'30구 초과→곧바로 실점→뒤늦은 교체' 연이은 실패, 최원호 감독도 고...",
           "url": "https://www.starnewskorea.com/sports/2026/11/12/2026111216111154607",
@@ -521,18 +533,6 @@
           "url": "https://www.wikitree.co.kr/articles/1174134",
           "naver_url": "https://www.wikitree.co.kr/articles/1174134",
           "pub_date": "Thu, 12 Nov 2026 16:42:00 +0900"
-        },
-        {
-          "title": "강민호 '에버랜드 데이트' 우승 공약 지킨다…삼성라이온즈 팬 2000명 초...",
-          "url": "https://view.asiae.co.kr/article/2026111216214831999",
-          "naver_url": "https://n.news.naver.com/mnews/article/277/0005841939?sid=101",
-          "pub_date": "Thu, 12 Nov 2026 16:21:00 +0900"
-        },
-        {
-          "title": "강민호 ‘에버랜드 데이트’ 공약…팬 2000명 무료 초청 현실로",
-          "url": "https://www.mydaily.co.kr/page/view/2026111215514073812",
-          "naver_url": "https://n.news.naver.com/mnews/article/117/0004124500?sid=103",
-          "pub_date": "Thu, 12 Nov 2026 15:52:00 +0900"
         }
       ]
     },
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18288,
+      "api_total": 18294,
       "items": [
         {
-          "title": "우천 취소된 주말, 연습까지 쉬지 마세요｜실내<b>야구</b>장 1시간 15,000원",
-          "url": "https://blog.naver.com/baseballview/224471669017",
-          "naver_url": "https://blog.naver.com/baseballview/224471669017",
+          "title": "신촌 SM 베이스볼 타격레슨 데이터 분석시스템",
+          "url": "https://blog.naver.com/smbaseball0208/224475065784",
+          "naver_url": "https://blog.naver.com/smbaseball0208/224475065784",
+          "pub_date": "20261113"
+        },
+        {
+          "title": "&quot;삼성 라이온즈 12년 만의 우승 턱&quot;…가전·패션·에버랜드 (충격)",
+          "url": "https://blog.naver.com/gamper/224475045558",
+          "naver_url": "https://blog.naver.com/gamper/224475045558",
+          "pub_date": "20261113"
+        },
+        {
+          "title": "게임원 랜덤 <b>배트</b> 박스 이벤트 개봉 후기",
+          "url": "https://blog.naver.com/ih_yeo0123/224474854698",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224474854698",
           "pub_date": "20261112"
         },
         {
-          "title": "스사노 외야수글러브 프로엘리트 쌍십자웹 블랙민트 SUPEO31",
-          "url": "https://blog.naver.com/hyperclover/224474197904",
-          "naver_url": "https://blog.naver.com/hyperclover/224474197904",
+          "title": "미즈노 투수글러브 전체끈수리",
+          "url": "https://blog.naver.com/susanokorea/224474806623",
+          "naver_url": "https://blog.naver.com/susanokorea/224474806623",
           "pub_date": "20261112"
         },
         {
-          "title": "스사노 투수글러브 프로엘리트 방패웹 네이비 SUPEP8",
-          "url": "https://blog.naver.com/hyperclover/224474188809",
-          "naver_url": "https://blog.naver.com/hyperclover/224474188809",
-          "pub_date": "20261112"
-        },
-        {
-          "title": "추천 사사키 <b>야구</b> 포인트화 프로엣지 <b>야구</b>화 SSK 제품 사양 분석 및 ....",
-          "url": "https://virtuoso.tistory.com/1491",
-          "naver_url": "https://virtuoso.tistory.com/1491",
-          "pub_date": "20261112"
-        },
-        {
-          "title": "[돈 때문에 불안하다는 착각] '회사가 평생 지켜 준다'라는 전제가 ....",
-          "url": "https://blog.naver.com/lifeisdreamisvacant/224474013189",
-          "naver_url": "https://blog.naver.com/lifeisdreamisvacant/224474013189",
+          "title": "SAKURAI 팔콘 <b>야구</b> 글러브 유소년 연식용 올라운드용 J호구 지원 주니....",
+          "url": "https://blog.naver.com/autumncloud93100/224474714359",
+          "naver_url": "https://blog.naver.com/autumncloud93100/224474714359",
           "pub_date": "20261112"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794477648,
+  "updated_at": 1794507277,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794477648,
-  "shopping_updated_at": 1794477649,
-  "reference_updated_at": 1794477655
+  "trend_updated_at": 1794507277,
+  "shopping_updated_at": 1794507278,
+  "reference_updated_at": 1794507284
 }
