@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86461,
+      "api_total": 86462,
       "items": [
+        {
+          "title": "‘롯데 행복 미소 발사’ 국대 4번 드디어 찾았다! 이대호 후계자 도쿄...",
+          "url": "http://www.osen.co.kr/article/G1112909728",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005640110",
+          "pub_date": "Sat, 14 Nov 2026 01:10:00 +0900"
+        },
         {
           "title": "'조선의 4번 타자' 후계자인 이유 제대로 보여줬다! 괴력의 한동희, 타케...",
           "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553699952",
@@ -527,12 +533,6 @@
           "url": "https://isplus.com/article/view/isp202611130101",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003541660",
           "pub_date": "Fri, 13 Nov 2026 17:54:00 +0900"
-        },
-        {
-          "title": "김태균 &quot;결국 중심타선이 해결해 줘야 한다&quot;⋯APBC 한일전, 日 경계 타자...",
-          "url": "https://www.etoday.co.kr/news/view/2648025",
-          "naver_url": "https://www.etoday.co.kr/news/view/2648025",
-          "pub_date": "Fri, 13 Nov 2026 16:24:00 +0900"
         }
       ]
     },
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18308,
+      "api_total": 18317,
       "items": [
         {
-          "title": "<b>야구</b> 연습에 최적화된 <b>배트</b> 그립 제품 모음",
-          "url": "https://blog.naver.com/zhlxmii70/224476070089",
-          "naver_url": "https://blog.naver.com/zhlxmii70/224476070089",
+          "title": "업셋 국가대표 태극기 양피 배팅장갑 내돈내산 한참 써본 후기",
+          "url": "https://blog.naver.com/bmufoj80171_qh/224475708774",
+          "naver_url": "https://blog.naver.com/bmufoj80171_qh/224475708774",
+          "pub_date": "20261114"
+        },
+        {
+          "title": "주말 <b>사회인 야구</b> 리그 뛰어보며 느낀 포지션별 기본 글러브 선택 ....",
+          "url": "https://blog.naver.com/kwtplus-03/224471948312",
+          "naver_url": "https://blog.naver.com/kwtplus-03/224471948312",
+          "pub_date": "20261114"
+        },
+        {
+          "title": "<b>야구</b>를 위한 완벽한 배팅장갑 추천",
+          "url": "https://blog.naver.com/ozhgeyhcvvj939/224476311624",
+          "naver_url": "https://blog.naver.com/ozhgeyhcvvj939/224476311624",
+          "pub_date": "20261114"
+        },
+        {
+          "title": "초4 선수에게 디스크 드릴을 진행한 이유 | 상체 회전과 스윙 궤도의....",
+          "url": "https://blog.naver.com/dltkdalsu/224476256239",
+          "naver_url": "https://blog.naver.com/dltkdalsu/224476256239",
           "pub_date": "20261113"
         },
         {
-          "title": "부천유소년<b>야구</b> • 유아체육 • 유아학원 • 키즈<b>야구</b>｜티배팅은 ....",
-          "url": "https://blog.naver.com/sports0102/224475869155",
-          "naver_url": "https://blog.naver.com/sports0102/224475869155",
-          "pub_date": "20261113"
-        },
-        {
-          "title": "김승우 2200만원 절도 피소 논란, 이미연 이혼 김남주 재혼 프로필 근....",
-          "url": "https://blog.naver.com/k-gomdori/224475855130",
-          "naver_url": "https://blog.naver.com/k-gomdori/224475855130",
-          "pub_date": "20261113"
-        },
-        {
-          "title": "대구 달서구 <b>야구</b>레슨｜베이스볼뱅크아카데미(BBA) 공식 홈페이지 ....",
-          "url": "https://blog.naver.com/theprobaseball/224475751040",
-          "naver_url": "https://blog.naver.com/theprobaseball/224475751040",
-          "pub_date": "20261113"
-        },
-        {
-          "title": "1인당 3,000원? 인원별 실내<b>야구</b>장 대관 비용 계산표｜안산 베이스볼 ....",
-          "url": "https://blog.naver.com/baseballview/224471676805",
-          "naver_url": "https://blog.naver.com/baseballview/224471676805",
+          "title": "<b>야구</b><b>배트</b>그립으로 나만의 스윙 완성하기",
+          "url": "https://blog.naver.com/mchwvxwspic91861/224476246031",
+          "naver_url": "https://blog.naver.com/mchwvxwspic91861/224476246031",
           "pub_date": "20261113"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794569530,
+  "updated_at": 1794595504,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794569530,
-  "shopping_updated_at": 1794569531,
-  "reference_updated_at": 1794569536
+  "trend_updated_at": 1794595504,
+  "shopping_updated_at": 1794595506,
+  "reference_updated_at": 1794595511
 }
