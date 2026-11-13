@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 24.22
+          "ratio": 26.05
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 1.32
+          "ratio": 1.42
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 1.91
+          "ratio": 1.96
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 52.7,
+    "recent_3m_avg": 53.3,
     "previous_3m_avg": 70.1,
-    "delta_pct": -24.8,
+    "delta_pct": -24.0,
     "latest_period": "2026-11-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 24.2,
+    "latest_ratio": 26.1,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86462,
+      "api_total": 86464,
       "items": [
+        {
+          "title": "4점 차 따라잡은 한국 타선, 일본도 경계했다…&quot;실투 몰리면 곧바로 장...",
+          "url": "https://www.xportsnews.com/article/2219344",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002080364",
+          "pub_date": "Sat, 14 Nov 2026 06:00:00 +0900"
+        },
+        {
+          "title": "'30-30' 적토마 vs '최다 홈런' 두목 곰... 잠실구장 역대 최고의 타자는...",
+          "url": "https://www.hankookilbo.com/news/article/A2026111313030004893?did=NA",
+          "naver_url": "https://n.news.naver.com/mnews/article/469/0000965506?sid=102",
+          "pub_date": "Sat, 14 Nov 2026 04:30:00 +0900"
+        },
         {
           "title": "‘롯데 행복 미소 발사’ 국대 4번 드디어 찾았다! 이대호 후계자 도쿄...",
           "url": "http://www.osen.co.kr/article/G1112909728",
@@ -521,18 +533,6 @@
           "url": "https://sports.hankooki.com/news/articleView.html?idxno=6943510",
           "naver_url": "https://sports.hankooki.com/news/articleView.html?idxno=6943510",
           "pub_date": "Fri, 13 Nov 2026 20:10:00 +0900"
-        },
-        {
-          "title": "‘대회 첫 안타가 홈런’ 한동희 거포본능, NPB 11승 투수 반대투구 놓치...",
-          "url": "https://sports.donga.com/sports/article/all/20261113/135022840/1",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/382/0001304697",
-          "pub_date": "Fri, 13 Nov 2026 20:05:00 +0900"
-        },
-        {
-          "title": "132M 대포→28홈런 마사키 부활…한일전 앞둔 한국에 '경계령'",
-          "url": "https://isplus.com/article/view/isp202611130101",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003541660",
-          "pub_date": "Fri, 13 Nov 2026 17:54:00 +0900"
         }
       ]
     },
@@ -582,8 +582,26 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18317,
+      "api_total": 18319,
       "items": [
+        {
+          "title": "<b>사회인 야구</b>, 타석에 들어가기 전 무엇을 생각하시나요?",
+          "url": "https://blog.naver.com/yg-yoon-coach/224476491548",
+          "naver_url": "https://blog.naver.com/yg-yoon-coach/224476491548",
+          "pub_date": "20261114"
+        },
+        {
+          "title": "이번 주말에는 아이와 함께 <b>야구</b> 어떠세요? ⚾",
+          "url": "https://blog.naver.com/yg-yoon-coach/224476490908",
+          "naver_url": "https://blog.naver.com/yg-yoon-coach/224476490908",
+          "pub_date": "20261114"
+        },
+        {
+          "title": "<b>야구</b>를 오래 했어도 배울 건 많네요! 김해 YG 아카데미 방문 후기",
+          "url": "https://blog.naver.com/issue2768/224476488215",
+          "naver_url": "https://blog.naver.com/issue2768/224476488215",
+          "pub_date": "20261114"
+        },
         {
           "title": "업셋 국가대표 태극기 양피 배팅장갑 내돈내산 한참 써본 후기",
           "url": "https://blog.naver.com/bmufoj80171_qh/224475708774",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/kwtplus-03/224471948312",
           "naver_url": "https://blog.naver.com/kwtplus-03/224471948312",
           "pub_date": "20261114"
-        },
-        {
-          "title": "<b>야구</b>를 위한 완벽한 배팅장갑 추천",
-          "url": "https://blog.naver.com/ozhgeyhcvvj939/224476311624",
-          "naver_url": "https://blog.naver.com/ozhgeyhcvvj939/224476311624",
-          "pub_date": "20261114"
-        },
-        {
-          "title": "초4 선수에게 디스크 드릴을 진행한 이유 | 상체 회전과 스윙 궤도의....",
-          "url": "https://blog.naver.com/dltkdalsu/224476256239",
-          "naver_url": "https://blog.naver.com/dltkdalsu/224476256239",
-          "pub_date": "20261113"
-        },
-        {
-          "title": "<b>야구</b><b>배트</b>그립으로 나만의 스윙 완성하기",
-          "url": "https://blog.naver.com/mchwvxwspic91861/224476246031",
-          "naver_url": "https://blog.naver.com/mchwvxwspic91861/224476246031",
-          "pub_date": "20261113"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794595504,
+  "updated_at": 1794614086,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794595504,
-  "shopping_updated_at": 1794595506,
-  "reference_updated_at": 1794595511
+  "trend_updated_at": 1794614086,
+  "shopping_updated_at": 1794614088,
+  "reference_updated_at": 1794614094
 }
