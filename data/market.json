@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86476,
+      "api_total": 86484,
       "items": [
         {
-          "title": "[포토] 박병호-김태균, 숨막히는 레전드 홈런 더비",
-          "url": "https://www.starnewskorea.com/sports/2026/11/14/2026111420255154271",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003487485",
-          "pub_date": "Sat, 14 Nov 2026 20:28:00 +0900"
+          "title": "타율 올랐는데, 출루율 오히려 하락한 이정후…美매체 냉정 평가 &quot;반드...",
+          "url": "https://www.sportschosun.com/baseball/2026-11-14/202611150100096580009026",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004466687",
+          "pub_date": "Sun, 15 Nov 2026 01:33:00 +0900"
         },
         {
-          "title": "‘터졌다!’ 박재현, 대만전 선제 솔로포 폭발!…KIA 돌격대장, ‘9번 타...",
-          "url": "https://www.sportsseoul.com/news/read/1649731?ref=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/468/0001280917",
-          "pub_date": "Sat, 14 Nov 2026 19:56:00 +0900"
+          "title": "건설 현장 노동자→김혜성 타격 책임자 부임… 눈물 나는 스토리, 김혜...",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019875",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/477/0000639126",
+          "pub_date": "Sun, 15 Nov 2026 01:01:00 +0900"
         },
         {
-          "title": "&quot;삼성라이온즈 우승 공약 현실로&quot;…에버랜드서 팬 2000명과 통산 9번째 ...",
-          "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=213605",
-          "naver_url": "http://www.thefirstmedia.net/news/articleView.html?idxno=213605",
-          "pub_date": "Sat, 14 Nov 2026 19:36:00 +0900"
+          "title": "'이럴 수가' 구자욱 이름조차 없다니, FA 타자 랭킹 日 사실상 독식…노...",
+          "url": "https://www.mydaily.co.kr/page/view/2026111413321136813",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004125083",
+          "pub_date": "Sun, 15 Nov 2026 00:42:00 +0900"
         },
         {
-          "title": "[사진]<b>배트</b> 부러지며 내야땅볼로 물러나는 김휘집",
-          "url": "http://www.osen.co.kr/article/G1112910210",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005640542",
-          "pub_date": "Sat, 14 Nov 2026 19:21:00 +0900"
+          "title": "&quot;한국에선 투수가 사과하는데…&quot; 빈볼 악연 떠올린 푸이그, ML 시절 '뼈저...",
+          "url": "http://www.osen.co.kr/article/G1112910333",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/109/0005640695",
+          "pub_date": "Sun, 15 Nov 2026 00:09:00 +0900"
         },
         {
-          "title": "'日 울린 개구리 번트→LG 창단 첫 우승' 44년 잠실과 함께한 김재박 감...",
-          "url": "https://www.starnewskorea.com/sports/2026/11/14/2026111414462936271",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003487416",
-          "pub_date": "Sat, 14 Nov 2026 18:01:00 +0900"
+          "title": "[APBC 현장]'결승타' 김도영 일문 일답...&quot;컨디션 좋지 않지만 좋아지기...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1696569",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000490192",
+          "pub_date": "Sat, 14 Nov 2026 22:41:00 +0900"
         }
       ]
     },
@@ -585,6 +585,12 @@
       "api_total": 18324,
       "items": [
         {
+          "title": "유니온 그라운드 슬로우 앤 스테디 시타 후기 | 10만 원 대 가성비 좋....",
+          "url": "https://blog.naver.com/ih_yeo0123/224477241644",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224477241644",
+          "pub_date": "20261114"
+        },
+        {
           "title": "프로<b>야구</b> <b>배트</b>는 얼마나 굵어도 될까? 지름 6.6cm·길이 106.7cm <b>배트</b> 규....",
           "url": "https://blog.naver.com/allsport-/224469379311",
           "naver_url": "https://blog.naver.com/allsport-/224469379311",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/baseballview/224471729973",
           "naver_url": "https://blog.naver.com/baseballview/224471729973",
           "pub_date": "20261114"
-        },
-        {
-          "title": "<b>야구</b> 연습에 딱 좋은 나무 <b>배트</b> 추천",
-          "url": "https://blog.naver.com/kwfswufinr5485/224476760599",
-          "naver_url": "https://blog.naver.com/kwfswufinr5485/224476760599",
-          "pub_date": "20261114"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794655799,
+  "updated_at": 1794676550,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794655799,
-  "shopping_updated_at": 1794655801,
-  "reference_updated_at": 1794655807
+  "trend_updated_at": 1794676550,
+  "shopping_updated_at": 1794676552,
+  "reference_updated_at": 1794676557
 }
