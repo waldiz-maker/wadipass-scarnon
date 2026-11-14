@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86484,
+      "api_total": 86485,
       "items": [
+        {
+          "title": "대만 선수가 홈런 때리고 'LG 아웃송'이라니…한국 조롱인가[APBC]",
+          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6943575",
+          "naver_url": "https://sports.hankooki.com/news/articleView.html?idxno=6943575",
+          "pub_date": "Sun, 15 Nov 2026 05:30:00 +0900"
+        },
         {
           "title": "타율 올랐는데, 출루율 오히려 하락한 이정후…美매체 냉정 평가 &quot;반드...",
           "url": "https://www.sportschosun.com/baseball/2026-11-14/202611150100096580009026",
@@ -527,12 +533,6 @@
           "url": "http://www.osen.co.kr/article/G1112910333",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/109/0005640695",
           "pub_date": "Sun, 15 Nov 2026 00:09:00 +0900"
-        },
-        {
-          "title": "[APBC 현장]'결승타' 김도영 일문 일답...&quot;컨디션 좋지 않지만 좋아지기...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1696569",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000490192",
-          "pub_date": "Sat, 14 Nov 2026 22:41:00 +0900"
         }
       ]
     },
@@ -585,6 +585,12 @@
       "api_total": 18324,
       "items": [
         {
+          "title": "&quot;요즘은 글로벌 잉글리시 시대니까 발음이나 강세 신경 쓰지 말고 ....",
+          "url": "https://blog.naver.com/slash777/224477471362",
+          "naver_url": "https://blog.naver.com/slash777/224477471362",
+          "pub_date": "20261115"
+        },
+        {
           "title": "유니온 그라운드 슬로우 앤 스테디 시타 후기 | 10만 원 대 가성비 좋....",
           "url": "https://blog.naver.com/ih_yeo0123/224477241644",
           "naver_url": "https://blog.naver.com/ih_yeo0123/224477241644",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/bunyang--king/224476949447",
           "naver_url": "https://blog.naver.com/bunyang--king/224476949447",
           "pub_date": "20261114"
-        },
-        {
-          "title": "내일 선발이라면? 전날 1시간 '감 확인' 루틴｜1시간 15,000원",
-          "url": "https://blog.naver.com/baseballview/224471729973",
-          "naver_url": "https://blog.naver.com/baseballview/224471729973",
-          "pub_date": "20261114"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794676550,
+  "updated_at": 1794692251,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794676550,
-  "shopping_updated_at": 1794676552,
-  "reference_updated_at": 1794676557
+  "trend_updated_at": 1794692251,
+  "shopping_updated_at": 1794692252,
+  "reference_updated_at": 1794692258
 }
