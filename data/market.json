@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86485,
+      "api_total": 86489,
       "items": [
+        {
+          "title": "'전체 1순위 후보가 왜?' 덕수고 이홍석, 44년 만의 우승팀 왜 떠났나.....",
+          "url": "https://www.starnewskorea.com/sports/2026/11/15/2026111513042321180",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003487580",
+          "pub_date": "Sun, 15 Nov 2026 14:33:00 +0900"
+        },
+        {
+          "title": "르노코리아, ‘잠실 더 라스트 이닝’ 성료… <b>야구</b>팬과 브랜드 소통 강...",
+          "url": "https://www.sportsworldi.com/newsView/20261115505829",
+          "naver_url": "https://n.news.naver.com/mnews/article/396/0000760979?sid=103",
+          "pub_date": "Sun, 15 Nov 2026 13:39:00 +0900"
+        },
+        {
+          "title": "KIA 복덩이, 일부러 오버하고 김도영 자극했구나…박재현 &quot;또 하겠다, 그...",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019939",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/477/0000639182",
+          "pub_date": "Sun, 15 Nov 2026 12:35:00 +0900"
+        },
+        {
+          "title": "日 에이스 다카하시 넘어야 APBC 첫 우승 보인다…1년 전 안현민의 '한 ...",
+          "url": "https://isplus.com/article/view/isp202611150040",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003541784",
+          "pub_date": "Sun, 15 Nov 2026 12:08:00 +0900"
+        },
         {
           "title": "대만 선수가 홈런 때리고 'LG 아웃송'이라니…한국 조롱인가[APBC]",
           "url": "https://sports.hankooki.com/news/articleView.html?idxno=6943575",
           "naver_url": "https://sports.hankooki.com/news/articleView.html?idxno=6943575",
           "pub_date": "Sun, 15 Nov 2026 05:30:00 +0900"
-        },
-        {
-          "title": "타율 올랐는데, 출루율 오히려 하락한 이정후…美매체 냉정 평가 &quot;반드...",
-          "url": "https://www.sportschosun.com/baseball/2026-11-14/202611150100096580009026",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004466687",
-          "pub_date": "Sun, 15 Nov 2026 01:33:00 +0900"
-        },
-        {
-          "title": "건설 현장 노동자→김혜성 타격 책임자 부임… 눈물 나는 스토리, 김혜...",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019875",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/477/0000639126",
-          "pub_date": "Sun, 15 Nov 2026 01:01:00 +0900"
-        },
-        {
-          "title": "'이럴 수가' 구자욱 이름조차 없다니, FA 타자 랭킹 日 사실상 독식…노...",
-          "url": "https://www.mydaily.co.kr/page/view/2026111413321136813",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004125083",
-          "pub_date": "Sun, 15 Nov 2026 00:42:00 +0900"
-        },
-        {
-          "title": "&quot;한국에선 투수가 사과하는데…&quot; 빈볼 악연 떠올린 푸이그, ML 시절 '뼈저...",
-          "url": "http://www.osen.co.kr/article/G1112910333",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/109/0005640695",
-          "pub_date": "Sun, 15 Nov 2026 00:09:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18326,
+      "api_total": 18322,
       "items": [
+        {
+          "title": "2026년 하반기 출시 <b>사회인 야구</b> <b>알로이 배트</b> 10종 비교 분석",
+          "url": "https://blog.naver.com/ih_yeo0123/224477806138",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224477806138",
+          "pub_date": "20261115"
+        },
+        {
+          "title": "하남시 <b>야구</b> 넥스트 레벨 <b>야구</b>아카데미 LG트윈스출신 원장님 직강",
+          "url": "https://blog.naver.com/bellaluna_/224477792671",
+          "naver_url": "https://blog.naver.com/bellaluna_/224477792671",
+          "pub_date": "20261115"
+        },
         {
           "title": "김해<b>사회인야구</b>레슨, <b>배트</b>를 세게 휘두른다고 타구가 강해질까요?",
           "url": "https://blog.naver.com/yg-yoon-coach/224477558917",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/ih_yeo0123/224477241644",
           "naver_url": "https://blog.naver.com/ih_yeo0123/224477241644",
           "pub_date": "20261114"
-        },
-        {
-          "title": "프로<b>야구</b> <b>배트</b>는 얼마나 굵어도 될까? 지름 6.6cm·길이 106.7cm <b>배트</b> 규....",
-          "url": "https://blog.naver.com/allsport-/224469379311",
-          "naver_url": "https://blog.naver.com/allsport-/224469379311",
-          "pub_date": "20261114"
-        },
-        {
-          "title": "구로 엘리트 배팅레슨 올라운드베이스볼, 송승환 코치 &quot;힘은 엄청 ....",
-          "url": "https://blog.naver.com/allroundbaseball/224476962593",
-          "naver_url": "https://blog.naver.com/allroundbaseball/224476962593",
-          "pub_date": "20261114"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794705510,
+  "updated_at": 1794729739,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794705510,
-  "shopping_updated_at": 1794705512,
-  "reference_updated_at": 1794705518
+  "trend_updated_at": 1794729739,
+  "shopping_updated_at": 1794729741,
+  "reference_updated_at": 1794729747
 }
