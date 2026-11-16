@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86508,
+      "api_total": 86510,
       "items": [
+        {
+          "title": "짙어진 패배의식…마운드 ‘정면승부’ 못하면 승리도 없다",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714304&ref=A",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/056/0012295013",
+          "pub_date": "Mon, 16 Nov 2026 21:53:00 +0900"
+        },
+        {
+          "title": "[SW인터뷰] 만 21세가 이런 생각을…‘전역’ 전미르 “아침마다 감사한...",
+          "url": "https://www.sportsworldi.com/newsView/20261116513778",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/396/0000761076",
+          "pub_date": "Mon, 16 Nov 2026 16:36:00 +0900"
+        },
         {
           "title": "홈런을 꿈꾸는 당신, 허리만 비틀지 말고 골반·몸통 함께 움직여라",
           "url": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111601525.html",
@@ -521,18 +533,6 @@
           "url": "https://www.joongang.co.kr/article/25478957",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/025/0003565452",
           "pub_date": "Mon, 16 Nov 2026 12:20:00 +0900"
-        },
-        {
-          "title": "[APBC 포커스] '라이벌은 옛말'…13연패 한국 <b>야구</b>, 일본은 점점 더 멀어...",
-          "url": "https://www.newspim.com/news/view/20261116000003",
-          "naver_url": "https://www.newspim.com/news/view/20261116000003",
-          "pub_date": "Mon, 16 Nov 2026 12:00:00 +0900"
-        },
-        {
-          "title": "일본 대표팀, APBC서 ‘마사무네 콤비’ 테이블 세터 발견…한국은 타선...",
-          "url": "https://sports.khan.co.kr/article/202611161149003?pt=nv",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/144/0001150027",
-          "pub_date": "Mon, 16 Nov 2026 11:50:00 +0900"
         }
       ]
     },
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18342,
+      "api_total": 18354,
       "items": [
         {
-          "title": "2026 APBC 한일전 결승 결과 정리, 아쉬움이 많이 남았던 준우승",
-          "url": "https://blog.naver.com/hyggeled/224479203900",
-          "naver_url": "https://blog.naver.com/hyggeled/224479203900",
+          "title": "<b>야구</b> <b>배트</b>를 더욱 쉽게 쥐고 싶은 분을 위한 그립 추천",
+          "url": "https://blog.naver.com/osuv4895372/224479814580",
+          "naver_url": "https://blog.naver.com/osuv4895372/224479814580",
+          "pub_date": "20261117"
+        },
+        {
+          "title": "광주<b>야구</b>레슨｜타격 타이밍이 무너졌던 <b>사회인 야구</b>인의 인생 첫 ....",
+          "url": "https://blog.naver.com/wow4609/224479784298",
+          "naver_url": "https://blog.naver.com/wow4609/224479784298",
           "pub_date": "20261116"
         },
         {
-          "title": "[버튼커스텀] <b>야구</b>글러브 끈 수리 끈교체작업 이야기",
-          "url": "https://blog.naver.com/button_order/224479072955",
-          "naver_url": "https://blog.naver.com/button_order/224479072955",
+          "title": "<b>배트</b>를 짧게 잡으면 정말 더 빠를까? | 블라스트 모션으로 직접 측정....",
+          "url": "https://blog.naver.com/dltkdalsu/224479659933",
+          "naver_url": "https://blog.naver.com/dltkdalsu/224479659933",
           "pub_date": "20261116"
         },
         {
-          "title": "1971년 5월 5일 장충단 리틀<b>야구</b>장",
-          "url": "https://blog.naver.com/dugsum/224478982041",
-          "naver_url": "https://blog.naver.com/dugsum/224478982041",
+          "title": "2026 스톰 폭풍 블래스트 실사용 후기 | KBN 인증 미들탑 밸런스 <b>사회</b>....",
+          "url": "https://blog.naver.com/ih_yeo0123/224479640847",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224479640847",
           "pub_date": "20261116"
         },
         {
-          "title": "류현진 자선골프대회 | 3회째 오늘 벨라45CC 개최, 출전 스타·스킨스 ....",
-          "url": "https://blog.naver.com/suncj0225/224478968298",
-          "naver_url": "https://blog.naver.com/suncj0225/224478968298",
-          "pub_date": "20261116"
-        },
-        {
-          "title": "바를정한방병원 정인호 대표원장, '국가대표 스포츠꿈나무 장학기....",
-          "url": "https://blog.naver.com/acujung/224478834551",
-          "naver_url": "https://blog.naver.com/acujung/224478834551",
+          "title": "<b>야구</b>를 처음 배울 때 무엇부터 확인할까요? 더굳파워랩 개인별 맞춤....",
+          "url": "https://blog.naver.com/or13685/224479606719",
+          "naver_url": "https://blog.naver.com/or13685/224479606719",
           "pub_date": "20261116"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794812208,
+  "updated_at": 1794847357,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794812208,
-  "shopping_updated_at": 1794812210,
-  "reference_updated_at": 1794812215
+  "trend_updated_at": 1794847357,
+  "shopping_updated_at": 1794847359,
+  "reference_updated_at": 1794847365
 }
