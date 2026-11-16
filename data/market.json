@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 25.89
+          "ratio": 28.3
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 2.37
+          "ratio": 3.05
         }
       ]
     },
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 51.5,
+    "recent_3m_avg": 52.3,
     "previous_3m_avg": 61.2,
-    "delta_pct": -15.8,
+    "delta_pct": -14.5,
     "latest_period": "2026-11-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 25.9,
+    "latest_ratio": 28.3,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 72.6,
+      "index": 73.3,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 74.9,
+      "index": 75.7,
       "period_count": 4
     }
   },
@@ -421,31 +421,31 @@
       {
         "group": "40",
         "label": "40대",
-        "index": 72.6,
+        "index": 73.3,
         "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 26.4,
+        "index": 26.6,
         "period_count": 4
       },
       {
         "group": "10",
         "label": "10대",
-        "index": 19.6,
+        "index": 19.8,
         "period_count": 4
       },
       {
         "group": "30",
         "label": "30대",
-        "index": 15.4,
+        "index": 15.6,
         "period_count": 4
       },
       {
         "group": "20",
         "label": "20대",
-        "index": 8.1,
+        "index": 8.3,
         "period_count": 4
       },
       {
@@ -458,7 +458,7 @@
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 72.6,
+      "index": 73.3,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -474,20 +474,20 @@
       {
         "group": "m",
         "label": "남성",
-        "index": 74.9,
+        "index": 75.7,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 25.9,
+        "index": 26.0,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 74.9,
+      "index": 75.7,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86501,
+      "api_total": 86508,
       "items": [
         {
-          "title": "원태인 따라 걸은, 김영웅 따라 뛴 육성선수들…삼성의 우승 멤버가 되...",
-          "url": "https://isplus.com/article/view/isp202611160004",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003541888",
-          "pub_date": "Mon, 16 Nov 2026 09:17:00 +0900"
+          "title": "홈런을 꿈꾸는 당신, 허리만 비틀지 말고 골반·몸통 함께 움직여라",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/16/2026111601525.html",
+          "naver_url": "https://n.news.naver.com/mnews/article/346/0000118949?sid=103",
+          "pub_date": "Mon, 16 Nov 2026 14:31:00 +0900"
         },
         {
-          "title": "11일 전역→12일 일본행, 대체 얼마나 보고싶었길래…이동욱 감독의 전...",
-          "url": "https://www.xportsnews.com/article/2219895",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002080977",
-          "pub_date": "Mon, 16 Nov 2026 08:40:00 +0900"
+          "title": "마지막 경기서 타석조차 못 섰는데…다저스 우승 영웅 로하스, 친선경기...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1698717",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/445/0000490764",
+          "pub_date": "Mon, 16 Nov 2026 14:08:00 +0900"
         },
         {
-          "title": "'APBC 준우승' 최원호 감독 &quot;국가대표급 투수와 그렇지 않은 투수들의 실...",
-          "url": "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377600",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/472/0000042473",
-          "pub_date": "Mon, 16 Nov 2026 06:07:00 +0900"
+          "title": "프로<b>야구</b> 레전드 60명, 잠실과 작별하다…마지막 추억 새긴 ‘더 라스트...",
+          "url": "https://www.joongang.co.kr/article/25478957",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/025/0003565452",
+          "pub_date": "Mon, 16 Nov 2026 12:20:00 +0900"
         },
         {
-          "title": "[APBC] 한일전 13연패·3회 연속 준우승, 최원호 감독 &quot;젊은 투수들 경쟁...",
-          "url": "https://isplus.com/article/view/isp202611160001",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003541859",
-          "pub_date": "Mon, 16 Nov 2026 06:06:00 +0900"
+          "title": "[APBC 포커스] '라이벌은 옛말'…13연패 한국 <b>야구</b>, 일본은 점점 더 멀어...",
+          "url": "https://www.newspim.com/news/view/20261116000003",
+          "naver_url": "https://www.newspim.com/news/view/20261116000003",
+          "pub_date": "Mon, 16 Nov 2026 12:00:00 +0900"
         },
         {
-          "title": "13연패… 한일전, 지는게 당연해졌나",
-          "url": "https://www.seoul.co.kr/news/sport/baseball/2026/11/16/20261116034002?wlog_tag3=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/081/0003699585",
-          "pub_date": "Mon, 16 Nov 2026 05:05:00 +0900"
+          "title": "일본 대표팀, APBC서 ‘마사무네 콤비’ 테이블 세터 발견…한국은 타선...",
+          "url": "https://sports.khan.co.kr/article/202611161149003?pt=nv",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/144/0001150027",
+          "pub_date": "Mon, 16 Nov 2026 11:50:00 +0900"
         }
       ]
     },
@@ -541,8 +541,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 1335,
+      "api_total": 1336,
       "items": [
+        {
+          "title": "‘11년 무승+13연패’ 일본 <b>야구</b> 따라잡지 못하는 구조적 한계",
+          "url": "https://www.dailian.co.kr/news/view/1715388/?sc=Naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/119/0003155506",
+          "pub_date": "Mon, 16 Nov 2026 09:34:00 +0900"
+        },
         {
           "title": "공, 팔로만 던지다 어깨 망가질라… <b>야구</b> 오래하려면 '이 근육' 지켜라",
           "url": "https://health.chosun.com/site/data/html_dir/2026/11/11/2026111102692.html",
@@ -566,12 +572,6 @@
           "url": "http://www.gjdream.com/news/articleView.html?idxno=673761",
           "naver_url": "http://www.gjdream.com/news/articleView.html?idxno=673761",
           "pub_date": "Tue, 27 Oct 2026 00:00:00 +0900"
-        },
-        {
-          "title": "[금융권 이모저모]한국거래소, 코스닥 기술평가 개편…우주항공·로봇 ...",
-          "url": "https://www.businessplus.kr/news/articleView.html?idxno=118387",
-          "naver_url": "https://www.businessplus.kr/news/articleView.html?idxno=118387",
-          "pub_date": "Mon, 19 Oct 2026 15:46:00 +0900"
         }
       ]
     }
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18337,
+      "api_total": 18342,
       "items": [
         {
-          "title": "[<b>야구</b> 타격의 기본은 꾸준함이다] 매일 반복하는 작은 노력이 최고....",
-          "url": "https://blog.naver.com/wooko3737/224478640896",
-          "naver_url": "https://blog.naver.com/wooko3737/224478640896",
+          "title": "2026 APBC 한일전 결승 결과 정리, 아쉬움이 많이 남았던 준우승",
+          "url": "https://blog.naver.com/hyggeled/224479203900",
+          "naver_url": "https://blog.naver.com/hyggeled/224479203900",
           "pub_date": "20261116"
         },
         {
-          "title": "김해<b>사회인야구</b>레슨, 좋은 타격은 공을 잘 고르는 것부터 시작합니....",
-          "url": "https://blog.naver.com/yg-yoon-coach/224478622614",
-          "naver_url": "https://blog.naver.com/yg-yoon-coach/224478622614",
+          "title": "[버튼커스텀] <b>야구</b>글러브 끈 수리 끈교체작업 이야기",
+          "url": "https://blog.naver.com/button_order/224479072955",
+          "naver_url": "https://blog.naver.com/button_order/224479072955",
           "pub_date": "20261116"
         },
         {
-          "title": "밤의 대통령 제 4부, 213(여인의 향기) - 이원호",
-          "url": "https://blog.naver.com/tkddnl01/224478556911",
-          "naver_url": "https://blog.naver.com/tkddnl01/224478556911",
+          "title": "1971년 5월 5일 장충단 리틀<b>야구</b>장",
+          "url": "https://blog.naver.com/dugsum/224478982041",
+          "naver_url": "https://blog.naver.com/dugsum/224478982041",
           "pub_date": "20261116"
         },
         {
-          "title": "한국 <b>야구</b> 일본에 1-5 패배,충격의 일본전 13연패…APBC 3연속 준우승, ....",
-          "url": "https://blog.naver.com/chang005/224478556672",
-          "naver_url": "https://blog.naver.com/chang005/224478556672",
+          "title": "류현진 자선골프대회 | 3회째 오늘 벨라45CC 개최, 출전 스타·스킨스 ....",
+          "url": "https://blog.naver.com/suncj0225/224478968298",
+          "naver_url": "https://blog.naver.com/suncj0225/224478968298",
           "pub_date": "20261116"
         },
         {
-          "title": "최고의 <b>야구</b><b>배트</b>그립 추천 리스트",
-          "url": "https://blog.naver.com/budo113/224478493203",
-          "naver_url": "https://blog.naver.com/budo113/224478493203",
+          "title": "바를정한방병원 정인호 대표원장, '국가대표 스포츠꿈나무 장학기....",
+          "url": "https://blog.naver.com/acujung/224478834551",
+          "naver_url": "https://blog.naver.com/acujung/224478834551",
           "pub_date": "20261116"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1794788499,
+  "updated_at": 1794812208,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1794788499,
-  "shopping_updated_at": 1794788501,
-  "reference_updated_at": 1794788507
+  "trend_updated_at": 1794812208,
+  "shopping_updated_at": 1794812210,
+  "reference_updated_at": 1794812215
 }
