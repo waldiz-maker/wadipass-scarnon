@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86545,
+      "api_total": 86547,
       "items": [
+        {
+          "title": "공포의 펑고 1000개·타임어택 데이·작은 글러브…마무리캠프에 곡소리...",
+          "url": "https://www.joongang.co.kr/article/25479998",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/025/0003566317",
+          "pub_date": "Thu, 19 Nov 2026 05:00:00 +0900"
+        },
+        {
+          "title": "황성빈의 고백 &quot;수비 못한 영상 보는데, 낯부끄러웠다&quot;→정말 수비만 하...",
+          "url": "https://www.xportsnews.com/article/2220745",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002081929",
+          "pub_date": "Thu, 19 Nov 2026 01:06:00 +0900"
+        },
         {
           "title": "새 얼굴 뽑는 웨일즈.. '로컬 보이' 탄생?",
           "url": "https://www.ubc.co.kr/news/28595/",
@@ -521,18 +533,6 @@
           "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62413",
           "naver_url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62413",
           "pub_date": "Wed, 18 Nov 2026 18:34:00 +0900"
-        },
-        {
-          "title": "대만 투수 공에 손 맞은 롯데 한동희, 중수골 골절…“회복에 6주 소요...",
-          "url": "https://sports.donga.com/sports/article/all/20261118/135048905/1",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/382/0001305505",
-          "pub_date": "Wed, 18 Nov 2026 17:34:00 +0900"
-        },
-        {
-          "title": "“왜 고등학교 때 <b>야구</b> 잘했는지 알겠다” 특급 재능의 귀환, 기대치도...",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020554",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/477/0000639705",
-          "pub_date": "Wed, 18 Nov 2026 16:21:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18375,
+      "api_total": 18378,
       "items": [
+        {
+          "title": "<b>야구</b>를 더 재미있게 해줄 나무 <b>배트</b>",
+          "url": "https://blog.naver.com/gvusfxjt01927/224482908516",
+          "naver_url": "https://blog.naver.com/gvusfxjt01927/224482908516",
+          "pub_date": "20261119"
+        },
+        {
+          "title": "동탄 <b>야구</b> 고관절 / 스윙과 투구 때 골반이 먼저 열린다면? 비시즌에....",
+          "url": "https://blog.naver.com/autumnme1001/224482327251",
+          "naver_url": "https://blog.naver.com/autumnme1001/224482327251",
+          "pub_date": "20261119"
+        },
         {
           "title": "무거운 <b>배트</b>로 연습하면 <b>배트</b> 스피드가 빨라질까? | 웨이티드 <b>배트</b> ....",
           "url": "https://blog.naver.com/dltkdalsu/224482680512",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/sports0102/224482336269",
           "naver_url": "https://blog.naver.com/sports0102/224482336269",
           "pub_date": "20261118"
-        },
-        {
-          "title": "안산,수원·군포·시흥 근처 실내<b>야구</b>장｜수비·타격·투구 모두 1시....",
-          "url": "https://blog.naver.com/baseballview/224475894368",
-          "naver_url": "https://blog.naver.com/baseballview/224475894368",
-          "pub_date": "20261118"
-        },
-        {
-          "title": "인코자바 글러브 RP블랙/레드 W-14 올라운드 오가웹",
-          "url": "https://blog.naver.com/hyperclover/224482240058",
-          "naver_url": "https://blog.naver.com/hyperclover/224482240058",
-          "pub_date": "20261118"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795016026,
+  "updated_at": 1795041715,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795016026,
-  "shopping_updated_at": 1795016028,
-  "reference_updated_at": 1795016034
+  "trend_updated_at": 1795041715,
+  "shopping_updated_at": 1795041716,
+  "reference_updated_at": 1795041721
 }
