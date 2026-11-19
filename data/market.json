@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 34.41
+          "ratio": 36.39
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 2.09
+          "ratio": 2.16
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 2.53
+          "ratio": 2.7
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 56.1,
+    "recent_3m_avg": 56.7,
     "previous_3m_avg": 70.1,
-    "delta_pct": -20.0,
+    "delta_pct": -19.1,
     "latest_period": "2026-11-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 34.4,
+    "latest_ratio": 36.4,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 32.3
+          "ratio": 33.85
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 3.61
+          "ratio": 3.74
         }
       ]
     },
@@ -379,7 +379,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 2.32
+          "ratio": 2.75
         }
       ]
     }
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 53.6,
+    "recent_3m_avg": 54.1,
     "previous_3m_avg": 61.2,
-    "delta_pct": -12.4,
+    "delta_pct": -11.6,
     "latest_period": "2026-11-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 32.3,
+    "latest_ratio": 33.9,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 75.2,
+      "index": 75.4,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 77.6,
+      "index": 78.3,
       "period_count": 4
     }
   },
@@ -415,37 +415,37 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-08-18",
-    "period_end": "2026-11-18",
+    "period_start": "2026-08-19",
+    "period_end": "2026-11-19",
     "rows": [
       {
         "group": "40",
         "label": "40대",
-        "index": 75.2,
+        "index": 75.4,
         "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 27.4,
+        "index": 27.8,
         "period_count": 4
       },
       {
         "group": "10",
         "label": "10대",
-        "index": 20.1,
+        "index": 20.2,
         "period_count": 4
       },
       {
         "group": "30",
         "label": "30대",
-        "index": 15.8,
+        "index": 16.0,
         "period_count": 4
       },
       {
         "group": "20",
         "label": "20대",
-        "index": 8.3,
+        "index": 8.4,
         "period_count": 4
       },
       {
@@ -458,7 +458,7 @@
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 75.2,
+      "index": 75.4,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -468,26 +468,26 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-08-18",
-    "period_end": "2026-11-18",
+    "period_start": "2026-08-19",
+    "period_end": "2026-11-19",
     "rows": [
       {
         "group": "m",
         "label": "남성",
-        "index": 77.6,
+        "index": 78.3,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 26.3,
+        "index": 26.4,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 77.6,
+      "index": 78.3,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -541,8 +541,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 1336,
+      "api_total": 1337,
       "items": [
+        {
+          "title": "우석대 진천캠퍼스, 프로<b>야구</b> 레전드와 'K-스포츠 데이터 인재' 양성",
+          "url": "https://www.dynews.co.kr/news/articleView.html?idxno=874734",
+          "naver_url": "https://www.dynews.co.kr/news/articleView.html?idxno=874734",
+          "pub_date": "Thu, 19 Nov 2026 11:30:00 +0900"
+        },
         {
           "title": "‘11년 무승+13연패’ 일본 <b>야구</b> 따라잡지 못하는 구조적 한계",
           "url": "https://www.dailian.co.kr/news/view/1715388/?sc=Naver",
@@ -566,12 +572,6 @@
           "url": "https://www.starnewskorea.com/sports/2026/11/02/2026110109011398069",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003483617",
           "pub_date": "Mon, 02 Nov 2026 06:01:00 +0900"
-        },
-        {
-          "title": "[문만용 교수, 한국 과학과 과학 한국] 금메달과 노벨상 사이",
-          "url": "http://www.gjdream.com/news/articleView.html?idxno=673761",
-          "naver_url": "http://www.gjdream.com/news/articleView.html?idxno=673761",
-          "pub_date": "Tue, 27 Oct 2026 00:00:00 +0900"
         }
       ]
     }
@@ -618,7 +618,7 @@
     }
   ],
   "errors": {},
-  "updated_at": 1795041715,
+  "updated_at": 1795060282,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795041715,
-  "shopping_updated_at": 1795041716,
-  "reference_updated_at": 1795041721
+  "trend_updated_at": 1795060282,
+  "shopping_updated_at": 1795060283,
+  "reference_updated_at": 1795060288
 }
