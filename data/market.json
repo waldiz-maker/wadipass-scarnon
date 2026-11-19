@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86550,
+      "api_total": 86551,
       "items": [
+        {
+          "title": "'후반기ERA 6.59' KBO홀드왕의 일본行…'소뱅' 불펜ERA 2.26인데→냉정한...",
+          "url": "https://www.sportschosun.com/baseball/2026-11-20/202611200100128350011992",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004468191",
+          "pub_date": "Fri, 20 Nov 2026 04:54:00 +0900"
+        },
         {
           "title": "일관성 있는 다운스윙, 핵심은 손 아닌 '하체 리드' [이시우의 마스터클...",
           "url": "https://www.hankyung.com/article/2026111981231",
@@ -527,12 +533,6 @@
           "url": "https://www.joongang.co.kr/article/25479998",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/025/0003566317",
           "pub_date": "Thu, 19 Nov 2026 05:00:00 +0900"
-        },
-        {
-          "title": "황성빈의 고백 &quot;수비 못한 영상 보는데, 낯부끄러웠다&quot;→정말 수비만 하...",
-          "url": "https://www.xportsnews.com/article/2220745",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002081929",
-          "pub_date": "Thu, 19 Nov 2026 01:06:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18375,
+      "api_total": 18378,
       "items": [
+        {
+          "title": "<b>야구</b>에 최적화된 나무<b>배트</b> 추천",
+          "url": "https://blog.naver.com/flzncid2/224484192439",
+          "naver_url": "https://blog.naver.com/flzncid2/224484192439",
+          "pub_date": "20261120"
+        },
+        {
+          "title": "신작 <b>야구</b> 드라마 4편 한눈에! 기프트, 너의 그라운드, 풀카운트, 써....",
+          "url": "https://blog.naver.com/jeje-_-/224483941309",
+          "naver_url": "https://blog.naver.com/jeje-_-/224483941309",
+          "pub_date": "20261120"
+        },
         {
           "title": "ALB에 피칭머신이 들어왔어요! 안성 실내<b>야구</b>장 타격 연습 이야기",
           "url": "https://blog.naver.com/alb2026/224483861259",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/sports_locker/224483661879",
           "naver_url": "https://blog.naver.com/sports_locker/224483661879",
           "pub_date": "20261119"
-        },
-        {
-          "title": "팀 단합용 실내<b>야구</b>장 대관, 이렇게 써 보세요｜2시간 코스 (안산 베....",
-          "url": "https://blog.naver.com/baseballview/224475897793",
-          "naver_url": "https://blog.naver.com/baseballview/224475897793",
-          "pub_date": "20261119"
-        },
-        {
-          "title": "정글<b>배트</b>그립 &amp; 정글엄지보호대 착용하고 홈런! <b>야구</b>는 역시 장비빨",
-          "url": "https://blog.naver.com/707store/224483454934",
-          "naver_url": "https://blog.naver.com/707store/224483454934",
-          "pub_date": "20261119"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795090868,
+  "updated_at": 1795121514,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795090868,
-  "shopping_updated_at": 1795090870,
-  "reference_updated_at": 1795090878
+  "trend_updated_at": 1795121514,
+  "shopping_updated_at": 1795121517,
+  "reference_updated_at": 1795121525
 }
