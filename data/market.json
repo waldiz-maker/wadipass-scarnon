@@ -502,8 +502,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86547,
+      "api_total": 86550,
       "items": [
+        {
+          "title": "일관성 있는 다운스윙, 핵심은 손 아닌 '하체 리드' [이시우의 마스터클...",
+          "url": "https://www.hankyung.com/article/2026111981231",
+          "naver_url": "https://m.sports.naver.com/golf/article/015/0005356074",
+          "pub_date": "Thu, 19 Nov 2026 18:22:00 +0900"
+        },
+        {
+          "title": "감독님이 칭찬을..? 이런 대접 처음이야 → 롯데 김동혁 감격 &quot;우리 선수...",
+          "url": "https://www.sportschosun.com/baseball/2026-11-19/202611190100126440011757",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004468094",
+          "pub_date": "Thu, 19 Nov 2026 17:00:00 +0900"
+        },
+        {
+          "title": "일본 효자에몬, 부러진 <b>야구 배트</b>로 젓가락 제작",
+          "url": "https://www.vegannews.co.kr/news/article.html?no=407707",
+          "naver_url": "https://www.vegannews.co.kr/news/article.html?no=407707",
+          "pub_date": "Thu, 19 Nov 2026 15:58:00 +0900"
+        },
         {
           "title": "공포의 펑고 1000개·타임어택 데이·작은 글러브…마무리캠프에 곡소리...",
           "url": "https://www.joongang.co.kr/article/25479998",
@@ -515,24 +533,6 @@
           "url": "https://www.xportsnews.com/article/2220745",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002081929",
           "pub_date": "Thu, 19 Nov 2026 01:06:00 +0900"
-        },
-        {
-          "title": "새 얼굴 뽑는 웨일즈.. '로컬 보이' 탄생?",
-          "url": "https://www.ubc.co.kr/news/28595/",
-          "naver_url": "https://www.ubc.co.kr/news/28595/",
-          "pub_date": "Wed, 18 Nov 2026 21:12:00 +0900"
-        },
-        {
-          "title": "[오피셜]롯데 4번 넘어 대한민국 4번까지 보인다…한동희에게 찾아온 뜻...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1702326",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000491507",
-          "pub_date": "Wed, 18 Nov 2026 18:35:00 +0900"
-        },
-        {
-          "title": "[게임뉴스] 엔에이치앤 및 엠게임 소식 외",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62413",
-          "naver_url": "https://www.gamevu.co.kr/news/articleView.html?idxno=62413",
-          "pub_date": "Wed, 18 Nov 2026 18:34:00 +0900"
         }
       ]
     },
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18378,
+      "api_total": 18375,
       "items": [
         {
-          "title": "<b>야구</b>를 더 재미있게 해줄 나무 <b>배트</b>",
-          "url": "https://blog.naver.com/gvusfxjt01927/224482908516",
-          "naver_url": "https://blog.naver.com/gvusfxjt01927/224482908516",
+          "title": "ALB에 피칭머신이 들어왔어요! 안성 실내<b>야구</b>장 타격 연습 이야기",
+          "url": "https://blog.naver.com/alb2026/224483861259",
+          "naver_url": "https://blog.naver.com/alb2026/224483861259",
           "pub_date": "20261119"
         },
         {
-          "title": "동탄 <b>야구</b> 고관절 / 스윙과 투구 때 골반이 먼저 열린다면? 비시즌에....",
-          "url": "https://blog.naver.com/autumnme1001/224482327251",
-          "naver_url": "https://blog.naver.com/autumnme1001/224482327251",
+          "title": "웨이트레이드 헬턴 (HELLTURN) <b>배트</b> 사전 예약 안내 | 10만 원 대 <b>사회인</b>....",
+          "url": "https://blog.naver.com/ih_yeo0123/224483810713",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224483810713",
           "pub_date": "20261119"
         },
         {
-          "title": "무거운 <b>배트</b>로 연습하면 <b>배트</b> 스피드가 빨라질까? | 웨이티드 <b>배트</b> ....",
-          "url": "https://blog.naver.com/dltkdalsu/224482680512",
-          "naver_url": "https://blog.naver.com/dltkdalsu/224482680512",
-          "pub_date": "20261118"
+          "title": "&quot;어떤 생각을 갖고 뛰느냐&quot; 황성빈, 요미우리 중견수와 무엇을 주고....",
+          "url": "https://blog.naver.com/sports_locker/224483661879",
+          "naver_url": "https://blog.naver.com/sports_locker/224483661879",
+          "pub_date": "20261119"
         },
         {
-          "title": "다양한 용도에 적합한 나무<b>배트</b> 추천",
-          "url": "https://blog.naver.com/prjmwr58360/224482622395",
-          "naver_url": "https://blog.naver.com/prjmwr58360/224482622395",
-          "pub_date": "20261118"
+          "title": "팀 단합용 실내<b>야구</b>장 대관, 이렇게 써 보세요｜2시간 코스 (안산 베....",
+          "url": "https://blog.naver.com/baseballview/224475897793",
+          "naver_url": "https://blog.naver.com/baseballview/224475897793",
+          "pub_date": "20261119"
         },
         {
-          "title": "부천유소년<b>야구</b> • 유아체육 • 유아학원 • 키즈<b>야구</b>｜공이 무서....",
-          "url": "https://blog.naver.com/sports0102/224482336269",
-          "naver_url": "https://blog.naver.com/sports0102/224482336269",
-          "pub_date": "20261118"
+          "title": "정글<b>배트</b>그립 &amp; 정글엄지보호대 착용하고 홈런! <b>야구</b>는 역시 장비빨",
+          "url": "https://blog.naver.com/707store/224483454934",
+          "naver_url": "https://blog.naver.com/707store/224483454934",
+          "pub_date": "20261119"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795060282,
+  "updated_at": 1795090868,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795060282,
-  "shopping_updated_at": 1795060283,
-  "reference_updated_at": 1795060288
+  "trend_updated_at": 1795090868,
+  "shopping_updated_at": 1795090870,
+  "reference_updated_at": 1795090878
 }
