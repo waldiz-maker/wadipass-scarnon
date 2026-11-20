@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86553,
+      "api_total": 86554,
       "items": [
+        {
+          "title": "야나기타 유키, 소프트뱅크와 2년 재계약…40세까지 현역 연장한다",
+          "url": "https://isplus.com/article/view/isp202611200153",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/241/0003542839",
+          "pub_date": "Sat, 21 Nov 2026 03:00:00 +0900"
+        },
         {
           "title": "[데스크 칼럼] '성적표 대신 포옹을'… 승자독식의 시험대를 넘어, 사람...",
           "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027707",
@@ -527,12 +533,6 @@
           "url": "https://www.hankyung.com/article/2026111981231",
           "naver_url": "https://m.sports.naver.com/golf/article/015/0005356074",
           "pub_date": "Thu, 19 Nov 2026 18:22:00 +0900"
-        },
-        {
-          "title": "감독님이 칭찬을..? 이런 대접 처음이야 → 롯데 김동혁 감격 &quot;우리 선수...",
-          "url": "https://www.sportschosun.com/baseball/2026-11-19/202611190100126440011757",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004468094",
-          "pub_date": "Thu, 19 Nov 2026 17:00:00 +0900"
         }
       ]
     },
@@ -582,8 +582,26 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18387,
+      "api_total": 18385,
       "items": [
+        {
+          "title": "금속 알루미늄 <b>야구</b> <b>배트</b> 스포츠 알루미늄 <b>야구</b> 방망이 <b>사회인</b>",
+          "url": "https://blog.naver.com/eozpo66631_vw/224483554851",
+          "naver_url": "https://blog.naver.com/eozpo66631_vw/224483554851",
+          "pub_date": "20261121"
+        },
+        {
+          "title": "티라노스포츠 바주카 미들 1.8 실사용 후기 | 반발력 극강 미들 밸런....",
+          "url": "https://blog.naver.com/ih_yeo0123/224485263702",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224485263702",
+          "pub_date": "20261120"
+        },
+        {
+          "title": "프로<b>야구</b> 40대 장기계약 : 윈윈의 비용은 누가 내나",
+          "url": "https://blog.naver.com/megaexx/224485164117",
+          "naver_url": "https://blog.naver.com/megaexx/224485164117",
+          "pub_date": "20261120"
+        },
         {
           "title": "주말은 새벽 6시부터 문 엽니다｜아침 일찍 <b>야구</b> 한 시간 (안산 베이....",
           "url": "https://blog.naver.com/baseballview/224475903138",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/gmxgtt9218239/224484862620",
           "naver_url": "https://blog.naver.com/gmxgtt9218239/224484862620",
           "pub_date": "20261120"
-        },
-        {
-          "title": "스사노 외야수글러브 프로엘리트 쌍십자웹 블랙블루 SUPEO35",
-          "url": "https://blog.naver.com/hyperclover/224484798409",
-          "naver_url": "https://blog.naver.com/hyperclover/224484798409",
-          "pub_date": "20261120"
-        },
-        {
-          "title": "스사노 외야수글러브 프로엘리트 쌍십자웹 블랙네이비 SUPEO38",
-          "url": "https://blog.naver.com/hyperclover/224484788296",
-          "naver_url": "https://blog.naver.com/hyperclover/224484788296",
-          "pub_date": "20261120"
-        },
-        {
-          "title": "<b>야구</b>여왕 아야카 과거 직업은? 소프트볼 선수 출신부터 시즌2 활약....",
-          "url": "https://blog.naver.com/daydaytry/224484359012",
-          "naver_url": "https://blog.naver.com/daydaytry/224484359012",
-          "pub_date": "20261120"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795167781,
+  "updated_at": 1795197708,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795167781,
-  "shopping_updated_at": 1795167783,
-  "reference_updated_at": 1795167787
+  "trend_updated_at": 1795197708,
+  "shopping_updated_at": 1795197710,
+  "reference_updated_at": 1795197716
 }
