@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18380,
+      "api_total": 18387,
       "items": [
         {
-          "title": "인천 유소년/청소년 <b>야구</b>｜<b>야구</b>하는 아이에게 부모가 해줘야 할 것 ....",
-          "url": "https://blog.naver.com/k_taeng93/224479943674",
-          "naver_url": "https://blog.naver.com/k_taeng93/224479943674",
+          "title": "주말은 새벽 6시부터 문 엽니다｜아침 일찍 <b>야구</b> 한 시간 (안산 베이....",
+          "url": "https://blog.naver.com/baseballview/224475903138",
+          "naver_url": "https://blog.naver.com/baseballview/224475903138",
           "pub_date": "20261120"
         },
         {
-          "title": "경기 전날에는 많이 치는 것보다 몸을 가볍게 만드는 연습이 중요합....",
-          "url": "https://blog.naver.com/yg-yoon-coach/224484285917",
-          "naver_url": "https://blog.naver.com/yg-yoon-coach/224484285917",
+          "title": "구매 전 알아두면 좋은 나무<b>배트</b> 소개",
+          "url": "https://blog.naver.com/gmxgtt9218239/224484862620",
+          "naver_url": "https://blog.naver.com/gmxgtt9218239/224484862620",
           "pub_date": "20261120"
         },
         {
-          "title": "<b>야구</b>에 최적화된 나무<b>배트</b> 추천",
-          "url": "https://blog.naver.com/flzncid2/224484192439",
-          "naver_url": "https://blog.naver.com/flzncid2/224484192439",
+          "title": "스사노 외야수글러브 프로엘리트 쌍십자웹 블랙블루 SUPEO35",
+          "url": "https://blog.naver.com/hyperclover/224484798409",
+          "naver_url": "https://blog.naver.com/hyperclover/224484798409",
           "pub_date": "20261120"
         },
         {
-          "title": "신작 <b>야구</b> 드라마 4편 한눈에! 기프트, 너의 그라운드, 풀카운트, 써....",
-          "url": "https://blog.naver.com/jeje-_-/224483941309",
-          "naver_url": "https://blog.naver.com/jeje-_-/224483941309",
+          "title": "스사노 외야수글러브 프로엘리트 쌍십자웹 블랙네이비 SUPEO38",
+          "url": "https://blog.naver.com/hyperclover/224484788296",
+          "naver_url": "https://blog.naver.com/hyperclover/224484788296",
           "pub_date": "20261120"
         },
         {
-          "title": "ALB에 피칭머신이 들어왔어요! 안성 실내<b>야구</b>장 타격 연습 이야기",
-          "url": "https://blog.naver.com/alb2026/224483861259",
-          "naver_url": "https://blog.naver.com/alb2026/224483861259",
-          "pub_date": "20261119"
+          "title": "<b>야구</b>여왕 아야카 과거 직업은? 소프트볼 선수 출신부터 시즌2 활약....",
+          "url": "https://blog.naver.com/daydaytry/224484359012",
+          "naver_url": "https://blog.naver.com/daydaytry/224484359012",
+          "pub_date": "20261120"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795139882,
+  "updated_at": 1795167781,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795139882,
-  "shopping_updated_at": 1795139884,
-  "reference_updated_at": 1795139890
+  "trend_updated_at": 1795167781,
+  "shopping_updated_at": 1795167783,
+  "reference_updated_at": 1795167787
 }
