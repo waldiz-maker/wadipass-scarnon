@@ -502,8 +502,26 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86570,
+      "api_total": 86573,
       "items": [
+        {
+          "title": "광주는 버스도 김도영…'05번' 타고 <b>야구</b> 성지 한 바퀴",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085388",
+          "naver_url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085388",
+          "pub_date": "Mon, 23 Nov 2026 00:00:00 +0900"
+        },
+        {
+          "title": "'디스이즈 현무로드' 일본 오카야마 식당 투어 나선 강미나",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759555",
+          "naver_url": "https://www.gukjenews.com/news/articleView.html?idxno=3759555",
+          "pub_date": "Sun, 22 Nov 2026 22:20:00 +0900"
+        },
+        {
+          "title": "'등번호는 118·119·122·124, 꿈은 모두 1군'…두산 육성선수 4인, 미야...",
+          "url": "http://www.spochoo.com/news/articleView.html?idxno=132301",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/529/0000079326",
+          "pub_date": "Sun, 22 Nov 2026 16:55:00 +0900"
+        },
         {
           "title": "[오피셜]펑고 1000개·스윙 1000개…한화의 '지옥 훈련', 중요한 건 숫자...",
           "url": "https://mhnse.com/news/articleView.html?idxno=1706324",
@@ -515,24 +533,6 @@
           "url": "http://www.osen.co.kr/article/G1112913621",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005643916",
           "pub_date": "Sun, 22 Nov 2026 16:12:00 +0900"
-        },
-        {
-          "title": "‘세 자릿수’ 등번호에 담긴 1군 꿈 … 곰표 육성선수 4인방, 미야자키...",
-          "url": "https://www.sportsworldi.com/newsView/20261122507143",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/396/0000761600",
-          "pub_date": "Sun, 22 Nov 2026 14:51:00 +0900"
-        },
-        {
-          "title": "남들에겐 별 거 아닌 마무리 훈련, 세 자리 등번호 선수들은 목숨을 건...",
-          "url": "https://www.sportschosun.com/baseball/2026-11-22/202611220100136560012841",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/076/0004468642",
-          "pub_date": "Sun, 22 Nov 2026 14:44:00 +0900"
-        },
-        {
-          "title": "'꿈은 이루어진다' 강태완·남태웅·정성현·안민겸 두산 육성선수 4명 ...",
-          "url": "https://www.mydaily.co.kr/page/view/2026112214380497273",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/117/0004127118",
-          "pub_date": "Sun, 22 Nov 2026 14:39:00 +0900"
         }
       ]
     },
@@ -582,8 +582,20 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18402,
+      "api_total": 18403,
       "items": [
+        {
+          "title": "26 천우리그 개구쟁이와 결승 리턴매치, 개포맘모스 V14 달성",
+          "url": "https://blog.naver.com/july7th73/224487208489",
+          "naver_url": "https://blog.naver.com/july7th73/224487208489",
+          "pub_date": "20261122"
+        },
+        {
+          "title": "혼자 가도 되나요? 네, 됩니다｜1인 개인 연습 1시간 가이드 (안산 베....",
+          "url": "https://blog.naver.com/baseballview/224475908950",
+          "naver_url": "https://blog.naver.com/baseballview/224475908950",
+          "pub_date": "20261122"
+        },
         {
           "title": "[2027년 롯데 자이언츠] 볼넷 3.8% 이이무라인가, 2군 타율 .355 아이토....",
           "url": "https://blog.naver.com/madebaseball/224486372235",
@@ -601,24 +613,12 @@
           "url": "https://blog.naver.com/yw4hjhfnikmn/224486909979",
           "naver_url": "https://blog.naver.com/yw4hjhfnikmn/224486909979",
           "pub_date": "20261122"
-        },
-        {
-          "title": "야외 유소년<b>야구</b>단부터 실내 취미반까지, 아이 연령과 참여 형태에 ....",
-          "url": "https://blog.naver.com/n695014/224486936514",
-          "naver_url": "https://blog.naver.com/n695014/224486936514",
-          "pub_date": "20261122"
-        },
-        {
-          "title": "[버튼커스텀] <b>야구</b>글러브 끈 수리 끈교체작업 이야기",
-          "url": "https://blog.naver.com/button_order/224479094431",
-          "naver_url": "https://blog.naver.com/button_order/224479094431",
-          "pub_date": "20261122"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795332408,
+  "updated_at": 1795361437,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795332408,
-  "shopping_updated_at": 1795332410,
-  "reference_updated_at": 1795332415
+  "trend_updated_at": 1795361437,
+  "shopping_updated_at": 1795361439,
+  "reference_updated_at": 1795361444
 }
