@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86573,
+      "api_total": 86574,
       "items": [
+        {
+          "title": "두산에 등번호 '118·119·122·124' 선수들이 있다, 4인방을 아시나요",
+          "url": "https://www.starnewskorea.com/sports/2026/11/23/2026112214441828886",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003489436",
+          "pub_date": "Mon, 23 Nov 2026 06:09:00 +0900"
+        },
         {
           "title": "광주는 버스도 김도영…'05번' 타고 <b>야구</b> 성지 한 바퀴",
           "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085388",
@@ -527,12 +533,6 @@
           "url": "https://mhnse.com/news/articleView.html?idxno=1706324",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000492365",
           "pub_date": "Sun, 22 Nov 2026 16:20:00 +0900"
-        },
-        {
-          "title": "‘이런 사연이’ 대구 사람이 라팍서 두산 응원→두산 지명 실화? 10R 기...",
-          "url": "http://www.osen.co.kr/article/G1112913621",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/109/0005643916",
-          "pub_date": "Sun, 22 Nov 2026 16:12:00 +0900"
         }
       ]
     },
@@ -582,8 +582,14 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18403,
+      "api_total": 18406,
       "items": [
+        {
+          "title": "시즌 준비로 타격 연습이 필요해 찾아본 광주<b>야구</b>연습장, 태그업 베....",
+          "url": "https://blog.naver.com/er54256/224487782974",
+          "naver_url": "https://blog.naver.com/er54256/224487782974",
+          "pub_date": "20261123"
+        },
         {
           "title": "26 천우리그 개구쟁이와 결승 리턴매치, 개포맘모스 V14 달성",
           "url": "https://blog.naver.com/july7th73/224487208489",
@@ -607,18 +613,12 @@
           "url": "https://blog.naver.com/doyooni__/224487018079",
           "naver_url": "https://blog.naver.com/doyooni__/224487018079",
           "pub_date": "20261122"
-        },
-        {
-          "title": "처음 타격레슨을 알아본다면 놓치기 쉬운 동작 점검의 의미, 양재역....",
-          "url": "https://blog.naver.com/yw4hjhfnikmn/224486909979",
-          "naver_url": "https://blog.naver.com/yw4hjhfnikmn/224486909979",
-          "pub_date": "20261122"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795361437,
+  "updated_at": 1795382153,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795361437,
-  "shopping_updated_at": 1795361439,
-  "reference_updated_at": 1795361444
+  "trend_updated_at": 1795382153,
+  "shopping_updated_at": 1795382155,
+  "reference_updated_at": 1795382161
 }
