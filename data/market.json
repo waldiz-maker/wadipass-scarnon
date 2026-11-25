@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86603,
+      "api_total": 86607,
       "items": [
+        {
+          "title": "디트로이트에서 다시 얻은 기회, 김하성은 부활할 수 있을까",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288237&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/047/0002537213",
+          "pub_date": "Wed, 25 Nov 2026 15:31:00 +0900"
+        },
+        {
+          "title": "김하성, 디트로이트서 새 출발…재기 발판 마련",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261125010009801",
+          "naver_url": "https://www.asiatoday.co.kr/kn/view.php?key=20261125010009801",
+          "pub_date": "Wed, 25 Nov 2026 13:24:00 +0900"
+        },
+        {
+          "title": "[오피셜]조성환, 박정권 하면 떠오르는 단어 '절실함'과 '악바리'...두산...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1710035",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000493072",
+          "pub_date": "Wed, 25 Nov 2026 12:19:00 +0900"
+        },
+        {
+          "title": "[오피셜]조성환 1군 감독대행은 2군 감독, 박정권 2군 감독은 타격코치...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1709861",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000493034",
+          "pub_date": "Wed, 25 Nov 2026 11:00:00 +0900"
+        },
         {
           "title": "두산 ‘ML 풀타임 선발’ 수아레즈, 땅볼 구종 있었다…근데 보도자료에...",
           "url": "https://mhnse.com/news/articleView.html?idxno=1709756",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000493009",
           "pub_date": "Wed, 25 Nov 2026 10:06:00 +0900"
-        },
-        {
-          "title": "글러브 꼈는데도 손가락이 ‘뚝’… 팔뚝부터 키워야 부상 ‘뚝’",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/11/24/2026112402941.html",
-          "naver_url": "https://n.news.naver.com/mnews/article/346/0000119430?sid=103",
-          "pub_date": "Wed, 25 Nov 2026 09:31:00 +0900"
-        },
-        {
-          "title": "구단도 사고 <b>야구</b>공도 산다…스포츠에 꽂힌 사모펀드",
-          "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54860",
-          "naver_url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54860",
-          "pub_date": "Wed, 25 Nov 2026 09:06:00 +0900"
-        },
-        {
-          "title": "마무리 캠프 ‘사즉생 캠프’",
-          "url": "https://www.seoul.co.kr/news/sport/baseball/2026/11/25/20261125034003?wlog_tag3=naver",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/081/0003702893",
-          "pub_date": "Wed, 25 Nov 2026 05:06:00 +0900"
-        },
-        {
-          "title": "'역대 亞 야수 최고' 이정후 몸값, 日 거포가 깨트렸다!…사토 데루아키...",
-          "url": "https://www.xportsnews.com/article/2222619",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/311/0002083625",
-          "pub_date": "Wed, 25 Nov 2026 02:05:00 +0900"
         }
       ]
     },
@@ -543,6 +543,12 @@
       "returned_count": 5,
       "api_total": 1337,
       "items": [
+        {
+          "title": "[단독]이틀이면 <b>야구</b>장서 공연장 변신…도쿄돔은 327일 '쌩쌩' 풀가동[K...",
+          "url": "https://view.asiae.co.kr/article/2026112011332226408",
+          "naver_url": "https://n.news.naver.com/mnews/article/277/0005847592?sid=103",
+          "pub_date": "Wed, 25 Nov 2026 11:49:00 +0900"
+        },
         {
           "title": "우석대 진천캠퍼스, 프로<b>야구</b> 레전드와 'K-스포츠 데이터 인재' 양성",
           "url": "https://www.dynews.co.kr/news/articleView.html?idxno=874734",
@@ -566,12 +572,6 @@
           "url": "https://isplus.com/article/view/isp202611110066",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/241/0003541155",
           "pub_date": "Wed, 11 Nov 2026 11:16:00 +0900"
-        },
-        {
-          "title": "&quot;계약 잘 성사된다면...&quot; LG 이적 무산 아픔에도 日 울산 에이스 환하게...",
-          "url": "https://www.starnewskorea.com/sports/2026/11/02/2026110109011398069",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/108/0003483617",
-          "pub_date": "Mon, 02 Nov 2026 06:01:00 +0900"
         }
       ]
     }
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18439,
+      "api_total": 15474,
       "items": [
         {
-          "title": "썬버드 <b>야구</b>글러브 SR3K 11.5인치 직접 써본 솔직 후기",
-          "url": "https://blog.naver.com/jsyllvyso910512/224491056652",
-          "naver_url": "https://blog.naver.com/jsyllvyso910512/224491056652",
+          "title": "부산<b>야구</b>레슨 추천, 유소년부터 엘리트·<b>사회인</b>까지! 대규모 <b>야구</b> ....",
+          "url": "https://blog.naver.com/afbaseballclub/224491877682",
+          "naver_url": "https://blog.naver.com/afbaseballclub/224491877682",
           "pub_date": "20261125"
         },
         {
-          "title": "러펠스 스피어 오리지널 실사용 후기! <b>사회인야구</b> 추천<b>배트</b>",
-          "url": "https://blog.naver.com/misonim18/224491049272",
-          "naver_url": "https://blog.naver.com/misonim18/224491049272",
+          "title": "강남 <b>야구</b> 레슨, 초보부터 타격 실력 향상까지! 목적별 3가지 프로그....",
+          "url": "https://blog.naver.com/kiyeon9145/224491863746",
+          "naver_url": "https://blog.naver.com/kiyeon9145/224491863746",
           "pub_date": "20261125"
         },
         {
-          "title": "모든 행운들이 너를 돕고 말거야",
-          "url": "https://blog.naver.com/oyk7635sb/224490997354",
-          "naver_url": "https://blog.naver.com/oyk7635sb/224490997354",
+          "title": "[청주/오창 <b>사회인야구</b>] 창단 17년차 '어깨동무 <b>야구</b>단' 신입 팀원 모....",
+          "url": "https://blog.naver.com/rkdxhd123/224491853867",
+          "naver_url": "https://blog.naver.com/rkdxhd123/224491853867",
           "pub_date": "20261125"
         },
         {
-          "title": "김해<b>사회인야구</b>레슨, 타격이 늦는다면 공보다 먼저 움직이고 있지 ....",
-          "url": "https://blog.naver.com/yg-yoon-coach/224490936072",
-          "naver_url": "https://blog.naver.com/yg-yoon-coach/224490936072",
+          "title": "효율적인 <b>야구</b><b>배트</b> 그립을 찾아서",
+          "url": "https://blog.naver.com/yjxbqymmo9519/224491699519",
+          "naver_url": "https://blog.naver.com/yjxbqymmo9519/224491699519",
           "pub_date": "20261125"
         },
         {
-          "title": "<b>배트</b>가 공에 잘 맞지 않아 답답한 날, 더굳파워랩에서 타격 움직임....",
-          "url": "https://blog.naver.com/lcohol72935/224490905866",
-          "naver_url": "https://blog.naver.com/lcohol72935/224490905866",
+          "title": "일본 거포 사토 데루아키 1,600억 MLB 계약! 사토보다 높은 평가를 받....",
+          "url": "https://blog.naver.com/spocheck/224491335463",
+          "naver_url": "https://blog.naver.com/spocheck/224491335463",
           "pub_date": "20261125"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795569883,
+  "updated_at": 1795600914,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795569883,
-  "shopping_updated_at": 1795569885,
-  "reference_updated_at": 1795569891
+  "trend_updated_at": 1795600914,
+  "shopping_updated_at": 1795600916,
+  "reference_updated_at": 1795600921
 }
