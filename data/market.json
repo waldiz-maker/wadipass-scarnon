@@ -63,7 +63,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 45.53
+          "ratio": 47.19
         }
       ]
     },
@@ -123,7 +123,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 2.95
+          "ratio": 3.09
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 3.06
+          "ratio": 3.13
         }
       ]
     }
@@ -191,12 +191,12 @@
   "trend_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 감소",
-    "recent_3m_avg": 59.8,
+    "recent_3m_avg": 60.3,
     "previous_3m_avg": 70.1,
-    "delta_pct": -14.7,
+    "delta_pct": -14.0,
     "latest_period": "2026-11-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 45.5,
+    "latest_ratio": 47.2,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER DataLab 통합검색 상대 검색 관심지수",
@@ -259,7 +259,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 41.55
+          "ratio": 43.1
         }
       ]
     },
@@ -319,7 +319,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 4.82
+          "ratio": 4.9
         }
       ]
     },
@@ -379,7 +379,7 @@
         },
         {
           "period": "2026-11-01",
-          "ratio": 3.53
+          "ratio": 3.57
         }
       ]
     }
@@ -387,12 +387,12 @@
   "shopping_summary": {
     "primary_keyword": "야구배트",
     "state": "최근 관심 보합",
-    "recent_3m_avg": 56.7,
+    "recent_3m_avg": 57.2,
     "previous_3m_avg": 61.2,
-    "delta_pct": -7.4,
+    "delta_pct": -6.5,
     "latest_period": "2026-11-01",
     "latest_keyword": "야구배트",
-    "latest_ratio": 41.5,
+    "latest_ratio": 43.1,
     "peak_period": "2026-05-01",
     "peak_ratio": 100.0,
     "basis": "NAVER Shopping Insight 상대 검색 클릭지수",
@@ -400,13 +400,13 @@
     "top_age": {
       "group": "40",
       "label": "40대",
-      "index": 78.2,
+      "index": 78.8,
       "period_count": 4
     },
     "top_gender": {
       "group": "m",
       "label": "남성",
-      "index": 81.3,
+      "index": 82.1,
       "period_count": 4
     }
   },
@@ -415,31 +415,31 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-08-24",
-    "period_end": "2026-11-24",
+    "period_start": "2026-08-25",
+    "period_end": "2026-11-25",
     "rows": [
       {
         "group": "40",
         "label": "40대",
-        "index": 78.2,
+        "index": 78.8,
         "period_count": 4
       },
       {
         "group": "50",
         "label": "50대",
-        "index": 28.9,
+        "index": 29.1,
         "period_count": 4
       },
       {
         "group": "10",
         "label": "10대",
-        "index": 20.7,
+        "index": 20.8,
         "period_count": 4
       },
       {
         "group": "30",
         "label": "30대",
-        "index": 17.0,
+        "index": 17.3,
         "period_count": 4
       },
       {
@@ -451,14 +451,14 @@
       {
         "group": "60",
         "label": "60대 이상",
-        "index": 5.8,
+        "index": 5.9,
         "period_count": 4
       }
     ],
     "top": {
       "group": "40",
       "label": "40대",
-      "index": 78.2,
+      "index": 78.8,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -468,26 +468,26 @@
     "keyword": "야구배트",
     "category_id": "50000007",
     "category_name": "스포츠/레저",
-    "period_start": "2026-08-24",
-    "period_end": "2026-11-24",
+    "period_start": "2026-08-25",
+    "period_end": "2026-11-25",
     "rows": [
       {
         "group": "m",
         "label": "남성",
-        "index": 81.3,
+        "index": 82.1,
         "period_count": 4
       },
       {
         "group": "f",
         "label": "여성",
-        "index": 27.3,
+        "index": 27.4,
         "period_count": 4
       }
     ],
     "top": {
       "group": "m",
       "label": "남성",
-      "index": 81.3,
+      "index": 82.1,
       "period_count": 4
     },
     "note": "최근 약 3개월 데이터를 월 단위로 조회해 그룹별 상대 클릭지수를 평균한 값입니다. 비중·실제 클릭수·구매율이 아닙니다."
@@ -502,37 +502,37 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86598,
+      "api_total": 86603,
       "items": [
         {
-          "title": "이정후 亞야수 1위 깨졌다…‘日163홈런’ 사토, 6년 1억2000만달러에 전...",
-          "url": "https://www.mydaily.co.kr/page/view/2026112500330267152",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/117/0004127745",
-          "pub_date": "Wed, 25 Nov 2026 00:52:00 +0900"
+          "title": "두산 ‘ML 풀타임 선발’ 수아레즈, 땅볼 구종 있었다…근데 보도자료에...",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1709756",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000493009",
+          "pub_date": "Wed, 25 Nov 2026 10:06:00 +0900"
         },
         {
-          "title": "'미네소타行 비행기 탔다더라'→'디트로이트와 사인한다더라'…'중구난...",
-          "url": "https://www.sportschosun.com/baseball/2026-11-25/202611250100150400013945",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004469208",
-          "pub_date": "Wed, 25 Nov 2026 00:23:00 +0900"
+          "title": "글러브 꼈는데도 손가락이 ‘뚝’… 팔뚝부터 키워야 부상 ‘뚝’",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/24/2026112402941.html",
+          "naver_url": "https://n.news.naver.com/mnews/article/346/0000119430?sid=103",
+          "pub_date": "Wed, 25 Nov 2026 09:31:00 +0900"
         },
         {
-          "title": "&quot;김도영, 전 세계 <b>야구</b> 유망주 랭킹 1위&quot;...벌써 후끈 달아오른 관심",
-          "url": "https://www.ytn.co.kr/_ln/0107_202611242337180527",
-          "naver_url": "https://m.sports.naver.com/general/article/052/0002437576",
-          "pub_date": "Tue, 24 Nov 2026 23:37:00 +0900"
+          "title": "구단도 사고 <b>야구</b>공도 산다…스포츠에 꽂힌 사모펀드",
+          "url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54860",
+          "naver_url": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54860",
+          "pub_date": "Wed, 25 Nov 2026 09:06:00 +0900"
         },
         {
-          "title": "서도영, 살인 용의자로 체포...한고은 악행 폭로+박세영 유산 '최악의 위...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1709449",
-          "naver_url": "https://m.entertain.naver.com/article/445/0000492927",
-          "pub_date": "Tue, 24 Nov 2026 23:01:00 +0900"
+          "title": "마무리 캠프 ‘사즉생 캠프’",
+          "url": "https://www.seoul.co.kr/news/sport/baseball/2026/11/25/20261125034003?wlog_tag3=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/081/0003702893",
+          "pub_date": "Wed, 25 Nov 2026 05:06:00 +0900"
         },
         {
-          "title": "‘가족관계증명서’ 서도영, “복수하러 간 건 맞다”…결국 살인 용의...",
-          "url": "https://www.wikitree.co.kr/articles/1177448",
-          "naver_url": "https://www.wikitree.co.kr/articles/1177448",
-          "pub_date": "Tue, 24 Nov 2026 19:16:00 +0900"
+          "title": "'역대 亞 야수 최고' 이정후 몸값, 日 거포가 깨트렸다!…사토 데루아키...",
+          "url": "https://www.xportsnews.com/article/2222619",
+          "naver_url": "https://m.sports.naver.com/wbaseball/article/311/0002083625",
+          "pub_date": "Wed, 25 Nov 2026 02:05:00 +0900"
         }
       ]
     },
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18432,
+      "api_total": 18439,
       "items": [
         {
-          "title": "<b>야구</b> 연습과 방어에 최적인 나무<b>배트</b> 추천",
-          "url": "https://blog.naver.com/xuexvp409/224490732104",
-          "naver_url": "https://blog.naver.com/xuexvp409/224490732104",
+          "title": "썬버드 <b>야구</b>글러브 SR3K 11.5인치 직접 써본 솔직 후기",
+          "url": "https://blog.naver.com/jsyllvyso910512/224491056652",
+          "naver_url": "https://blog.naver.com/jsyllvyso910512/224491056652",
           "pub_date": "20261125"
         },
         {
-          "title": "[인천<b>야구</b>레슨] 타구에 힘을, 플레이에 자신감을｜대상·비용·체험 ....",
-          "url": "https://blog.naver.com/baseballcoach_sj/224490696871",
-          "naver_url": "https://blog.naver.com/baseballcoach_sj/224490696871",
+          "title": "러펠스 스피어 오리지널 실사용 후기! <b>사회인야구</b> 추천<b>배트</b>",
+          "url": "https://blog.naver.com/misonim18/224491049272",
+          "naver_url": "https://blog.naver.com/misonim18/224491049272",
           "pub_date": "20261125"
         },
         {
-          "title": "<b>야구</b> 초보도 지도진을 꼼꼼히 따져야 할까요? 서울 성동구 성동<b>야구</b>....",
-          "url": "https://blog.naver.com/johnweidertawe/224490604170",
-          "naver_url": "https://blog.naver.com/johnweidertawe/224490604170",
-          "pub_date": "20261124"
+          "title": "모든 행운들이 너를 돕고 말거야",
+          "url": "https://blog.naver.com/oyk7635sb/224490997354",
+          "naver_url": "https://blog.naver.com/oyk7635sb/224490997354",
+          "pub_date": "20261125"
         },
         {
-          "title": "유치부부터 중학교 1학년까지, 새싹반꿈나무반유소년반 구분을 알....",
-          "url": "https://blog.naver.com/frost_5432/224490603228",
-          "naver_url": "https://blog.naver.com/frost_5432/224490603228",
-          "pub_date": "20261124"
+          "title": "김해<b>사회인야구</b>레슨, 타격이 늦는다면 공보다 먼저 움직이고 있지 ....",
+          "url": "https://blog.naver.com/yg-yoon-coach/224490936072",
+          "naver_url": "https://blog.naver.com/yg-yoon-coach/224490936072",
+          "pub_date": "20261125"
         },
         {
-          "title": "<b>야구</b>를 처음 배우는 아이도 편안할까? 지도진 구성과 맞춤형 안전 ....",
-          "url": "https://blog.naver.com/nis9oq58te0u/224490609934",
-          "naver_url": "https://blog.naver.com/nis9oq58te0u/224490609934",
-          "pub_date": "20261124"
+          "title": "<b>배트</b>가 공에 잘 맞지 않아 답답한 날, 더굳파워랩에서 타격 움직임....",
+          "url": "https://blog.naver.com/lcohol72935/224490905866",
+          "naver_url": "https://blog.naver.com/lcohol72935/224490905866",
+          "pub_date": "20261125"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795539730,
+  "updated_at": 1795569883,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795539730,
-  "shopping_updated_at": 1795539731,
-  "reference_updated_at": 1795539737
+  "trend_updated_at": 1795569883,
+  "shopping_updated_at": 1795569885,
+  "reference_updated_at": 1795569891
 }
