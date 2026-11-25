@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86607,
+      "api_total": 86608,
       "items": [
+        {
+          "title": "최형우, 23세에 삼성서 방출돼 막노동 &quot;돈 없어 공사장서 일당 받았다&quot;",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112602335122687",
+          "naver_url": "https://m.entertain.naver.com/article/008/0005446519",
+          "pub_date": "Thu, 26 Nov 2026 02:54:00 +0900"
+        },
         {
           "title": "디트로이트에서 다시 얻은 기회, 김하성은 부활할 수 있을까",
           "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288237&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -527,12 +533,6 @@
           "url": "https://mhnse.com/news/articleView.html?idxno=1709861",
           "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000493034",
           "pub_date": "Wed, 25 Nov 2026 11:00:00 +0900"
-        },
-        {
-          "title": "두산 ‘ML 풀타임 선발’ 수아레즈, 땅볼 구종 있었다…근데 보도자료에...",
-          "url": "https://mhnse.com/news/articleView.html?idxno=1709756",
-          "naver_url": "https://m.sports.naver.com/kbaseball/article/445/0000493009",
-          "pub_date": "Wed, 25 Nov 2026 10:06:00 +0900"
         }
       ]
     },
@@ -544,7 +544,7 @@
       "api_total": 1337,
       "items": [
         {
-          "title": "[단독]이틀이면 <b>야구</b>장서 공연장 변신…도쿄돔은 327일 '쌩쌩' 풀가동[K...",
+          "title": "[단독]투수 마운드 '슈웅' 내리면 <b>야구</b>장이 공연장으로 변신…도쿄돔은...",
           "url": "https://view.asiae.co.kr/article/2026112011332226408",
           "naver_url": "https://n.news.naver.com/mnews/article/277/0005847592?sid=103",
           "pub_date": "Wed, 25 Nov 2026 11:49:00 +0900"
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 15474,
+      "api_total": 18442,
       "items": [
         {
-          "title": "부산<b>야구</b>레슨 추천, 유소년부터 엘리트·<b>사회인</b>까지! 대규모 <b>야구</b> ....",
-          "url": "https://blog.naver.com/afbaseballclub/224491877682",
-          "naver_url": "https://blog.naver.com/afbaseballclub/224491877682",
+          "title": "<b>야구</b> 레슨을 받는 왜 실력은 그대로일까요? | <b>사회인야구</b> 실력 향상....",
+          "url": "https://blog.naver.com/baseballgym/224492340010",
+          "naver_url": "https://blog.naver.com/baseballgym/224492340010",
+          "pub_date": "20261126"
+        },
+        {
+          "title": "가성비 좋은 나무<b>배트</b> 추천",
+          "url": "https://blog.naver.com/vkif5/224492315720",
+          "naver_url": "https://blog.naver.com/vkif5/224492315720",
+          "pub_date": "20261126"
+        },
+        {
+          "title": "롤링스 외야글러브 전체 끈수리",
+          "url": "https://blog.naver.com/susanokorea/224492069207",
+          "naver_url": "https://blog.naver.com/susanokorea/224492069207",
           "pub_date": "20261125"
         },
         {
-          "title": "강남 <b>야구</b> 레슨, 초보부터 타격 실력 향상까지! 목적별 3가지 프로그....",
-          "url": "https://blog.naver.com/kiyeon9145/224491863746",
-          "naver_url": "https://blog.naver.com/kiyeon9145/224491863746",
+          "title": "RA스포츠 하이브리드 <b>야구</b> 가방 | 커스텀 가능한 대용량 <b>사회인 야구</b>....",
+          "url": "https://blog.naver.com/ih_yeo0123/224492029847",
+          "naver_url": "https://blog.naver.com/ih_yeo0123/224492029847",
           "pub_date": "20261125"
         },
         {
-          "title": "[청주/오창 <b>사회인야구</b>] 창단 17년차 '어깨동무 <b>야구</b>단' 신입 팀원 모....",
-          "url": "https://blog.naver.com/rkdxhd123/224491853867",
-          "naver_url": "https://blog.naver.com/rkdxhd123/224491853867",
-          "pub_date": "20261125"
-        },
-        {
-          "title": "효율적인 <b>야구</b><b>배트</b> 그립을 찾아서",
-          "url": "https://blog.naver.com/yjxbqymmo9519/224491699519",
-          "naver_url": "https://blog.naver.com/yjxbqymmo9519/224491699519",
-          "pub_date": "20261125"
-        },
-        {
-          "title": "일본 거포 사토 데루아키 1,600억 MLB 계약! 사토보다 높은 평가를 받....",
-          "url": "https://blog.naver.com/spocheck/224491335463",
-          "naver_url": "https://blog.naver.com/spocheck/224491335463",
+          "title": "타격의 작은 버릇이 경기 흐름을 바꿀 수 있을까? 더굳파워랩에서 ....",
+          "url": "https://blog.naver.com/resonnce65211/224491923785",
+          "naver_url": "https://blog.naver.com/resonnce65211/224491923785",
           "pub_date": "20261125"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795600914,
+  "updated_at": 1795636454,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795600914,
-  "shopping_updated_at": 1795600916,
-  "reference_updated_at": 1795600921
+  "trend_updated_at": 1795636454,
+  "shopping_updated_at": 1795636456,
+  "reference_updated_at": 1795636461
 }
