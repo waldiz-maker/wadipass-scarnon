@@ -502,8 +502,20 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86612,
+      "api_total": 86614,
       "items": [
+        {
+          "title": "한화 체질 개선 나선 류지현… “지독한 시스템 <b>야구</b> 심겠다” [스포츠...",
+          "url": "https://www.seoul.co.kr/news/sport/baseball/2026/11/27/20261127035001?wlog_tag3=naver",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/081/0003703738",
+          "pub_date": "Fri, 27 Nov 2026 05:05:00 +0900"
+        },
+        {
+          "title": "‘지옥의 하이존’ 완화되나…KBO, ABS존 조정안 구체화 [SD 베이스볼 브...",
+          "url": "https://sports.donga.com/sports/article/all/20261126/135092407/1",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/382/0001307073",
+          "pub_date": "Fri, 27 Nov 2026 00:01:00 +0900"
+        },
         {
           "title": "손호영 판사의 판례 공부 187 / 메이저리그 타자는 왜 헬멧을 두드리지...",
           "url": "http://www.lec.co.kr/news/articleView.html?idxno=753090",
@@ -521,18 +533,6 @@
           "url": "https://www.widedaily.com/news/articleView.html?idxno=304822",
           "naver_url": "https://www.widedaily.com/news/articleView.html?idxno=304822",
           "pub_date": "Thu, 26 Nov 2026 10:56:00 +0900"
-        },
-        {
-          "title": "과제 도와주더니 내년엔 <b>야구</b> 중계로…구글 '제미나이', 2030 공략 속도",
-          "url": "https://www.newsis.com/view/NISX20261125_0003883381",
-          "naver_url": "https://n.news.naver.com/mnews/article/003/0014345664?sid=105",
-          "pub_date": "Thu, 26 Nov 2026 05:00:00 +0900"
-        },
-        {
-          "title": "최형우, 23세에 삼성서 방출돼 막노동 &quot;돈 없어 공사장서 일당 받았다&quot;",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112602335122687",
-          "naver_url": "https://m.entertain.naver.com/article/008/0005446519",
-          "pub_date": "Thu, 26 Nov 2026 02:54:00 +0900"
         }
       ]
     },
@@ -582,43 +582,43 @@
       "kind": "blog",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 18444,
+      "api_total": 18451,
       "items": [
         {
-          "title": "스윙 교정 후 오히려 타격이 안 되는 이유 | 새로운 움직임에 적응하....",
-          "url": "https://blog.naver.com/dltkdalsu/224493357828",
-          "naver_url": "https://blog.naver.com/dltkdalsu/224493357828",
+          "title": "양천구 실내<b>야구</b>연습장 배팅장 타격연습장 빅히트베이스볼",
+          "url": "https://blog.naver.com/yyj8989/224493876345",
+          "naver_url": "https://blog.naver.com/yyj8989/224493876345",
+          "pub_date": "20261127"
+        },
+        {
+          "title": "태그업 베이스볼 경기광주<b>야구</b>레슨, 1대1 개인레슨부터 팀 연습까지....",
+          "url": "https://blog.naver.com/hangon93221/224493869148",
+          "naver_url": "https://blog.naver.com/hangon93221/224493869148",
+          "pub_date": "20261127"
+        },
+        {
+          "title": "저학년 취미반에서 <b>야구</b>를 배우기 전 무엇을 살펴볼까요? 베이스볼....",
+          "url": "https://blog.naver.com/curious68629/224493704684",
+          "naver_url": "https://blog.naver.com/curious68629/224493704684",
           "pub_date": "20261126"
         },
         {
-          "title": "BJ지코 사주. 커맨더지코 사주. 아이온큐 200억 물린 이유.",
-          "url": "https://blog.naver.com/k-htp72/224493340690",
-          "naver_url": "https://blog.naver.com/k-htp72/224493340690",
+          "title": "[부산<b>야구</b>인솔/부산맞춤인솔(맞춤깔창)] <b>야구</b>감독님이 감탄한 맞춤....",
+          "url": "https://blog.naver.com/leeddc/224493663582",
+          "naver_url": "https://blog.naver.com/leeddc/224493663582",
           "pub_date": "20261126"
         },
         {
-          "title": "2027 MLB 시즌 중단 위기? 사무국이 선수노조를 고소했다! 김하성·이....",
-          "url": "https://blog.naver.com/spocheck/224492922515",
-          "naver_url": "https://blog.naver.com/spocheck/224492922515",
-          "pub_date": "20261126"
-        },
-        {
-          "title": "부산 사직구장 앞 오픈! 인건비 제로 24시간 무인 운영으로 뜨는 '자....",
-          "url": "https://blog.naver.com/tennislife_official/224492970385",
-          "naver_url": "https://blog.naver.com/tennislife_official/224492970385",
-          "pub_date": "20261126"
-        },
-        {
-          "title": "2026 KBO 시상식 시간·중계 총정리! 45홈런 김도영 vs 197탈삼진 곽빈, MV....",
-          "url": "https://blog.naver.com/spocheck/224492916057",
-          "naver_url": "https://blog.naver.com/spocheck/224492916057",
+          "title": "가성비 좋은 유소년 어린이 알루미늄 <b>야구</b><b>배트</b> 연습용 <b>배트</b>",
+          "url": "https://blog.naver.com/rainrabbit6135/224493652687",
+          "naver_url": "https://blog.naver.com/rainrabbit6135/224493652687",
           "pub_date": "20261126"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795692524,
+  "updated_at": 1795724712,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795692524,
-  "shopping_updated_at": 1795692526,
-  "reference_updated_at": 1795692531
+  "trend_updated_at": 1795724712,
+  "shopping_updated_at": 1795724713,
+  "reference_updated_at": 1795724718
 }
