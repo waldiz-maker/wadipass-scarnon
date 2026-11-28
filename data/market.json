@@ -502,8 +502,14 @@
       "kind": "news",
       "requested_display": 5,
       "returned_count": 5,
-      "api_total": 86627,
+      "api_total": 86628,
       "items": [
+        {
+          "title": "&quot;이건 반칙이야!&quot; 학부모 <b>야구</b>대회에 나타나 홈런에 빠던→MVP까지 싹쓸...",
+          "url": "https://www.xportsnews.com/article/2224018",
+          "naver_url": "https://m.sports.naver.com/kbaseball/article/311/0002085022",
+          "pub_date": "Sat, 28 Nov 2026 13:28:00 +0900"
+        },
         {
           "title": "'이럴 수가' 전역 군인 가방 열어보니…인천공항서 또 공포탄 적발",
           "url": "https://www.wikitree.co.kr/articles/1178553",
@@ -527,12 +533,6 @@
           "url": "https://www.sportschosun.com/baseball/2026-11-27/202611280100173140016104",
           "naver_url": "https://m.sports.naver.com/wbaseball/article/076/0004470355",
           "pub_date": "Sat, 28 Nov 2026 00:46:00 +0900"
-        },
-        {
-          "title": "사토 데루아키, MLB에서도 통할까…적응 변수는 '이것' [IS 피플]",
-          "url": "https://isplus.com/article/view/isp202611270097",
-          "naver_url": "https://m.sports.naver.com/wbaseball/article/241/0003543972",
-          "pub_date": "Sat, 28 Nov 2026 00:01:00 +0900"
         }
       ]
     },
@@ -585,6 +585,24 @@
       "api_total": 18465,
       "items": [
         {
+          "title": "달과 6펜스 - 서머싯 몸",
+          "url": "https://blog.naver.com/dopapa_/224496161646",
+          "naver_url": "https://blog.naver.com/dopapa_/224496161646",
+          "pub_date": "20261128"
+        },
+        {
+          "title": "EP.03 <b>배트</b>링-링 빼면 <b>배트</b>가 빨라질까?",
+          "url": "https://blog.naver.com/baseball_value/224495752020",
+          "naver_url": "https://blog.naver.com/baseball_value/224495752020",
+          "pub_date": "20261128"
+        },
+        {
+          "title": "188cm 강호동 아들, <b>야구</b> 접고 골프채 잡더니 결국 전국대회서 일냈다",
+          "url": "https://blog.naver.com/morrow_day/224495713833",
+          "naver_url": "https://blog.naver.com/morrow_day/224495713833",
+          "pub_date": "20261128"
+        },
+        {
           "title": "송파<b>야구</b>레슨 스윙 교정부터 타격 자세까지 전문적으로 배우는 방....",
           "url": "https://blog.naver.com/080196/224495621024",
           "naver_url": "https://blog.naver.com/080196/224495621024",
@@ -595,30 +613,12 @@
           "url": "https://blog.naver.com/rkdxhd123/224495605841",
           "naver_url": "https://blog.naver.com/rkdxhd123/224495605841",
           "pub_date": "20261128"
-        },
-        {
-          "title": "썬버드 <b>야구</b> 연습 트레이닝 네트 STN-01 써보니 이렇다",
-          "url": "https://blog.naver.com/sjm51416/224495602819",
-          "naver_url": "https://blog.naver.com/sjm51416/224495602819",
-          "pub_date": "20261128"
-        },
-        {
-          "title": "<b>야구</b> 시작 전, 글러브·<b>배트</b>·신발부터 확인하세요",
-          "url": "https://blog.naver.com/actorlion/224495506310",
-          "naver_url": "https://blog.naver.com/actorlion/224495506310",
-          "pub_date": "20261128"
-        },
-        {
-          "title": "잘 나가는 제품 나무<b>배트</b> 추천",
-          "url": "https://blog.naver.com/mknlomzos293/224495476403",
-          "naver_url": "https://blog.naver.com/mknlomzos293/224495476403",
-          "pub_date": "20261128"
         }
       ]
     }
   ],
   "errors": {},
-  "updated_at": 1795834427,
+  "updated_at": 1795864302,
   "analysis_source": "NAVER DataLab Search Trend + Shopping Insight",
   "reference_source": "NAVER Search API",
   "usage_policy": {
@@ -627,7 +627,7 @@
     "not_used": "뉴스·블로그는 AI 요약·감성분석·재분류·설문 인사이트 결합에 사용하지 않음",
     "search_cache": "검색 API 결과는 서버에 저장·캐싱하지 않고 요청 시 직접 조회"
   },
-  "trend_updated_at": 1795834427,
-  "shopping_updated_at": 1795834428,
-  "reference_updated_at": 1795834434
+  "trend_updated_at": 1795864302,
+  "shopping_updated_at": 1795864303,
+  "reference_updated_at": 1795864309
 }
